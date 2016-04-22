@@ -2,7 +2,7 @@
 
 ###############################################################################
 #
-# Senderlogo-Updater 0.05 fred_feuerstein [NI-Team]
+# Senderlogo-Updater 0.13 fred_feuerstein [NI-Team]
 #
 # Ziel:
 # Mit dem Updater werden die neuen und/oder geänderten Senderlogos seit dem
@@ -17,6 +17,7 @@
 # Achtung: der Senderlogo-Updater ist nur für SAT !
 #
 # Changelog:
+# 0.13 = Anpassungen an Update-Skript
 # 0.05 = Download-URL und Dateiname angepasst (NG -> NI)
 # 0.04 = Marginale Ausgabe-Änderungen
 # 0.03 = kleine Änderungen
@@ -44,7 +45,7 @@ if [ -e $archive ]; then
 	unzip /tmp/$archive >/dev/null
 
 	if [ -e info.txt ]; then
-		msgbox msg=/tmp/$workdir/info.txt title="Info zum Logo-Addon" >/dev/null
+		msgbox msg=/tmp/$workdir/info.txt title="Info zum Logo-Updater" >/dev/null
 	fi
 
 	test -e updates && chmod 755 updates && ./updates
