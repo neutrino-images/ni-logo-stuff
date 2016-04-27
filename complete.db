@@ -678,7 +678,6 @@ d00850070 d00850458 # 3453 # KabelBW # NatGeo HD # NatGeo HD # 09.01.2014
 43600016fff e3a01856a8 # 3507 # KabelBW # MTV Music 24 # MTV Music 24 # 09.01.2014
 43600017008 e3a01856ab # 3508 # KabelBW # nickelodeon # nickelodeon # 20.09.2014
 90085003c ea04453a4 # 3511 # Primacom # Kinowelt TV # Kinowelt TV # 09.01.2014
-90085003c f00850021 # 3512 # SAT # Kinowelt TV # Kinowelt TV # 09.01.2014
 90085003e f00850025 # 3514  # AXN # AXN Action # 12.10.2015
 900850045 f0085003b # 3521 # SAT # sportdigital # sportdigital # 09.01.2014
 50085004a f1270f2b67 # 3522 # KabelBW # joiz # joiz # 09.01.2014
@@ -1692,3 +1691,4 @@ ffffe9a74540 ffff04026ea3 # 5127 # WTCkabel # Das neue TV # Das Neue TV # 21.04.
 43600017004 271ba6060070 # 5182 # WTCkabel # VIVA ComedyCentral # VIVA ComedyCentral # 21.04.2016
 3ef00011332 271ba6060073 # 5183 # WTCkabel # ServusTV HD Deutschland # ServusTV HD Deutschland # 21.04.2016
 640013e3dc6 ffff4940c883 # 5184 # WebTV  # VOX MUSIC TV # 25.04.2016
+e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
