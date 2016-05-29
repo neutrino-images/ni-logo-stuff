@@ -246,7 +246,7 @@ fa0463b56 2710f001cb87 # 2776 # Vodafone-KD # Hamburg1 # Hamburg1 # 09.01.2014
 40085000d 2712f001c614 # 2804 # Vodafone-KD # National Geographic # National Geographic # 09.01.2014
 110085001a 2712f001c615 # 2805 # Vodafone-KD # Disney Junior # Disney Junior # 09.01.2014
 1100850022 2712f001c616 # 2806 # Vodafone-KD # Sky Atlantic # Sky Atlantic # 09.01.2014
-90085003d 2712f001c618 # 2807 # Vodafone-KD # TNT # TNT # 09.01.2014
+600850195 2712f001c618 # 2807 # Vodafone-KD # TNT # TNT # 09.01.2014
 40200012742 2712f001cf09 # 2808 # Vodafone-KD # BBC World # BBC World # 09.01.2014
 44100012f1d 2712f001cf76 # 2811 # Vodafone-KD # RTLNITRO # RTLNITRO # 09.01.2014
 43600016fff 2712f001cf79 # 2812 # Vodafone-KD # MTV Music 24 # MTV Music 24 # 09.01.2014
@@ -576,6 +576,7 @@ f00850026 8d270f372b # 3340 # KabelBW # Romance TV # Romance TV # 09.01.2014
 15a0460264 8d270f3b04 # 3341 # KabelBW # Lust pur # Lust pur # 09.01.2014
 600850082 8fbff1069 # 3342 # SAT # Discovery HD # Discovery HD # 09.01.2014
 443000179f4 9000002d7f0 # 3344 # SAT # EuroNews # EuroNews # 09.01.2014
+600850195 90085003d # 3346   # TNT Film # 09.01.2014
 f00850037 900850041 # 3348  # Eurosport 2 # Eurosport 2 # 12.11.2015
 f0085003a 900850044 # 3349  # History # History # 23.09.2014
 b00850071 900850054 # 3351 # SAT # History HD # History HD # 09.01.2014
@@ -739,7 +740,7 @@ f00850037 21fc009c4ef1 # 3573 # TeleColumbus # Eurosport 2 Deutschland # Eurospo
 443000179ea 14b4009c00e4 # 3582 # TeleColumbus # HSE24 EXTRA # HSE24 Extra # 10.01.2014
 15a0460264 206c009c0266 # 3583 # TeleColumbus # Lust pur # Lust Pur # 10.01.2014
 2715f001c481 2134009c4e8f # 3584 # TeleColumbus # Silverline # Silverline # 10.01.2014
-90085003d 2134009c4e97 # 3585 # TeleColumbus # TNT Film # TNT Film # 10.01.2014
+600850195 2134009c4e97 # 3585 # TeleColumbus # TNT Film # TNT Film # 10.01.2014
 13a0464b64 206c009c026b # 3586 # TeleColumbus # travel Channel # travel Channel # 10.01.2014
 2712f001c3b8 21fc009c4eed # 3587 # TeleColumbus # E! Entertainment # E! Entertainment # 13.01.2014
 443000179f4 1bbc009c0ab4 # 3588 # TeleColumbus # EuroNews # EuroNews # 13.01.2014
@@ -805,7 +806,7 @@ e0085006a 187270f94d5 # 3782 # Unitymedia # Pro Sieben Fun HD # Pro Sieben Fun H
 15f270f891d 15f270f891e # 3798 # Unitymedia # WDR Köln # WDR Köln # 13.01.2014
 41f0001157c 10f270f69e7 # 3799 # Unitymedia # Disney Channel HD # Disney Channel HD # 14.01.2014
 3f300012b70 79270f42d9 # 3800 # Unitymedia # arte HD # arte HD # 14.01.2014
-800850088 1af270f94d6 # 3801 # Unitymedia # TNT Glitz HD # TNT Glitz HD # 14.01.2014
+800850088 1af270f94d6 # 3801 # Unitymedia # TNT Comedy HD # TNT Comedy HD # 29.05.2016
 2715f001c481 f1270f3334 # 3812 # Unitymedia # Silverline # Silverline # 14.01.2014
 d3270f5271 2cec013e439d # 3814 # UNKNOWN # Baby TV # Baby TV # 18.01.2014
 3fe00011afa 3fe00011af9 # 3815 # SAT # France 24 # France 24 # 18.01.2014
@@ -817,8 +818,8 @@ d3270f5271 2cec013e439d # 3814 # UNKNOWN # Baby TV # Baby TV # 18.01.2014
 45500011519 2719f001c37b # 3823 # Vodafone-KD # TELE 5 HD # TELE 5 HD # 21.01.2014
 900850191 2717f001cf70 # 3827 # Vodafone-KD # Jukebox # Jukebox # 21.01.2014
 45b0001332f 2725f001c763 # 3828 # Vodafone-KD # Welt der Wunder # Welt der Wunder # 27.11.2014
-105270f6606 2713f001d0a2 # 3830 # Vodafone-KD # TNT Glitz # TNT Glitz # 21.01.2014
-800850088 271cf001c361 # 3831 # Vodafone-KD # TNT Glitz HD # TNT Glitz HD # 21.01.2014
+105270f6606 2713f001d0a2 # 3830 # Vodafone-KD # TNT Comedy # TNT Comedy # 29.05.2016
+800850088 271cf001c361 # 3831 # Vodafone-KD # TNT Comedy HD # TNT Comedy HD # 29.05.2016
 45b00013331 2717f001c482 # 3832 # Vodafone-KD # Sport1 US # Sport1 US # 21.01.2014
 3c8c013e025f 2710f001cb3d # 3833 # Vodafone-KD # DW Europe # DW Europe # 21.01.2014
 1aa04665f4 2725f001c75c # 3834 # Vodafone-KD # fashion tv # Fashion TV # 21.01.2014
@@ -873,7 +874,7 @@ e00850194 54132718f001c6 # 3916 # Vodafone-KD # Cartoon Network (S) # Cartoon Ne
 110085001c 4f132715f001cf # 3918 # Vodafone-KD # Disney XD # Disney XD (eng) # 04.05.2014
 40085000d 54132718f001cf # 3919 # Vodafone-KD # National Geographic # NatGeo (eng) # 04.05.2014
 45b00013331 57d32717f001cf # 3920 # Vodafone-KD # Sport1 US # SPORT1 US (eng) # 04.05.2014
-90085003d 4c932713f001d0 # 3921 # Vodafone-KD # TNT Film # TNT Film (eng) # 04.05.2014
+600850195 4c932713f001d0 # 3921 # Vodafone-KD # TNT Film # TNT Film (eng) # 04.05.2014
 100850032 54132718f001d0 # 3922 # Vodafone-KD # TNT Serie # TNT Serie (eng) # 04.05.2014
 b00850071 b00850459 # 3924 # Unitymedia # History HD # History HD # 17.06.2014
 a0085007d 191270f9ca5 # 3925 # Unitymedia # AXN HD # AXN HD # 12.10.2015
@@ -1235,7 +1236,7 @@ c0085007e 3900de1645 # 4646 # Kabelplus # Syfy HD # Syfy HD # 19.04.2015
 e00850193 3900de1647 # 4648 # Kabelplus # Boomerang # Boomerang # 24.09.2015
 a0085007d 3900de1648 # 4649 # Kabelplus # AXN HD # AXN HD # 12.10.2015
 2715f001c481 3900de1649 # 4650 # Kabelplus # Silverline # Silverline # 19.04.2015
-90085003d 3900de164a # 4651 # Kabelplus # TNT Film # TNT Film # 19.04.2015
+600850195 3900de164a # 4651 # Kabelplus # TNT Film # TNT Film # 19.04.2015
 e00850194 3900de164b # 4652 # Kabelplus # Cartoon Network (S) # Cartoon Network (S) # 24.09.2015
 f0085003a 3900de164c # 4653 # Kabelplus # History # History # 19.04.2015
 f00850026 3a00de16aa # 4654 # Kabelplus # Romance TV # Romance TV # 19.04.2015
@@ -1422,7 +1423,7 @@ ffff7967141f ffff017fef57 # 4852 # WebTV # Djing DJ Hits # Djing HotHotHot # 15.
 10085002a 20085002a # 4854 # SAT # 13th Street # 13th Street # 18.11.2015
 e0085006d 90085006d # 4855 # SAT # Eurosport 2 HD # Eurosport 2 HD # 18.11.2015
 900850090 800850090 # 4856 # SAT # Sky Atlantic +1 HD # Sky Atlantic +1 HD # 18.11.2015
-800850088 e00850088 # 4857 # SAT # TNT Glitz HD # TNT Glitz HD # 18.11.2015
+800850088 e00850088 # 4857 # SAT # TNT Comedy HD # TNT Comedy HD # 29.05.2016
 200850201 400850201 # 4858 # SAT # Blue Movie # Blue Movie # 18.11.2015
 1100850015 300850015 # 4859 # SAT # Beate-Uhse.TV # Beate-Uhse.TV # 18.11.2015
 1100850018 300850018 # 4860 # SAT # Classica # Classica # 18.11.2015
@@ -1506,7 +1507,7 @@ c00850073 ffff0ce581a3 # 4954 # WebTVSky # MGM HD # MGM HD # 17.12.2015
 300850204 fffffb72dd22 # 4955 # WebTVSky # Sky Nostalgie # SKY Nostalgie # 17.12.2015
 10085001e ffff63c0e57f # 4956 # WebTVSky # Sky Sport Austria # Sky Sport Austria # 17.12.2015
 1100850024 ffff6306d02d # 4957 # WebTVSky # Syfy # SyFy # 17.12.2015
-90085003d ffff85b96e6a # 4958 # WebTVSky # TNT Film # TNT Film # 17.12.2015
+600850195 ffff85b96e6a # 4958 # WebTVSky # TNT Film # TNT Film # 17.12.2015
 100850032 ffffb39446fd # 4959 # WebTVSky # TNT Serie # TNT Serie # 17.12.2015
 40085000f ffff1506a394 # 4960 # WebTVSky # BigBrother 24Std # BigBrother 24Std # 17.12.2015
 100850010 ffffd6a9a19c # 4961 # WebTVSky # Fox Serie # Fox Serie # 17.12.2015
@@ -1692,3 +1693,5 @@ ffffe9a74540 ffff04026ea3 # 5127 # WTCkabel # Das neue TV # Das Neue TV # 21.04.
 3ef00011332 271ba6060073 # 5183 # WTCkabel # ServusTV HD Deutschland # ServusTV HD Deutschland # 21.04.2016
 640013e3dc6 ffff4940c883 # 5184 # WebTV  # VOX MUSIC TV # 25.04.2016
 e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
+41f0001157e 2727f001c39e # 5194  # 1-2-3.tv HD # 1-2-3.tv HD # 29.05.2016
+44100012efe 41100012ec3 # 5195 # SAT # RTL Living # RTL Living # 29.05.2016
