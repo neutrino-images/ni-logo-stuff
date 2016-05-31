@@ -389,7 +389,7 @@ a0085007d 271ff001c367 # 2956 # Vodafone-KD # AXN HD # AXN HD # 12.10.2015
 42a00016ffd 2720a6066ff3 # 2962 # KMS # MTV ROCKS. # MTV ROCKS. # 09.01.2014
 b00850071 2720f001c371 # 2963 # Vodafone-KD # History HD # History HD # 09.01.2014
 e00850065 2720f001c373 # 2964 # Vodafone-KD # Universal HD # Universal HD # 09.01.2014
-44100012efe 2721f001cf0b # 2965 # Vodafone-KD # RTL Living # RTL Living # 09.01.2014
+41100012ec3 2721f001cf0b # 2965 # Vodafone-KD # RTL Living # RTL Living # 09.01.2014
 50085004a 2721f001cf10 # 2966 # Vodafone-KD # joiz # joiz # 09.01.2014
 45300014461 2721f001cf11 # 2967 # Vodafone-KD # ProSieben MAXX # ProSieben MAXX # 09.01.2014
 4590001313c 2721f001cf14 # 2968 # Vodafone-KD # Deutsches Musik Fernsehen # Deutsches Musik Fernsehen # 09.01.2014
@@ -624,7 +624,7 @@ e00850078 b00850078 # 3400 # SAT # Sky Select HD # Sky Select HD # 09.01.2014
 43600017001 bf270f2b5f # 3417 # Unitymedia # MTV Germany # MTV Germany # 09.01.2014
 43600017008 bf270f2b60 # 3418 # Unitymedia # nickelodeon # nickelodeon # 20.09.2014
 443000179e0 bf270f2b63 # 3419 # Unitymedia # Eurosport Deutschland # Eurosport Deutschland # 09.01.2014
-44100012efe bf270f2b65 # 3420 # KabelBW # RTL Living # RTL Living # 09.01.2014
+41100012ec3 bf270f2b65 # 3420 # KabelBW # RTL Living # RTL Living # 09.01.2014
 2100850384 bf270f2f4c # 3421 # Unitymedia # SPORT1 # SPORT1 # 09.01.2014
 2100850033 bf270f2f4f # 3422 # Unitymedia # TELE 5 # TELE 5 # 09.01.2014
 1ba0466a18 bf270f4aab # 3423 # SAT # AutoMotorundSportChannel # AutoMotorundSportChannel # 09.01.2014
@@ -1694,4 +1694,25 @@ ffffe9a74540 ffff04026ea3 # 5127 # WTCkabel # Das neue TV # Das Neue TV # 21.04.
 640013e3dc6 ffff4940c883 # 5184 # WebTV  # VOX MUSIC TV # 25.04.2016
 e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 41f0001157e 2727f001c39e # 5194  # 1-2-3.tv HD # 1-2-3.tv HD # 29.05.2016
-44100012efe 41100012ec3 # 5195 # SAT # RTL Living # RTL Living # 29.05.2016
+413000130d4 141270f7d6a # 5196 # Unitymedia # SAT.1 Gold HD # Sat.1 Gold HD # 30.05.2016
+90085008c 14b270f94d7 # 5197 # Unitymedia # RTL Crime HD # RTL Crime HD # 30.05.2016
+2a0444eec 1cd270f6608 # 5198 # Unitymedia # pearl.tv # pearl.tv # 30.05.2016
+2721f001cf13 1e1270f4e85 # 5199 # Unitymedia # SONLife # SonLife # 30.05.2016
+2714f001cf6d 1f5270f3716 # 5200 # Unitymedia # BBC Entertainment # BBC Entertainment # 30.05.2016
+50085004a 1ff270f2b67 # 5201 # Unitymedia # joiz # Joiz # 30.05.2016
+2725f001d03b 1ff270f6dce # 5202 # Unitymedia # GINX TV # Ginx TV # 30.05.2016
+4210001ef10 227270fd73e # 5203 # Unitymedia # RTL HD # RTL HD # 30.05.2016
+3f90001ef74 227270fd73f # 5204 # Unitymedia # SAT.1 HD # Sat.1 HD # 30.05.2016
+45500011518 231270fdb25 # 5205 # Unitymedia # sonnenklar.TV HD # sonnenklar.TV HD # 30.05.2016
+41f0001157e 231270fdb26 # 5206 # Unitymedia # 1-2-3.tv HD # 1-2-3.tv HD # 30.05.2016
+271bf001c38c 231270fdb27 # 5207 # Unitymedia # A&E HD # A&E HD # 30.05.2016
+500850304 f1270f69df # 5208 # Unitymedia # TLC # TLC # 30.05.2016
+45400012f8a ffff31fb0b37 # 5209 # WebTV # BFM TV # BFM TV # 30.05.2016
+45400012f44 ffff6a8dd48d # 5210 # WebTV # QVC Deutschland # QVC Deutschland # 30.05.2016
+3fe00011b02 ffff7bf2f164 # 5211 # WebTV # CCTV NEWS # CCTV News # 30.05.2016
+6a4013e36b2 ffffaf0af51b # 5212 # WebTV # RTS Un # RTS Un # 30.05.2016
+43700016d67 ffffb7ea8157 # 5213 # WebTV # 3sat # 3sat # 30.05.2016
+6a4013e36b8 ffffc3655db8 # 5214 # WebTV # RTS Deux # RTS Deux # 30.05.2016
+110085001a 1f5270f621d # 5215 # Unitymedia # Disney Junior # Disney Junior # 30.05.2016
+110085001c 1f5270f6220 # 5216 # Unitymedia # Disney XD # Disney XD # 30.05.2016
+45d000132da 1ff270f6609 # 5217 # Unitymedia # Folx TV # Folx TV # 30.05.2016
