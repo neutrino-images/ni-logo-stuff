@@ -39,7 +39,7 @@
 44100012ee3 44300017099 # 2420 # SAT # RTL Television # RTL Television # 09.01.2014
 210085003f 44400012775 # 2425 # SAT # DMAX # DMAX # 09.01.2014
 3fd000111fb 44400012779 # 2428 # SAT # Ulm-Allgäu # Ulm-Allgäu # 09.01.2014
-449003507fd 44600014285 # 2432 # SAT # Dorcel TV # Dorcel TV # 09.01.2014
+449003507fd 44600014285 # 2432 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
 2712f001d03e 449003507ff # 2437 # SAT # Animax # Animax # 09.01.2014
 600850082 44a000123ac # 2438 # SAT # Discovery HD # Discovery HD # 09.01.2014
 44d00016dce 44d00016dcb # 2440 # SAT # Bayerisches FS Nord # Bayerisches FS Nord # 09.01.2014
@@ -88,7 +88,7 @@ f0085003a 44e00013391 # 2452 # SAT # History # HISTORY # 23.09.2014
 45d000132ca 45d000132d2 # 2520 # SAT # ORF2 # ORF2 # 09.01.2014
 45d000132ca 45d000132d3 # 2521 # SAT # ORF2 # ORF2 # 09.01.2014
 45d000132ca 45d000132d6 # 2524 # SAT # ORF2 # ORF2 # 09.01.2014
-449003507fd 45f003531fa # 2530 # SAT # Dorcel TV # Dorcel TV # 09.01.2014
+449003507fd 45f003531fa # 2530 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
 449003507fc 45f00353251 # 2531 # SAT # Planet # Planet # 09.01.2014
 2b5c013e1251 45f00353252 # 2532 # SAT # Brazzers TV Europe # Brazzers # 23.06.2015
 449003507fa 45f00353253 # 2533 # SAT # Hustler TV # Hustler TV # 09.01.2014
@@ -155,7 +155,6 @@ a0085007d 14a0464ea2 # 2651 # Wilhelm_tell # AXN HD # AXN HD # 12.10.2015
 4210001ef11 14b270f814f # 2655 # Unitymedia # VOX HD # VOX HD # 30.07.2015
 4210001ef15 14b270f814e # 2656 # Unitymedia # RTL2 HD # RTL2 HD # 30.07.2015
 40500012e9a 14b270f8150 # 2657 # KabelBW # SUPER RTL HD # SUPER RTL HD # 09.01.2014
-500850030 15a0465230 # 2660 # Wilhelm_tell # ManouLenz.tv # ManouLenz.tv # 23.06.2015
 f00850026 15a046524e # 2661 # Wilhelm_tell # Romance TV # Romance TV # 09.01.2014
 83270f3337 15a04652b2 # 2662 # Wilhelm_tell # GuteLauneTV # GuteLauneTV # 09.01.2014
 210085002f 172a0188937 # 2668 # SAT # REGIO TV # REGIO TV # 09.01.2014
@@ -179,7 +178,6 @@ b0085007a 1a5270f42da # 2685 # KabelBW # Sport1+ HD # Sport1+ HD # 09.01.2014
 449003507fa 1aa0466612 # 2695 # Wilhelm_tell # Hustler TV # Hustler TV # 09.01.2014
 900850045 1aa046661c # 2696 # Wilhelm_tell # sportdigital.tv # sportdigital.tv # 09.01.2014
 e5a01856d8 1af270fac48 # 2697 # SAT # Planet HD # Planet HD # 09.01.2014
-500850030 1b9270fac50 # 2698 # SAT # ManouLenz.tv # ManouLenz.tv # 23.06.2015
 2714f001cf6d 1ba0466982 # 2699 # Wilhelm_tell # BBCEntertainment # BBCEntertainment # 09.01.2014
 42a00016fee 1ba0466996 # 2701 # Wilhelm_tell # MTV Hits # MTV Hits # 09.01.2014
 42a00016ff1 1ba04669aa # 2703 # Wilhelm_tell # VH1 Classic # VH1 Classic # 09.01.2014
@@ -197,7 +195,7 @@ a0085007d 1e7800710c25 # 2721 # Hotbird # AXN HD # AXN HD # 12.10.2015
 a0085007c 1e7800710c27 # 2722 # Hotbird # Fox HD # Fox HD # 09.01.2014
 13a0464b64 1edc00712918 # 2724 # Hotbird # travel Channel # travel Channel # 09.01.2014
 45900013146 1fa046792c # 2725 # Wilhelm_tell # rhein main tv # rhein main tv # 09.01.2014
-449003507fd 1fa4013e364c # 2726 # SAT # Dorcel TV # Dorcel TV # 09.01.2014
+449003507fd 1fa4013e364c # 2726 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
 100850159 200850159 # 2740 # Vodafone-KD # Blue Movie 1 # Blue Movie 1 # 09.01.2014
 2008500fc 200850160 # 2741 # Vodafone-KD # Sky Bundesliga 10 # Sky Bundesliga 10 # 09.01.2014
 100850163 200850163 # 2742 # Vodafone-KD # Blue Movie 2 # Blue Movie 2 # 09.01.2014
@@ -207,7 +205,7 @@ e00850194 20a0465618 # 2744 # Wilhelm_tell # Cartoon Network (S) # Cartoon Netwo
 a0085007c 20a0467d28 # 2746 # Wilhelm_tell # Fox HD # Fox HD # 09.01.2014
 d00850070 20a0467d32 # 2747 # Wilhelm_tell # NatGeo HD # NatGeo HD # 09.01.2014
 70800c80e29 2100850028 # 2749 # UNKNOWN # HSE24 # HSE24 # 09.01.2014
-449003507fd 238c013e227b # 2764 # SAT # Dorcel TV # Dorcel TV # 09.01.2014
+449003507fd 238c013e227b # 2764 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
 40200012742 24b8013e200c # 2765 # SAT # BBC World # BBC World # 09.01.2014
 42c00016f6a 24b8013e2011 # 2766 # Hotbird # CNN Int. # CNN Int. # 09.01.2014
 443000179f4 24b8013e2013 # 2767 # SAT # EuroNews # EuroNews # 09.01.2014
@@ -285,7 +283,6 @@ f0085003a 2713f001d035 # 2830 # Vodafone-KD # History # History # 23.09.2014
 45300014461 2714f001d0a3 # 2848 # Vodafone-KD # ProSieben MAXX # ProSieben MAXX # 09.01.2014
 45300014462 2714f001d0a4 # 2849 # Vodafone-KD # kabel eins classics # kabel eins classics # 09.01.2014
 110085001a 2714f001d109 # 2850 # Vodafone-KD # Disney Junior # Disney Junior # 09.01.2014
-500850030 2714f001d10b # 2851 # Vodafone-KD # ManouLenz.tv # ManouLenz.tv # 23.06.2015
 500850701 2714f001d168 # 2852 # Vodafone-KD # Disney Channel # Disney Channel # 09.01.2014
 3fc00011b64 2714f001d16e # 2853 # Vodafone-KD # Al Jazeera English # Al Jazeera English # 09.01.2014
 2100850020 2714f001d16f # 2854 # Vodafone-KD # Sonnenklar TV # sonnenklar.TV HD # 08.04.2014
@@ -634,8 +631,8 @@ b00850084 c00850084 # 3431 # Vodafone-KD # Eurosport HD # Eurosport HD # 09.01.2
 3008500f2 c008500f2 # 3432 # SAT # SKYSportNewsHD # Sky Sport News HD # 09.01.2014
 3fe00011afa c8013e3619 # 3436 # Hotbird # France 24 (in English) # France 24 (in English) # 09.01.2014
 3fe00011afa c8013e361a # 3437 # Hotbird # France 24 (in English) # France 24 (in English) # 09.01.2014
-449003507fd c8013e364c # 3438 # SAT # Dorcel TV # Dorcel TV # 09.01.2014
-449003507fd c8013e3656 # 3439 # SAT # Dorcel TV # Dorcel TV # 09.01.2014
+449003507fd c8013e364c # 3438 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
+449003507fd c8013e3656 # 3439 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
 b00850074 d00850074 # 3447 # Vodafone-KD # Sky Action HD # Sky Action HD # 09.01.2014
 e00850078 d00850078 # 3448 # SAT # Sky Select HD # Sky Select HD # 09.01.2014
 d00850070 d00850458 # 3453 # KabelBW # NatGeo HD # NatGeo HD # 09.01.2014
@@ -850,7 +847,6 @@ d3270f5271 2cec013e439d # 3814 # UNKNOWN # Baby TV # Baby TV # 18.01.2014
 500850304 2712f001cfe4 # 3881 # Vodafone-KD # TLC # TLC # 10.04.2014
 2720f001c370 d3270f526e # 3882 # KabelBW # NatGeo People HD # NatGeo People HD # 10.04.2014
 271ef001c366 1b9270f621b # 3883 # KabelBW # Spiegel TV Wissen HD # Spiegel TV Wissen HD # 10.04.2014
-500850030 1e1270fac50 # 3885 # KabelBW # ManouLenz.tv # ManouLenz.tv # 23.06.2015
 14a0464eb6 0d8a0183b00 # 3886 # KabelBW # BonGusto # BonGusto # 10.04.2014
 1aa04665d6 d8a0183aff # 3887 # KabelBW # Nautical # Nautical # 10.04.2014
 97270f3afe d8a0183afe # 3888 # KabelBW # Extreme Sports # Extreme Sports # 10.04.2014
@@ -918,7 +914,7 @@ c82000317b2 c85000313a9 # 4008 # SAT # HBO HD # HBO HD # 24.09.2014
 44100012ef4 c9a000302d3 # 4016 # SAT # RTL2 # RTL2 # 24.09.2014
 443000179f4 8230002d3d0 # 4018 # SAT # EuroNews # Euronews # 24.09.2014
 444000119dd 444000119c9 # 4019 # SAT # 13EME RUE HD # 13EME RUE HD # 24.09.2014
-449003507fd 446000142a3 # 4024 # SAT # Dorcel TV # Dorcel TV # 24.09.2014
+449003507fd 446000142a3 # 4024 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
 45400012f8a 26ac013f019f # 4027 # SAT # BFM TV # BFM TV # 24.09.2014
 45400012f8a 45400012f8b # 4028 # SAT # BFM TV # BFM TV # 24.09.2014
 500850040 7e100021c41 # 4029 # SAT # QVC Beauty # QVC Beauty # 24.09.2014
@@ -1255,7 +1251,7 @@ fa0463b24 3b00de1712 # 4664 # Kabelplus # FUEL TV HD # FUEL TV HD # 19.04.2015
 15a0460264 3c00de1772 # 4667 # Kabelplus # Lust pur # Lust pur # 19.04.2015
 449003507fa 3c00de1774 # 4668 # Kabelplus # Hustler TV # Hustler TV # 19.04.2015
 33f4013e1360 3c00de1775 # 4669 # Kabelplus # Private TV # Private TV # 19.04.2015
-449003507fd 3c00de1776 # 4670 # Kabelplus # Dorcel TV # Dorcel TV # 19.04.2015
+449003507fd 3c00de1776 # 4670 # Kabelplus # Dorcel TV # Dorcel TV # 08.06.2016
 13a0464b64 3c00de1778 # 4671 # Kabelplus # travel Channel # travel Channel # 19.04.2015
 2712f001d03e 3c00de1779 # 4672 # Kabelplus # Animax # Animax # 19.04.2015
 a0085007c 3e00de183e # 4673 # Kabelplus # Fox HD # Fox HD # 19.04.2015
@@ -1565,7 +1561,7 @@ ffffe22e7909 ffffbce64572 # 4986 # WebTVLive # Q-music TV # Q-music TV # 23.02.2
 300c013e4331 ffffd547cf77 # 5023 # oklivetv # SRF 1 HD # SRF 1 HD # 01.03.2016
 2134013e03b7 6a4013e36e4 # 5024 # Hotbird # RSI LA 2 HD # RSI LA 2 HD # 01.03.2016
 ffff4a08cd84 ffff87960e4c # 5026 # hdporn.tv # 18+ XXX # 18+ XXX2 # 02.03.2016
-449003507fd 4320001206e # 5027 # SAT # Dorcel TV # Dorcel TV # 07.03.2016
+449003507fd 4320001206e # 5027 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
 2714f001cf6d d7a0183716 # 5028 # KabelBW # BBC Entertainment # BBC Entertainment # 07.03.2016
 14a0464eb6 d8a0183b00 # 5029 # KabelBW # BonGusto # BonGusto # 07.03.2016
 2725f001c762 ffff0100578b # 5030 # filmon # France 2 # France 2 # 08.03.2016
@@ -1716,3 +1712,5 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 110085001a 1f5270f621d # 5215 # Unitymedia # Disney Junior # Disney Junior # 30.05.2016
 110085001c 1f5270f6220 # 5216 # Unitymedia # Disney XD # Disney XD # 30.05.2016
 45d000132da 1ff270f6609 # 5217 # Unitymedia # Folx TV # Folx TV # 30.05.2016
+449003507fd 44c00012205 # 5221 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
+45900013146 169270f8d06 # 5222 # Unitymedia # rhein main tv # rhein main tv # 18.06.2016
