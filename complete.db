@@ -253,7 +253,7 @@ fa0463b56 2710f001cb87 # 2776 # Vodafone-KD # Hamburg1 # Hamburg1 # 09.01.2014
 14a0464eb6 2712f001d036 # 2815 # Vodafone-KD # BonGusto # BonGusto # 09.01.2014
 400850034 2712f001d099 # 2817 # Vodafone-KD # Spiegel Geschichte # Spiegel Geschichte # 09.01.2014
 e00850193 2712f001d09c # 2818 # Vodafone-KD # Boomerang # Boomerang # 24.09.2015
-90085003d 2712f001d0a0 # 2819 # Vodafone-KD # TNT(engl) # TNT(engl) # 09.01.2014
+600850195 2712f001d0a0 # 2819 # Vodafone-KD # TNT(engl) # TNT(engl) # 09.01.2014
 900850045 2712f001d16b # 2820 # UNKNOWN # sportdigital # sportdigital # 09.01.2014
 42c00016f6a 2712f001d16d # 2821 # Vodafone-KD # CNN Int. # CNN Int. # 09.01.2014
 45b00013336 2712f001d174 # 2822 # Vodafone-KD # ServusTV Deutschland # ServusTV Deutschland # 09.01.2014
@@ -564,7 +564,6 @@ f00850039 83270f6210 # 3324 # KabelBW # A&E # A&E # 22.09.2014
 42a00016ffd 8a0442a35 # 3330 # Primacom # MTV ROCKS # MTV ROCKS # 09.01.2014
 4020001272e 8d270f3717 # 3331 # KabelBW # CNBC Europe # CNBC Europe # 09.01.2014
 e00850193 8d270f3719 # 3333 # KabelBW # Boomerang # Boomerang # 24.09.2015
-90085003d 8d270f371b # 3334 # Unitymedia # TurnerClassicMoviesE # TurnerClassicMoviesE # 09.01.2014
 18a0465e1a 8d270f371d # 3336 # SAT # Motors TV # Motors TV # 09.01.2014
 f00850037 8d270f371e # 3337 # KabelBW # Eurosport 2 Deutschland # Eurosport 2 Deutschland # 09.01.2014
 600850195 8d270f371f # 3338 # KabelBW # TNT Film (TCM) # TNT Film (TCM) # 24.09.2015
@@ -1714,3 +1713,6 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 45d000132da 1ff270f6609 # 5217 # Unitymedia # Folx TV # Folx TV # 30.05.2016
 449003507fd 44c00012205 # 5221 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
 45900013146 169270f8d06 # 5222 # Unitymedia # rhein main tv # rhein main tv # 18.06.2016
+41f0001157f 2727f001c39c # 5224 # Vodafone-KD # Deluxe Music HD # Deluxe Music HD # 15.07.2016
+44100012efe 2712f001d04e # 5225 # Vodafone-KD # Toggo Plus # Toggo Plus # 15.07.2016
+44100012f30 2714f001d04f # 5226 # Vodafone-KD # RTLplus # RTLplus # 15.07.2016
