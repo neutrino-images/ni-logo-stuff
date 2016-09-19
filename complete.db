@@ -1,4 +1,4 @@
-﻿#Logo Symlink File-ID Provid LogoName SymlinkName TimeStamp
+#Logo Symlink File-ID Provid LogoName SymlinkName TimeStamp
 43100016e44 431a4016e46 # 2361 # KabelBW # MDR Sachsen # MDR Sachsen # 09.01.2014
 43100016e47 431a4016e47 # 2362 # KabelBW # SWR Fernsehen RP # SWR Fernsehen RP # 09.01.2014
 43600017001 43600017007 # 2368 # SAT # MTV Germany # MTV Germany # 09.01.2014
@@ -1721,3 +1721,19 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 2721f001cf6f f00850023 # 5231 # SAT # Zee.One # Zee.One # 09.08.2016
 1008500a8 9008500a8 # 5233 # SAT # Motorvision TV # Motorvision TV # 16.09.2016
 900850090 1000850090 # 5236 # SAT # Sky Atlantic +1 HD # Sky Atlantic +1 HD # 16.09.2016
+44500016f47 ffffbf52629b # 5237 # WebTV # ARD-alpha # ARD-alpha # 19.09.2016
+44d00016dce ffff7f71e6d2 # 5238 # WebTV # Bayerisches FS Nord # Bayerisches FS Nord # 19.09.2016
+44d00016dce ffffdc28566b # 5239 # WebTV # Bayerisches FS Nord # Bayerisches FS Sued # 19.09.2016
+40100012855 ffffaaa31946 # 5240 # WebTV # BR Süd HD # BR Nord HD # 19.09.2016
+4010001285a ffff2e699a79 # 5241 # WebTV # NDR FS SH HD # NDR FS SH HD # 19.09.2016
+40100012855 ffff84d9ba8d # 5242 # WebTV # BR Süd HD # BR Sued HD # 19.09.2016
+43100016e45 ffffd6c4e8c7 # 5243 # WebTV # MDR S-Anhalt # MDR S-Anhalt # 19.09.2016
+43100016e46 ffff9d91a389 # 5244 # WebTV # MDR Thüringen # MDR Thüringen # 19.09.2016
+40100012859 ffffeda6894d # 5245 # WebTV # NDR FS HH HD # NDR FS HH HD # 19.09.2016
+4010001285a ffff7de46493 # 5246 # WebTV # NDR FS SH HD # NDR MV HD # 19.09.2016
+40100012857 ffff5b8044d1 # 5247 # WebTV # NDR FS NDS HD # NDR Niedersachsen HD # 19.09.2016
+44500016f46 ffffee67b95a # 5248 # WebTV # SR Fernsehen # SR Fernsehen # 19.09.2016
+43100016e47 fffff0df59d0 # 5249 # WebTV # SWR Fernsehen RP # SWR Fernsehen RP # 19.09.2016
+4b100016ea5 ffffcd9cb9a0 # 5250 # WebTV # WDR HD Köln # WDR HD # 19.09.2016
+3f300012b84 ffffcdc3ea2d # 5251 # WebTV # zdf.kultur HD # zdf.kultur HD # 19.09.2016
+3f300012b7a ffffc70a3c78 # 5252 # WebTV # zdf_neo HD # zdf_neo HD # 19.09.2016
