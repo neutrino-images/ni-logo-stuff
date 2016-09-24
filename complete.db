@@ -578,9 +578,9 @@ f0085003a 900850044 # 3349  # History # History # 23.09.2014
 b00850071 900850054 # 3351 # SAT # History HD # History HD # 09.01.2014
 14a0464eb6 97270f3b00 # 3353 # Unitymedia # Bon gusto # Bon Gusto # 01.10.2015
 42a00016ff1 97270f3b08 # 3354 # Unitymedia # VH1 Classic # VH1 Classic # 09.01.2014
-b00850074 a0085006a # 3358 # UNKNOWN # Sky Action HD # Sky Action HD # 09.01.2014
+b00850074 a0085006a # 3358 # UNKNOWN # Sky Cinema Action HD # Sky Cinema Action HD # 24.09.2016
 d00850072 a0085007a # 3361 # SAT # Sky Sport HD 2 # Sky Sport HD 2 # 09.01.2014
-b00850074 a0085007b # 3362 # UNKNOWN # Sky Action HD # Sky Action HD # 09.01.2014
+b00850074 a0085007b # 3362 # UNKNOWN # Sky Cinema Action HD # Sky Cinema Action HD # 24.09.2016
 44100012ee3 a1270f2f45 # 3372 # Unitymedia # RTL Television # RTL Television # 09.01.2014
 4530001445c a1270f2f46 # 3373 # Unitymedia # SAT.1 # SAT.1 # 09.01.2014
 4530001445d a1270f2f47 # 3374 # Unitymedia # ProSieben # ProSieben # 09.01.2014
@@ -632,7 +632,7 @@ b00850084 c00850084 # 3431 # Vodafone-KD # Eurosport HD # Eurosport HD # 09.01.2
 3fe00011afa c8013e361a # 3437 # Hotbird # France 24 (in English) # France 24 (in English) # 09.01.2014
 449003507fd c8013e364c # 3438 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
 449003507fd c8013e3656 # 3439 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
-b00850074 d00850074 # 3447 # Vodafone-KD # Sky Action HD # Sky Action HD # 09.01.2014
+b00850074 d00850074 # 3447 # Vodafone-KD # Sky Cinema Action HD # Sky Cinema Action HD # 24.09.2016
 e00850078 d00850078 # 3448 # SAT # Sky Select HD # Sky Select HD # 09.01.2014
 d00850070 d00850458 # 3453 # KabelBW # NatGeo HD # NatGeo HD # 09.01.2014
 42a00016ff1 d8a0183b08 # 3455 # KabelBW # VH1 Classic # VH1 Classic # 09.01.2014
@@ -948,8 +948,8 @@ c82000317b2 c85000313a9 # 4008 # SAT # HBO HD # HBO HD # 24.09.2014
 1aa04665f4 4160001772f # 4067 # SAT # fashion tv # FASHION TV # 24.09.2014
 1da04671f2 7ed000215bb # 4070 # SAT # nick jr. # Nick Jr. # 24.09.2014
 1da04671f2 81f0002c790 # 4071 # SAT # nick jr. # Nick Jr. # 24.09.2014
-200850008 7d7000210cf # 4072 # SAT # Sky Comedy # Sky Comedy # 24.09.2014
-200850009 7d7000210ce # 4073 # SAT # Sky Action # Sky Action # 24.09.2014
+200850008 7d7000210cf # 4072 # SAT # Sky Cinema Comedy # Sky Cinema Comedy # 24.09.2016
+200850009 7d7000210ce # 4073 # SAT # Sky Cinema Action # Sky Cinema Action # 24.09.2016
 200850107 1a2cfbff2dc0 # 4074 # SAT # Sky Sport 3 # Sky Sport 3 # 24.09.2014
 200850107 1a2cfbff2dda # 4075 # SAT # Sky Sport 3 # Sky Sport 3 # 24.09.2014
 2100850033 3db8013e423b # 4076 # SAT # TELE 5 # Tele 5 # 24.09.2014
@@ -1031,7 +1031,7 @@ b00850071 1af4fbff0db9 # 4181 # SAT # History HD # History HD # 24.09.2014
 b00850071 1e7800710c2f # 4182 # SAT # History HD # History HD # 24.09.2014
 b00850071 7ec00020f2e # 4183 # SAT # History HD # History HD # 24.09.2014
 b00850071 c95000313b3 # 4184 # SAT # History HD # History HD # 24.09.2014
-b00850074 7ec00020ee6 # 4185 # SAT # Sky Action HD # Sky Action HD # 24.09.2014
+b00850074 7ec00020ee6 # 4185 # SAT # Sky Cinema Action HD # Sky Cinema Action HD # 24.09.2016
 b00850084 44200012335 # 4186 # SAT # Eurosport HD # EUROSPORT HD # 24.09.2014
 b00850084 c95000313b7 # 4187 # SAT # Eurosport HD # Eurosport HD # 24.09.2014
 b00850084 7d800020edc # 4188 # SAT # Eurosport HD # Eurosport HD # 24.09.2014
@@ -1196,7 +1196,7 @@ e00850193 2712f001d09f # 4580 # Vodafone-KD # Boomerang # Boomerang (eng) # 24.0
 600850195 2713f001d0a0 # 4583 # Vodafone-KD # TNT Film (TCM) # TNT Film (eng) # 24.09.2015
 100850032 2718f001d048 # 4584 # Vodafone-KD # TNT Serie # TNT Serie (eng) # 31.10.2014
 42c00016f6a 40400011146 # 4586 # SAT # CNN Int. # CNN Int. # 04.11.2014
-300850204 200850204 # 4587 # Unitymedia # Sky Nostalgie # Sky Nostalgie # 17.11.2014
+300850204 200850204 # 4587 # Unitymedia # Sky Cinema Nostalgie # Sky Cinema Nostalgie # 24.09.2016
 80085008a 271af001c384 # 4591 # Vodafone-KD # Disney Junior HD # Disney Junior HD # 27.11.2014
 40900012777 2721f001c378 # 4592 # Vodafone-KD # MTV HD # MTV HD # 27.11.2014
 41d00015273 271af001c385 # 4593 # Vodafone-KD # nickelodeon HD # Nickelodeon HD # 27.11.2014
@@ -1433,19 +1433,19 @@ e0085006d 90085006d # 4855 # SAT # Eurosport 2 HD # Eurosport 2 HD # 18.11.2015
 300850203 400850203 # 4869 # SAT # MGM # MGM # 18.11.2015
 1008500a8 2008500a8 # 4870 # SAT # Motorvision TV # Motorvision TV # 18.11.2015
 40085000c 20085000c # 4871 # SAT # NatGeo Wild # NatGeo Wild # 18.11.2015
-200850009 300850009 # 4872 # SAT # Sky Action # Sky Action # 18.11.2015
+200850009 300850009 # 4872 # SAT # Sky Cinema Action # Sky Cinema Action # 24.09.2016
 1100850022 400850022 # 4873 # SAT # Sky Atlantic # Sky Atlantic # 18.11.2015
 200850106 300850106 # 4874 # SAT # Sky Bundesliga 2 # Sky Bundesliga 2 # 18.11.2015
 1100850138 200850138 # 4875 # SAT # Sky Bundesliga 7 # Sky Bundesliga 7 # 18.11.2015
 1100850142 200850142 # 4876 # SAT # Sky Bundesliga 8 # Sky Bundesliga 8 # 18.11.2015
 110085014c 20085014c # 4878 # SAT # Sky Bundesliga 9 # Sky Bundesliga 9 # 18.11.2015
 2008500fc 3008500fc # 4879 # SAT # Sky Bundesliga 10 # Sky Bundesliga 10 # 18.11.2015
-20085000a 40085000a # 4880 # SAT # Sky Cinema # Sky Cinema # 18.11.2015
-20085000b 30085000b # 4881 # SAT # Sky Cinema +1 # Sky Cinema +1 # 18.11.2015
-20085002b 30085002b # 4883 # SAT # Sky Cinema +24 # Sky Cinema +24 # 18.11.2015
-200850008 300850008 # 4886 # SAT # Sky Comedy # Sky Comedy # 18.11.2015
-200850014 400850014 # 4888 # SAT # Sky Emotion # Sky Emotion # 18.11.2015
-300850204 400850204 # 4889 # SAT # Sky Nostalgie # Sky Nostalgie # 18.11.2015
+20085000a 40085000a # 4880 # SAT # Sky Cinema # Sky Cinema # 24.09.2016
+20085000b 30085000b # 4881 # SAT # Sky Cinema +1 # Sky Cinema +1 # 24.09.2016
+20085002b 30085002b # 4883 # SAT # Sky Cinema +24 # Sky Cinema +24 # 24.09.2016
+200850008 300850008 # 4886 # SAT # Sky Cinema Comedy # Sky Cinema Comedy # 24.09.2016
+200850014 400850014 # 4888 # SAT # Sky Cinema Emotion # Sky Cinema Emotion # 24.09.2016
+300850204 400850204 # 4889 # SAT # Sky Cinema Nostalgie # Sky Cinema Nostalgie # 24.09.2016
 2008500fb 3008500fb # 4893 # SAT # Sky Select 1 # Sky Select 1 # 18.11.2015
 200850105 300850105 # 4894 # SAT # Sky Select 2 # Sky Select 2 # 18.11.2015
 1100850137 200850137 # 4895 # SAT # Sky Select 7 # Sky Select 7 # 18.11.2015
@@ -1465,7 +1465,7 @@ e0085006d 90085006d # 4855 # SAT # Eurosport 2 HD # Eurosport 2 HD # 18.11.2015
 400850034 200850034 # 4912 # SAT # Spiegel Geschichte # Spiegel Geschichte # 18.11.2015
 1100850024 200850024 # 4913 # SAT # Syfy # Syfy # 18.11.2015
 100850032 200850032 # 4914 # SAT # TNT Serie # TNT Serie # 18.11.2015
-300850029 200850029 # 4915 # SAT # Sky Hits # Sky Hits # 18.11.2014
+300850029 200850029 # 4915 # SAT # Sky Cinema Hits # Sky Cinema Hits # 24.09.2016
 4550001151a 2724f001c375 # 4917 # Vodafone-KD # DMAX HD # DMAX HD # 23.11.2015
 4010001285a 4310001285a # 4918 # Vodafone-KD # NDR FS SH HD # NDR FS SH HD # 23.11.2015
 44500016f46 43100016f46 # 4919 # Vodafone-KD # SR Fernsehen # SR Fernsehen # 23.11.2015
@@ -1487,19 +1487,19 @@ e0085006d 90085006d # 4855 # SAT # Eurosport 2 HD # Eurosport 2 HD # 18.11.2015
 1008500a8 ffff899a5a29 # 4940 # WebTVSky # Motorvision TV # Motorvision TV # 17.12.2015
 1100850206 ffffa5855506 # 4941 # WebTVSky # Goldstar TV # Goldstar TV # 17.12.2015
 1100850013 ffff2e97aba4 # 4942 # WebTVSky # Junior # Junior # 17.12.2015
-b00850074 ffff2bb6d897 # 4943 # WebTVSky # Sky Action HD # Sky Action HD # 17.12.2015
+b00850074 ffff2bb6d897 # 4943 # WebTVSky # Sky Cinema Action HD # Sky Cinema Action HD # 24.09.2016
 1100850022 ffff8bd99d0c # 4944 # WebTVSky # Sky Atlantic # Sky Atlantic # 17.12.2015
-20085000a ffff03e8a616 # 4945 # WebTVSky # Sky Cinema # Sky Cinema # 17.12.2015
-20085000b ffffac104edd # 4946 # WebTVSky # Sky Cinema +1 # Sky Cinema +1 # 17.12.2015
-20085002b ffff79e395c9 # 4947 # WebTVSky # Sky Cinema +24 # Sky Cinema +24 # 17.12.2015
-200850008 ffffd37ac895 # 4948 # WebTVSky # Sky Comedy # Sky Comedy # 17.12.2015
+20085000a ffff03e8a616 # 4945 # WebTVSky # Sky Cinema # Sky Cinema # 24.09.2016
+20085000b ffffac104edd # 4946 # WebTVSky # Sky Cinema +1 # Sky Cinema +1 # 24.09.2016
+20085002b ffff79e395c9 # 4947 # WebTVSky # Sky Cinema +24 # Sky Cinema +24 # 24.09.2016
+200850008 ffffd37ac895 # 4948 # WebTVSky # Sky Cinema Comedy # Sky Cinema Comedy # 24.09.2016
 600850082 ffff42505ec3 # 4949 # WebTVSky # Discovery HD # Discovery HD # 17.12.2015
-200850014 ffff84c33bfe # 4950 # WebTVSky # Sky Emotion # Sky Emotion # 17.12.2015
+200850014 ffff84c33bfe # 4950 # WebTVSky # Sky Cinema Emotion # Sky Cinema Emotion # 24.09.2016
 f0085003a ffff7bfdd860 # 4951 # WebTVSky # History # History # 17.12.2015
-300850029 ffff34ec7714 # 4952 # WebTVSky # Sky Hits # SKY Hits # 17.12.2015
+300850029 ffff34ec7714 # 4952 # WebTVSky # Sky Cinema Hits # Sky Cinema Hits # 24.09.2016
 100850017 ffff13273576 # 4953 # WebTVSky # Sky Krimi # Sky Krimi # 17.12.2015
 c00850073 ffff0ce581a3 # 4954 # WebTVSky # MGM HD # MGM HD # 17.12.2015
-300850204 fffffb72dd22 # 4955 # WebTVSky # Sky Nostalgie # SKY Nostalgie # 17.12.2015
+300850204 fffffb72dd22 # 4955 # WebTVSky # Sky Cinema Nostalgie # Sky Cinema Nostalgie # 24.09.2016
 10085001e ffff63c0e57f # 4956 # WebTVSky # Sky Sport Austria # Sky Sport Austria # 17.12.2015
 1100850024 ffff6306d02d # 4957 # WebTVSky # Syfy # SyFy # 17.12.2015
 600850195 ffff85b96e6a # 4958 # WebTVSky # TNT Film # TNT Film # 17.12.2015
