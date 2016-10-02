@@ -10,7 +10,6 @@
 43700016d68 43700666d68 # 2382 # Unitymedia # KiKA # KiKA # 09.01.2014
 43700016d6b 43700666d6b # 2383 # Unitymedia # ZDFinfo # ZDFinfo # 09.01.2014
 43700016d6e 43700666d6e # 2384 # Unitymedia # zdf_neo # zdf_neo # 09.01.2014
-43700016d70 43700666d70 # 2385 # Unitymedia # zdf.kultur # zdf.kultur # 09.01.2014
 4530001445d 43a00014e21 # 2386 # SAT # ProSieben # ProSieben # 09.01.2014
 4530001445d 43a00014e22 # 2387 # SAT # ProSieben # ProSieben # 09.01.2014
 4530001445e 43a00014e23 # 2388 # SAT # kabel eins # kabel eins # 09.01.2014
@@ -471,7 +470,6 @@ e00850194 2fa8013e1d21 # 3003 # Hotbird # Cartoon Network (S) # Cartoon Network 
 44500016f47 41ba4016f47 # 3168 # KabelBW # ARD-alpha # ARD-alpha # 29.06.2014
 41b00017031 41ba4017031 # 3169 # KabelBW # tagesschau24 # tagesschau24 # 09.01.2014
 41b00017032 41ba4017032 # 3170 # KabelBW # Einsfestival # One # 04.09.2016
-41b00017033 41ba4017033 # 3171 # KabelBW # EinsPlus # EinsPlus # 09.01.2014
 41b00017034 41ba4017034 # 3172 # KabelBW # arte # arte # 09.01.2014
 41b00017035 41ba4017035 # 3173 # KabelBW # PHOENIX # PHOENIX # 09.01.2014
 41d00015273 41d0001527d # 3179 # SAT # nickelodeon HD # nickelodeon HD # 20.09.2014
@@ -1303,13 +1301,11 @@ a0085007c 3e00de183e # 4673 # Kabelplus # Fox HD # Fox HD # 19.04.2015
 44500016f47 8100de3265 # 4720 # Kabelplus # ARD-alpha # ARD-alpha # 19.04.2015
 41b00017031 8100de3266 # 4721 # Kabelplus # tagesschau24 # tagesschau24 # 19.04.2015
 41b00017032 8100de3267 # 4722 # Kabelplus # Einsfestival # One # 04.09.2016
-41b00017033 8100de3268 # 4723 # Kabelplus # EinsPlus # EinsPlus # 19.04.2015
 41b00017035 8100de3269 # 4724 # Kabelplus # PHOENIX # PHOENIX # 19.04.2015
 44100012f1d 8100de326a # 4725 # Kabelplus # RTLNITRO # RTLNITRO # 19.04.2015
 45300014460 8100de326b # 4726 # Kabelplus # SAT.1 Gold # SAT.1 Gold # 19.04.2015
 41b00017034 8200de32c9 # 4727 # Kabelplus # arte # arte # 19.04.2015
 43700016d6b 8200de32ca # 4728 # Kabelplus # ZDFinfo # ZDFinfo # 19.04.2015
-43700016d70 8200de32cb # 4729 # Kabelplus # zdf.kultur # zdf.kultur # 19.04.2015
 3eb000133a9 8200de32cc # 4730 # Kabelplus # Schau TV # Schau TV # 19.04.2015
 42c00016f6a 8200de32ce # 4731 # Kabelplus # CNN Int. # CNN Int. # 19.04.2015
 443000179f4 8300de332d # 4732 # Kabelplus # EuroNews # EuroNews # 19.04.2015
@@ -1344,9 +1340,7 @@ a0085007c 3e00de183e # 4673 # Kabelplus # Fox HD # Fox HD # 19.04.2015
 40f00012888 8b00de364d # 4761 # Kabelplus # One HD # One HD # 04.09.2016
 3f300012b5c 8b00de364e # 4762 # Kabelplus # Das Erste HD # Das Erste HD # 19.04.2015
 3f300012b66 8b00de364f # 4763 # Kabelplus # ZDF HD # ZDF HD # 19.04.2015
-40f00012889 8b00de3650 # 4764 # Kabelplus # EinsPlus HD # EinsPlus HD # 19.04.2015
 3f300012b7a 8c00de36b1 # 4765 # Kabelplus # zdf_neo HD # zdf_neo HD # 19.04.2015
-3f300012b84 8c00de36b2 # 4766 # Kabelplus # zdf.kultur HD # zdf.kultur HD # 19.04.2015
 2134013e03c1 6a4013e36e5 # 4767 # Hotbird # SRF info HD # SRF info HD # 01.03.2016
 42500012873 8c00de36b4 # 4768 # Kabelplus # hr-fernsehen HD # hr-fernsehen HD # 19.04.2015
 40f00012887 8c00de36b5 # 4769 # Kabelplus # tagesschau24 HD # tagesschau24 HD # 19.04.2015
@@ -1548,12 +1542,10 @@ ffffe22e7909 ffffbce64572 # 4986 # WebTVLive # Q-music TV # Q-music TV # 23.02.2
 43700016d68 ffff3388119a # 5011 # filmon # KiKA # KIKA # 01.03.2016
 43700016d66 ffffcba2c535 # 5012 # filmon # ZDF # ZDF # 01.03.2016
 43700016d6b fffff221692b # 5013 # filmon # ZDFinfo # ZDFinfo # 01.03.2016
-43700016d70 ffff44f558c0 # 5014 # filmon # zdf.kultur # zdf.kultur # 01.03.2016
 443000179f4 ffffad3a333c # 5015 # filmon # EuroNews # EuroNews # 01.03.2016
 41b00017035 ffffa381773c # 5016 # filmon # PHOENIX # PHOENIX # 01.03.2016
 41b00017031 ffffa8aae742 # 5017 # filmon # tagesschau24 # tagesschau24 # 01.03.2016
 41b00017032 ffff1941c6e0 # 5018 # filmon # Einsfestival # One # 04.09.2016
-41b00017033 ffffa355f2d1 # 5019 # filmon # EinsPlus # EinsPlus # 01.03.2016
 300c013e4331 ffff62026d57 # 5020 # filmon # SRF 1 HD # SRF 1 HD # 01.03.2016
 300c013e4332 ffff20f45b30 # 5021 # oklivetv # SRF zwei HD # SRF zwei HD # 01.03.2016
 2134013e03c1 ffffecf4f943 # 5022 # oklivetv # SRF info HD # SRF info HD # 10.03.2015
@@ -1735,5 +1727,5 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 44500016f46 ffffee67b95a # 5248 # WebTV # SR Fernsehen # SR Fernsehen # 19.09.2016
 43100016e47 fffff0df59d0 # 5249 # WebTV # SWR Fernsehen RP # SWR Fernsehen RP # 19.09.2016
 4b100016ea5 ffffcd9cb9a0 # 5250 # WebTV # WDR HD Köln # WDR HD # 19.09.2016
-3f300012b84 ffffcdc3ea2d # 5251 # WebTV # zdf.kultur HD # zdf.kultur HD # 19.09.2016
 3f300012b7a ffffc70a3c78 # 5252 # WebTV # zdf_neo HD # zdf_neo HD # 19.09.2016
+45300014465 2725f001c3ca # 5254 # Vodafone-KD # Kabel1 Doku # Kabel1 DOKU # 01.10.2016
