@@ -1728,5 +1728,12 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 43100016e47 fffff0df59d0 # 5249 # WebTV # SWR Fernsehen RP # SWR Fernsehen RP # 19.09.2016
 4b100016ea5 ffffcd9cb9a0 # 5250 # WebTV # WDR HD Köln # WDR HD # 19.09.2016
 3f300012b7a ffffc70a3c78 # 5252 # WebTV # zdf_neo HD # zdf_neo HD # 19.09.2016
-45300014465 2725f001c3ca # 5254 # Vodafone-KD # Kabel1 Doku # Kabel1 DOKU # 01.10.2016
+45300014465 2725f001c3ca # 5254 # Vodafone-KD # Kabel eins Doku # Kabel eins DOKU # 01.10.2016
 500850030 2725f001c75d # 5255 # Vodafone-KD # N24 Doku # N24 Doku # 01.10.2016
+45300014465 b5270f46c5 # 5256 # Unitymedia # Kabel eins Doku # Kabel eins DOKU # 03.10.2016
+500850030 e7270f5a4f # 5257 # Unitymedia # N24 Doku # N24 Doku # 03.10.2016
+44100012f30 	e7270f4e9c # 5258 # Unitymedia # RTLplus # RTLplus # 03.10.2016
+4210001ef10 21d270fd356 # 5259 # Unitymedia # RTL HD # RTL HD # 03.10.2016
+3f90001ef74 	21d270fd357 # 5260 # Unitymedia # SAT.1 HD # Sat.1 HD # 03.10.2016
+2721f001cf6f d3270f4e9d # 5261 # Unitymedia # Zee.One # Zee.One # 03.10.2016
+41f0001157c 79270f69e7 # 5264 # Unitymedia # Disney Channel HD # Disney Channel HD # 06.10.2016
