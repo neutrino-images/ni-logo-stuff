@@ -2,11 +2,11 @@
 
 ###############################################################################
 #
-# Senderlogo-Updater 0.13 fred_feuerstein [NI-Team]
+# Senderlogo-Updater 0.14 fred_feuerstein [NI-Team]
 #
 # Ziel:
 # Mit dem Updater werden die neuen und/oder geänderten Senderlogos seit dem
-# letzten NI Image Release (aktuell NI 3.1) ins Image geholt.
+# letzten NI Image Release (aktuell NI 3.2) ins Image geholt.
 # Diese werden automatisch in das Logo-Verzeichnis:
 # /share/tuxbox/neutrino/icons/logo kopiert bzw. vorhandene aktualisiert.
 # Dazu ist eine Internetverbindung erforderlich.
@@ -17,6 +17,7 @@
 # Achtung: der Senderlogo-Updater ist nur für SAT !
 #
 # Changelog:
+# 0.14 = Anpassungen an Update-Skript
 # 0.13 = Anpassungen an Update-Skript
 # 0.05 = Download-URL und Dateiname angepasst (NG -> NI)
 # 0.04 = Marginale Ausgabe-Änderungen
