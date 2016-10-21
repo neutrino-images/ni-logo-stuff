@@ -91,7 +91,6 @@ f0085003a 44e00013391 # 2452 # SAT # History # HISTORY # 23.09.2014
 449003507fc 45f00353251 # 2531 # SAT # Planet # Planet # 09.01.2014
 2b5c013e1251 45f00353252 # 2532 # SAT # Brazzers TV Europe # Brazzers # 23.06.2015
 449003507fa 45f00353253 # 2533 # SAT # Hustler TV # Hustler TV # 09.01.2014
-900850045 45f0035325f # 2534 # SAT # Sportdigital.tv # Sportdigital # 09.01.2014
 90085003e 4a04428a2 # 2535 # Primacom # AXN # AXN # 12.10.2015
 40085000d 4a04428a3 # 2536 # Primacom # NationalGeographic # NationalGeographic # 09.01.2014
 45d000132ca 4a04428af # 2537 # Primacom # ORF2 # ORF2 # 09.01.2014
@@ -757,7 +756,7 @@ fa0463b24 2134009c4e9b # 3605 # TeleColumbus # FUEL TV HD # FUEL TV HD # 13.01.2
 1ba046698c 21fc009c4ee9 # 3606 # TeleColumbus # yourfamily # yourfamily # 13.01.2014
 d0085007f 19b270f6219 # 3609 # Unitymedia # 13th Street HD # 13TH STREET HD # 13.01.2014
 7d90002183a bf270f4aac # 3611 # Unitymedia # Animal Planet # Animal Planet # 13.01.2014
-2712f001d03e 83270f6211 # 3612 # Unitymedia # Animax # ANIMAX # 13.01.2014
+44100012efe 83270f6211 # 3612 # Unitymedia # Toggo Plus # Toggo Plus # 21.10.2016
 45400012f5a 97270f3b06 # 3617 # Unitymedia # Bibel TV # Bibel TV # 13.01.2014
 41f0001157f 1c3270fb417 # 3631 # Unitymedia # Deluxe Music HD # DELUXE MUSIC HD # 25.02.2014
 6f270f4aaa 10f270f4aaa # 3632 # Unitymedia # Deutsches Wetter Fernsehen # Deutsches Wetter Fernsehen # 13.01.2014
@@ -1739,3 +1738,4 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 41f0001157c 79270f69e7 # 5264 # Unitymedia # Disney Channel HD # Disney Channel HD # 06.10.2016
 640013e3dca 2c88013e3d63 # 5265 # Hotbird # Hip Hop TV # Hip Hop TV # 12.10.2016
 45300014462 45f00353268 # 5267 # SAT # kabel eins classics # kabel eins classics # 12.10.2016
+271af001c386 45f0035325f # 5268 # SAT # sportdigital HD # sportdigital HD # 21.10.2016
