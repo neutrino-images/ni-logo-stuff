@@ -244,7 +244,6 @@ f0085003a 2713f001d035 # 2830 # Vodafone-KD # History # History # 27.10.2016
 44100012f3a 2713f001d166 # 2838 # Vodafone-KD # n-tv # n-tv # 27.10.2016
 2100850384 2713f001d178 # 2839 # Vodafone-KD # SPORT1 # SPORT1 # 27.10.2016
 500850701 2714f001c3b5 # 2840 # Vodafone-KD # Disney Channel # Disney Channel # 27.10.2016
-40200012753 2714f001cf0c # 2841 # Vodafone-KD # Bloomberg Europe TV # Bloomberg Europe TV # 27.10.2016
 3fe00011af8 2714f001cf7f # 2844 # Vodafone-KD # Russia Today # Russia Today # 27.10.2016
 45400012f5a 2714f001d09b # 2845 # Vodafone-KD # Bibel TV # Bibel TV # 27.10.2016
 3fc00011b64 2714f001d16e # 2853 # Vodafone-KD # Al Jazeera English # Al Jazeera English # 27.10.2016
@@ -380,7 +379,6 @@ e00850194 2fa8013e1d21 # 3003 # Hotbird # Cartoon Network (S) # Cartoon Network 
 10085001b 40085001b # 3118 # Unitymedia # RTL Crime # RTL Crime # 26.10.2016
 10085001d 40085001d # 3119 # Unitymedia # RTL Passion # RTL Passion # 26.10.2016
 10085002a 40085002a # 3120 # Unitymedia # 13th Street # 13th Street # 26.10.2016
-1008500a8 4008500a8 # 3122 # Unitymedia # Motorvision TV # Motorvision TV # 26.10.2016
 40085000d 4008503f5 # 3127 # Unitymedia # National Geographic # National Geographic # 26.10.2016
 40085000e 4008503f6 # 3128 # Unitymedia # Discovery Channel # Discovery Channel # 26.10.2016
 10085001b 400850403 # 3129 # Unitymedia # RTL Crime # RTL Crime # 26.10.2016
@@ -524,7 +522,6 @@ e00850078 b00850078 # 3400 # SAT # Sky Select HD # Sky Select HD # 09.01.2014
 1ba0466a18 bf270f4aab # 3423 # Unitymedia # AutoMotorundSportChannel # AutoMotorundSportChannel # 26.10.2016
 3008500f2 c0085006c # 3427 # Unitymedia # SKYSportNewsHD # Sky Sport News HD # 26.10.2016
 600850076 c00850076 # 3429 # Unitymedia # Nat Geo Wild HD # Nat Geo Wild HD # 26.10.2016
-b00850084 c00850084 # 3431 # Unitymedia # Eurosport HD # Eurosport HD # 26.10.2016
 3008500f2 c008500f2 # 3432 # Unitymedia # SKYSportNewsHD # Sky Sport News HD # 26.10.2016
 3fe00011afa c8013e3619 # 3436 # Hotbird # France 24 (in English) # France 24 (in English) # 09.01.2014
 3fe00011afa c8013e361a # 3437 # Hotbird # France 24 (in English) # France 24 (in English) # 09.01.2014
