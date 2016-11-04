@@ -2,7 +2,7 @@
 
 ###############################################################################
 #
-# Senderlogo-Updater 0.14 fred_feuerstein [NI-Team]
+# Senderlogo-Updater 0.15 fred_feuerstein [NI-Team]
 #
 # Ziel:
 # Mit dem Updater werden die neuen und/oder geänderten Senderlogos seit dem
@@ -14,9 +14,10 @@
 # Thread: Kleines Logopaket (Ergaenzung zum X.xx NI Image)
 # Dort ist auch zusätzlich bei Bedarf ein Radio-Senderlogo-Paket zu finden.
 #
-# Achtung: der Senderlogo-Updater ist nur für SAT !
+# 
 #
 # Changelog:
+# 0.15 = kompilierte Version (c+)
 # 0.14 = Anpassungen an Update-Skript
 # 0.13 = Anpassungen an Update-Skript
 # 0.05 = Download-URL und Dateiname angepasst (NG -> NI)
@@ -28,7 +29,7 @@
 #
 ###############################################################################
 
-archive="ni_zusatzlogos.zip"
+archive="ni_logos.zip"
 workdir=${archive%%.*}
 
 cleanup() {
