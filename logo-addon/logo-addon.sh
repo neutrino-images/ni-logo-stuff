@@ -2,7 +2,7 @@
 
 ###############################################################################
 #
-# Senderlogo-Updater 0.15 fred_feuerstein [NI-Team]
+# Senderlogo-Updater 0.14 fred_feuerstein [NI-Team]
 #
 # Ziel:
 # Mit dem Updater werden die neuen und/oder geänderten Senderlogos seit dem
@@ -17,7 +17,6 @@
 # 
 #
 # Changelog:
-# 0.15 = kompilierte Version (c+)
 # 0.14 = Anpassungen an Update-Skript
 # 0.13 = Anpassungen an Update-Skript
 # 0.05 = Download-URL und Dateiname angepasst (NG -> NI)
