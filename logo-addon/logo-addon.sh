@@ -28,7 +28,7 @@
 #
 ###############################################################################
 
-archive="ni_logos.zip"
+archive="ni_zusatzlogos.zip"
 workdir=${archive%%.*}
 
 cleanup() {
