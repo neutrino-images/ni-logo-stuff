@@ -1,7 +1,6 @@
 #Logo Symlink File-ID Provid LogoName SymlinkName TimeStamp
 43100016e44 431a4016e46 # 2361 # Unitymedia # MDR Sachsen # MDR Sachsen # 26.10.2016
 43100016e47 431a4016e47 # 2362 # Unitymedia # SWR Fernsehen RP # SWR Fernsehen RP # 26.10.2016
-43600017001 43600017007 # 2368 # SAT # MTV Germany # MTV Germany # 09.01.2014
 43600017001 43600017009 # 2370 # SAT # MTV Germany # MTV Germany # 09.01.2014
 3f300012b66 43700012b66 # 2372 # Vodafone-KD # ZDF HD # ZDF HD # 27.10.2016
 3f300012b66 43700662b66 # 2379 # Unitymedia # ZDF HD # ZDF HD # 26.10.2016
@@ -40,7 +39,6 @@
 3fd000111fb 44400012779 # 2428 # SAT # Ulm-Allgäu # Ulm-Allgäu # 09.01.2014
 449003507fd 44600014285 # 2432 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
 2712f001d03e 449003507ff # 2437 # SAT # Animax # Animax # 09.01.2014
-600850082 44a000123ac # 2438 # SAT # Discovery HD # Discovery HD # 09.01.2014
 44d00016dce 44d00016dcb # 2440 # SAT # Bayerisches FS Nord # Bayerisches FS Nord # 09.01.2014
 15f270f891d 44d00016dcf # 2443 # SAT # WDRKöln # WDR Köln # 09.01.2014
 44d00016dca 44da4016dca # 2446 # Unitymedia # Das Erste # Das Erste # 26.10.2016
@@ -570,8 +568,6 @@ d00850070 d00850458 # 3453 # Unitymedia # NatGeo HD # NatGeo HD # 26.10.2016
 43600016fff e3a01856a8 # 3507 # KabelBW # MTV Music 24 # MTV Music 24 # 09.01.2014
 43600017008 e3a01856ab # 3508 # KabelBW # nickelodeon # nickelodeon # 20.09.2014
 90085003c ea04453a4 # 3511 # Primacom # Kinowelt TV # Kinowelt TV # 09.01.2014
-90085003e f00850025 # 3514  # AXN # AXN Action # 12.10.2015
-900850045 f0085003b # 3521 # SAT # sportdigital # sportdigital # 09.01.2014
 50085004a f1270f2b67 # 3522 # KabelBW # joiz # joiz # 09.01.2014
 43600017001 f1270f2f50 # 3523 # Unitymedia # MTV Germany # MTV Germany # 26.10.2016
 449003507fc f1270f3330 # 3524 # Unitymedia # Planet # Planet # 26.10.2016
@@ -694,7 +690,6 @@ e0085006a 187270f94d5 # 3782 # Unitymedia # Pro Sieben Fun HD # Pro Sieben Fun H
 3f300012b70 79270f42d9 # 3800 # Unitymedia # arte HD # arte HD # 26.10.2016
 800850088 1af270f94d6 # 3801 # Unitymedia # TNT Comedy HD # TNT Comedy HD # 26.10.2016
 2715f001c481 f1270f3334 # 3812 # Unitymedia # Silverline # Silverline # 26.10.2016
-d3270f5271 2cec013e439d # 3814  # Baby TV # Baby TV # 18.01.2014
 3fe00011afa 3fe00011af9 # 3815 # SAT # France 24 # France 24 # 18.01.2014
 2710f001c764 44c00012200 # 3817 # SAT # france 5 # France 5 # 18.01.2014
 2710f001d10e 43000012024 # 3818 # SAT # france 3 # France 3 # 18.01.2014
@@ -1359,7 +1354,6 @@ ffffe22e7909 ffffbce64572 # 4986 # WebTV # Q-music TV # Q-music TV # 23.02.2016
 300c013e4331 ffffd547cf77 # 5023 # WebTV # SRF 1 HD # SRF 1 HD # 01.03.2016
 2134013e03b7 6a4013e36e4 # 5024 # Hotbird # RSI LA 2 HD # RSI LA 2 HD # 01.03.2016
 ffff4a08cd84 ffff87960e4c # 5026 # WebTV # 18+ XXX # 18+ XXX2 # 02.03.2016
-449003507fd 4320001206e # 5027 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
 2714f001cf6d d7a0183716 # 5028 # KabelBW # BBC Entertainment # BBC Entertainment # 07.03.2016
 14a0464eb6 d8a0183b00 # 5029 # KabelBW # BonGusto # BonGusto # 07.03.2016
 2725f001c762 ffff0100578b # 5030 # WebTV # France 2 # France 2 # 08.03.2016
@@ -1384,7 +1378,6 @@ f1270f5e38 ffffc7202861 # 5051 # WebTV # XITE # XITE # 21.04.2016
 2715f001c481 1bbc009c0fa0 # 5054 # WTCkabel # Silverline # Silverline # 21.04.2016
 3f90001ef77 2718a60601a0 # 5055 # WTCkabel # SIXX HD # sixx HD # 21.04.2016
 271bf001c38c 2134009c4e87 # 5062 # WTCkabel # A&E HD # A&E HD # 21.04.2016
-33f4013e1360 ffff3d17fed1 # 5063 # WebTV # Private TV # Private TV # 21.04.2016
 271bf001c38c 206c009c026a # 5066 # WTCkabel # A&E HD # A&E HD # 21.04.2016
 1da0467166 1fa4009c0672 # 5067 # WTCkabel # Animal Planet HD # Animal Planet HD # 21.04.2016
 a0085007d 21fc009c4eeb # 5068 # WTCkabel # AXN HD # AXN HD # 21.04.2016
@@ -1417,7 +1410,6 @@ a0085007d 21fc009c4eeb # 5068 # WTCkabel # AXN HD # AXN HD # 21.04.2016
 2100850384 ffff7ac59ec7 # 5102 # WebTV # SPORT1 # Sport1 # 21.04.2016
 90085003e fffff05fe733 # 5103 # WebTV # AXN # AXN # 21.04.2016
 c82000317b3 ffff3d8569e3 # 5104 # WebTV # HBO 2 # HBO 2 # 21.04.2016
-97270f3afe ffff3de8dc98 # 5105 # WebTV # Extreme Sports # Extreme Sports # 21.04.2016
 110085001a ffff30ecb9f4 # 5106 # WebTV # Disney Junior # Disney Junior # 21.04.2016
 f0085003a ffff3a023828 # 5107 # WebTV # History # History # 21.04.2016
 c820003179d ffff212c3ded # 5108 # WebTV # Investigation Discovery # Investigation Discovery # 21.04.2016
@@ -1581,3 +1573,70 @@ b00850084 c00850084 # 5288 # Unitymedia # Eurosport 1 HD # EUROSPORT 1 HD # 29.1
 43700016d6b 20221140204 # 5305 # Unitymedia # ZDFinfo # ZDFinfo # 29.10.2016
 15f270f5e2b 15f270f896e # 5306 # Unitymedia # center TV # Center TV D # 29.10.2016
 43100016e42 1a0021140081 # 5307 # Unitymedia # NDR FS NDS # NDR FS NDS # 29.10.2016
+500850304 1ce800711cc1 # 5309 # SAT # TLC # TLC # 09.11.2016
+97270f3afe 44e0001196d # 5310 # SAT # Extreme Sports # EXTREME SPORTS # 09.11.2016
+d3270f5271 2db4013e0579 # 5311 # SAT # Baby TV # Baby TV # 09.11.2016
+44c000121ff 44c000121fd # 5312 # SAT # France 4 # FRANCE 4 # 09.11.2016
+40900012777 15e0fbff1e53 # 5313 # SAT # MTV HD # MTV HD # 09.11.2016
+640013e3dc7 3e8013e10e7 # 5314 # SAT # POWER TV # POWER TV # 09.11.2016
+271af001c383 1af4fbff2d03 # 5315 # SAT # Disney XD HD # Disney XD HD # 09.11.2016
+3c00de1771 1ce800711cbb # 5316 # SAT # Blue Hustler # Blue Hustler # 09.11.2016
+5dc013e13f1 434000122cb # 5317 # SAT # TRACE Urban # TRACE URBAN # 09.11.2016
+3200013e0001 3200013e0015 # 5318 # SAT # MTV Live HD # MTV Live HD # 09.11.2016
+900850090 206cfbff2d00 # 5319 # SAT # Sky Atlantic +1 HD # Sky Atlantic +1 HD # 09.11.2016
+4150001000d 42e00011f4c # 5320 # SAT # TRACE Africa # TRACE AFRICA # 09.11.2016
+640013e3dca 64fbff3bcd # 5321 # SAT # Hip Hop TV # Hip Hop TV # 09.11.2016
+2721f001cf13 2bc013e0009 # 5322 # SAT # SONLife # Sonlife # 09.11.2016
+640013e3dc6 2c88013e3d57 # 5323 # SAT # VOX MUSIC TV # VOX MUSIC TV # 09.11.2016
+c82000317b2 1edc0071290e # 5324 # SAT # HBO HD # HBO HD # 09.11.2016
+c82000317b2 1edc0071290f # 5325 # SAT # HBO HD # HBO HD # 09.11.2016
+43600017008 42e00011f48 # 5326 # SAT # nickelodeon # NICKELODEON # 09.11.2016
+443000179ea ffff09dcd713 # 5327 # SAT # HSE24 EXTRA # HSE24 Extra # 09.11.2016
+45400012f8a 4320001206d # 5328 # SAT # BFM TV # BFM TV # 09.11.2016
+4550001151a 14b4fbff37ad # 5329 # SAT # DMAX HD # DMAX HD # 09.11.2016
+500850701 2e7c013e12d1 # 5330 # SAT # Disney Channel # Disney Channel # 09.11.2016
+500850701 4420001232f # 5331 # SAT # Disney Channel # DISNEY CHANNEL # 09.11.2016
+1100850018 40800017602 # 5332 # SAT # Classica # CLASSICA # 09.11.2016
+110085001c 43c000124b9 # 5333 # SAT # Disney XD # DISNEY XD # 09.11.2016
+1100850022 1a90fbff0584 # 5334 # SAT # Sky Atlantic # Sky Atlantic # 09.11.2016
+18a0465e1a 434000122ce # 5335 # SAT # Motors TV # MOTORS TV # 09.11.2016
+1aa04665a4 41e00017699 # 5336 # SAT # MEZZO # MEZZO # 09.11.2016
+1aa04665a4 42e00011f4a # 5337 # SAT # MEZZO # MEZZO # 09.11.2016
+1aa04665e0 44800012199 # 5338 # SAT # mcm TOP # MCM TOP # 09.11.2016
+1aa04665f4 1af4fbff0dfa # 5339 # SAT # fashion tv # Fashion TV # 09.11.2016
+1da04671f2 42a00016ff6 # 5340 # SAT # nick jr. # Nick Jr. # 09.11.2016
+210085003f 251cfbff2c34 # 5341 # SAT # DMAX # DMAX # 09.11.2016
+3fc00011b64 332c013e1c89 # 5342 # SAT # Al Jazeera English # Al Jazeera English # 09.11.2016
+3fc00011b64 40400011158 # 5343 # SAT # Al Jazeera English # Al Jazeera English # 09.11.2016
+3fc00011b66 3ea0001139d # 5344 # SAT # NHK World TV # NHK World TV # 09.11.2016
+3fe00011b02 3138013e06aa # 5345 # SAT # CCTV NEWS # CCTV News # 09.11.2016
+40085000e 2af8013e1140 # 5346 # SAT # Discovery Channel # Discovery Channel # 09.11.2016
+4008500de 1838fbff2aa9 # 5347 # SAT # Sky Sport 2 # Sky Sport 2 # 09.11.2016
+41d00015270 2f44013e06c3 # 5348 # SAT # HSE24 HD # HSE24 HD # 09.11.2016
+41d00015270 ffff712eb56f # 5349 # SAT # HSE24 HD # HSE24 HD # 09.11.2016
+41d00015273 3200013e000e # 5350 # SAT # nickelodeon HD # Nickelodeon HD # 09.11.2016
+41f0001157c 1ce800711cb6 # 5351 # SAT # Disney Channel HD # Disney Channel HD # 09.11.2016
+41f0001157c 1ce800711cc5 # 5352 # SAT # Disney Channel HD # Disney Channel HD # 09.11.2016
+42300011bbe 2af8013e113a # 5353 # SAT # TVP INFO # TVP INFO # 09.11.2016
+42300011bc0 33f4013e132b # 5354 # SAT # TVP Polonia # TVP Polonia # 09.11.2016
+42a00016fee 157c013e014a # 5355 # SAT # MTV Hits # MTV Hits # 09.11.2016
+42a00016ff7 434000122c9 # 5356 # SAT # GAME ONE # GAME ONE # 09.11.2016
+42a00016ff7 1f40013e4460 # 5357 # SAT # GAME ONE # Game One # 09.11.2016
+a0085007c 14b4fbff37a6 # 5358 # SAT # Fox HD # Fox HD # 09.11.2016
+a0085007c 17d4013e1bd1 # 5359 # SAT # Fox HD # FOX HD # 09.11.2016
+a0085007c 1e7800710c2d # 5360 # SAT # Fox HD # FOX HD # 09.11.2016
+a0085007d 1e7800710c2a # 5361 # SAT # AXN HD # AXN HD # 09.11.2016
+a0085007d 2198fbff2d04 # 5362 # SAT # AXN HD # AXN HD # 09.11.2016
+d8a0183b05 43e000126b3 # 5363 # SAT # Penthouse # PENTHOUSE # 09.11.2016
+e0085006d 1edc0071290c # 5364 # SAT # Eurosport 2 HD # Eurosport 2 HD # 09.11.2016
+e0085006d 1edc00712910 # 5365 # SAT # Eurosport 2 HD # Eurosport 2 HD # 09.11.2016
+e00850193 1ce800711cb8 # 5366 # SAT # Boomerang # Boomerang # 09.11.2016
+e00850193 434000122cc # 5367 # SAT # Boomerang # BOOMERANG # 09.11.2016
+f00850039 4160001772d # 5368 # SAT # A&E # A&E # 09.11.2016
+f0085003a 2bc0013e4284 # 5369 # SAT # History # History # 09.11.2016
+45400010d42 ffffd6090edf # 5370 # SAT # QVC PLUS # QVC PLUS # 09.11.2016
+45400010d42 ffff60c9ce82 # 5371 # SAT # QVC PLUS # QVC PLUS # 09.11.2016
+2710f001d10e ffff3863d6e8 # 5372 # SAT # france 3 # France 3 # 09.11.2016
+2710f001d10e ffff8156fecb # 5373 # SAT # france 3 # France 3 # 09.11.2016
+3fe00011af8 ffff3de8dc98 # 5374 # SAT # Russia Today # Russia Today # 09.11.2016
+3fe00011afa ffff7a0ad75a # 5375 # SAT # France 24 # France 24 # 09.11.2016
