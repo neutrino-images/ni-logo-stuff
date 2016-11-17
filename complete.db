@@ -1374,7 +1374,7 @@ ffff4a08cd84 ffff87960e4c # 5026 # WebTV # 18+ XXX # 18+ XXX2 # 02.03.2016
 42a00016ff0 271da6066ff0 # 5049 # WTCkabel # VH1 # VH1 # 21.04.2016
 f1270f5e38 ffffc7202861 # 5051 # WebTV # XITE # XITE # 21.04.2016
 1aa04665f4 ffff04dc593c # 5052 # WebTV # fashion tv # Fashion TV # 21.04.2016
-2720f001c36e 1bbc009c0faa # 5053 # WTCkabel # Sony Entertainment TV HD # Sony Entertainment TV HD # 21.04.2016
+2720f001c36e 1bbc009c0faa # 5053 # WTCkabel # Sony Channel HD # Sony Channel HD # 17.11.2016
 2715f001c481 1bbc009c0fa0 # 5054 # WTCkabel # Silverline # Silverline # 21.04.2016
 3f90001ef77 2718a60601a0 # 5055 # WTCkabel # SIXX HD # sixx HD # 21.04.2016
 271bf001c38c 2134009c4e87 # 5062 # WTCkabel # A&E HD # A&E HD # 21.04.2016
@@ -1508,7 +1508,6 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 44100012efe 2712f001d04e # 5225 # Vodafone-KD # Toggo Plus # Toggo Plus # 27.10.2016
 44100012f30 2714f001d04f # 5226 # Vodafone-KD # RTLplus # RTLplus # 27.10.2016
 45500011523 4590001314d # 5228 # WebTV # TecTime TV # TecTime TV # 30.07.2016
-2720f001c36e 1d7270f4e9b # 5229 # Unitymedia # Sony Entertainment TV HD # Sony Entertainment TV # 26.10.2016
 2721f001cf6f f00850023 # 5231 # SAT # Zee.One # Zee.One # 09.08.2016
 1008500a8 9008500a8 # 5233 # SAT # Motorvision TV # Motorvision TV # 16.09.2016
 900850090 1000850090 # 5236 # SAT # Sky Atlantic +1 HD # Sky Atlantic +1 HD # 16.09.2016
