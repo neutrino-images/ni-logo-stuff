@@ -722,7 +722,6 @@ e0085006a 187270f94d5 # 3782 # Unitymedia # Pro Sieben Fun HD # Pro Sieben Fun H
 4b100016ea5 41b00016ea5 # 3877 # Vodafone-KD # WDR HD Köln # WDR HD Köln # 27.10.2016
 2716f001c36d 41100012eaf # 3880 # SAT # RTLnitro HD # RTLnitro HD # 08.04.2014
 500850304 2712f001cfe4 # 3881 # Vodafone-KD # TLC # TLC # 27.10.2016
-2720f001c370 d3270f526e # 3882 # Unitymedia # NatGeo People HD # NatGeo People HD # 26.10.2016
 271ef001c366 1b9270f621b # 3883 # Unitymedia # Spiegel TV Wissen HD # Spiegel TV Wissen HD # 26.10.2016
 14a0464eb6 0d8a0183b00 # 3886 # KabelBW # BonGusto # BonGusto # 10.04.2014
 1aa04665d6 d8a0183aff # 3887 # KabelBW # Nautical # Nautical # 10.04.2014
@@ -1639,3 +1638,6 @@ f0085003a 2bc0013e4284 # 5369 # SAT # History # History # 09.11.2016
 2710f001d10e ffff8156fecb # 5373 # SAT # france 3 # France 3 # 09.11.2016
 3fe00011af8 ffff3de8dc98 # 5374 # SAT # Russia Today # Russia Today # 09.11.2016
 3fe00011afa ffff7a0ad75a # 5375 # SAT # France 24 # France 24 # 09.11.2016
+b00850084 231270fdb28 # 5378 # Unitymedia # Eurosport 1 HD # EUROSPORT 1 HD # 02.12.2016
+3008500f1 f00850025 # 5380 # SAT # Sky Sport News # Sky Sport News # 02.12.2016
+b00850084 413000130d6 # 5381 # SAT # Eurosport 1 HD # EUROSPORT 1 HD # 02.12.2016
