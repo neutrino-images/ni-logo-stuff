@@ -1337,7 +1337,6 @@ e00850065 6f270f2b92 # 4982 # Unitymedia # Universal HD # Universal HD # 26.10.2
 3f200012b98 6f270f2b91 # 4983 # Unitymedia # KiKA HD # KiKA HD # 26.10.2016
 2725f001d046 ab270f42e0 # 4984 # Unitymedia # BVN # BVN # 26.10.2016
 ffffe22e7909 ffffbce64572 # 4986 # WebTV # Q-music TV # Q-music TV # 23.02.2016
-45500011523 ffff6c684a55 # 4987 # WebTV # TecTime TV # TecTime TV # 23.02.2016
 45d000132c9 ffff4c2591da # 4989 # WebTV # ORF1 # ORF1 # 26.02.2016
 45d000132ca ffffd1e13cfc # 4990 # WebTV # ORF2 # ORF2 # 26.02.2016
 43700016d6e ffff114bb2e7 # 5010 # WebTV # zdf_neo # zdf_neo # 01.03.2016
@@ -1352,7 +1351,7 @@ ffffe22e7909 ffffbce64572 # 4986 # WebTV # Q-music TV # Q-music TV # 23.02.2016
 300c013e4332 ffff20f45b30 # 5021 # WebTV # SRF zwei HD # SRF zwei HD # 01.03.2016
 300c013e4331 ffffd547cf77 # 5023 # WebTV # SRF 1 HD # SRF 1 HD # 01.03.2016
 2134013e03b7 6a4013e36e4 # 5024 # Hotbird # RSI LA 2 HD # RSI LA 2 HD # 01.03.2016
-ffff4a08cd84 ffff87960e4c # 5026 # WebTV # 18+ XXX # 18+ XXX2 # 02.03.2016
+ffff4a08cd84 ffffe0f328f4 # 5026 # WebTV # 18+ XXX # 18+ XXX2 # 01.01.2017
 2714f001cf6d d7a0183716 # 5028 # KabelBW # BBC Entertainment # BBC Entertainment # 07.03.2016
 14a0464eb6 d8a0183b00 # 5029 # KabelBW # BonGusto # BonGusto # 07.03.2016
 2725f001c762 ffff0100578b # 5030 # WebTV # France 2 # France 2 # 08.03.2016
@@ -1506,7 +1505,6 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 41f0001157f 2727f001c39c # 5224 # Vodafone-KD # Deluxe Music HD # Deluxe Music HD # 27.10.2016
 44100012efe 2712f001d04e # 5225 # Vodafone-KD # Toggo Plus # Toggo Plus # 27.10.2016
 44100012f30 2714f001d04f # 5226 # Vodafone-KD # RTLplus # RTLplus # 27.10.2016
-45500011523 4590001314d # 5228 # WebTV # TecTime TV # TecTime TV # 30.07.2016
 2721f001cf6f f00850023 # 5231 # SAT # Zee.One # Zee.One # 09.08.2016
 1008500a8 9008500a8 # 5233 # SAT # Motorvision TV # Motorvision TV # 16.09.2016
 900850090 1000850090 # 5236 # SAT # Sky Atlantic +1 HD # Sky Atlantic +1 HD # 16.09.2016
@@ -1649,3 +1647,6 @@ b00850084 271bf001c3a2 # 5386 # Vodafone-KD # Eurosport 1 HD # EUROSPORT 1 HD # 
 3fd000111fc 2710f001cb23 # 5390 # Vodafone-KD # münchen.tv # münchen.tv # 20.12.2016
 4440001277a 2710f001cb46 # 5391 # Vodafone-KD # münchen 2 # münchen 2 # 20.12.2016
 4010001285a 4310001285a # 5393 # Vodafone-KD # NDR FS SH HD # NDR FS SH HD # 20.12.2016
+ffff4a08cd84 ffff845edcac # 5394 # WebTV # 18+ XXX # 18+ XXX1 # 01.01.2017
+ffff4a08cd84 ffff2e5c6a5d # 5395 # WebTV # 18+ XXX # 18+ XXX3 # 01.01.2017
+1da04671f2 42a00016ff7 # 5397 # Vodafone-KD # nick jr. # Nick Jr. # 01.01.2017
