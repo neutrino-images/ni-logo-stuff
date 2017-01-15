@@ -115,13 +115,13 @@ c00850073 514013e3ab7 # 2563 # Hotbird # MGM HD # MGM HD # 09.01.2014
 1100850022 100850022 # 2576 # Unitymedia # Sky Atlantic # Sky Atlantic # 26.10.2016
 1100850024 100850024 # 2577 # Unitymedia # Syfy # Syfy # 26.10.2016
 1100850137 100850137 # 2581 # Unitymedia # Sky Select 7 # Sky Select 7 # 26.10.2016
-1100850138 100850138 # 2582 # Unitymedia # Sky Bundesliga 7 # Sky Bundesliga 7 # 26.10.2016
+1100850138 100850138 # 2582 # Unitymedia # Sky Bundesliga 7 # Sky Sport Bundesliga 7 # 26.10.2016
 1100850139 100850139 # 2583 # Unitymedia # Sky Sport 8 # Sky Sport 8 # 26.10.2016
 1100850141 100850141 # 2584 # Unitymedia # Sky Select 8 # Sky Select 8 # 26.10.2016
-1100850142 100850142 # 2585 # Unitymedia # Sky Bundesliga 8 # Sky Bundesliga 8 # 26.10.2016
+1100850142 100850142 # 2585 # Unitymedia # Sky Bundesliga 8 # Sky Sport Bundesliga 8 # 26.10.2016
 1100850143 100850143 # 2586 # Unitymedia # Sky Sport 9 # Sky Sport 9 # 26.10.2016
 110085014b 10085014b # 2587 # Unitymedia # Sky Select 9 # Sky Select 9 # 26.10.2016
-110085014c 10085014c # 2588 # Unitymedia # Sky Bundesliga 9 # Sky Bundesliga 9 # 26.10.2016
+110085014c 10085014c # 2588 # Unitymedia # Sky Bundesliga 9 # Sky Sport Bundesliga 9 # 26.10.2016
 110085014d 10085014d # 2589 # Unitymedia # Sky Sport 10 # Sky Sport 10 # 26.10.2016
 110085014e 10085014e # 2590 # Unitymedia # Sky Select Event B # Sky Select Event B # 26.10.2016
 1100850206 100850206 # 2594 # Unitymedia # Goldstar TV # Goldstar TV # 26.10.2016
@@ -1083,7 +1083,7 @@ e00850194 0d8a0183b07 # 4631 # Kabelplus # Cartoon Network (S) # Cartoon Network
 4550001151a 1cd270f7980 # 4634 # Unitymedia # DMAX HD # DMAX HD # 26.10.2016
 41f0001157f 1cd270fb417 # 4635 # Unitymedia # Deluxe Music HD # Deluxe Music HD # 26.10.2016
 41f00011580 1cd270fb418 # 4636 # Unitymedia # QVC PLUS HD # QVC PLUS HD # 26.10.2016
-110085014c 200850156 # 4637 # Kabelplus # Sky Bundesliga 9 # Sky Bundesliga 9 # 19.04.2015
+110085014c 200850156 # 4637 # Kabelplus # Sky Bundesliga 9 # Sky Sport Bundesliga 9 # 19.04.2015
 500850304 2714f001d172 # 4638 # Kabelplus # TLC # TLC # 19.04.2015
 500850304 2aa046a488 # 4641 # Kabelplus # TLC # TLC # 19.04.2015
 c0085007e 3900de1645 # 4646 # Kabelplus # Syfy HD # Syfy HD # 19.04.2015
@@ -1285,11 +1285,11 @@ e0085006d 90085006d # 4855 # SAT # Eurosport 2 HD # Eurosport 2 HD # 18.11.2015
 40085000c 20085000c # 4871 # SAT # NatGeo Wild # NatGeo Wild # 18.11.2015
 200850009 300850009 # 4872 # SAT # Sky Cinema Action # Sky Cinema Action # 24.09.2016
 1100850022 400850022 # 4873 # SAT # Sky Atlantic # Sky Atlantic # 18.11.2015
-200850106 300850106 # 4874 # SAT # Sky Bundesliga 2 # Sky Bundesliga 2 # 18.11.2015
-1100850138 200850138 # 4875 # SAT # Sky Bundesliga 7 # Sky Bundesliga 7 # 18.11.2015
-1100850142 200850142 # 4876 # SAT # Sky Bundesliga 8 # Sky Bundesliga 8 # 18.11.2015
-110085014c 20085014c # 4878 # SAT # Sky Bundesliga 9 # Sky Bundesliga 9 # 18.11.2015
-2008500fc 3008500fc # 4879 # SAT # Sky Bundesliga 10 # Sky Bundesliga 10 # 18.11.2015
+200850106 300850106 # 4874 # SAT # Sky Bundesliga 2 # Sky Sport Bundesliga 2 # 18.11.2015
+1100850138 200850138 # 4875 # SAT # Sky Bundesliga 7 # Sky Sport Bundesliga 7 # 18.11.2015
+1100850142 200850142 # 4876 # SAT # Sky Bundesliga 8 # Sky Sport Bundesliga 8 # 18.11.2015
+110085014c 20085014c # 4878 # SAT # Sky Bundesliga 9 # Sky Sport Bundesliga 9 # 18.11.2015
+2008500fc 3008500fc # 4879 # SAT # Sky Bundesliga 10 # Sky Sport Bundesliga 10 # 18.11.2015
 20085000a 40085000a # 4880 # SAT # Sky Cinema # Sky Cinema # 24.09.2016
 20085000b 30085000b # 4881 # SAT # Sky Cinema +1 # Sky Cinema +1 # 24.09.2016
 20085002b 30085002b # 4883 # SAT # Sky Cinema +24 # Sky Cinema +24 # 24.09.2016
@@ -1480,7 +1480,6 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 41f0001157e 2727f001c39e # 5194 # Vodafone-KD # 1-2-3.tv HD # 1-2-3.tv HD # 27.10.2016
 413000130d4 141270f7d6a # 5196 # Unitymedia # SAT.1 Gold HD # Sat.1 Gold HD # 26.10.2016
 90085008c 14b270f94d7 # 5197 # Unitymedia # RTL Crime HD # RTL Crime HD # 26.10.2016
-2a0444eec 1cd270f6608 # 5198 # Unitymedia # pearl.tv # pearl.tv # 26.10.2016
 2721f001cf13 1e1270f4e85 # 5199 # Unitymedia # SONLife # SonLife # 26.10.2016
 2714f001cf6d 1f5270f3716 # 5200 # Unitymedia # BBC Entertainment # BBC Entertainment # 30.05.2016
 50085004a 1ff270f2b67 # 5201 # Unitymedia # joiz # Joiz # 26.10.2016
@@ -1532,7 +1531,7 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 41f0001157c 79270f69e7 # 5264 # Unitymedia # Disney Channel HD # Disney Channel HD # 26.10.2016
 640013e3dca 2c88013e3d63 # 5265 # Hotbird # Hip Hop TV # Hip Hop TV # 12.10.2016
 45300014462 45f00353268 # 5267 # SAT # kabel eins classics # kabel eins classics # 12.10.2016
-271af001c386 45f0035325f # 5268 # SAT # sportdigital HD # sportdigital HD # 21.10.2016
+271af001c386 45100351018 # 5268 # SAT # sportdigital HD # sportdigital HD # 10.01.2017
 4210001ef10 213270fcf6e # 5272 # Unitymedia # RTL HD # RTL HD # 26.10.2016
 44100012f30 e7270f4e9c # 5273 # Unitymedia # RTLplus # RTLplus # 26.10.2016
 3f90001ef74 213270fcf6f # 5274 # Unitymedia # SAT.1 HD # Sat.1 HD # 26.10.2016
@@ -1554,7 +1553,6 @@ b00850084 c00850084 # 5288 # Unitymedia # Eurosport 1 HD # EUROSPORT 1 HD # 29.1
 4530001445e 22012114400a # 5290 # Unitymedia # kabel eins # kabel eins # 29.10.2016
 43100016e45 1a0021140064 # 5291 # Unitymedia # MDR S-Anhalt # MDR S-Anhalt # 29.10.2016
 4530001445f 22012114400e # 5292 # Unitymedia # N24 # N24 # 29.10.2016
-2a0444eec 105270f6608 # 5293 # Unitymedia # pearl.tv # pearl.tv # 29.10.2016
 41b00017035 180021140003 # 5294 # Unitymedia # PHOENIX # PHOENIX # 29.10.2016
 4530001445d 220121144013 # 5295 # Unitymedia # ProSieben # ProSieben # 29.10.2016
 44100012ef4 220221144016 # 5296 # Unitymedia # RTL2 # RTL2 # 29.10.2016
@@ -1640,7 +1638,7 @@ b00850084 231270fdb28 # 5378 # Unitymedia # Eurosport 1 HD # EUROSPORT 1 HD # 02
 3008500f1 f00850025 # 5380 # SAT # Sky Sport News # Sky Sport News # 02.12.2016
 b00850084 413000130d6 # 5381 # SAT # Eurosport 1 HD # EUROSPORT 1 HD # 02.12.2016
 80085008b b0085008b # 5382 # Unitymedia # Sky Cinema Family HD # Sky Cinema Family HD # 13.12.2016
-3fb0001283f  227270fd73d # 5383 # Unitymedia # SWR BW HD # SWR BW HD # 13.12.2016
+3fb0001283f 227270fd73d # 5383 # Unitymedia # SWR BW HD # SWR BW HD # 13.12.2016
 413000130d4 2724f001c39a # 5384 # Vodafone-KD # SAT.1 Gold HD # Sat.1 Gold HD # 13.12.2016
 3f90001ef78 2724f001c37e # 5385 # Vodafone-KD # ProSieben MAXX HD # ProSieben MAXX HD # 13.12.2016
 b00850084 271bf001c3a2 # 5386 # Vodafone-KD # Eurosport 1 HD # EUROSPORT 1 HD # 13.12.2016
@@ -1651,3 +1649,7 @@ ffff4a08cd84 ffff845edcac # 5394 # WebTV # 18+ XXX # 18+ XXX1 # 01.01.2017
 ffff4a08cd84 ffff2e5c6a5d # 5395 # WebTV # 18+ XXX # 18+ XXX3 # 01.01.2017
 1da04671f2 42a00016ff7 # 5397 # Vodafone-KD # nick jr. # Nick Jr. # 01.01.2017
 449003507fa 4510035100b # 5398 # SAT # Hustler TV # Hustler TV # 07.01.2017
+45300014462 4510035101c # 5399 # SAT # kabel eins classics # kabel eins classics # 15.01.2017
+90085003e 4510035101d # 5400 # SAT # AXN # AXN # 15.01.2017
+449003507fc 45100351013 # 5401 # SAT # Planet # Planet # 15.01.2017
+f00850037 45f00353262 # 5403 # SAT # Eurosport 2 # Eurosport 2 # 15.01.2017
