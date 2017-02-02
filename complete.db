@@ -412,6 +412,8 @@ e00850194 2fa8013e1d21 # 3003 # Hotbird # Cartoon Network (S) # Cartoon Network 
 42a00016ff0 42a00016ffa # 3210 # SAT # VH1 # VH1 # 09.01.2014
 42a00016ff1 42a00016ffb # 3211 # SAT # VH1 Classic # VH1 Classic # 09.01.2014
 43600017001 42a00017013 # 3214 # SAT # MTV Germany # MTV Germany # 09.01.2014
+43100016e44 43100016e45 # 3226  # mdr Sachsen # MDR S-Anhalt # 09.01.2014
+43100016e44 43100016e46 # 3227  # mdr Sachsen # MDR Thüringen # 09.01.2014
 43100016e2d 431a4016e2d # 3229 # Unitymedia # rbb Brandenburg # rbb Brandenburg # 26.10.2016
 43100016e2e 431a4016e2e # 3230 # Unitymedia # rbb Berlin # rbb Berlin # 26.10.2016
 43100016e41 431a4016e40 # 3231 # Unitymedia # NDR FS HH # NDR FS HH # 26.10.2016
@@ -419,7 +421,7 @@ e00850194 2fa8013e1d21 # 3003 # Hotbird # Cartoon Network (S) # Cartoon Network 
 43100016e41 431a4016e42 # 3233 # Unitymedia # NDR FS HH # NDR FS HH # 26.10.2016
 43100016e41 431a4016e43 # 3234 # Unitymedia # NDR FS HH # NDR FS HH # 26.10.2016
 43100016e44 431a4016e44 # 3235 # Unitymedia # MDR Sachsen # MDR Sachsen # 26.10.2016
-43100016e45 431a4016e45 # 3236 # Unitymedia # MDR S-Anhalt # MDR S-Anhalt # 26.10.2016
+43100016e44 431a4016e45 # 3236 # Unitymedia # mdr Sachsen # MDR S-Anhalt # 26.10.2016
 1af270f797f 514013e3abe # 3237 # Hotbird # Romance TV HD # Romance TV HD Polska # 09.01.2014
 600850082 51cfbff2c26 # 3238 # SAT # Discovery HD # Discovery HD # 09.01.2014
 1da04671f2 578013e001e # 3239 # Hotbird # nick jr. # Nick Jr. # 09.01.2014
@@ -595,7 +597,7 @@ e00850193 2134009c4e91 # 3546 # TeleColumbus # Boomerang # Boomerang # 24.09.201
 a0085007c 21fc009c4ef6 # 3551 # TeleColumbus # Fox HD # FOX HD # 09.01.2014
 f0085003a 2134009c4e96 # 3552 # TeleColumbus # History # History # 09.01.2014
 3f90001ef76 1644009c00e6 # 3553 # TeleColumbus # kabel eins HD # Kabel eins HD # 09.01.2014
-43100016e45 44500016f0d # 3554 # TeleColumbus # MDR S-Anhalt # MDR S-ANHALT # 09.01.2014
+43100016e44 44500016f0d # 3554 # TeleColumbus # mdr Sachsen # MDR S-ANHALT # 09.01.2014
 45400010d42 14b4009c00d4 # 3555 # TeleColumbus # QVC PLUS # QVC Plus # 09.01.2014
 500850702 1964009c0195 # 3556 # TeleColumbus # QVC # OJOM # 09.01.2014
 4210001ef10 1edc009c012d # 3557 # TeleColumbus # RTL HD # RTL HD # 09.01.2014
@@ -617,7 +619,7 @@ e00850194 2134009c4e98 # 3570 # TeleColumbus # Cartoon Network (S) # Cartoon Net
 f00850037 21fc009c4ef1 # 3573 # TeleColumbus # Eurosport 2 Deutschland # Eurosport 2 Deutschland # 09.01.2014
 41f00011581 1644009c00ea # 3574 # TeleColumbus # SPORT1 HD # SPORT1 HD # 09.01.2014
 443000179e0 14b4009c00dc # 3575 # TeleColumbus # Eurosport Deutschland # Eurosport Deutschland # 09.01.2014
-43100016e46 44500016f0e # 3576 # TeleColumbus # MDR Thüringen # MDR Thüringen # 09.01.2014
+43100016e44 44500016f0e # 3576 # TeleColumbus # mdr Sachsen # MDR Thüringen # 09.01.2014
 43600017001 21fc009c4ef0 # 3577 # TeleColumbus # MTV Germany # MTV Germany # 09.01.2014
 43600017004 14b4009c00d8 # 3578 # TeleColumbus # VIVA ComedyCentral # VIVA ComedyCentral # 09.01.2014
 7d90002183a 206c009c026f # 3579 # TeleColumbus # Animal Planet # Animal Planet # 10.01.2014
@@ -1513,8 +1515,8 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 40100012855 ffffaaa31946 # 5240 # WebTV # BR Süd HD # BR Nord HD # 19.09.2016
 4010001285a ffff2e699a79 # 5241 # WebTV # NDR FS SH HD # NDR FS SH HD # 19.09.2016
 40100012855 ffff84d9ba8d # 5242 # WebTV # BR Süd HD # BR Sued HD # 19.09.2016
-43100016e45 ffffd6c4e8c7 # 5243 # WebTV # MDR S-Anhalt # MDR S-Anhalt # 19.09.2016
-43100016e46 ffff9d91a389 # 5244 # WebTV # MDR Thüringen # MDR Thüringen # 19.09.2016
+43100016e44 ffffd6c4e8c7 # 5243 # WebTV # mdr Sachsen # MDR S-Anhalt # 19.09.2016
+43100016e44 ffff9d91a389 # 5244 # WebTV # mdr Sachsen # MDR Thüringen # 19.09.2016
 40100012859 ffffeda6894d # 5245 # WebTV # NDR FS HH HD # NDR FS HH HD # 19.09.2016
 4010001285a ffff7de46493 # 5246 # WebTV # NDR FS SH HD # NDR MV HD # 19.09.2016
 40100012857 ffff5b8044d1 # 5247 # WebTV # NDR FS NDS HD # NDR Niedersachsen HD # 19.09.2016
@@ -1551,7 +1553,7 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 b00850084 c00850084 # 5288 # Unitymedia # Eurosport 1 HD # EUROSPORT 1 HD # 29.10.2016
 2725f001d03b f1270f6dce # 5289 # Unitymedia # GINX TV # Ginx TV # 29.10.2016
 4530001445e 22012114400a # 5290 # Unitymedia # kabel eins # kabel eins # 29.10.2016
-43100016e45 1a0021140064 # 5291 # Unitymedia # MDR S-Anhalt # MDR S-Anhalt # 29.10.2016
+43100016e44 1a0021140064 # 5291 # Unitymedia # mdr Sachsen # MDR S-Anhalt # 29.10.2016
 4530001445f 22012114400e # 5292 # Unitymedia # N24 # N24 # 29.10.2016
 41b00017035 180021140003 # 5294 # Unitymedia # PHOENIX # PHOENIX # 29.10.2016
 4530001445d 220121144013 # 5295 # Unitymedia # ProSieben # ProSieben # 29.10.2016
@@ -1657,8 +1659,8 @@ f00850037 4510035100a # 5405 # SAT # Eurosport 2 # Eurosport 2 # 16.01.2017
 41b00017034 380121140002 # 5406 # DVBT # arte # arte # 21.01.2017
 44d00016dca 3801211400e0 # 5407 # DVBT # Das Erste # Das Erste # 21.01.2017
 44d00016dcc 391021140041 # 5408 # DVBT # hr-fernsehen # hr-fernsehen # 21.01.2017
-43100016e45 190021140064 # 5409 # DVBT # MDR S-Anhalt # MDR S-Anhalt # 21.01.2017
-43100016e45 520021140064 # 5410 # DVBT # MDR S-Anhalt # MDR S-Anhalt # 21.01.2017
+43100016e44 190021140064 # 5409 # DVBT # mdr Sachsen # MDR S-Anhalt # 21.01.2017
+43100016e44 520021140064 # 5410 # DVBT # mdr Sachsen # MDR S-Anhalt # 21.01.2017
 43100016e42 190021140081 # 5411 # DVBT # NDR FS NDS # NDR FS NDS # 21.01.2017
 43100016e42 520021140081 # 5412 # DVBT # NDR FS NDS # NDR FS NDS # 21.01.2017
 41b00017032 180021140005 # 5413 # DVBT # One # ONE # 21.01.2017
