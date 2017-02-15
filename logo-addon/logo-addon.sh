@@ -2,7 +2,7 @@
 
 ###############################################################################
 #
-# Senderlogo-Updater 0.18 fred_feuerstein [NI-Team]
+# Senderlogo-Updater 0.17 fred_feuerstein [NI-Team]
 #
 # Ziel:
 # Mit dem Updater werden die neuen und/oder geänderten Senderlogos seit dem
