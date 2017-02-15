@@ -35,7 +35,7 @@ archive="ni_zusatzlogos.zip"
 workdir=${archive%%.*}
 echo $archive >> /tmp/logo.txt
 
-vinfo="0.16"
+vinfo="0.17"
 
 cleanup() {
 	rm -rf /tmp/$workdir /tmp/$archive
