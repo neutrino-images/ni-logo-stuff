@@ -2,7 +2,7 @@
 
 ###############################################################################
 #
-# Senderlogo-Updater 0.17 fred_feuerstein [NI-Team]
+# Senderlogo-Updater 0.16 fred_feuerstein [NI-Team]
 #
 # Ziel:
 # Mit dem Updater werden die neuen und/oder geänderten Senderlogos seit dem
@@ -17,7 +17,6 @@
 # 
 #
 # Changelog:
-# 0.17 = Anpassung an msgbox V2, Anzeige von Icon im msgbox Header
 # 0.16 = Logo-Updater kann nun auch vor dem Start wieder beendet werden
 # 0.15 = Anpassungen an Update-Skript
 # 0.14 = Anpassungen an Update-Skript
@@ -35,7 +34,7 @@ archive="ni_zusatzlogos.zip"
 workdir=${archive%%.*}
 echo $archive >> /tmp/logo.txt
 
-vinfo="0.17"
+vinfo="0.16"
 
 cleanup() {
 	rm -rf /tmp/$workdir /tmp/$archive
@@ -62,7 +61,7 @@ if [ -e $archive ]; then
 		1)
       #Logo-Updater ausfuehren
 			test -e updates && chmod 755 updates && ./updates
-    	echo "- Logo-Updater erfolgreich beendet."
+    	echo "- Logo-Updater beendet."
 			;;
 		2)
 	    #Abbruch
