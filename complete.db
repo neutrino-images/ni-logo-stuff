@@ -129,7 +129,7 @@ c00850073 514013e3ab7 # 2563 # Hotbird # MGM HD # MGM HD # 09.01.2014
 1100850024 10085040c # 2598 # Unitymedia # Syfy # Syfy # 26.10.2016
 100850032 10085041a # 2599 # Unitymedia # TNT Serie # TNT Serie # 26.10.2016
 2712f001d03e 10a0463e94 # 2601 # Wilhelm_tell # Animax # Animax # 09.01.2014
-f00850039 10a0463e9e # 2602 # Wilhelm_tell # A&E # A&E # 22.09.2014
+e00850192 10a0463e9e # 2602 # Wilhelm_tell # A&E # A&E # 25.03.2017
 45b00013355 10a0463f0c # 2603 # Wilhelm_tell # BTV # BTV # 09.01.2014
 3fe00011af8 10f270f4e93 # 2604 # Unitymedia # Russia Today # Russia Today # 26.10.2016
 3fe00011b02 10f270f4e97 # 2605 # Unitymedia # CCTV NEWS # CCTV NEWS # 26.10.2016
@@ -281,7 +281,7 @@ f0085003a 2713f001d035 # 2830 # Vodafone-KD # History # History # 27.10.2016
 500850308 2718f001c60c # 2917 # Vodafone-KD # SIXX # SIXX # 27.10.2016
 40085000d 2718f001c614 # 2918 # Vodafone-KD # National Geographic # National Geographic # 27.10.2016
 e00850194 2718f001c617 # 2919 # Vodafone-KD # Cartoon Network (S) # Cartoon Network (S) # 27.10.2016
-f00850039 2718f001c619 # 2920 # Vodafone-KD # A&E # A&E # 27.10.2016
+e00850192 2718f001c619 # 2920 # Vodafone-KD # A&E # A&E # 25.03.2017
 2100850033 2718f001cf0a # 2921 # Vodafone-KD # TELE 5 # TELE 5 # 27.10.2016
 f00850026 2718f001d0a5 # 2922 # Vodafone-KD # Romance TV # Romance TV # 27.10.2016
 443000179e0 2718f001d167 # 2923 # Vodafone-KD # Eurosport Deutschland # Eurosport Deutschland # 27.10.2016
@@ -453,7 +453,7 @@ f0085003a 83270f332e # 3314 # Unitymedia # History # History # 26.10.2016
 90085003e 83270f3335 # 3319 # Unitymedia # AXND # AXND # 26.10.2016
 45300014462 83270f3338 # 3322 # Unitymedia # kabel eins classics # kabel eins classics # 26.10.2016
 3f70001125d 83270f3339 # 3323 # Unitymedia # SAT.1 emotions # SAT.1 emotions # 26.10.2016
-f00850039 83270f6210 # 3324 # Unitymedia # A&E # A&E # 26.10.2016
+e00850192 83270f6210 # 3324 # Unitymedia # A&E # A&E # 25.03.2017
 900850045 83270f6217 # 3325 # Unitymedia # Sportdigital # Sportdigital # 26.10.2016
 42a00016ff0 8a0442a31 # 3326 # Primacom # VH1. # VH1. # 09.01.2014
 42a00016ff1 8a0442a32 # 3327 # Primacom # VH1 Classic. # VH1 Classic. # 09.01.2014
@@ -643,7 +643,7 @@ d00850070 2134009c4e9a # 3593 # TeleColumbus # NatGeo HD # NatGeo HD # 13.01.201
 45b00013336 14b4009c00f5 # 3598 # TeleColumbus # ServusTV Deutschland # ServusTV Deutschland # 13.01.2014
 2713f001d099 206c009c0268 # 3599 # TeleColumbus # Spiegel TV # Spiegel TV # 13.01.2014
 42300011bbe 1fa4013e3675 # 3600 # TeleColumbus # TVP INFO # TVP INFO # 13.01.2014
-f00850039 2134009c4e99 # 3601 # TeleColumbus # A&E # A&E # 22.09.2014
+e00850192 2134009c4e99 # 3601 # TeleColumbus # A&E # A&E # 25.03.2017
 1cd270fb02d 1964009c01a3 # 3602 # TeleColumbus # VIVA HD # VIVA HD # 13.01.2014
 1ba0466a18 206c009c026d # 3603 # TeleColumbus # Auto Motor Sport Channel # Auto Motor Sport Channel # 13.01.2014
 44100012f3a 1edc009c0133 # 3604 # TeleColumbus # n-tv # n-tv # 13.01.2014
@@ -1507,7 +1507,7 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 44100012efe 2712f001d04e # 5225 # Vodafone-KD # Toggo Plus # Toggo Plus # 27.10.2016
 44100012f30 2714f001d04f # 5226 # Vodafone-KD # RTLplus # RTLplus # 27.10.2016
 2721f001cf6f f00850023 # 5231 # SAT # Zee.One # Zee.One # 09.08.2016
-1008500a8 9008500a8 # 5233 # SAT # Motorvision TV # Motorvision TV # 16.09.2016
+1008500a8 e008500a8 # 5233 # SAT # Motorvision TV # Motorvision TV # 25.03.2017
 900850090 1000850090 # 5236 # SAT # Sky Atlantic +1 HD # Sky Atlantic +1 HD # 16.09.2016
 44500016f47 ffffbf52629b # 5237 # WebTV # ARD-alpha # ARD-alpha # 19.09.2016
 44d00016dce ffff7f71e6d2 # 5238 # WebTV # Bayerisches FS Nord # Bayerisches FS Nord # 19.09.2016
@@ -1628,7 +1628,7 @@ e0085006d 1edc0071290c # 5364 # SAT # Eurosport 2 HD # Eurosport 2 HD # 09.11.20
 e0085006d 1edc00712910 # 5365 # SAT # Eurosport 2 HD # Eurosport 2 HD # 09.11.2016
 e00850193 1ce800711cb8 # 5366 # SAT # Boomerang # Boomerang # 09.11.2016
 e00850193 434000122cc # 5367 # SAT # Boomerang # BOOMERANG # 09.11.2016
-f00850039 4160001772d # 5368 # SAT # A&E # A&E # 09.11.2016
+e00850192 4160001772d # 5368 # SAT # A&E # A&E # 25.03.2017
 f0085003a 2bc0013e4284 # 5369 # SAT # History # History # 09.11.2016
 45400010d42 ffffd6090edf # 5370 # SAT # QVC PLUS # QVC PLUS # 09.11.2016
 45400010d42 ffff60c9ce82 # 5371 # SAT # QVC PLUS # QVC PLUS # 09.11.2016
@@ -1694,3 +1694,4 @@ e7270f5a4c 220321144114 # 5431 # WebTV # mediaspar TV # mediaspar tv # 21.01.201
 4b100016ea5 6f270f2b93 # 5442 # Unitymedia # WDR HD Köln # WDR HD # 23.02.2017
 3fb0001283f 231270fdb2a # 5443 # Unitymedia # SWR BW HD # SWR HD # 23.02.2017
 42500012870 21d270fd35b # 5444 # Unitymedia # MDR Sachsen HD # MDR HD # 23.02.2017
+3f70001125d 407000114c1 # 5445  # SAT.1 emotions # SAT.1 emotions # 25.03.2017
