@@ -859,7 +859,7 @@ if [ "$produkt" = "Comet DECT" -o "$produkt" = "FRITZ!DECT 300" ]; then
   echo "Temperatur soll        ~T`scale2res 0600`~Y"$solltempfinal1"~d C ~S" >> /tmp/dectdetail.txt
   echo "~s" >> /tmp/dectdetail.txt
   echo "~cINFO:" >> /tmp/dectdetail.txt
-  echo "~cMit TEMP +/- wird das die Temperatur vom Thermostat eingestellt." >> /tmp/dectdetail.txt
+  echo "~cMit TEMP +/- wird die Temperatur vom Thermostat eingestellt." >> /tmp/dectdetail.txt
   echo "~cMit AUS/EIN wird der Regler aus, bzw. wieder auf 25 ~dC eingestellt." >> /tmp/dectdetail.txt
   echo "~cDer Button 'Daten aktualisieren' liest die Werte neu ein." >> /tmp/dectdetail.txt
   echo "~cDie EXIT Taste der Fernbedienung geht zurueck zur Auswahl." >> /tmp/dectdetail.txt
