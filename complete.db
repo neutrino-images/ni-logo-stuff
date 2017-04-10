@@ -366,6 +366,7 @@ e00850194 2fa8013e1d21 # 3003 # Hotbird # Cartoon Network (S) # Cartoon Network 
 45d000132ca 38f270fd35b # 3051 # KabelBW # ORF2E # ORF2E # 09.01.2014
 42a00016ffd 38f270fd35d # 3052 # KabelBW # MTV ROCKS. # MTV ROCKS. # 09.01.2014
 44d00016dca 3c8c013e025e # 3053 # SAT # Das Erste # Das Erste # 09.01.2014
+ffff281c24dc 3c8c013e025f # 3054  # Deutsche Welle TV # Deutsche Welle TV # 03.04.2017
 44100012ef4 3c8c013e0261 # 3055 # SAT # RTL2 # RTL2 # 09.01.2014
 3ef00011332 3ef00011331 # 3071 # SAT # ServusTV HD Deutschland # ServusTV HD Deutschland # 09.01.2014
 44100012ef4 3f500013070 # 3082 # SAT # RTL2 # RTL2 # 09.01.2014
@@ -831,7 +832,7 @@ c82000317b2 c85000313a9 # 4008 # SAT # HBO HD # HBO HD # 24.09.2014
 2725f001c762 43000012011 # 4089 # SAT # france 2 # FRANCE 2 # 24.09.2014
 300850019 45a000122cc # 4092 # SAT # Disney Cinemagic # DISNEY CINEMAGIC # 24.09.2014
 300850203 c8a000313d0 # 4096 # SAT # MGM # MGM # 24.09.2014
-3c8c013e025f c8e0003025f # 4097 # SAT # DW Europe # DW Europe # 24.09.2014
+ffff281c24dc c8e0003025f # 4097 # SAT # Deutsche Welle TV # Deutsche Welle TV # 03.04.2017
 3f4000118ed 22c4013e07d1 # 4101 # SAT # RT HD # RT HD # 24.09.2014
 3f4000118ed 9080002cf9c # 4102 # SAT # RT HD # RT HD # 24.09.2014
 3fe00011af8 258013e44dd # 4105 # SAT # Russia Today # Russia Today # 24.09.2014
@@ -1045,7 +1046,6 @@ c96000351c7 1803e800b0 # 4557 # NiederlandeCable # FOX Sports 3 # FOX Sports 3 #
 300850203 e03e836b8 # 4558 # NiederlandeCable # MGM # MGM # 29.09.2014
 2712f001cf0f 1303e84a3d # 4559 # NiederlandeCable # TV5Monde # TV5Monde # 29.09.2014
 2db4013e0ce5 2db4013e0e11 # 4562 # Hotbird # 4fun.tv # 4fun.TV # 05.12.2015
-45b0001332e 45d000132dd # 4567 # SAT # GoTV # GoTV # 12.10.2014
 42300011bc0 2726f001cfd4 # 4574 # Vodafone-KD # TVP Polonia # TV Polonia # 27.10.2016
 90085003e 2717f001d09a # 4575 # Vodafone-KD # AXN Action # AXN (eng) # 27.10.2016
 110085001a 2715f001d109 # 4576 # Vodafone-KD # Disney Junior # Disney Junior (eng) # 27.10.2016
@@ -1326,7 +1326,7 @@ e0085006d 90085006d # 4855 # SAT # Eurosport 2 HD # Eurosport 2 HD # 18.11.2015
 2710f001d10e 4400001245d # 4923 # SAT # france 3 # FRANCE 3 # 02.12.2015
 2710f001c764 44200012330 # 4924 # SAT # france 5 # FRANCE 5 # 02.12.2015
 41b00017034 44000012455 # 4925 # SAT # arte # ARTE # 02.12.2015
-3c8c013e025f 4040001114e # 4926 # SAT # DW Europe # DW Europe # 04.12.2015
+ffff281c24dc 4040001114e # 4926 # SAT # Deutsche Welle TV # Deutsche Welle TV # 03.04.2017
 2db4013e0c1d 2db4013e0d49 # 4929 # Hotbird # 4fun.tv # 4fun.FIT AND DANCE # 05.12.2015
 2db4013e0c81 2db4013e0dad # 4931 # Hotbird # 4fun.Hits # 4fun.Hits # 05.12.2015
 2712f001c3b8 d8a0183b03 # 4972 # Unitymedia # E! Entertainment # E! Entertainment # 05.01.2016
@@ -1695,3 +1695,4 @@ e7270f5a4c 220321144114 # 5431 # WebTV # mediaspar TV # mediaspar tv # 21.01.201
 3fb0001283f 231270fdb2a # 5443 # Unitymedia # SWR BW HD # SWR HD # 23.02.2017
 42500012870 21d270fd35b # 5444 # Unitymedia # MDR Sachsen HD # MDR HD # 23.02.2017
 3f70001125d 407000114c1 # 5445  # SAT.1 emotions # SAT.1 emotions # 25.03.2017
+210085003f 700850049 # 5448 # SAT # DMAX # DMAX austria # 03.04.2017
