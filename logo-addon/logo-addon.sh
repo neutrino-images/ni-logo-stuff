@@ -51,31 +51,19 @@ if [ -e $archive ]; then
 	unzip /tmp/$archive >/dev/null
 
 	if [ -e info.txt ]; then
-	
-	
-	
-	
-		msgbox msg=/tmp/$workdir/info.txt icon="/tmp/$workdir/logo.png" title="Info zum Logo-Updater "$vinfo select="OK,CANCEL" default=1 >/dev/null
-    auswahl=$?
-		case $auswahl	in
+		msgbox msg=/tmp/$workdir/info.txt icon="/tmp/$workdir/logo.png" title="Info zum Logo-Updater $vinfo" select="OK,CANCEL" default=1 >/dev/null
+		case $? in
 		1)
-      #Logo-Updater ausfuehren
+			#Logo-Updater ausfuehren
 			test -e updates && chmod 755 updates && ./updates
-    	echo "- Logo-Updater beendet."
-			;;
-		2)
-	    #Abbruch
-      echo "- Logo-Updater beendet"
+			echo "- Logo-Updater beendet."
 			;;
 		*)
-			#break
-			echo "- Logo-Updater beendet"
+			#Abbruch
+			echo "- Logo-Updater abgebrochen."
 			;;
 		esac
-
-
 	fi
-
 else
 	echo "- Fehler beim Download von $archive"
 fi
