@@ -502,7 +502,6 @@ b00850074 a0085007b # 3362  # Sky Cinema Action HD # Sky Cinema Action HD # 24.0
 700850041 ab270f69de # 3393 # Unitymedia # DELUXE MUSIC # DELUXE MUSIC # 26.10.2016
 443000179ea ab270f75a0 # 3395 # Unitymedia # HSE24 EXTRA # HSE24 EXTRA # 26.10.2016
 500850040 ab270fac47 # 3396 # Unitymedia # QVC Beauty # QVC Beauty # 26.10.2016
-a00850075 b00850075 # 3399 # KabelBW # Sky 3D # Sky 3D # 09.01.2014
 e00850078 b00850078 # 3400 # SAT # Sky Select HD # Sky Select HD # 09.01.2014
 500850308 b5270f4e94 # 3407 # KabelBW # SIXX # SIXX # 09.01.2014
 43600017004 b5270f5e25 # 3408 # Unitymedia # VIVA ComedyCentral # VIVA ComedyCentral # 26.10.2016
@@ -876,15 +875,6 @@ f00850037 7e700021391 # 4156 # SAT # Eurosport 2 # Eurosport 2 # 12.11.2015
 f00850037 4560001251f # 4157 # SAT # Eurosport 2 # EUROSPORT 2 # 12.11.2015
 f00850037 3264013e2b00 # 4158 # SAT # Eurosport 2 # EUROSPORT 2 # 12.11.2015
 f00850037 1a90fbff2bc7 # 4159 # SAT # Eurosport 2 # Eurosport 2 # 12.11.2015
-a00850075 1d4cfbff1042 # 4161 # SAT # Sky 3D # Sky 3D # 24.09.2014
-a00850075 1d4cfbff1041 # 4162 # SAT # Sky 3D # Sky 3D # 24.09.2014
-a00850075 251cfbff2c60 # 4163 # SAT # Sky 3D # Sky 3D # 24.09.2014
-a00850075 1d4cfbff1043 # 4164 # SAT # Sky 3D # Sky 3D # 24.09.2014
-a00850075 7f000020f0e # 4165 # SAT # Sky 3D # Sky 3D # 24.09.2014
-a00850075 7f000020516 # 4166 # SAT # Sky 3D # Sky 3D # 24.09.2014
-a00850075 1d4cfbff1040 # 4167 # SAT # Sky 3D # Sky 3D # 24.09.2014
-a00850075 1d4cfbff1044 # 4168 # SAT # Sky 3D # Sky 3D # 24.09.2014
-a00850075 251cfbff2c41 # 4169 # SAT # Sky 3D # Sky 3D # 24.09.2014
 a0085007c 7d800020eef # 4170 # SAT # Fox HD # FOX HD # 24.09.2014
 a0085007c 42000017504 # 4171 # SAT # Fox HD # FOX HD # 24.09.2014
 a0085007c 420000174fe # 4172 # SAT # Fox HD # FOX HD # 24.09.2014
@@ -1700,3 +1690,4 @@ e7270f5a4c 220321144114 # 5431 # WebTV # mediaspar TV # mediaspar tv # 21.01.201
 3f90001ef76 3f90001ef8a # 5458 # SAT # kabel eins HD # Kabel eins HD austria # 05.06.2017
 45300014465 407000114c0 # 5459 # SAT # Kabel eins Doku # Kabel eins DOKU austria # 05.06.2017
 41f0001157c 41f00011586 # 5460 # SAT # Disney Channel HD # Disney Channel HD austria # 05.06.2017
+e0085006d 2716f001c3a5 # 5462 # Vodafone-KD # Eurosport 2 HD # Eurosport 2 HD # 28.06.2017
