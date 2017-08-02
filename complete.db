@@ -71,7 +71,7 @@ f0085003a 44e00013391 # 2452 # SAT # History # HISTORY # 23.09.2014
 4b100016ea5 45700016f81 # 2491 # SAT # WDR HD Köln # WDR HD Köln # 09.01.2014
 4b100016ea5 45700016f82 # 2492 # SAT # WDR HD Köln # WDR HD Köln # 09.01.2014
 4b100016ea5 45700016f83 # 2493 # SAT # WDR HD Köln # WDR HD Köln # 09.01.2014
-44100012f1d 45b0001332e # 2501 # SAT # RTLNITRO # RTLnitro austria # 18.05.2017
+44100012f1d 45b0001332e # 2501 # SAT # RTLNITRO # NITRO austria # 11.07.2017
 500850308 45b00013332 # 2505 # SAT # SIXX # SIXX # 09.01.2014
 45b00013331 45b00013335 # 2506 # SAT # Sport1 US # Sport1 US # 09.01.2014
 45b00013336 45b00013337 # 2508 # SAT # ServusTV Deutschland # ServusTV Deutschland # 09.01.2014
@@ -221,7 +221,7 @@ d00850070 20a0467d32 # 2747 # Wilhelm_tell # NatGeo HD # NatGeo HD # 09.01.2014
 500850296 2712f001c3be # 2800 # Vodafone-KD # 1-2-3.tv # 1-2-3.tv # 27.10.2016
 15a0460264 2712f001c613 # 2803 # Vodafone-KD # LustPur # LustPur # 27.10.2016
 40200012742 2712f001cf09 # 2808 # Vodafone-KD # BBC World # BBC World # 27.10.2016
-44100012f1d 2712f001cf76 # 2811 # Vodafone-KD # RTLNITRO # RTLNITRO # 27.10.2016
+44100012f1d 2712f001cf76 # 2811 # Vodafone-KD # RTLNITRO # NITRO # 11.07.2017
 14a0464eb6 2712f001d036 # 2815 # Vodafone-KD # BonGusto # BonGusto # 27.10.2016
 e00850193 2712f001d09c # 2818 # Vodafone-KD # Boomerang # Boomerang # 27.10.2016
 900850045 2712f001d16b # 2820 # Vodafone-KD # sportdigital # sportdigital # 27.10.2016
@@ -511,7 +511,7 @@ e00850078 b00850078 # 3400 # SAT # Sky Select HD # Sky Select HD # 09.01.2014
 42c00016f6a b5270f5e2d # 3412 # Unitymedia # CNN Int. # CNN Int. # 26.10.2016
 2100850020 b5270f5e30 # 3413 # Unitymedia # Sonnenklar TV # Sonnenklar TV # 26.10.2016
 45300014460 b5270f71b6 # 3414 # Unitymedia # SAT.1 Gold # SAT.1 Gold # 26.10.2016
-44100012f1d b5270f75a2 # 3415 # Unitymedia # RTLNITRO # RTLNITRO # 26.10.2016
+44100012f1d b5270f75a2 # 3415 # Unitymedia # RTLNITRO # NITRO # 11.07.2017
 500850701 bf270f2b5e # 3416 # Unitymedia # Disney Channel # Disney Channel # 26.10.2016
 43600017008 bf270f2b60 # 3418 # Unitymedia # nickelodeon # nickelodeon # 26.10.2016
 443000179e0 bf270f2b63 # 3419 # Unitymedia # Eurosport Deutschland # Eurosport Deutschland # 26.10.2016
@@ -638,7 +638,7 @@ d00850070 2134009c4e9a # 3593 # TeleColumbus # NatGeo HD # NatGeo HD # 13.01.201
 1da04671f2 21fc009c4ef7 # 3594 # TeleColumbus # nick jr. # nick jr. # 13.01.2014
 1da04671f2 21fc009c4ef4 # 3595 # TeleColumbus # nick jr. # nick jr. # 13.01.2014
 43600017008 14b4009c00d5 # 3596 # TeleColumbus # nickelodeon # nickelodeon # 20.09.2014
-2716f001c36d 1edc009c0132 # 3597 # TeleColumbus # RTLnitro HD # RTLnitro HD # 13.01.2014
+2716f001c36d 1edc009c0132 # 3597 # TeleColumbus # RTLnitro HD # NITRO HD # 11.07.2017
 45b00013336 14b4009c00f5 # 3598 # TeleColumbus # ServusTV Deutschland # ServusTV Deutschland # 13.01.2014
 2713f001d099 206c009c0268 # 3599 # TeleColumbus # Spiegel TV # Spiegel TV # 13.01.2014
 42300011bbe 1fa4013e3675 # 3600 # TeleColumbus # TVP INFO # TVP INFO # 13.01.2014
@@ -682,7 +682,7 @@ e00850194 97270f3b07 # 3766 # Unitymedia # Cartoon Network (S) # Cartoon Network
 41d00015273 1b9270fac4a # 3778 # Unitymedia # nickelodeon HD # nickelodeon HD # 26.10.2016
 12d270f75a3 ab270f75a3 # 3781 # Unitymedia # Pro Sieben Fun # Pro Sieben Fun # 26.10.2016
 e0085006a 187270f94d5 # 3782 # Unitymedia # Pro Sieben Fun HD # Pro Sieben Fun HD # 26.10.2016
-2716f001c36d 14b270f8151 # 3785 # Unitymedia # RTLnitro HD # RTLnitro HD # 26.10.2016
+2716f001c36d 14b270f8151 # 3785 # Unitymedia # RTLnitro HD # NITRO HD # 11.07.2017
 45b00013331 8d270f371c # 3791 # Unitymedia # Sport1 US # Sport1 US # 26.10.2016
 13a0464b64 8d270f372c # 3793 # Unitymedia # travel Channel # travel Channel # 26.10.2016
 42300011bc0 e7270f5a46 # 3795 # Unitymedia # TVP Polonia # TVP Polonia # 26.10.2016
@@ -721,7 +721,7 @@ e0085006a 187270f94d5 # 3782 # Unitymedia # Pro Sieben Fun HD # Pro Sieben Fun H
 4250001286f 4370001286f # 3875 # Vodafone-KD # rbb Berlin HD # rbb Berlin HD # 27.10.2016
 3fb00012840 41b00012840 # 3876 # Vodafone-KD # SWR RP HD # SWR RP HD # 27.10.2016
 4b100016ea5 41b00016ea5 # 3877 # Vodafone-KD # WDR HD Köln # WDR HD Köln # 27.10.2016
-2716f001c36d 41100012eaf # 3880 # SAT # RTLnitro HD # RTLnitro HD # 08.04.2014
+2716f001c36d 41100012eaf # 3880 # SAT # RTLnitro HD # NITRO HD # 11.07.2017
 500850304 2712f001cfe4 # 3881 # Vodafone-KD # TLC # TLC # 27.10.2016
 271ef001c366 1b9270f621b # 3883 # Unitymedia # Spiegel TV Wissen HD # Spiegel TV Wissen HD # 26.10.2016
 14a0464eb6 0d8a0183b00 # 3886 # KabelBW # BonGusto # BonGusto # 10.04.2014
@@ -1154,7 +1154,7 @@ a0085007c 3e00de183e # 4673 # Kabelplus # Fox HD # Fox HD # 19.04.2015
 41b00017031 8100de3266 # 4721 # Kabelplus # tagesschau24 # tagesschau24 # 19.04.2015
 41b00017032 8100de3267 # 4722 # Kabelplus # Einsfestival # One # 04.09.2016
 41b00017035 8100de3269 # 4724 # Kabelplus # PHOENIX # PHOENIX # 19.04.2015
-44100012f1d 8100de326a # 4725 # Kabelplus # RTLNITRO # RTLNITRO # 19.04.2015
+44100012f1d 8100de326a # 4725 # Kabelplus # RTLNITRO # NITRO # 11.07.2017
 45300014460 8100de326b # 4726 # Kabelplus # SAT.1 Gold # SAT.1 Gold # 19.04.2015
 41b00017034 8200de32c9 # 4727 # Kabelplus # arte # arte # 19.04.2015
 43700016d6b 8200de32ca # 4728 # Kabelplus # ZDFinfo # ZDFinfo # 19.04.2015
@@ -1545,7 +1545,7 @@ b00850084 c00850084 # 5288 # Unitymedia # Eurosport 1 HD # EUROSPORT 1 HD # 29.1
 41b00017035 180021140003 # 5294 # Unitymedia # PHOENIX # PHOENIX # 29.10.2016
 4530001445d 220121144013 # 5295 # Unitymedia # ProSieben # ProSieben # 29.10.2016
 44100012ef4 220221144016 # 5296 # Unitymedia # RTL2 # RTL2 # 29.10.2016
-44100012f1d 220321144006 # 5297 # Unitymedia # RTLNITRO # RTLNITRO # 29.10.2016
+44100012f1d 220321144006 # 5297 # Unitymedia # RTLNITRO # NITRO # 11.07.2017
 4530001445c 220121144018 # 5298 # Unitymedia # SAT.1 # SAT.1 # 29.10.2016
 500850308 220321144020 # 5299 # Unitymedia # SIXX # SIXX # 29.10.2016
 2721f001cf13 c9270f4e85 # 5300 # Unitymedia # SONLife # SonLife # 29.10.2016
@@ -1691,3 +1691,4 @@ e7270f5a4c 220321144114 # 5431 # WebTV # mediaspar TV # mediaspar tv # 21.01.201
 45300014465 407000114c0 # 5459 # SAT # Kabel eins Doku # Kabel eins DOKU austria # 05.06.2017
 41f0001157c 41f00011586 # 5460 # SAT # Disney Channel HD # Disney Channel HD austria # 05.06.2017
 e0085006d 2716f001c3a5 # 5462 # Vodafone-KD # Eurosport 2 HD # Eurosport 2 HD # 28.06.2017
+90085008c 2720f001c3a4 # 5463 # Vodafone-KD # RTL crime HD # RTL crime HD # 02.08.2017
