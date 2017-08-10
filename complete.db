@@ -26,7 +26,7 @@
 44100012ef4 441a0182ef4 # 2409 # KabelBW # RTL2 # RTL2 # 09.01.2014
 44100012f08 441a0182f08 # 2410 # KabelBW # SUPER RTL # SUPER RTL # 09.01.2014
 44100012f1c 441a0182f1c # 2411 # KabelBW # VOX # VOX # 09.01.2014
-44100012f3a 441a0182f3a # 2412 # KabelBW # n-tv # n-tv # 09.01.2014
+44100012f3a 441a0182f3a # 2412 # KabelBW # n-tv # ntv # 10.08.2017
 43600017008 44300016fe0 # 2413 # SAT # nickelodeon # nickelodeon # 20.09.2014
 43600017004 44300016fe1 # 2414 # Wilhelm_tell # VIVA ComedyCentral # VIVA ComedyCentral # 09.01.2014
 44100012ee3 44300017080 # 2415 # SAT # RTL Television # RTL Television # 09.01.2014
@@ -61,7 +61,7 @@ f0085003a 44e00013391 # 2452 # SAT # History # HISTORY # 23.09.2014
 4530001445c 453a018445c # 2470 # KabelBW # SAT.1 # SAT.1 # 09.01.2014
 4530001445d 453a018445d # 2471 # KabelBW # ProSieben # ProSieben # 09.01.2014
 4530001445e 453a018445e # 2472 # KabelBW # kabel eins # kabel eins # 09.01.2014
-44100012f3a 453a018445f # 2473 # KabelBW # n-tv # n-tv # 09.01.2014
+44100012f3a 453a018445f # 2473 # KabelBW # n-tv # ntv # 10.08.2017
 45500011519 4550001152d # 2484 # SAT # TELE 5 HD # TELE 5 HD # 09.01.2014
 15f270f891d 45700016f76 # 2486 # SAT # WDRAachen # WDR Aachen # 09.01.2014
 15f270f891d 45700016f77 # 2487 # SAT # WDRWuppertal # WDR Wuppertal # 09.01.2014
@@ -239,7 +239,7 @@ f0085003a 2713f001d035 # 2830 # Vodafone-KD # History # History # 27.10.2016
 44100012f08 2713f001d162 # 2835 # Vodafone-KD # SUPER RTL # SUPER RTL # 27.10.2016
 44100012ef4 2713f001d163 # 2836 # Vodafone-KD # RTL2 # RTL2 # 27.10.2016
 44100012f1c 2713f001d164 # 2837 # Vodafone-KD # VOX # VOX # 27.10.2016
-44100012f3a 2713f001d166 # 2838 # Vodafone-KD # n-tv # n-tv # 27.10.2016
+44100012f3a 2713f001d166 # 2838 # Vodafone-KD # n-tv # ntv # 10.08.2017
 2100850384 2713f001d178 # 2839 # Vodafone-KD # SPORT1 # SPORT1 # 27.10.2016
 500850701 2714f001c3b5 # 2840 # Vodafone-KD # Disney Channel # Disney Channel # 27.10.2016
 3fe00011af8 2714f001cf7f # 2844 # Vodafone-KD # Russia Today # Russia Today # 27.10.2016
@@ -445,7 +445,7 @@ a0085007c 600850464 # 3253 # Unitymedia # Fox HD # Fox HD # 26.10.2016
 44100012ef4 7a04429ce # 3305 # Primacom # RTL2 # RTL2 # 09.01.2014
 44100012f1c 7a04429cf # 3306 # Primacom # VOX # VOX # 09.01.2014
 44100012f08 7a04429d0 # 3307 # Primacom # SUPER RTL # SUPER RTL # 09.01.2014
-44100012f3a 7a04429d1 # 3308 # Primacom # n-tv # n-tv # 09.01.2014
+44100012f3a 7a04429d1 # 3308 # Primacom # n-tv # ntv # 10.08.2017
 d0085006f 80085007e # 3311 # SAT # Disney Cinemagic HD # Disney Cinemagic HD # 09.01.2014
 b00850071 800850080 # 3312 # SAT # History HD # History HD # 09.01.2014
 f0085003a 83270f332e # 3314 # Unitymedia # History # History # 26.10.2016
@@ -486,7 +486,7 @@ b00850074 a0085007b # 3362  # Sky Cinema Action HD # Sky Cinema Action HD # 24.0
 44100012ef4 a1270f2f49 # 3376 # Unitymedia # RTL2 # RTL2 # 26.10.2016
 4530001445e a1270f2f4a # 3377 # Unitymedia # kabel eins # kabel eins # 26.10.2016
 44100012f08 a1270f2f4b # 3378 # Unitymedia # SUPER RTL # SUPER RTL # 26.10.2016
-44100012f3a a1270f2f4d # 3379 # Unitymedia # n-tv # n-tv # 26.10.2016
+44100012f3a a1270f2f4d # 3379 # Unitymedia # n-tv # ntv # 10.08.2017
 4530001445f bf270f2f4e # 3380 # Unitymedia # N24 # N24 # 26.10.2016
 4530001445c aa0442af9 # 3381 # Primacom # SAT.1 # SAT.1 # 09.01.2014
 4530001445d aa0442afa # 3382 # Primacom # ProSieben # ProSieben # 09.01.2014
@@ -645,7 +645,7 @@ d00850070 2134009c4e9a # 3593 # TeleColumbus # NatGeo HD # NatGeo HD # 13.01.201
 e00850192 2134009c4e99 # 3601 # TeleColumbus # A&E # A&E # 25.03.2017
 1cd270fb02d 1964009c01a3 # 3602 # TeleColumbus # VIVA HD # VIVA HD # 13.01.2014
 1ba0466a18 206c009c026d # 3603 # TeleColumbus # Auto Motor Sport Channel # Auto Motor Sport Channel # 13.01.2014
-44100012f3a 1edc009c0133 # 3604 # TeleColumbus # n-tv # n-tv # 13.01.2014
+44100012f3a 1edc009c0133 # 3604 # TeleColumbus # n-tv # ntv # 10.08.2017
 fa0463b24 2134009c4e9b # 3605 # TeleColumbus # FUEL TV HD # FUEL TV HD # 13.01.2014
 1ba046698c 21fc009c4ee9 # 3606 # TeleColumbus # yourfamily # yourfamily # 13.01.2014
 d0085007f 19b270f6219 # 3609 # Unitymedia # 13th Street HD # 13TH STREET HD # 26.10.2016
@@ -742,7 +742,7 @@ b00850071 b00850459 # 3924 # Unitymedia # History HD # History HD # 26.10.2016
 a0085007d 191270f9ca5 # 3925 # Unitymedia # AXN HD # AXN HD # 26.10.2016
 45300014461 407000114bf # 3926 # SAT # ProSieben MAXX # ProSieben MAXX Austria # 23.06.2014
 45300014460 407000114be # 3927 # SAT # SAT.1 Gold # SAT.1 Gold Österreich # 23.06.2014
-4210001ef14 271bf001c38b # 3928 # Vodafone-KD # n-tv HD # n-tv HD # 27.10.2016
+4210001ef14 271bf001c38b # 3928 # Vodafone-KD # n-tv HD # ntv HD # 10.08.2017
 3f300012b7a 2719f0012b7a # 3929 # Vodafone-KD # zdf_neo HD # zdf_neo HD # 27.10.2016
 3f200012b98 2719f0012b98 # 3930 # Vodafone-KD # KiKA HD # KiKA HD # 27.10.2016
 4010001285b 2719f001285b # 3931 # Vodafone-KD # PHOENIX HD # PHOENIX HD # 27.10.2016
@@ -1161,7 +1161,7 @@ a0085007c 3e00de183e # 4673 # Kabelplus # Fox HD # Fox HD # 19.04.2015
 3eb000133a9 8200de32cc # 4730 # Kabelplus # Schau TV # Schau TV # 19.04.2015
 42c00016f6a 8200de32ce # 4731 # Kabelplus # CNN Int. # CNN Int. # 19.04.2015
 443000179f4 8300de332d # 4732 # Kabelplus # EuroNews # EuroNews # 19.04.2015
-44100012f3a 8300de332e # 4733 # Kabelplus # n-tv # n-tv # 19.04.2015
+44100012f3a 8300de332e # 4733 # Kabelplus # n-tv # ntv # 10.08.2017
 40200012753 8300de3330 # 4734 # Kabelplus # Bloomberg Europe TV # Bloomberg Europe TV # 19.04.2015
 45700011c7a 8300de3331 # 4735 # Kabelplus # Sky News Intl # Sky News Intl # 19.04.2015
 40200012742 8300de3332 # 4736 # Kabelplus # BBC World # BBC World # 19.04.2015
@@ -1237,7 +1237,7 @@ fa0463b56 ffff484b35d3 # 4802 # WebTV # Hamburg1 # Hamburg1 # 30.07.2015
 44c000121ff 1d7270f622a # 4824 # Unitymedia # France 4 # France 4 # 26.10.2016
 40900012777 6f270f9ca7 # 4825 # Unitymedia # MTV HD # MTV HD # 26.10.2016
 41d00015274 79270fc79d # 4826 # Unitymedia # N24 HD # N24 HD # 26.10.2016
-4210001ef14 79270fc79e # 4827 # Unitymedia # n-tv HD # n-tv HD # 26.10.2016
+4210001ef14 79270fc79e # 4827 # Unitymedia # n-tv HD # ntv HD # 10.08.2017
 45d000132db ab270f42df # 4828 # Unitymedia # RiC # RiC # 26.10.2016
 45500011519 6f270f9ca6 # 4829 # Unitymedia # TELE 5 HD # Tele 5 HD # 26.10.2016
 40900012774 6f270fc3b5 # 4830 # Unitymedia # TLC HD # TLC HD # 26.10.2016
