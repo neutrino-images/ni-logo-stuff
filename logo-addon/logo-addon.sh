@@ -2,7 +2,7 @@
 
 ###############################################################################
 #
-# Senderlogo-Updater 0.16 fred_feuerstein [NI-Team]
+# Senderlogo-Updater 0.17 fred_feuerstein [NI-Team]
 #
 # Ziel:
 # Mit dem Updater werden die neuen und/oder geänderten Senderlogos seit dem
@@ -17,6 +17,7 @@
 # 
 #
 # Changelog:
+# 0.17 = Auswahl ob Logos intern / extern (logo-hdd-dir) gespeichert werden
 # 0.16 = Logo-Updater kann nun auch vor dem Start wieder beendet werden
 # 0.15 = Anpassungen an Update-Skript
 # 0.14 = Anpassungen an Update-Skript
@@ -34,7 +35,7 @@ archive="ni_zusatzlogos.zip"
 workdir=${archive%%.*}
 echo $archive >> /tmp/logo.txt
 
-vinfo="0.16"
+vinfo="0.17"
 
 cleanup() {
 	rm -rf /tmp/$workdir /tmp/$archive
