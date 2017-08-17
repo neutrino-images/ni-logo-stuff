@@ -2,21 +2,20 @@
 
 ###############################################################################
 #
-# Senderlogo-Updater 0.17 fred_feuerstein [NI-Team]
+# Senderlogo-Updater 0.20 fred_feuerstein [NI-Team]
 #
 # Ziel:
 # Mit dem Updater werden die neuen und/oder geänderten Senderlogos seit dem
 # letzten NI Image Release (aktuell NI 3.2) ins Image geholt.
-# Diese werden automatisch in das Logo-Verzeichnis:
-# /share/tuxbox/neutrino/icons/logo kopiert bzw. vorhandene aktualisiert.
 # Dazu ist eine Internetverbindung erforderlich.
 # Welche Logos hinzugekommen sind, könnt ihr im NI-Forum sehen.
-# Thread: Kleines Logopaket (Ergaenzung zum X.xx NI Image)
 # Dort ist auch zusätzlich bei Bedarf ein Radio-Senderlogo-Paket zu finden.
 #
 # 
 #
 # Changelog:
+# 0.20 = Änderung vom Basis-Skript auf statische Version, Alle Variablen werden
+#        über das Update ausgeführt
 # 0.17 = Auswahl ob Logos intern / extern (logo-hdd-dir) gespeichert werden
 # 0.16 = Logo-Updater kann nun auch vor dem Start wieder beendet werden
 # 0.15 = Anpassungen an Update-Skript
@@ -35,10 +34,9 @@ archive="ni_zusatzlogos.zip"
 workdir=${archive%%.*}
 echo $archive >> /tmp/logo.txt
 
-vinfo="0.17"
 
 cleanup() {
-	rm -rf /tmp/$workdir /tmp/$archive
+	rm -rf /tmp/$workdir /tmp/$archive /tmp/logo.txt
 }
 
 cleanup
@@ -51,8 +49,30 @@ if [ -e $archive ]; then
 
 	unzip /tmp/$archive >/dev/null
 
+  if [ -e /tmp/$workdir/version.txt ]; then
+    vinfo=$(cat /tmp/$workdir/version.txt)
+  else
+    vinfo="0.2x"
+  fi
+
+  msgbox popup="Logo-Updater wird startet ..." icon="/tmp/$workdir/logo.png" title="NI Logo-Updater $vinfo" timeout=02
+
+
+  if [ -e /tmp/$workdir/changelog.txt ]; then
+    CHANGEDATETEMP=$(stat -c%z /tmp/$workdir/changelog.txt)
+    CHANGEDATE1=`echo "$CHANGEDATETEMP" | cut -d ' ' -f1`
+    CHANGEDATEYEAR=`echo ${CHANGEDATE1:0:4}`
+    CHANGEDATEMONTH=`echo ${CHANGEDATE1:5:2}`
+    CHANGEDATEDAY=`echo ${CHANGEDATE1:8:2}`
+    CHANGEDATE=$(echo $CHANGEDATEDAY"."$CHANGEDATEMONTH"."$CHANGEDATEYEAR)
+    echo " "  >> /tmp/$workdir/info.txt
+    echo "Datenstand des Updates: ~B"$CHANGEDATE"~S "  >> /tmp/$workdir/info.txt
+  else
+    CHANGEDATE="unbekannt"
+  fi
+
 	if [ -e info.txt ]; then
-		msgbox msg=/tmp/$workdir/info.txt icon="/tmp/$workdir/logo.png" title="Info zum Logo-Updater $vinfo" select="OK,CANCEL" default=1 >/dev/null
+		msgbox msg=/tmp/$workdir/info.txt icon="/tmp/$workdir/logo.png" title="NI Logo-Updater $vinfo" select="OK,CANCEL" default=1 >/dev/null
 		case $? in
 		1)
 			#Logo-Updater ausfuehren
