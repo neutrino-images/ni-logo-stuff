@@ -60,12 +60,9 @@ if [ -e $archive ]; then
 
 
   if [ -e /tmp/$workdir/changelog.txt ]; then
-    CHANGEDATETEMP=$(stat -c%z /tmp/$workdir/changelog.txt)
-    CHANGEDATE1=`echo "$CHANGEDATETEMP" | cut -d ' ' -f1`
-    CHANGEDATEYEAR=`echo ${CHANGEDATE1:0:4}`
-    CHANGEDATEMONTH=`echo ${CHANGEDATE1:5:2}`
-    CHANGEDATEDAY=`echo ${CHANGEDATE1:8:2}`
-    CHANGEDATE=$(echo $CHANGEDATEDAY"."$CHANGEDATEMONTH"."$CHANGEDATEYEAR)
+    CHANGEDATETEMP=$(cat /tmp/$workdir/changelog.txt)
+    CHANGEDATE1=`echo "$CHANGEDATETEMP" | grep Datenstand `
+    CHANGEDATE=`echo ${CHANGEDATE1:26:10}`
     echo " "  >> /tmp/$workdir/info.txt
     echo "Datenstand des Updates: ~B"$CHANGEDATE"~S "  >> /tmp/$workdir/info.txt
   else
