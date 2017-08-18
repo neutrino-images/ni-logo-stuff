@@ -2,7 +2,9 @@
 
 ###############################################################################
 #
-# Senderlogo-Updater 0.20 fred_feuerstein [NI-Team]
+# NI Senderlogo-Updater 0.20 fred_feuerstein [NI-Team]
+#
+# => dies ist das Startskript. Die eigentlichen Updates werden online nachgeladen.
 #
 # Ziel:
 # Mit dem Updater werden die neuen und/oder geänderten Senderlogos seit dem
@@ -11,10 +13,9 @@
 # Welche Logos hinzugekommen sind, könnt ihr im NI-Forum sehen.
 # Dort ist auch zusätzlich bei Bedarf ein Radio-Senderlogo-Paket zu finden.
 #
-# 
 #
 # Changelog:
-# 0.20 = Änderung vom Basis-Skript auf statische Version, Alle Variablen werden
+# 0.20 = Änderung vom Basis-Skript auf statische Version, alle Variablen werden
 #        über das Update ausgeführt
 # 0.17 = Auswahl ob Logos intern / extern (logo-hdd-dir) gespeichert werden
 # 0.16 = Logo-Updater kann nun auch vor dem Start wieder beendet werden
