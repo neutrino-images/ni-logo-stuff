@@ -17,6 +17,7 @@
 # Changelog:
 # 0.20 = Änderung vom Basis-Skript auf statische Version, alle Variablen werden
 #        über das Update ausgeführt
+# 0.18 = kleine Menü-Änderungen
 # 0.17 = Auswahl ob Logos intern / extern (logo-hdd-dir) gespeichert werden
 # 0.16 = Logo-Updater kann nun auch vor dem Start wieder beendet werden
 # 0.15 = Anpassungen an Update-Skript
@@ -70,7 +71,7 @@ if [ -e $archive ]; then
   fi
 
 	if [ -e info.txt ]; then
-		msgbox msg=/tmp/$workdir/info.txt icon="/tmp/$workdir/logo.png" title="NI Logo-Updater $vinfo" select="OK,CANCEL" default=1 >/dev/null
+		msgbox msg=/tmp/$workdir/info.txt size=20 icon="/tmp/$workdir/logo.png" title="NI Logo-Updater $vinfo" select="OK,CANCEL" default=1 >/dev/null
 		case $? in
 		1)
 			#Logo-Updater ausfuehren
