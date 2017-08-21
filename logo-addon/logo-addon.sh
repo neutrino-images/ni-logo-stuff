@@ -57,7 +57,7 @@ if [ -e $archive ]; then
     vinfo="0.2x"
   fi
 
-  msgbox popup="Logo-Updater wird startet ..." icon="/tmp/$workdir/logo.png" title="NI Logo-Updater $vinfo" timeout=02
+  msgbox popup="Logo-Updater wird gestartet ..." icon="/tmp/$workdir/logo.png" title="NI Logo-Updater $vinfo" timeout=02
 
 
   if [ -e /tmp/$workdir/changelog.txt ]; then
