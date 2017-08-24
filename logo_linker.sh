@@ -13,7 +13,7 @@ case $# in
 		logodir=$2
 	;;
 	*)
-		echo "Usage: ${0##*/} <provider file> <ng logodir>"
+		echo "Usage: ${0##*/} <provider file> <logodir>"
 		exit 1
 	;;
 esac
