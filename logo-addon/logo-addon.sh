@@ -2,15 +2,18 @@
 
 ###############################################################################
 #
-# NI Senderlogo-Updater 0.20 fred_feuerstein [NI-Team]
+# NI Senderlogo-Updater von fred_feuerstein [NI-Team]
 #
-# => dies ist das Startskript. Die eigentlichen Updates werden online nachgeladen.
+# => dies ist das Startskript, sowie das Logo-Basispaket. 
+#    Die eigentlichen Updates, Symlinks, Änderungen werden online 
+#    nachgeladen und installiert.
 #
 # Ziel:
-# Mit dem Updater werden die neuen und/oder geänderten Senderlogos seit dem
-# letzten NI Image Release (aktuell NI 3.2) ins Image geholt.
+# Mit dem Updater kann ein Logo-Paket auf der Box (intern/extern)
+# installiert und upgedatet werden.
 # Dazu ist eine Internetverbindung erforderlich.
-# Welche Logos hinzugekommen sind, könnt ihr im NI-Forum sehen.
+# Welche Logos hinzugekommen sind, könnt ihr im NI-Forum 
+# www.neutrino-images.de sehen.
 # Dort ist auch zusätzlich bei Bedarf ein Radio-Senderlogo-Paket zu finden.
 #
 #
