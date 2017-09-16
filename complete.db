@@ -27,7 +27,7 @@
 44100012f08 441a0182f08 # 2410 # KabelBW # SUPER RTL # SUPER RTL # 09.01.2014
 44100012f1c 441a0182f1c # 2411 # KabelBW # VOX # VOX # 09.01.2014
 44100012f3a 441a0182f3a # 2412 # KabelBW # n-tv # ntv # 10.08.2017
-43600017008 44300016fe0 # 2413 # SAT # nickelodeon # nickelodeon # 20.09.2014
+43600017008 44300016fe0 # 2413 # SAT # nick # nick # 16.09.2017
 43600017004 44300016fe1 # 2414 # Wilhelm_tell # VIVA ComedyCentral # VIVA ComedyCentral # 09.01.2014
 44100012ee3 44300017080 # 2415 # SAT # RTL Television # RTL Television # 09.01.2014
 44100012f1c 44300017085 # 2416 # SAT # VOX # VOX # 09.01.2014
@@ -200,7 +200,7 @@ d00850070 20a0467d32 # 2747 # Wilhelm_tell # NatGeo HD # NatGeo HD # 09.01.2014
 2100850384 2711a6060068 # 2787 # KMS # SPORT1 # SPORT1 # 09.01.2014
 4440001277a 2711a606006b # 2788  # münchen 2 # münchen 2 # 09.01.2014
 3fd000111fc 2711a606006c # 2789 # KMS # münchen.tv # münchen.tv # 09.01.2014
-43600017008 2711a606006d # 2790 # KMS # nickelodeon # nickelodeon # 20.09.2014
+43600017008 2711a606006d # 2790 # KMS # nick # nick # 16.09.2017
 45d000132ca 2711a606006e # 2791 # KMS # ORF2 # ORF2 # 09.01.2014
 2100850033 2711a606006f # 2792 # KMS # TELE 5 # TELE 5 # 09.01.2014
 43600017004 2711a6060070 # 2793 # KMS # VIVA ComedyCentral # VIVA ComedyCentral # 09.01.2014
@@ -259,7 +259,7 @@ f0085003a 2713f001d035 # 2830 # Vodafone-KD # History # History # 27.10.2016
 90085003e 2717f001c480 # 2894 # Vodafone-KD # AXN Action # AXN Action # 27.10.2016
 2715f001c481 2717f001c481 # 2895 # Vodafone-KD # Silverline # Silverline # 27.10.2016
 110085001c 2717f001c483 # 2897 # Vodafone-KD # Disney XD # Disney XD # 27.10.2016
-43600017008 2717f001cf0e # 2900 # Vodafone-KD # nickelodeon # nickelodeon # 27.10.2016
+43600017008 2717f001cf0e # 2900 # Vodafone-KD # nick # nick # 16.09.2017
 100850010 2717f001d0a1 # 2902 # Vodafone-KD # Fox Serie # Fox Serie # 27.10.2016
 43600017004 2717f001d169 # 2910 # Vodafone-KD # VIVA ComedyCentral # VIVA ComedyCentral # 27.10.2016
 45400012f44 2717f001d170 # 2911 # Vodafone-KD # QVC Deutschland # QVC Deutschland # 27.10.2016
@@ -345,7 +345,7 @@ e00850194 2fa8013e1d21 # 3003 # Hotbird # Cartoon Network (S) # Cartoon Network 
 43600017001 3200013e0002 # 3035 # SAT # MTV Germany # MTV Germany # 09.01.2014
 43600017004 3200013e0005 # 3036 # Wilhelm_tell # VIVA ComedyCentral # VIVA ComedyCentral # 09.01.2014
 42a00016ff0 3200013e0007 # 3037 # SAT # VH1 # VH1 # 09.01.2014
-42a00016ffc 3200013e000b # 3038 # Hotbird # NICKELODEON France # NICKELODEON France # 20.09.2014
+43600017008 3200013e000b # 3038 # Hotbird # nick # NICKELODEON France # 16.09.2017
 43600017001 3200013e0016 # 3040 # SAT # MTV Germany # MTV Germany # 09.01.2014
 43600017004 3200013e0019 # 3042 # SAT # VIVA ComedyCentral # VIVA ComedyCentral # 09.01.2014
 2714f001cf6d 32c8013e390a # 3043 # Hotbird # BBC Entertainment # BBC Entertainment Poland # 09.01.2014
@@ -389,7 +389,7 @@ ffff281c24dc 3c8c013e025f # 3054  # Deutsche Welle TV # Deutsche Welle TV # 03.0
 41b00017032 41ba4017032 # 3170 # Unitymedia # Einsfestival # One # 26.10.2016
 41b00017034 41ba4017034 # 3172 # Unitymedia # arte # arte # 26.10.2016
 41b00017035 41ba4017035 # 3173 # Unitymedia # PHOENIX # PHOENIX # 26.10.2016
-41d00015273 41d0001527d # 3179 # SAT # nickelodeon HD # nickelodeon HD # 20.09.2014
+41d00015273 41d0001527d # 3179 # SAT # nick HD # nick HD # 16.09.2017
 41d00015274 41d0001527e # 3180 # SAT # N24 HD # N24 HD # 09.01.2014
 41f0001157f 41f00011589 # 3187 # SAT # Deluxe Music HD # Deluxe Music HD # 09.01.2014
 43600017001 42a00016feb # 3200 # SAT # MTV Germany # MTV Germany # 09.01.2014
@@ -397,6 +397,7 @@ ffff281c24dc 3c8c013e025f # 3054  # Deutsche Welle TV # Deutsche Welle TV # 03.0
 42a00016fee 42a00016ff8 # 3209 # SAT # MTV Hits # MTV Hits # 09.01.2014
 42a00016ff0 42a00016ffa # 3210 # SAT # VH1 # VH1 # 09.01.2014
 42a00016ff1 42a00016ffb # 3211 # SAT # VH1 Classic # VH1 Classic # 09.01.2014
+43600017008 42a00016ffc # 3212  # nick # NICKELODEON France # 16.09.2017
 43600017001 42a00017013 # 3214 # SAT # MTV Germany # MTV Germany # 09.01.2014
 43100016e44 43100016e45 # 3226  # mdr # MDR S-Anhalt # 07.09.2017
 43100016e44 43100016e46 # 3227  # mdr # MDR Thüringen # 07.09.2017
@@ -424,7 +425,7 @@ a0085007c 600850464 # 3253 # Unitymedia # Fox HD # Fox HD # 26.10.2016
 200850201 300850201 # 3271 # Unitymedia # Blue Movie # Blue Movie # 26.10.2016
 4530001445f 700850035 # 3275 # SAT # N24 # N24 # 09.01.2014
 43600017004 70085003c # 3276 # SAT # VIVA ComedyCentral # VIVA ComedyCentral # 09.01.2014
-43600017008 70085003d # 3277 # SAT # nickelodeon # nickelodeon # 20.09.2014
+43600017008 70085003d # 3277 # SAT # nick # nick # 16.09.2017
 44d00016dca 70800c80e26 # 3284 # SAT # Das Erste # Das Erste # 09.01.2014
 70800c80e29 79270f5e28 # 3303  # HSE24 # HSE24 # 09.01.2014
 44100012ee3 7a04429cd # 3304 # Primacom # RTL Television # RTL Television # 09.01.2014
@@ -499,7 +500,7 @@ e00850078 b00850078 # 3400 # SAT # Sky Select HD # Sky Select HD # 09.01.2014
 45300014460 b5270f71b6 # 3414 # Unitymedia # SAT.1 Gold # SAT.1 Gold # 26.10.2016
 44100012f1d b5270f75a2 # 3415 # Unitymedia # RTLNITRO # NITRO # 11.07.2017
 500850701 bf270f2b5e # 3416 # Unitymedia # Disney Channel # Disney Channel # 26.10.2016
-43600017008 bf270f2b60 # 3418 # Unitymedia # nickelodeon # nickelodeon # 26.10.2016
+43600017008 bf270f2b60 # 3418 # Unitymedia # nick # nick # 16.09.2017
 443000179e0 bf270f2b63 # 3419 # Unitymedia # Eurosport Deutschland # Eurosport Deutschland # 26.10.2016
 41100012ec3 bf270f2b65 # 3420 # Unitymedia # RTL Living # RTL Living # 26.10.2016
 2100850384 bf270f2f4c # 3421 # Unitymedia # SPORT1 # SPORT1 # 26.10.2016
@@ -532,7 +533,7 @@ d00850070 d00850458 # 3453 # Unitymedia # NatGeo HD # NatGeo HD # 26.10.2016
 70800c80e29 da044533c # 3469  # HSE24 # HSE24 # 09.01.2014
 2100850033 da044533d # 3470 # Primacom # TELE 5 # TELE 5 # 09.01.2014
 43600017001 da044533e # 3471 # Primacom # MTV Germany # MTV Germany # 09.01.2014
-43600017008 da044533f # 3472 # Primacom # nickelodeon # nickelodeon # 20.09.2014
+43600017008 da044533f # 3472 # Primacom # nick # nick # 16.09.2017
 900850045 dba018562d # 3473 # KabelBW # sportdigital.tv # sportdigital.tv # 09.01.2014
 700850046 dba0185630 # 3474 # KabelBW # BB-MV Lokal-TV # BB-MV Lokal-TV # 09.01.2014
 43600016fff dba0185633 # 3475 # KabelBW # MTV Music 24 # MTV Music 24 # 09.01.2014
@@ -544,16 +545,16 @@ d00850070 d00850458 # 3453 # Unitymedia # NatGeo HD # NatGeo HD # 26.10.2016
 443000179f4 dd270f5666 # 3481 # Unitymedia # EuroNews # EuroNews # 26.10.2016
 443000179f4 dd270f5667 # 3482 # Unitymedia # EuroNews # EuroNews # 26.10.2016
 443000179f4 dd270f566b # 3483 # Unitymedia # EuroNews # EuroNews # 26.10.2016
-43600017008 dda018565e # 3484 # KabelBW # nickelodeon # nickelodeon # 20.09.2014
+43600017008 dda018565e # 3484 # KabelBW # nick # nick # 16.09.2017
 443000179f4 e2a0185690 # 3500 # KabelBW # EuroNews # EuroNews # 09.01.2014
 40200012753 e2a0185692 # 3501 # KabelBW # Bloomberg Europe TV # Bloomberg Europe TV # 09.01.2014
 40200012742 e2a0185693 # 3502 # KabelBW # BBC World # BBC World # 09.01.2014
 42c00016f6a e2a0185694 # 3503 # KabelBW # CNN Int. # CNN Int. # 09.01.2014
 5008502fc e2a0185696 # 3504 # KabelBW # ANIXE SD # ANIXE SD # 09.01.2014
-43600017008 e3a01856a4 # 3505 # KabelBW # nickelodeon # nickelodeon # 20.09.2014
+43600017008 e3a01856a4 # 3505 # KabelBW # nick # nick # 16.09.2017
 43600017004 e3a01856a6 # 3506 # KabelBW # VIVA ComedyCentral # VIVA ComedyCentral # 09.01.2014
 43600016fff e3a01856a8 # 3507 # KabelBW # MTV Music 24 # MTV Music 24 # 09.01.2014
-43600017008 e3a01856ab # 3508 # KabelBW # nickelodeon # nickelodeon # 20.09.2014
+43600017008 e3a01856ab # 3508 # KabelBW # nick # nick # 16.09.2017
 90085003c ea04453a4 # 3511 # Primacom # Kinowelt TV # Kinowelt TV # 09.01.2014
 50085004a f1270f2b67 # 3522 # KabelBW # joiz # joiz # 09.01.2014
 43600017001 f1270f2f50 # 3523 # Unitymedia # MTV Germany # MTV Germany # 26.10.2016
@@ -568,7 +569,7 @@ f00850037 fa0463ab6 # 3532 # Wilhelm_tell # Eurosport2 # Eurosport2 # 12.11.2015
 45d000132db fa0463ac0 # 3533 # Wilhelm_tell # RiC # RiC # 09.01.2014
 500850296 fa0463ae8 # 3535 # Wilhelm_tell # 1-2-3.tv # 1-2-3.tv # 09.01.2014
 43600017004 fa0463b06 # 3536 # Wilhelm_tell # VIVA ComedyCentral # VIVA ComedyCentral # 09.01.2014
-43600017008 fa0463b10 # 3537 # Wilhelm_tell # nickelodeon # nickelodeon # 20.09.2014
+43600017008 fa0463b10 # 3537 # Wilhelm_tell # nick # nick # 16.09.2017
 d0085007f 2134009c4e85 # 3541 # TeleColumbus # 13th Street HD # 13TH STREET HD # 09.01.2014
 a0085007d 206c009c026e # 3542 # TeleColumbus # AXN HD # AXN HD # 12.10.2015
 2712f001d03e 1bbc009c0bea # 3543 # TeleColumbus # Animax # Animax # 09.01.2014
@@ -619,11 +620,11 @@ f00850037 21fc009c4ef1 # 3573 # TeleColumbus # Eurosport 2 Deutschland # Eurospo
 443000179f4 1bbc009c0ab4 # 3588 # TeleColumbus # EuroNews # EuroNews # 13.01.2014
 449003507fa 206c009c0267 # 3590 # TeleColumbus # Hustler TV # Hustler TV # 13.01.2014
 1aa04665a4 16a8009c0db3 # 3591 # TeleColumbus # MEZZO # MEZZO # 13.01.2014
-41d00015273 1644009c00e9 # 3592 # TeleColumbus # nickelodeon HD # nickelodeon HD # 20.09.2014
+41d00015273 1644009c00e9 # 3592 # TeleColumbus # nick HD # nick HD # 16.09.2017
 d00850070 2134009c4e9a # 3593 # TeleColumbus # NatGeo HD # NatGeo HD # 13.01.2014
 1da04671f2 21fc009c4ef7 # 3594 # TeleColumbus # nick jr. # nick jr. # 13.01.2014
 1da04671f2 21fc009c4ef4 # 3595 # TeleColumbus # nick jr. # nick jr. # 13.01.2014
-43600017008 14b4009c00d5 # 3596 # TeleColumbus # nickelodeon # nickelodeon # 20.09.2014
+43600017008 14b4009c00d5 # 3596 # TeleColumbus # nick # nick # 16.09.2017
 2716f001c36d 1edc009c0132 # 3597 # TeleColumbus # RTLnitro HD # NITRO HD # 11.07.2017
 45b00013336 14b4009c00f5 # 3598 # TeleColumbus # ServusTV Deutschland # ServusTV Deutschland # 13.01.2014
 2713f001d099 206c009c0268 # 3599 # TeleColumbus # Spiegel TV # Spiegel TV # 13.01.2014
@@ -665,7 +666,7 @@ e00850194 97270f3b07 # 3766 # Unitymedia # Cartoon Network (S) # Cartoon Network
 3fe00011afa d3270f6dc8 # 3771 # Unitymedia # France 24 (in English) # France 24 (in English) # 26.10.2016
 15a0460264 1af270f94d8 # 3774 # Unitymedia # Lust pur # Lust pur # 26.10.2016
 1aa04665d6 97270f3aff # 3776 # Unitymedia # Nautical # Nautical # 26.10.2016
-41d00015273 1b9270fac4a # 3778 # Unitymedia # nickelodeon HD # nickelodeon HD # 26.10.2016
+41d00015273 1b9270fac4a # 3778 # Unitymedia # nick HD # nick HD # 16.09.2017
 12d270f75a3 ab270f75a3 # 3781 # Unitymedia # Pro Sieben Fun # Pro Sieben Fun # 26.10.2016
 e0085006a 187270f94d5 # 3782 # Unitymedia # Pro Sieben Fun HD # Pro Sieben Fun HD # 26.10.2016
 2716f001c36d 14b270f8151 # 3785 # Unitymedia # RTLnitro HD # NITRO HD # 11.07.2017
@@ -691,12 +692,13 @@ e0085006a 187270f94d5 # 3782 # Unitymedia # Pro Sieben Fun HD # Pro Sieben Fun H
 1aa04665f4 2725f001c75c # 3834 # Vodafone-KD # fashion tv # Fashion TV # 27.10.2016
 2710f001cb71 4e21271101f4 # 3847 # TeleColumbus # Alex Berlin # Alex Berlin # 21.01.2014
 2712f001d03e 45100350fda # 3850 # SAT # Animax # Animax # 29.01.2014
-41d00015273 191270fac4a # 3851 # KabelBW # nickelodeon HD # nickelodeon HD # 20.09.2014
+41d00015273 191270fac4a # 3851 # KabelBW # nick HD # nick HD # 16.09.2017
 41b00017034 22c4013e07d8 # 3852 # Hotbird # arte # arte # 24.02.2014
 3f300012b70 3e1c013f0133 # 3854 # Hotbird # arte HD # arte HD # 24.02.2014
 1cd270fb02d 1c3270fb02d # 3855 # Unitymedia # VIVA HD # VIVA HD # 26.10.2016
 500850308 a1270f4e94 # 3856 # Unitymedia # SIXX # SIXX # 26.10.2016
 3f700011269 10f270f69dd # 3858 # Unitymedia # Die Neue Zeit TV # Die Neue Zeit TV # 26.10.2016
+600850076 2720f001c370 # 3866 # Vodafone-KD # Nat Geo Wild HD # Nat Geo Wild HD # 16.09.2017
 3f200012b8e 2721f0012b8e # 3867 # Vodafone-KD # 3sat HD # 3sat HD # 27.10.2016
 40100012855 44d00012855 # 3868 # Vodafone-KD # BR Fernsehen Süd HD # BR Fernsehen Süd HD # 07.09.2017
 41f0001157c 2720f001c36f # 3870 # Vodafone-KD # Disney Channel HD # Disney Channel HD # 27.10.2016
@@ -722,7 +724,7 @@ e00850194 d8a0183b07 # 3891 # KabelBW # Cartoon Network (S) # Cartoon Network (S
 4550001151a 4550001152e # 3903 # SAT # DMAX HD # DMAX HD Austria # 11.04.2014
 3e8013e10da 3e8013e10f8 # 3904 # Hotbird # Polo TV # POLO TV_ # 11.04.2014
 1af270f797f 271cf001c364 # 3906 # Vodafone-KD # Romance TV HD # Romance TV HD # 27.10.2016
-4250001286f 4310001286e # 3908 # Vodafone-KD # rbb Berlin HD # rbb Berlin HD # 07.09.2017
+43100016e2d 4310001286e # 3908 # Vodafone-KD # rbb Brandenburg HD # rbb Brandenburg HD # 16.09.2017
 a00850077 2721f001cf16 # 3909 # Vodafone-KD # Sport1 US HD # Sport1 US HD # 27.10.2016
 b00850071 b00850459 # 3924 # Unitymedia # History HD # History HD # 26.10.2016
 a0085007d 191270f9ca5 # 3925 # Unitymedia # AXN HD # AXN HD # 26.10.2016
@@ -755,14 +757,13 @@ c82000317b2 c990003523a # 4000 # Niederlande # HBO HD # HBO HD # 23.09.2014
 1a5270f759c 1d4cfbff104a # 4001 # SAT # Classica HD # Classica HD # 24.09.2014
 40900012774 7ec00020f43 # 4002 # SAT # TLC HD # TLC HD # 24.09.2014
 40900012774 2ee0013e3e21 # 4003 # SAT # TLC HD # TLC HD # 24.09.2014
-2720f001c370 1af4fbff0dba # 4004 # SAT # NatGeo People HD # NatGeo People HD # 24.09.2014
 c82000317a7 c8b0003514e # 4005 # SAT # TV OOST # TV Oost # 24.09.2014
 c82000317b2 1e7800710c21 # 4007 # SAT # HBO HD # HBO HD # 24.09.2014
 c82000317b2 c85000313a9 # 4008 # SAT # HBO HD # HBO HD # 24.09.2014
-43600017008 1c84013e0182 # 4010 # SAT # nickelodeon # Nickelodeon # 24.09.2014
-43600017008 251cfbff2c38 # 4011 # SAT # nickelodeon # Nickelodeon # 24.09.2014
-43600017008 7ed000215b8 # 4013 # SAT # nickelodeon # Nickelodeon # 24.09.2014
-43600017008 81f0002c793 # 4014 # SAT # nickelodeon # Nickelodeon # 24.09.2014
+43600017008 1c84013e0182 # 4010 # SAT # nick # nick # 16.09.2017
+43600017008 251cfbff2c38 # 4011 # SAT # nick # nick # 16.09.2017
+43600017008 7ed000215b8 # 4013 # SAT # nick # nick # 16.09.2017
+43600017008 81f0002c793 # 4014 # SAT # nick # nick # 16.09.2017
 44100012ef4 c9a000302d3 # 4016 # SAT # RTL2 # RTL2 # 24.09.2014
 443000179f4 8230002d3d0 # 4018 # SAT # EuroNews # Euronews # 24.09.2014
 444000119dd 444000119c9 # 4019 # SAT # 13EME RUE HD # 13EME RUE HD # 24.09.2014
@@ -833,7 +834,7 @@ ffff281c24dc c8e0003025f # 4097 # SAT # Deutsche Welle TV # Deutsche Welle TV # 
 4008500de 1838fbff2ab0 # 4116 # SAT # Sky Sport 2 # Sky Sport 2 # 24.09.2014
 403000113f9 3138013e06b0 # 4117 # SAT # TRT Turk # TRT TURK # 24.09.2014
 41b00017034 44c00012208 # 4121 # SAT # arte # ARTE # 24.09.2014
-41d00015273 578013e001f # 4123 # SAT # nickelodeon HD # Nickelodeon HD # 24.09.2014
+41d00015273 578013e001f # 4123 # SAT # nick HD # nick HD # 16.09.2017
 42a00016fee 1a2cfbff2dbd # 4125 # SAT # MTV Hits # MTV Hits # 24.09.2014
 42a00016fee 7da00021b5e # 4126 # SAT # MTV Hits # MTV HITS # 24.09.2014
 42a00016fef 7da00021b66 # 4127 # SAT # MTV Dance # MTV DANCE # 24.09.2014
@@ -950,7 +951,7 @@ c9900035226 1b03e800f2 # 4480 # NiederlandeCable # Canvas HD # Canvas HD # 29.09
 40085000d f03e83a99 # 4488 # NiederlandeCable # National Geographic # National Geographic Channel HD # 29.09.2014
 c990003521c 2003e87d03 # 4489 # NiederlandeCable # Net 5 HD # Net 5 HD # 29.09.2014
 1da04671f2 1903e861a9 # 4490 # NiederlandeCable # nick jr. # Nick Jr. # 29.09.2014
-43600017008 603e80010 # 4491 # NiederlandeCable # nickelodeon # Nickelodeon # 29.09.2014
+43600017008 603e80010 # 4491 # NiederlandeCable # nick # nick # 16.09.2017
 c96000351dc 1903e8003a # 4492 # NiederlandeCable # NostalgieNet # NostalgieNet # 29.09.2014
 d8a0183b05 1e03e800fc # 4493 # NiederlandeCable # Penthouse # Penthouse # 29.09.2014
 10085001b d03e833a2 # 4494 # NiederlandeCable # RTL Crime # RTL Crime # 29.09.2014
@@ -1034,7 +1035,7 @@ e00850193 2712f001d09f # 4580 # Vodafone-KD # Boomerang # Boomerang (eng) # 27.1
 300850204 200850204 # 4587 # Unitymedia # Sky Cinema Nostalgie # Sky Cinema Nostalgie # 26.10.2016
 80085008a 271af001c384 # 4591 # Vodafone-KD # Disney Junior HD # Disney Junior HD # 27.10.2016
 40900012777 2721f001c378 # 4592 # Vodafone-KD # MTV HD # MTV HD # 27.10.2016
-41d00015273 271af001c385 # 4593 # Vodafone-KD # nickelodeon HD # Nickelodeon HD # 27.10.2016
+41d00015273 271af001c385 # 4593 # Vodafone-KD # nick HD # nick HD # 16.09.2017
 2719f001c37d 1af270fa85d # 4594 # Unitymedia # CNN HD # CNN int. HD # 26.10.2016
 ffff310ae0ed ffffcd2fd861 # 4604 # WebTV # VEVO Hits # VEVO Flow # 21.01.2015
 ffff310ae0ed ffffcbc6fb86 # 4605 # WebTV # VEVO Hits # VEVO Nashville # 21.01.2015
@@ -1047,7 +1048,7 @@ e7270f5a4b ffffa78d5873 # 4611 # WebTV # Family TV # Family TV # 21.01.2014
 45b00013331 08d270f371c # 4623 # Kabelplus # Sport1 US # Sport1 US # 19.04.2015
 700850301 0b5270f5e29 # 4624 # Kabelplus # Channel21 Express # Channel21 Express # 19.04.2015
 700850307 0c9270f6607 # 4625 # Kabelplus # MediaShop # MediaShop # 19.04.2015
-2720f001c370 0d3270f526e # 4626 # Kabelplus # NatGeo People HD # NatGeo People HD # 19.04.2015
+1af4fbff0dba 0d3270f526e # 4626 # Kabelplus # NatGeo People HD # NatGeo People HD # 19.04.2015
 97270f3afe 0d8a0183afe # 4627 # Kabelplus # Extreme Sports # Extreme Sports # 19.04.2015
 1aa04665d6 0d8a0183aff # 4628 # Kabelplus # Nautical # Nautical # 19.04.2015
 1aa04665f4 0d8a0183b02 # 4629 # Kabelplus # fashion tv # fashion tv # 19.04.2015
@@ -1127,7 +1128,7 @@ a0085007c 3e00de183e # 4673 # Kabelplus # Fox HD # Fox HD # 19.04.2015
 45400012f5a 7e00de313f # 4709 # Kabelplus # Bibel TV # Bibel TV # 19.04.2015
 43700016d68 7f00de319d # 4710 # Kabelplus # KiKA # KiKA # 19.04.2015
 44100012f08 7f00de319e # 4711 # Kabelplus # SUPER RTL # SUPER RTL # 19.04.2015
-43600017008 7f00de319f # 4712 # Kabelplus # nickelodeon # nickelodeon # 19.04.2015
+43600017008 7f00de319f # 4712 # Kabelplus # nick # nick # 16.09.2017
 45d000132db 7f00de31a0 # 4713 # Kabelplus # RiC # RiC # 19.04.2015
 40900012774 7f00de31a1 # 4714 # Kabelplus # TLC HD # TLC HD # 19.04.2015
 45b0001332f 8000de3202 # 4715 # Kabelplus # Welt der Wunder # Welt der Wunder # 19.04.2015
@@ -1433,7 +1434,7 @@ ffffe9a74540 ffff04026ea3 # 5127 # WTCkabel # Das neue TV # Das Neue TV # 21.04.
 500850701 271ba6060067 # 5166 # WTCkabel # Disney Channel # Disney Channel # 21.04.2016
 2100850384 271ba6060068 # 5167 # WTCkabel # SPORT1 # SPORT1 # 21.04.2016
 3fd000111fc 271ba606006c # 5168 # WTCkabel # münchen.tv # münchen.tv # 21.04.2016
-43600017008 271ba606006d # 5169 # WTCkabel # nickelodeon # Nickelodeon # 21.04.2016
+43600017008 271ba606006d # 5169 # WTCkabel # nick # nick # 16.09.2017
 2100850033 271ba606006f # 5170 # WTCkabel # TELE 5 # TELE 5 # 21.04.2016
 5008502fc 271ba6060071 # 5171 # WTCkabel # ANIXE SD # ANIXE SD # 21.04.2016
 42300011bbe 271ca60604bd # 5172 # WTCkabel # TVP INFO # TVP INFO # 21.04.2016
@@ -1557,7 +1558,7 @@ d3270f5271 2db4013e0579 # 5311 # SAT # Baby TV # Baby TV # 09.11.2016
 640013e3dc6 2c88013e3d57 # 5323 # SAT # VOX MUSIC TV # VOX MUSIC TV # 09.11.2016
 c82000317b2 1edc0071290e # 5324 # SAT # HBO HD # HBO HD # 09.11.2016
 c82000317b2 1edc0071290f # 5325 # SAT # HBO HD # HBO HD # 09.11.2016
-43600017008 42e00011f48 # 5326 # SAT # nickelodeon # NICKELODEON # 09.11.2016
+43600017008 42e00011f48 # 5326 # SAT # nick # nick # 16.09.2017
 443000179ea ffff09dcd713 # 5327 # SAT # HSE24 EXTRA # HSE24 Extra # 09.11.2016
 45400012f8a 4320001206d # 5328 # SAT # BFM TV # BFM TV # 09.11.2016
 4550001151a 14b4fbff37ad # 5329 # SAT # DMAX HD # DMAX HD # 09.11.2016
@@ -1581,7 +1582,7 @@ c82000317b2 1edc0071290f # 5325 # SAT # HBO HD # HBO HD # 09.11.2016
 4008500de 1838fbff2aa9 # 5347 # SAT # Sky Sport 2 # Sky Sport 2 # 09.11.2016
 41d00015270 2f44013e06c3 # 5348 # SAT # HSE24 HD # HSE24 HD # 09.11.2016
 41d00015270 ffff712eb56f # 5349 # SAT # HSE24 HD # HSE24 HD # 09.11.2016
-41d00015273 3200013e000e # 5350 # SAT # nickelodeon HD # Nickelodeon HD # 09.11.2016
+41d00015273 3200013e000e # 5350 # SAT # nick HD # nick HD # 16.09.2017
 41f0001157c 1ce800711cb6 # 5351 # SAT # Disney Channel HD # Disney Channel HD # 09.11.2016
 41f0001157c 1ce800711cc5 # 5352 # SAT # Disney Channel HD # Disney Channel HD # 09.11.2016
 42300011bbe 2af8013e113a # 5353 # SAT # TVP INFO # TVP INFO # 09.11.2016
@@ -1721,7 +1722,7 @@ ffff8599f95a 6b0021140623 # 5508 # DVBT2 # ARD-alpha HD # ARD-alpha HD (Internet
 40100012855 6b0021140622 # 5509 # DVBT2 # BR Fernsehen Süd HD # BR Fernsehen Süd HD (Internet) # 07.09.2017
 42500012873 6b0021140641 # 5510 # DVBT2 # hr-fernsehen HD # hr-fernsehen HD (Internet) # 02.09.2017
 42500012871 6f0021140362 # 5511 # DVBT2 # MDR S-Anhalt HD # MDR S-Anhalt HD # 07.09.2017
-41d00015273 406121144244 # 5512 # DVBT2 # nickelodeon HD # NICK HD # 02.09.2017
+41d00015273 406121144244 # 5512 # DVBT2 # nick HD # NICK HD # 02.09.2017
 4250001286f 6b00211406b1 # 5513 # DVBT2 # rbb Berlin HD # rbb Berlin HD (Internet) # 07.09.2017
 45700016f83 6b002114040b # 5514 # DVBT2 # WDR HD Duisburg # WDR HD Duisburg # 07.09.2017
 4b100016ea8 6b0021140404 # 5515 # DVBT2 # WDR HD Düsseldorf # WDR HD Düsseldorf # 07.09.2017
@@ -1733,3 +1734,5 @@ ffff8599f95a 6b0021140623 # 5508 # DVBT2 # ARD-alpha HD # ARD-alpha HD (Internet
 40500012e9a 400421144202 # 5521 # DVBT2 # SUPER RTL HD # SUPER RTL HD # 04.09.2017
 45500011519 400421144206 # 5522 # DVBT2 # TELE 5 HD # Tele 5 HD # 04.09.2017
 4210001ef11 400421144201 # 5523 # DVBT2 # VOX HD # VOX HD # 04.09.2017
+40100012855 227270fd743 # 5524 # Unitymedia # BR Fernsehen Süd HD # BR Fernsehen Süd HD # 16.09.2017
+44500016f46 41b00016f46 # 5525 # Vodafone-KD # SR Fernsehen # SR Fernsehen # 16.09.2017
