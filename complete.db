@@ -1240,7 +1240,7 @@ ffff7967141f ffffa7a26b62 # 4851 # WebTV # Djing DJ Hits # Djing DJ Hot Tracks #
 ffff7967141f ffff017fef57 # 4852 # WebTV # Djing DJ Hits # Djing HotHotHot # 15.10.2015
 10085002a 20085002a # 4854 # SAT # 13th Street # 13th Street # 18.11.2015
 e0085006d 90085006d # 4855 # SAT # Eurosport 2 HD # Eurosport 2 HD # 18.11.2015
-900850090 800850090 # 4856 # SAT # Sky Atlantic +1 HD # Sky Atlantic +1 HD # 18.11.2015
+900850090 800850090 # 4856 # SAT # Sky 1 HD +1 # Sky 1 HD +1 # 23.09.2017
 800850088 e00850088 # 4857 # SAT # TNT Comedy HD # TNT Comedy HD # 29.05.2016
 200850201 400850201 # 4858 # Unitymedia # Blue Movie # Blue Movie # 26.10.2016
 1100850015 300850015 # 4859 # SAT # Beate-Uhse.TV # Beate-Uhse.TV # 18.11.2015
@@ -1479,7 +1479,7 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 44100012f30 2714f001d04f # 5226 # Vodafone-KD # RTLplus # RTLplus # 27.10.2016
 2721f001cf6f f00850023 # 5231 # SAT # Zee.One # Zee.One # 09.08.2016
 1008500a8 e008500a8 # 5233 # SAT # Motorvision TV # Motorvision TV # 25.03.2017
-900850090 1000850090 # 5236 # SAT # Sky Atlantic +1 HD # Sky Atlantic +1 HD # 16.09.2016
+900850090 1000850090 # 5236 # SAT # Sky 1 HD +1 # Sky 1 HD +1 # 23.09.2017
 44500016f47 ffffbf52629b # 5237 # WebTV # ARD-alpha # ARD-alpha # 19.09.2016
 44d00016dce ffff7f71e6d2 # 5238 # WebTV # BR Fernsehen # BR Fernsehen Nord # 07.09.2017
 44d00016dce ffffdc28566b # 5239 # WebTV # BR Fernsehen # BR Fernsehen Süd # 07.09.2017
@@ -1550,7 +1550,7 @@ d3270f5271 2db4013e0579 # 5311 # SAT # Baby TV # Baby TV # 09.11.2016
 3c00de1771 1ce800711cbb # 5316 # SAT # Blue Hustler # Blue Hustler # 09.11.2016
 5dc013e13f1 434000122cb # 5317 # SAT # TRACE Urban # TRACE URBAN # 09.11.2016
 3200013e0001 3200013e0015 # 5318 # SAT # MTV Live HD # MTV Live HD # 09.11.2016
-900850090 206cfbff2d00 # 5319 # SAT # Sky Atlantic +1 HD # Sky Atlantic +1 HD # 09.11.2016
+900850090 206cfbff2d00 # 5319 # SAT # Sky 1 HD +1 # Sky 1 HD +1 # 23.09.2017
 4150001000d 42e00011f4c # 5320 # SAT # TRACE Africa # TRACE AFRICA # 09.11.2016
 640013e3dca 64fbff3bcd # 5321 # SAT # Hip Hop TV # Hip Hop TV # 09.11.2016
 2721f001cf13 2bc013e0009 # 5322 # SAT # SONLife # Sonlife # 09.11.2016
