@@ -1040,8 +1040,6 @@ ffff310ae0ed ffffcd2fd861 # 4604 # WebTV # VEVO Hits # VEVO Flow # 21.01.2015
 ffff310ae0ed ffffcbc6fb86 # 4605 # WebTV # VEVO Hits # VEVO Nashville # 21.01.2015
 ffff310ae0ed ffffc09fe898 # 4606 # WebTV # VEVO Hits # VEVO TV Germany # 21.01.2015
 700850041 ffff8f688712 # 4610 # WebTV # Deluxe Music # Deluxe Music # 21.01.2015
-e7270f5a4b ffffa78d5873 # 4611 # WebTV # Family TV # Family TV # 21.01.2014
-45d000132db ffff5ab3fe45 # 4612 # WebTV # RiC # RIC TV # 21.01.2015
 172a018892a ffff25dabd69 # 4613 # WebTV # bw Family TV # bw Family TV # 21.01.2015
 2b5c013e1251 2fa8013e1d25 # 4616 # Hotbird # Brazzers TV Europe # Brazzers TV Europe # 27.03.2015
 45b00013331 08d270f371c # 4623 # Kabelplus # Sport1 US # Sport1 US # 19.04.2015
@@ -1208,11 +1206,8 @@ e7270f5a4c 210085002e # 4788 # SAT # Mediaspar TV # mediasparTV Homeshopping # 2
 3fc00011b64 10f270f7595 # 4796 # Unitymedia # Al Jazeera English # Al Jazeera # 26.10.2016
 3fc00011b64 10f270f4e90 # 4797 # Unitymedia # Al Jazeera English # Al Jazeera International # 26.10.2016
 3200013e0001 1a5270f6dd0 # 4798 # Unitymedia # MTV Live HD # MTV Live HD # 26.10.2016
-45b0001332f ffff78722dfe # 4799 # WebTV # Welt der Wunder # Welt der Wunder # 30.07.2015
 5008502fc ffff63022841 # 4800 # WebTV # ANIXE SD # ANIXE SD # 30.07.2015
-3fd000111fc ffff5f232dae # 4801 # WebTV # münchen.tv # münchen.tv # 30.07.2015
 fa0463b56 ffff484b35d3 # 4802 # WebTV # Hamburg1 # Hamburg1 # 30.07.2015
-50085004a ffff118e04a0 # 4803 # WebTV # joiz # joiz HD # 30.07.2015
 700850047 3eb000133ab # 4810  # Hope Channel deutsch # HOPE Channel HD # 10.09.2015
 1ca0466d88 50085003e # 4811  # EWTN # EWTN katholisches TV # 10.09.2015
 42a00016ff5 42e00011f41 # 4816 # SAT # MTV Base France # MTV Base HD # 19.09.2015
@@ -1230,8 +1225,6 @@ fa0463b56 ffff484b35d3 # 4802 # WebTV # Hamburg1 # Hamburg1 # 30.07.2015
 443000179f4 dd270f566d # 4832 # Unitymedia # euronews # euronews (Farsi) # 26.10.2016
 4b100016ea5 213270fcf6d # 4833 # Unitymedia # WDR HD Köln # WDR HD Köln # 07.09.2017
 42500012873 21d270fd355 # 4835 # Unitymedia # hr-fernsehen HD # HR HD # 26.10.2016
-103e803f1 ffff60c73a0e # 4840 # WebTV # WDR HD # WDR HD # 07.09.2017
-4010001285a ffff0e5d2c72 # 4842 # WebTV # NDR FS SH HD # NDR HD # 13.10.2015
 3f200012b98 ffff382f44ba # 4844 # WebTV # KiKA HD # KiKA HD # 13.10.2015
 44500016f47 ffffc80f4d29 # 4845 # WebTV # ARD-alpha # ARD-alpha # 13.10.2015
 ffff7967141f ffffee8c0168 # 4849 # WebTV # Djing DJ Hits # Djing Ibiza # 15.10.2015
@@ -1343,7 +1336,6 @@ ffff4a08cd84 ffffe0f328f4 # 5026 # WebTV # 18+ XXX # 18+ XXX2 # 01.01.2017
 42a00016fef 271da6066fef # 5047 # WTCkabel # MTV Dance # MTV Dance # 21.04.2016
 42a00016fee 271da6066fee # 5048 # WTCkabel # MTV Hits # MTV Hits # 21.04.2016
 42a00016ff0 271da6066ff0 # 5049 # WTCkabel # VH1 # VH1 # 21.04.2016
-f1270f5e38 ffffc7202861 # 5051 # WebTV # XITE # XITE # 21.04.2016
 1aa04665f4 ffff04dc593c # 5052 # WebTV # fashion tv # Fashion TV # 21.04.2016
 2720f001c36e 1bbc009c0faa # 5053 # WTCkabel # Sony Channel HD # Sony Channel HD # 17.11.2016
 2715f001c481 1bbc009c0fa0 # 5054 # WTCkabel # Silverline # Silverline # 21.04.2016
@@ -1393,7 +1385,6 @@ f0085003a 206c009c0269 # 5118 # WTCkabel # History # History # 21.04.2016
 42a00016ff1 271da6066ff1 # 5124 # WTCkabel # VH1 Classic # VH1 Classic # 21.04.2016
 2710f001cb71 ffff6297ced8 # 5125 # WTCkabel # Alex Berlin # Alex Berlin # 21.04.2016
 44d00016dca ffff40df9c50 # 5126 # WTCkabel # Das Erste # Das Erste # 21.04.2016
-ffffe9a74540 ffff04026ea3 # 5127 # WTCkabel # Das neue TV # Das Neue TV # 21.04.2016
 443000179f4 ffff94c3be9c # 5128 # WebTV # EuroNews # Euronews # 21.04.2016
 3fd000111f9 ffffbf846f52 # 5129 # WTCkabel # Franken Fernsehen # Franken Fernsehen # 21.04.2016
 15f270f5e2f ffff1ddbfcbc # 5130 # WebTV # NRW TV # NRW TV # 21.04.2016
@@ -1484,16 +1475,11 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 44d00016dce ffff7f71e6d2 # 5238 # WebTV # BR Fernsehen # BR Fernsehen Nord # 07.09.2017
 44d00016dce ffffdc28566b # 5239 # WebTV # BR Fernsehen # BR Fernsehen Süd # 07.09.2017
 40100012856 ffffaaa31946 # 5240 # WebTV # BR Fernsehen Nord HD # BR Fernsehen Nord HD # 07.09.2017
-4010001285a ffff2e699a79 # 5241 # WebTV # NDR FS SH HD # NDR FS SH HD # 19.09.2016
 40100012855 ffff84d9ba8d # 5242 # WebTV # BR Fernsehen Süd HD # BR Fernsehen Süd HD # 07.09.2017
 43100016e44 ffffd6c4e8c7 # 5243 # WebTV # mdr # MDR S-Anhalt # 07.09.2017
 43100016e44 ffff9d91a389 # 5244 # WebTV # mdr # MDR Thüringen # 07.09.2017
-40100012859 ffffeda6894d # 5245 # WebTV # NDR FS HH HD # NDR FS HH HD # 19.09.2016
-4010001285a ffff7de46493 # 5246 # WebTV # NDR FS SH HD # NDR MV HD # 19.09.2016
-40100012857 ffff5b8044d1 # 5247 # WebTV # NDR FS NDS HD # NDR Niedersachsen HD # 19.09.2016
 44500016f46 ffffee67b95a # 5248 # WebTV # SR Fernsehen # SR Fernsehen # 19.09.2016
 43100016e47 fffff0df59d0 # 5249 # WebTV # SWR Fernsehen RP # SWR Fernsehen RP # 19.09.2016
-103e803f1 ffffcd9cb9a0 # 5250 # WebTV # WDR HD # WDR HD # 07.09.2017
 3f300012b7a ffffc70a3c78 # 5252 # WebTV # zdf_neo HD # zdf_neo HD # 19.09.2016
 45300014465 2725f001c3ca # 5254 # Vodafone-KD # Kabel eins Doku # Kabel eins DOKU # 27.10.2016
 500850030 2725f001c75d # 5255 # Vodafone-KD # N24 Doku # N24 Doku # 27.10.2016
@@ -1603,7 +1589,6 @@ f0085003a 2bc0013e4284 # 5369 # SAT # History # History # 09.11.2016
 45400010d42 ffff60c9ce82 # 5371 # SAT # QVC PLUS # QVC PLUS # 09.11.2016
 2710f001d10e ffff3863d6e8 # 5372 # SAT # france 3 # France 3 # 09.11.2016
 2710f001d10e ffff8156fecb # 5373 # SAT # france 3 # France 3 # 09.11.2016
-3fe00011af8 ffff3de8dc98 # 5374 # SAT # Russia Today # Russia Today # 09.11.2016
 3fe00011afa ffff7a0ad75a # 5375 # SAT # France 24 # France 24 # 09.11.2016
 b00850084 231270fdb28 # 5378 # Unitymedia # Eurosport 1 HD # EUROSPORT 1 HD # 02.12.2016
 3008500f1 f00850025 # 5380 # SAT # Sky Sport News # Sky Sport News # 02.12.2016
