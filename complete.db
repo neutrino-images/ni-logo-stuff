@@ -569,7 +569,7 @@ f00850037 fa0463ab6 # 3532 # Wilhelm_tell # Eurosport2 # Eurosport2 # 12.11.2015
 43600017004 fa0463b06 # 3536 # Wilhelm_tell # VIVA ComedyCentral # VIVA ComedyCentral # 09.01.2014
 43600017008 fa0463b10 # 3537 # Wilhelm_tell # nick # nick # 16.09.2017
 d0085007f 2134009c4e85 # 3541 # TeleColumbus # 13th Street HD # 13TH STREET HD # 09.01.2014
-a0085007d 206c009c026e # 3542 # TeleColumbus # AXN HD # AXN HD # 12.10.2015
+d00850070 206c009c026e # 3542 # 9GradOst # NatGeo HD # NatGeo HD # 31.12.2017
 2712f001d03e 1bbc009c0bea # 3543 # TeleColumbus # Animax # Animax # 09.01.2014
 40200012742 14b4009c00f0 # 3544 # TeleColumbus # BBC World # BBC World # 09.01.2014
 45400012f5a 14b4009c00f4 # 3545 # TeleColumbus # Bibel TV # Bibel TV # 09.01.2014
@@ -606,7 +606,7 @@ f00850037 21fc009c4ef1 # 3573 # TeleColumbus # Eurosport 2 Deutschland # Eurospo
 43100016e44 44500016f0e # 3576 # TeleColumbus # mdr # MDR Thüringen # 07.09.2017
 43600017001 21fc009c4ef0 # 3577 # TeleColumbus # MTV Germany # MTV Germany # 09.01.2014
 43600017004 14b4009c00d8 # 3578 # TeleColumbus # VIVA ComedyCentral # VIVA ComedyCentral # 09.01.2014
-7d90002183a 206c009c026f # 3579 # TeleColumbus # Animal Planet # Animal Planet # 10.01.2014
+45b00013331 206c009c026f # 3579 # 9GradOst # Sport1 US # Sport 1 US # 31.12.2017
 14a0464eb6 1bbc009c0bb8 # 3580 # TeleColumbus # BonGusto # BonGusto # 10.01.2014
 83270f3337 21fc009c4ef2 # 3581 # TeleColumbus # gute laune TV # Gute Laune TV # 10.01.2014
 443000179ea 14b4009c00e4 # 3582 # TeleColumbus # HSE24 EXTRA # HSE24 Extra # 10.01.2014
