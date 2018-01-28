@@ -390,7 +390,7 @@ ffff281c24dc 3c8c013e025f # 3054  # Deutsche Welle TV # Deutsche Welle TV # 03.0
 41d00015273 41d0001527d # 3179 # SAT # nick HD # nick HD # 16.09.2017
 41d00015274 41d0001527e # 3180 # SAT # Welt HD # Welt HD # 19.01.2018
 41f0001157f 41f00011589 # 3187 # SAT # Deluxe Music HD # Deluxe Music HD # 09.01.2014
-43600017001 42a00016feb # 3200 # SAT # MTV Germany # MTV Germany # 09.01.2014
+41d00015273 42a00016feb # 3200 # SAT # nick HD # Nickelodeon HD # 24.01.2018
 42a00016ffd 42a00016ff3 # 3205 # SAT # MTV ROCKS. # MTV ROCKS. # 09.01.2014
 42a00016fee 42a00016ff8 # 3209 # SAT # MTV Hits # MTV Hits # 09.01.2014
 42a00016ff0 42a00016ffa # 3210 # SAT # VH1 # VH1 # 09.01.2014
@@ -658,7 +658,6 @@ d8a0183b05 97270f3b05 # 3682 # Unitymedia # Penthouse # PENTHOUSE # 26.10.2016
 3a00de16a9 d3270f526d # 3752 # Unitymedia # Fix & Foxi TV # Fix&Foxi # 26.10.2016
 2100850295 d3270f71b4 # 3759 # Unitymedia # AstroTV # Astro TV # 26.10.2016
 fb270f621a 1b9270f621a # 3761 # Unitymedia # Auto Motor Sport Channel HD # Auto Motor und Sport TV HD # 26.10.2016
-40200012742 10f270f2b61 # 3763 # Unitymedia # BBC World # BBC World News # 26.10.2016
 119270f6dcf 1b9270f6dcf # 3764 # Unitymedia # BonGusto HD # Bon Gusto HD # 26.10.2016
 e00850194 97270f3b07 # 3766 # Unitymedia # Cartoon Network (S) # Cartoon Network # 26.10.2016
 3fe00011afa d3270f6dc8 # 3771 # Unitymedia # France 24 (in English) # France 24 (en francais) # 26.10.2016
@@ -1140,7 +1139,7 @@ a0085007c 3e00de183e # 4673 # Kabelplus # Fox HD # Fox HD # 19.04.2015
 45300014460 8100de326b # 4726 # Kabelplus # SAT.1 Gold # SAT.1 Gold # 19.04.2015
 41b00017034 8200de32c9 # 4727 # Kabelplus # arte # arte # 19.04.2015
 43700016d6b 8200de32ca # 4728 # Kabelplus # ZDFinfo # ZDFinfo # 19.04.2015
-3eb000133a9 8200de32cc # 4730 # Kabelplus # Schau TV # Schau TV # 19.04.2015
+3eb000133a9 8200de32cc # 4730 # Kabelplus # Schau TV HD # Schau TV # 19.04.2015
 42c00016f6a 8200de32ce # 4731 # Kabelplus # CNN Int. # CNN Int. # 19.04.2015
 443000179f4 8300de332d # 4732 # Kabelplus # EuroNews # EuroNews # 19.04.2015
 44100012f3a 8300de332e # 4733 # Kabelplus # n-tv # ntv # 10.08.2017
@@ -1193,9 +1192,7 @@ a0085007c 3e00de183e # 4673 # Kabelplus # Fox HD # Fox HD # 19.04.2015
 f0085003a ea044539b # 4783 # Kabelplus # History # History # 19.04.2015
 3c00de1771 3c00de1773 # 4784 # Kabelplus # Blue Hustler # Blue Hustler # 19.04.2015
 3f700011268 41d00015278 # 4785 # SAT # SOPHIA TV # SOPHIA TV # 23.06.2015
-8400de3395 3eb000133ad # 4786 # SAT # Melodie TV # MELODIE TV # 23.06.2015
-e7270f5a4c 40900012776 # 4787 # SAT # Mediaspar TV # mediaspar HD # 23.06.2015
-e7270f5a4c 210085002e # 4788 # SAT # Mediaspar TV # mediasparTV Homeshopping # 23.06.2015
+44100012f30 3eb000133ad # 4786 # SAT # RTLplus # RTLplus Austria # 27.01.2018
 3f300012b7a 191270fa08f # 4789 # Unitymedia # zdf_neo HD # zdf_neo HD # 26.10.2016
 3f200012b8e 19b270fa08d # 4790 # Unitymedia # 3sat HD # 3sat HD # 26.10.2016
 40f00012888 1a5270fa08e # 4791 # Unitymedia # One HD # One HD # 26.10.2016
@@ -1326,6 +1323,7 @@ ffff4a08cd84 ffffe0f328f4 # 5026 # WebTV # 18+ XXX # 18+ XXX2 # 01.01.2017
 6a4013e36b3 ffff5ad0954d # 5035 # WebTV # RSI LA 1 # RSI LA 1 # 08.03.2016
 80000022876 ffff104fe702 # 5036 # WebTV # BBC News # BBC News # 08.03.2016
 90085003c 400850196 # 5037 # SAT # Kinowelt TV # Kinowelt TV # 15.04.2016
+2c88013e3d63 640013e3dca # 5038 # Hotbird # eska rock tv # eska rock tv # 27.01.2018
 45d000132ca 4310001cbb2 # 5041 # SAT # ORF2 # ORF2 Salzburg # 20.04.2016
 3ed000133fc ffff2bd3803e # 5043 # WebTV # ORF III HD # ORF III HD # 21.04.2016
 3ef0001132f ffffc595a310 # 5044 # WebTV # ORF1 HD # ORF1 HD # 21.04.2016
@@ -1486,7 +1484,6 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 4210001ef10 21d270fd356 # 5259 # Unitymedia # RTL HD # RTL HD # 26.10.2016
 2721f001cf6f d3270f4e9d # 5261 # Unitymedia # Zee.One # Zee.One # 26.10.2016
 41f0001157c 79270f69e7 # 5264 # Unitymedia # Disney Channel HD # Disney HD # 26.10.2016
-640013e3dca 2c88013e3d63 # 5265 # Hotbird # Hip Hop TV # Hip Hop TV # 12.10.2016
 45300014462 45f00353268 # 5267 # SAT # kabel eins classics # kabel eins classics # 12.10.2016
 271af001c386 45100351018 # 5268 # SAT # sportdigital HD # sportdigital HD # 10.01.2017
 4210001ef10 213270fcf6e # 5272 # Unitymedia # RTL HD # RTL HD # 26.10.2016
@@ -1531,12 +1528,11 @@ d3270f5271 2db4013e0579 # 5311 # SAT # Baby TV # Baby TV # 09.11.2016
 40900012777 15e0fbff1e53 # 5313 # SAT # MTV HD # MTV HD # 09.11.2016
 640013e3dc7 3e8013e10e7 # 5314 # SAT # POWER TV # POWER TV # 09.11.2016
 271af001c383 1af4fbff2d03 # 5315 # SAT # Disney XD HD # Disney XD HD # 09.11.2016
-3c00de1771 1ce800711cbb # 5316 # SAT # Blue Hustler # Blue Hustler # 09.11.2016
 5dc013e13f1 434000122cb # 5317 # SAT # TRACE Urban # TRACE URBAN # 09.11.2016
 3200013e0001 3200013e0015 # 5318 # SAT # MTV Live HD # MTV Live HD # 09.11.2016
 900850090 206cfbff2d00 # 5319 # SAT # Sky 1 HD +1 # Sky 1 HD +1 # 23.09.2017
 4150001000d 42e00011f4c # 5320 # SAT # TRACE Africa # TRACE AFRICA # 09.11.2016
-640013e3dca 64fbff3bcd # 5321 # SAT # Hip Hop TV # Hip Hop TV # 09.11.2016
+2c88013e3d63 64fbff3bcd # 5321 # SAT # eska rock tv # eska rock tv # 27.01.2018
 2721f001cf13 2bc013e0009 # 5322 # SAT # SONLife # Sonlife # 09.11.2016
 640013e3dc6 2c88013e3d57 # 5323 # SAT # VOX MUSIC TV # VOX MUSIC TV # 09.11.2016
 c82000317b2 1edc0071290e # 5324 # SAT # HBO HD # HBO HD # 09.11.2016
@@ -1633,7 +1629,6 @@ f00850037 4510035100a # 5405 # SAT # Eurosport 2 # Eurosport 2 # 16.01.2017
 15f270f891d 391021140106 # 5428 # DVBT # WDR # WDR Köln # 07.09.2017
 15f270f891d 520021140108 # 5429 # DVBT2 # WDR # WDR Köln # 07.09.2017
 ffffb325f86d 22032114410c # 5430 # WebTV # DAF # DAF # 21.01.2017
-e7270f5a4c 220321144114 # 5431 # WebTV # mediaspar TV # mediaspar tv # 21.01.2017
 3fc00011b66 22032114410b # 5432 # WebTV # NHK World TV # NHK WORLD TV # 21.01.2017
 45400012f44 22032114410d # 5433 # WebTV # QVC Deutschland # QVC Deutschland # 21.01.2017
 500850040 22032114410e # 5434 # WebTV # QVC Beauty # QVC Beauty # 21.01.2017
@@ -1734,3 +1729,4 @@ f00850027 bf270f4aad # 5537 # Unitymedia # eoTV # eoTV # 29.11.2017
 15f270f891d 15f270f8967 # 5543 # Unitymedia # WDR Düsseldorf # WDR Duisburg # 29.11.2017
 43600017001 43600017006 # 5544 # SAT # MTV Germany # MTV # 23.12.2017
 43600017001 2714f001cf0c # 5545 # Vodafone-KD # MTV Germany # MTV # 23.12.2017
+8400de3395 3ed00013405 # 5562 # SAT # Melodie TV # Melodie TV # 27.01.2018
