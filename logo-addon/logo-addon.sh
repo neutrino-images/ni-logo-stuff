@@ -63,16 +63,16 @@ if [ -e $archive ]; then
 		1)
 			#Logo-Updater ausfuehren
 			test -e updates && chmod 755 updates && ./updates
-			echo "- Logo-Updater beendet."
+			echo "- "$(date +"%H.%M.%S")" - Logo-Updater beendet."
 			;;
 		*)
 			#Abbruch
-			echo "- Logo-Updater abgebrochen."
+			echo "- "$(date +"%H.%M.%S")" - Logo-Updater abgebrochen."
 			;;
 		esac
 	fi
 else
-	echo "- Fehler beim Download von $archive"
+	echo "- "$(date +"%H.%M.%S")" - Fehler beim Download von $archive"
 fi
 
 cleanup
