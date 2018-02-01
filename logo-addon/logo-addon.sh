@@ -63,16 +63,26 @@ if [ -e $archive ]; then
 		1)
 			#Logo-Updater ausfuehren
 			test -e updates && chmod 755 updates && ./updates
-			echo "- "$(date +"%H.%M.%S")" - Logo-Updater beendet."
+		  if [ -e /tmp/$workdir/time.txt ]; then
+         sek=$(cat /tmp/$workdir/time.txt)
+        else
+         sek="0 Sekunden"
+      fi
+			echo "- "$(date +"%H.%M.%S")" Uhr - Logo-Updater beendet. (Gesamtlaufzeit: "$sek")"
 			;;
 		*)
 			#Abbruch
-			echo "- "$(date +"%H.%M.%S")" - Logo-Updater abgebrochen."
+		  if [ -e /tmp/$workdir/time.txt ]; then
+         sek=$(cat /tmp/$workdir/time.txt)
+        else
+         sek="0 Sekunden"
+      fi
+			echo "- "$(date +"%H.%M.%S")" Uhr - Logo-Updater abgebrochen. (Gesamtlaufzeit: "$sek")"
 			;;
 		esac
 	fi
 else
-	echo "- "$(date +"%H.%M.%S")" - Fehler beim Download von $archive"
+	echo "- "$(date +"%H.%M.%S")" Uhr - Fehler beim Download von $archive"
 fi
 
 cleanup
