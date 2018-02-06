@@ -143,7 +143,6 @@ a0085007d 14a0464ea2 # 2651 # Wilhelm_tell # AXN HD # AXN HD # 12.10.2015
 200850206 15a046524e # 2661 # Wilhelm_tell # Romance TV # Romance TV # 29.11.2017
 83270f3337 15a04652b2 # 2662 # Wilhelm_tell # GuteLauneTV # GuteLauneTV # 09.01.2014
 210085002f 172a0188937 # 2668 # SAT # REGIO TV # REGIO TV # 09.01.2014
-700850300 172a018893b # 2669 # KabelBW # RNF # RNF # 09.01.2014
 90085008c 17d270f94d7 # 2671  # RTL crime HD # RTL crime HD # 09.01.2014
 2715f001c481 18a0465dde # 2672 # Wilhelm_tell # Silverline # Silverline # 09.01.2014
 10085002a 18a0465e2e # 2674 # Wilhelm_tell # 13th Street # 13th Street # 09.01.2014
@@ -1593,6 +1592,7 @@ b00850084 413000130d6 # 5381 # SAT # Eurosport 1 HD # EUROSPORT 1 HD # 02.12.201
 b00850084 271bf001c3a2 # 5386 # Vodafone-KD # Eurosport 1 HD # EUROSPORT 1 HD # 13.12.2016
 3fd000111fc 2710f001cb23 # 5390 # Vodafone-KD # münchen.tv # münchen.tv # 20.12.2016
 4440001277a 2710f001cb46 # 5391 # Vodafone-KD # münchen 2 # münchen 2 # 20.12.2016
+3ff000116a9 4310001cba7 # 5392 # Vodafone-KD # münchen.tv HD # münchen.tv HD # 06.02.2018
 4010001285a 4310001285a # 5393 # Vodafone-KD # NDR FS SH HD # NDR FS SH HD # 20.12.2016
 ffff4a08cd84 ffff845edcac # 5394 # WebTV # 18+ XXX # 18+ XXX1 # 01.01.2017
 ffff4a08cd84 ffff2e5c6a5d # 5395 # WebTV # 18+ XXX # 18+ XXX3 # 01.01.2017
@@ -1753,3 +1753,11 @@ c0085006b d0085006b # 5584 # Unitymedia # Sky Cinema Hits HD # Sky Cinema Hits H
 300850119 200850119 # 5590 # SAT # Sky Select 4 # Sky Select 4 # 30.01.2018
 300850111 200850111 # 5591 # SAT # Sky Sport 4 # Sky Sport 4 # 30.01.2018
 30085011b 20085011b # 5592 # SAT # Sky Sport 5 # Sky Sport 5 # 30.01.2018
+43600017001 1c84013e017a # 5594 # Hotbird # MTV Germany # MTV # 05.02.2018
+43600016fff 320fbff0594 # 5595 # Hotbird # MTV Music 24 # MTV Music 24 # 05.02.2018
+42a00016ffd 1a2cfbff2dbc # 5596 # Hotbird # MTV ROCKS # MTV ROCKS # 05.02.2018
+443000179f4 443000179fe # 5597 # SAT # EuroNews # EuroNews German SD # 05.02.2018
+443000179f4 20d0013e0bc6 # 5598 # Hotbird # EuroNews # EuroNews Russian # 05.02.2018
+443000179f4 20d0013e0bc7 # 5599 # Hotbird # EuroNews # EuroNews Hungarian # 05.02.2018
+443000179f4 22c4013e07e1 # 5600 # Hotbird # EuroNews # EuroNews Italian # 05.02.2018
+443000179f4 22c4013e07e2 # 5601 # Hotbird # EuroNews # EuroNews Greek # 05.02.2018
