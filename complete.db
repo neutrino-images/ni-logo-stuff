@@ -1,30 +1,4 @@
 #Logo Symlink File-ID Provid LogoName SymlinkName TimeStamp
-4210001ef11 14b270f814f # 2655 # Unitymedia # VOX HD # VOX HD # 26.10.2016
-4210001ef15 14b270f814e # 2656 # Unitymedia # RTL2 HD # RTL2 HD # 26.10.2016
-40500012e9a 14b270f8150 # 2657 # Unitymedia # SUPER RTL HD # SUPER RTL HD # 26.10.2016
-200850206 15a046524e # 2661 # Wilhelm_tell # Romance TV # Romance TV # 29.11.2017
-83270f3337 15a04652b2 # 2662 # Wilhelm_tell # GuteLauneTV # GuteLauneTV # 09.01.2014
-210085002f 172a0188937 # 2668 # SAT # REGIO TV # REGIO TV # 09.01.2014
-90085008c 17d270f94d7 # 2671  # RTL crime HD # RTL crime HD # 09.01.2014
-2715f001c481 18a0465dde # 2672 # Wilhelm_tell # Silverline # Silverline # 09.01.2014
-10085002a 18a0465e2e # 2674 # Wilhelm_tell # 13th Street # 13th Street # 09.01.2014
-1100850024 18a0465e38 # 2675 # Wilhelm_tell # Syfy # Syfy # 09.01.2014
-90085003c 18a0465e42 # 2676 # Wilhelm_tell # Kinowelt TV # Kinowelt TV # 09.01.2014
-d00850070 190013e32df # 2677 # Hotbird # NatGeo HD # NatGeo HD # 09.01.2014
-b00850084 190013e3318 # 2678 # Hotbird # Eurosport HD # Eurosport HD # 09.01.2014
-3ef00011332 191270f71b5 # 2679 # Unitymedia # ServusTV HD Deutschland # ServusTV HD # 26.10.2016
-41d0001526f 191270fac45 # 2681 # Unitymedia # QVC HD # QVC HD # 26.10.2016
-41f00011581 19b270f4e96 # 2682 # Unitymedia # Sport 1 HD # Sport1 HD # 26.10.2016
-271df001c352 19b270f5274 # 2683 # Unitymedia # TNT Film HD # TNT Film HD # 26.10.2016
-c0085007e 19b270f69ea # 2684 # Unitymedia # Syfy HD # Syfy HD # 26.10.2016
-b0085007a 1a5270f42da # 2685 # Unitymedia # Sport1+ HD # Sport1+ HD # 26.10.2016
-2712f001c3b8 1aa046659a # 2687  # E! Entertainment # E! Entertainment # 24.09.2014
-42a00016fef 1aa04665cc # 2690 # Wilhelm_tell # MTV Dance # MTV Dance # 09.01.2014
-43600017001 1aa04665ea # 2693 # Wilhelm_tell # MTV Germany # MTV Germany # 09.01.2014
-449003507fa 1aa0466612 # 2695 # Wilhelm_tell # Hustler TV # Hustler TV # 09.01.2014
-900850045 1aa046661c # 2696 # Wilhelm_tell # sportdigital.tv # sportdigital.tv # 09.01.2014
-e5a01856d8 1af270fac48 # 2697 # Unitymedia # Planet HD # Planet HD # 26.10.2016
-2714f001cf6d 1ba0466982 # 2699 # Wilhelm_tell # BBCEntertainment # BBCEntertainment # 09.01.2014
 43100016e44 431a4016e46 # 2361 # Unitymedia # mdr # MDR Thüringen # 07.09.2017
 43100016e47 431a4016e47 # 2362 # Unitymedia # SWR Fernsehen RP # SWR Fernsehen RP # 26.10.2016
 43600017001 43600017009 # 2370 # SAT # MTV Germany # MTV Germany # 09.01.2014
@@ -163,6 +137,32 @@ e0085006d 12c013e3b63 # 2628 # Hotbird # Eurosport 2 HD # Eurosport 2 HD # 09.01
 a0085007d 14a0464ea2 # 2651 # Wilhelm_tell # AXN HD # AXN HD # 12.10.2015
 500850701 14a0464eac # 2652 # Wilhelm_tell # Disney Channel # Disney Channel # 09.01.2014
 4210001ef10 14b270f814d # 2654 # Unitymedia # RTL HD # RTL HD # 26.10.2016
+4210001ef11 14b270f814f # 2655 # Unitymedia # VOX HD # VOX HD # 26.10.2016
+4210001ef15 14b270f814e # 2656 # Unitymedia # RTL2 HD # RTL2 HD # 26.10.2016
+40500012e9a 14b270f8150 # 2657 # Unitymedia # SUPER RTL HD # SUPER RTL HD # 26.10.2016
+200850206 15a046524e # 2661 # Wilhelm_tell # Romance TV # Romance TV # 29.11.2017
+83270f3337 15a04652b2 # 2662 # Wilhelm_tell # GuteLauneTV # GuteLauneTV # 09.01.2014
+210085002f 172a0188937 # 2668 # SAT # REGIO TV # REGIO TV # 09.01.2014
+90085008c 17d270f94d7 # 2671  # RTL crime HD # RTL crime HD # 09.01.2014
+2715f001c481 18a0465dde # 2672 # Wilhelm_tell # Silverline # Silverline # 09.01.2014
+10085002a 18a0465e2e # 2674 # Wilhelm_tell # 13th Street # 13th Street # 09.01.2014
+1100850024 18a0465e38 # 2675 # Wilhelm_tell # Syfy # Syfy # 09.01.2014
+90085003c 18a0465e42 # 2676 # Wilhelm_tell # Kinowelt TV # Kinowelt TV # 09.01.2014
+d00850070 190013e32df # 2677 # Hotbird # NatGeo HD # NatGeo HD # 09.01.2014
+b00850084 190013e3318 # 2678 # Hotbird # Eurosport HD # Eurosport HD # 09.01.2014
+3ef00011332 191270f71b5 # 2679 # Unitymedia # ServusTV HD Deutschland # ServusTV HD # 26.10.2016
+41d0001526f 191270fac45 # 2681 # Unitymedia # QVC HD # QVC HD # 26.10.2016
+41f00011581 19b270f4e96 # 2682 # Unitymedia # Sport 1 HD # Sport1 HD # 26.10.2016
+271df001c352 19b270f5274 # 2683 # Unitymedia # TNT Film HD # TNT Film HD # 26.10.2016
+c0085007e 19b270f69ea # 2684 # Unitymedia # Syfy HD # Syfy HD # 26.10.2016
+b0085007a 1a5270f42da # 2685 # Unitymedia # Sport1+ HD # Sport1+ HD # 26.10.2016
+2712f001c3b8 1aa046659a # 2687  # E! Entertainment # E! Entertainment # 24.09.2014
+42a00016fef 1aa04665cc # 2690 # Wilhelm_tell # MTV Dance # MTV Dance # 09.01.2014
+43600017001 1aa04665ea # 2693 # Wilhelm_tell # MTV Germany # MTV Germany # 09.01.2014
+449003507fa 1aa0466612 # 2695 # Wilhelm_tell # Hustler TV # Hustler TV # 09.01.2014
+900850045 1aa046661c # 2696 # Wilhelm_tell # sportdigital.tv # sportdigital.tv # 09.01.2014
+e5a01856d8 1af270fac48 # 2697 # Unitymedia # Planet HD # Planet HD # 26.10.2016
+2714f001cf6d 1ba0466982 # 2699 # Wilhelm_tell # BBCEntertainment # BBCEntertainment # 09.01.2014
 42a00016fee 1ba0466996 # 2701 # Wilhelm_tell # MTV Hits # MTV Hits # 09.01.2014
 42a00016ff1 1ba04669aa # 2703 # Wilhelm_tell # VH1 Classic # VH1 Classic # 09.01.2014
 f0085003a 1ba04669c8 # 2704 # Wilhelm_tell # History # History # 09.01.2014
@@ -1765,3 +1765,7 @@ c0085006b d0085006b # 5584 # Unitymedia # Sky Cinema Hits HD # Sky Cinema Hits H
 42a00016ffd 43600016ff3 # 5619 # SAT # MTV ROCKS. # MTV ROCKS # 29.03.2018
 42a00016ff0 43600016ff0 # 5620 # SAT # VH1 # VH1 # 29.03.2018
 42a00016ff1 43600016ff1 # 5621 # SAT # VH1 Classic # VH1 Classic # 29.03.2018
+3f200012ba2 43700012ba2 # 5622 # Vodafone-KD # ZDFinfo HD # ZDFinfo HD # 13.04.2018
+f00850027 2717f001d052 # 5623 # Vodafone-KD # eoTV # eoTV # 13.04.2018
+45900013138 2721f001cf7c # 5624 # Vodafone-KD # health.tv # health.tv # 13.04.2018
+40f00012888 2727f0012888 # 5625 # Vodafone-KD # One HD # ONE HD # 13.04.2018
