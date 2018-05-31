@@ -1396,7 +1396,6 @@ f0085003a 206c009c0269 # 5118 # WTCkabel # History # History # 21.04.2016
 45900013139 2715a60601f9 # 5146 # WTCkabel # K-TV # K-TV # 21.04.2016
 3fd000111fb 2715a60601fa # 5147 # WTCkabel # Ulm-Allgäu # Ulm-Allgäu # 21.04.2016
 45b00013355 2715a60601ff # 5148 # WTCkabel # BTV # BTV # 21.04.2016
-700850300 2715a6060206 # 5149 # WTCkabel # RNF # RNF # 21.04.2016
 45b00013339 2715a6060207 # 5150 # WTCkabel # L-TV/TVM # L-TV/TVM # 21.04.2016
 45900013146 2715a6060208 # 5151 # WTCkabel # rhein main tv # rhein main tv # 21.04.2016
 500850296 2716a6060259 # 5152 # WTCkabel # 1-2-3.tv # 1-2-3.tv # 21.04.2016
@@ -1773,8 +1772,10 @@ f00850027 2717f001d052 # 5623 # Vodafone-KD # eoTV # eoTV # 13.04.2018
 3cf0013e29d0 70800c80e11 # 5630 # Hotbird # RTL 102.5 TV # RTL 102.5 TV SD # 27.04.2018
 3cf0013e29d0 3d54013e051b # 5631 # Hotbird # RTL 102.5 TV # RTL 102.5 TV HD # 27.04.2018
 42500012872 23b270fdf11 # 5636 # Unitymedia # MDR Thürignen HD # MDR Thürignen HD # 30.05.2018
+40f0001288a 23b270fdf10 # 5637 # Unitymedia # SR Fernsehen HD # SR Fernsehen HD # 30.05.2018
 4250001286f 245270fe2fa # 5638 # Unitymedia # rbb Berlin HD # rbb Berlin HD # 30.05.2018
 40f00012887 23b270fdf0f # 5639 # Unitymedia # tagesschau24 HD # tagesschau24 HD # 30.05.2018
 44500016f46 1e1270fbbe7 # 5640 # Unitymedia # SR Fernsehen # SR Fernsehen # 30.05.2018
 4b100016ee1 1e1270fbbe8 # 5641 # Unitymedia # Radio Bremen TV # Radio Bremen TV # 30.05.2018
 41f0001157d 245270fe2f9 # 5642 # Unitymedia # HSE24 EXTRA HD # HSE24 EXTRA HD # 30.05.2018
+3c00de1771 3db8013e4220 # 5643 # Hotbird # Blue Hustler # Blue Hustler # 31.05.2018
