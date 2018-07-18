@@ -304,7 +304,7 @@ a0085007d 271ff001c367 # 2956 # Vodafone-KD # AXN HD # AXN HD # 27.10.2016
 42a00016ff1 2720a6066ff1 # 2961 # KMS # VH1 Classic # VH1 Classic # 09.01.2014
 42a00016ffd 2720a6066ff3 # 2962 # KMS # MTV ROCKS. # MTV ROCKS. # 09.01.2014
 b00850071 2720f001c371 # 2963 # Vodafone-KD # History HD # History HD # 27.10.2016
-e00850065 2720f001c373 # 2964 # Vodafone-KD # Universal HD # Universal HD # 27.10.2016
+e00850065 2720f001c373 # 2964 # Vodafone-KD # Universal TV HD # Universal TV HD # 27.10.2016
 41100012ec3 2721f001cf0b # 2965 # Vodafone-KD # RTL Living # RTL Living # 27.10.2016
 45300014461 2721f001cf11 # 2967 # Vodafone-KD # ProSieben MAXX # ProSieben MAXX # 27.10.2016
 4590001313c 2721f001cf14 # 2968 # Vodafone-KD # Deutsches Musik Fernsehen # Deutsches Musik Fernsehen # 27.10.2016
@@ -360,8 +360,8 @@ ffff281c24dc 3c8c013e025f # 3054  # Deutsche Welle TV # Deutsche Welle TV # 03.0
 3fc00011b64 3fc00011b61 # 3098 # SAT # Al Jazeera English # Al Jazeera English # 09.01.2014
 2712f001cf0f 3fe00011b03 # 3111 # Hotbird # TV5Monde # TV5MONDE EUROPE # 09.01.2014
 100850017 400850017 # 3117 # Unitymedia # Sky Krimi # Sky Krimi # 26.10.2016
-10085001b 40085001b # 3118 # Unitymedia # RTL Crime # RTL Crime (S) # 26.10.2016
-10085001d 40085001d # 3119 # Unitymedia # RTL Passion # RTL Passion (S) # 26.10.2016
+c9270f660b 40085001b # 3118 # Unitymedia # RTL Crime # Universal SD # 18.07.2018
+105270f6606 40085001d # 3119 # Unitymedia # RTL Passion # TNT Comedy # 18.07.2018
 10085002a 40085002a # 3120 # Unitymedia # 13th Street # 13th Street (S) # 26.10.2016
 40085000d 4008503f5 # 3127 # Unitymedia # National Geographic # National Geographic # 26.10.2016
 40085000e 4008503f6 # 3128 # Unitymedia # Discovery Channel # Discovery Channel # 26.10.2016
@@ -885,8 +885,8 @@ c0085007e 7f300020f2c # 4198 # SAT # Syfy HD # Syfy HD # 24.09.2014
 d0085006e 7f100020f0d # 4199 # SAT # Sky Atlantic HD # Sky Atlantic HD # 24.09.2014
 d0085006e 14b4fbff3792 # 4200 # SAT # Sky Atlantic HD # Sky Atlantic HD # 24.09.2014
 d8a0183b05 c96000351b5 # 4201 # SAT # Penthouse # Penthouse # 24.09.2014
-e00850065 2ee0013e3e20 # 4202 # SAT # Universal HD # Universal HD # 24.09.2014
-e00850065 7f300020f28 # 4203 # SAT # Universal HD # Universal HD # 24.09.2014
+e00850065 2ee0013e3e20 # 4202 # SAT # Universal TV HD # Universal TV HD # 24.09.2014
+e00850065 7f300020f28 # 4203 # SAT # Universal TV HD # Universal TV HD # 24.09.2014
 e0085006d 1d4cfbff1036 # 4204 # SAT # Eurosport 2 HD # Eurosport 2 HD # 24.09.2014
 e0085006d 43c000124be # 4205 # SAT # Eurosport 2 HD # EUROSPORT 2 HD # 24.09.2014
 e0085006d 7d800020f4e # 4206 # SAT # Eurosport 2 HD # Eurosport 2 HD # 24.09.2014
@@ -1291,7 +1291,7 @@ ffff281c24dc 4040001114e # 4926 # SAT # Deutsche Welle TV # Deutsche Welle TV # 
 2db4013e0ce5 2bc0013e428d # 4977 # Hotbird # 4fun.tv # 4fun.TV # 07.02.2016
 4010001285b 79270f2f53 # 4980 # Unitymedia # PHOENIX HD # PHOENIX HD # 26.10.2016
 500850293 ab270f42e1 # 4981 # Unitymedia # collection # SparhandyTV # 26.10.2016
-e00850065 6f270f2b92 # 4982 # Unitymedia # Universal HD # Universal Channel HD # 26.10.2016
+e00850065 6f270f2b92 # 4982 # Unitymedia # Universal TV HD # Universal TV HD # 26.10.2016
 3f200012b98 6f270f2b91 # 4983 # Unitymedia # KiKA HD # KiKA HD # 26.10.2016
 2725f001d046 ab270f42e0 # 4984 # Unitymedia # BVN # BVN # 26.10.2016
 ffffe22e7909 ffffbce64572 # 4986 # WebTV # Q-music TV # Q-music TV # 23.02.2016
@@ -1488,7 +1488,6 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 600850198 400850198 # 5276 # Unitymedia # Sky 1 # Sky 1 # 26.10.2016
 800850093 c00850093 # 5277 # Unitymedia # Sky 1 HD # SKY 1 HD # 26.10.2016
 3fb0001283f 21d270fd35a # 5278 # Unitymedia # SWR BW HD # SWR BW HD # 26.10.2016
-105270f6606 1cd270f6606 # 5279 # Unitymedia # TNT Comedy # TNT Comedy # 26.10.2016
 4b100016ea5 21d270fd358 # 5280 # Unitymedia # WDR HD Köln # WDR HD Köln # 07.09.2017
 42500012873 213270fcf71 # 5281 # Unitymedia # hr-fernsehen HD # hr-fernsehen HD # 26.10.2016
 3fb0001283f 213270fcf72 # 5282 # Unitymedia # SWR BW HD # SWR BW HD # 26.10.2016
@@ -1742,7 +1741,6 @@ f00850027 bf270f4aad # 5537 # Unitymedia # eoTV # eoTV # 29.11.2017
 c00850122 c0085050a # 5580 # Unitymedia # Eurosport360 HD 3 # Eurosport360 HD 3 # 30.01.2018
 800850093 d00850093 # 5581 # Unitymedia # Sky 1 HD # Sky 1 HD # 30.01.2018
 d00850118 d00850500 # 5582 # Unitymedia # Eurosport360 HD 2 # Eurosport360 HD 2 # 30.01.2018
-c9270f660b 1e1270f660b # 5583 # Unitymedia # Universal SD # Universal SD # 30.01.2018
 c0085006b d0085006b # 5584 # Unitymedia # Sky Cinema Hits HD # Sky Cinema Hits HD # 30.01.2018
 300850110 200850110 # 5587 # SAT # Sky Sport Bundesliga 3 # Sky Sport Bundesliga 3 # 30.01.2018
 30085011a 20085011a # 5588 # SAT # Sky Sport Bundesliga 4 # Sky Sport Bundesliga 4 # 30.01.2018
@@ -1786,3 +1784,5 @@ a00850152 900850152 # 5648 # SAT # Sky Sport HD 10 # Sky Sport HD 10 # 29.06.201
 a00850154 900850154 # 5649 # SAT # Eurosport360HD 8 # Eurosport360HD 8 # 29.06.2018
 a00850151 900850151 # 5650 # SAT # Sky Sport Bundesliga HD 9 # Sky Sport Bundesliga HD 9 # 29.06.2018
 8d270f3718 200850031 # 5651 # Kabelpluss # Spiegel TV Wissen # Spiegel TV Wissen # 29.06.2018
+e00850065 900850065 # 5652 # SAT # Universal TV HD # Universal TV HD # 18.07.2018
+3f200012ba2 1af270fa85e # 5653 # Unitymedia # ZDFinfo HD # ZDFinfo HD # 18.07.2018
