@@ -155,7 +155,7 @@ b00850084 190013e3318 # 2678 # Hotbird # Eurosport HD # Eurosport HD # 09.01.201
 41f00011581 19b270f4e96 # 2682 # Unitymedia # Sport 1 HD # Sport1 HD # 26.10.2016
 271df001c352 19b270f5274 # 2683 # Unitymedia # TNT Film HD # TNT Film HD # 26.10.2016
 c0085007e 19b270f69ea # 2684 # Unitymedia # Syfy HD # Syfy HD # 26.10.2016
-b0085007a 1a5270f42da # 2685 # Unitymedia # Sport1+ HD # Sport1+ HD # 26.10.2016
+271ff001c355 1a5270f42da # 2685 # Unitymedia # Sport1+ HD # Sport1+ HD # 26.10.2016
 2712f001c3b8 1aa046659a # 2687  # E! Entertainment # E! Entertainment # 24.09.2014
 42a00016fef 1aa04665cc # 2690 # Wilhelm_tell # MTV Dance # MTV Dance # 09.01.2014
 43600017001 1aa04665ea # 2693 # Wilhelm_tell # MTV Germany # MTV Germany # 09.01.2014
@@ -292,7 +292,6 @@ e5a01856d8 271df001c353 # 2943 # Vodafone-KD # Planet # Planet # 27.10.2016
 3f300012b70 271ef0012b70 # 2947 # Vodafone-KD # arte HD # arte HD # 27.10.2016
 3f90001ef76 271ef001c359 # 2948 # Vodafone-KD # kabel eins HD # kabel eins HD # 27.10.2016
 41f00011581 271ef001c35a # 2949 # Vodafone-KD # SPORT1 HD # SPORT1 HD # 27.10.2016
-b0085007a 271ff001c355 # 2952 # Vodafone-KD # Sport1+ HD # Sport1+ HD # 27.10.2016
 4210001ef15 271ff001c35b # 2953 # Vodafone-KD # RTL2 HD # RTL2 HD # 27.10.2016
 4210001ef10 271ff001c35c # 2954 # Vodafone-KD # RTL HD # RTL HD # 27.10.2016
 3f90001ef74 271ff001c362 # 2955 # Vodafone-KD # SAT.1 HD # SAT.1 HD # 27.10.2016
@@ -1496,7 +1495,6 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 43700016d67 20221140203 # 5285 # Unitymedia # 3sat # 3sat # 29.10.2016
 41b00017034 180021140002 # 5286 # Unitymedia # arte # arte # 29.10.2016
 44d00016dca 180021140100 # 5287 # Unitymedia # Das Erste # Das Erste # 29.10.2016
-b00850084 c00850084 # 5288 # Unitymedia # Eurosport 1 HD # EUROSPORT 1 HD # 29.10.2016
 2725f001d03b f1270f6dce # 5289 # Unitymedia # GINX TV # Ginx TV # 29.10.2016
 4530001445e 22012114400a # 5290 # Unitymedia # kabel eins # kabel eins # 29.10.2016
 43100016e44 1a0021140064 # 5291 # Unitymedia # mdr # MDR S-Anhalt # 07.09.2017
@@ -1580,12 +1578,12 @@ f0085003a 2bc0013e4284 # 5369 # SAT # History # History # 09.11.2016
 3fe00011afa ffff7a0ad75a # 5375 # SAT # France 24 # France 24 # 09.11.2016
 b00850084 231270fdb28 # 5378 # Unitymedia # Eurosport 1 HD # Eurosport1 HD # 02.12.2016
 3008500f1 f00850025 # 5380 # SAT # Sky Sport News # Sky Sport News # 02.12.2016
-b00850084 413000130d6 # 5381 # SAT # Eurosport 1 HD # EUROSPORT 1 HD # 02.12.2016
+c00850084 413000130d6 # 5381 # SAT # Eurosport 1 HD # EUROSPORT 1 HD # 02.12.2016
 80085008b b0085008b # 5382 # Unitymedia # Sky Cinema Family HD # Sky Cinema Family HD # 13.12.2016
 3fb0001283f 227270fd73d # 5383 # Unitymedia # SWR BW HD # SWR BW HD # 13.12.2016
 413000130d4 2724f001c39a # 5384 # Vodafone-KD # SAT.1 Gold HD # Sat.1 Gold HD # 13.12.2016
 3f90001ef78 2724f001c37e # 5385 # Vodafone-KD # ProSieben MAXX HD # ProSieben MAXX HD # 13.12.2016
-b00850084 271bf001c3a2 # 5386 # Vodafone-KD # Eurosport 1 HD # EUROSPORT 1 HD # 13.12.2016
+c00850084 271bf001c3a2 # 5386 # Vodafone-KD # Eurosport 1 HD # EUROSPORT 1 HD # 13.12.2016
 3fd000111fc 2710f001cb23 # 5390 # Vodafone-KD # münchen.tv # münchen.tv # 20.12.2016
 4440001277a 2710f001cb46 # 5391 # Vodafone-KD # münchen 2 # münchen 2 # 20.12.2016
 3ff000116a9 4310001cba7 # 5392 # Vodafone-KD # münchen.tv HD # münchen.tv HD # 06.02.2018
@@ -1682,7 +1680,7 @@ b00850071 245270fe2f6 # 5474 # Unitymedia # History HD # History HD # 31.08.2017
 3f300012b5c 6b0021140301 # 5496 # DVBT2 # Das Erste HD # Das Erste HD # 02.09.2017
 41f0001157c 406121144240 # 5497 # DVBT2 # Disney Channel HD # Disney Channel HD # 02.09.2017
 4550001151a 406121144242 # 5498 # DVBT2 # DMAX HD # DMAX HD # 02.09.2017
-b00850084 406121144243 # 5499 # DVBT2 # Eurosport 1 HD # Eurosport 1 HD # 02.09.2017
+c00850084 406121144243 # 5499 # DVBT2 # Eurosport 1 HD # Eurosport 1 HD # 02.09.2017
 41d00015270 406121144247 # 5500 # DVBT2 # HSE24 HD # HSE24 HD # 02.09.2017
 41d00015274 406121144241 # 5501 # DVBT2 # Welt HD # Welt HD # 19.01.2018
 40100012857 6f0021140381 # 5502 # DVBT2 # NDR FS NDS HD # NDR FS NDS HD # 02.09.2017
@@ -1786,3 +1784,5 @@ a00850151 900850151 # 5650 # SAT # Sky Sport Bundesliga HD 9 # Sky Sport Bundesl
 8d270f3718 200850031 # 5651 # Kabelpluss # Spiegel TV Wissen # Spiegel TV Wissen # 29.06.2018
 e00850065 900850065 # 5652 # SAT # Universal TV HD # Universal TV HD # 18.07.2018
 3f200012ba2 1af270fa85e # 5653 # Unitymedia # ZDFinfo HD # ZDFinfo HD # 18.07.2018
+10085001b 10f270f69ec # 5654 # Unitymedia # RTL Crime # RTL Crime # 23.07.2018
+10085001d 10f270f69ed # 5655 # Unitymedia # RTL Passion # RTL Passion # 23.07.2018
