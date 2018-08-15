@@ -30,7 +30,9 @@ cleanup() {
 
 cleanup
 
-cd /tmp && wget -q http://www.neutrino-images.de/channellogos/$archive
+# wget OR curl download:
+# cd /tmp && wget -q http://www.neutrino-images.de/channellogos/$archive
+cd /tmp && curl -ks https://neutrino-images.de/channellogos/$archive --output $archive
 
 if [ -e $archive ]; then
 	mkdir $workdir
