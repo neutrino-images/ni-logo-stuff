@@ -359,7 +359,7 @@ ffff281c24dc 3c8c013e025f # 3054  # Deutsche Welle TV # Deutsche Welle TV # 03.0
 3fc00011b64 3fc00011b61 # 3098 # SAT # Al Jazeera English # Al Jazeera English # 09.01.2014
 2712f001cf0f 3fe00011b03 # 3111 # Hotbird # TV5Monde # TV5MONDE EUROPE # 09.01.2014
 100850017 400850017 # 3117 # Unitymedia # Sky Krimi # Sky Krimi # 26.10.2016
-c9270f660b 40085001b # 3118 # Unitymedia # RTL Crime # Universal SD # 18.07.2018
+c9270f660b 40085001b # 3118 # Unitymedia # RTL Crime # RTL Crime # 18.07.2018
 105270f6606 40085001d # 3119 # Unitymedia # RTL Passion # TNT Comedy # 18.07.2018
 10085002a 40085002a # 3120 # Unitymedia # 13th Street # 13th Street (S) # 26.10.2016
 40085000d 4008503f5 # 3127 # Unitymedia # National Geographic # National Geographic # 26.10.2016
@@ -479,7 +479,7 @@ b00850074 a0085007b # 3362  # Sky Cinema Action HD # Sky Cinema Action HD # 24.0
 210085004d ab270f42dc # 3387 # Unitymedia # HSE24 TREND # HSE24 TREND # 26.10.2016
 45400010d42 ab270f42dd # 3388 # Unitymedia # QVC PLUS # QVC PLUS # 26.10.2016
 45900013148 ab270f4e8c # 3390 # Unitymedia # Juwelo TV # Juwelo # 26.10.2016
-500850702 ab270f5e27 # 3391 # Unitymedia # QVC # QVC # 26.10.2016
+45400012f44 ab270f5e27 # 3391 # Unitymedia # QVC Deutschland # QVC Deutschland # 20.08.2018
 70800c80e29 ab270f5e28 # 3392 # Unitymedia # HSE24 # HSE24 # 26.10.2016
 700850041 ab270f69de # 3393 # Unitymedia # DELUXE MUSIC # DELUXE MUSIC # 26.10.2016
 443000179ea ab270f75a0 # 3395 # Unitymedia # HSE24 EXTRA # HSE24 EXTRA # 26.10.2016
@@ -560,7 +560,7 @@ d00850070 d00850458 # 3453 # Unitymedia # NatGeo HD # NatGeo HD # 26.10.2016
 2717f001c610 f1270f6212 # 3529 # Unitymedia # MTV Brand New # MTV Brand New # 26.10.2016
 42300011bbe f1270f6215 # 3530 # Unitymedia # TVP INFO # TVN 24 # 26.10.2016
 700850046 fa0445409 # 3531 # Primacom # BB-MV Lokal-TV # BB-MV Lokal-TV # 09.01.2014
-f00850037 fa0463ab6 # 3532 # Wilhelm_tell # Eurosport2 # Eurosport2 # 12.11.2015
+f00850037 fa0463ab6 # 3532 # Wilhelm_tell # Eurosport2 # Eurosport 2 # 12.11.2015
 45d000132db fa0463ac0 # 3533 # Wilhelm_tell # RiC # RiC # 09.01.2014
 500850296 fa0463ae8 # 3535 # Wilhelm_tell # 1-2-3.tv # 1-2-3.tv # 09.01.2014
 43600017004 fa0463b06 # 3536 # Wilhelm_tell # VIVA ComedyCentral # VIVA ComedyCentral # 09.01.2014
@@ -801,7 +801,6 @@ c82000317b2 c85000313a9 # 4008 # SAT # HBO HD # HBO HD # 24.09.2014
 200850107 1a2cfbff2dda # 4075 # SAT # Sky Sport 3 # Sky Sport 3 # 24.09.2014
 2100850033 3db8013e423b # 4076 # SAT # TELE 5 # Tele 5 # 24.09.2014
 210085003f 90b0002ccbf # 4077 # SAT # DMAX # DMAX # 24.09.2014
-210085003f 70800c80e2b # 4078 # SAT # DMAX # DMAX # 24.09.2014
 2710f001c764 44c00012214 # 4080 # SAT # france 5 # FRANCE 5 # 24.09.2014
 2710f001c764 3e1c013f0131 # 4081 # SAT # france 5 # France 5 # 24.09.2014
 2710f001d10e 3e1c013f012f # 4082 # SAT # france 3 # France 3 # 24.09.2014
@@ -1576,7 +1575,7 @@ f0085003a 2bc0013e4284 # 5369 # SAT # History # History # 09.11.2016
 2710f001d10e ffff3863d6e8 # 5372 # SAT # france 3 # France 3 # 09.11.2016
 2710f001d10e ffff8156fecb # 5373 # SAT # france 3 # France 3 # 09.11.2016
 3fe00011afa ffff7a0ad75a # 5375 # SAT # France 24 # France 24 # 09.11.2016
-b00850084 231270fdb28 # 5378 # Unitymedia # Eurosport 1 HD # Eurosport1 HD # 02.12.2016
+c00850084 231270fdb28 # 5378 # Unitymedia # Eurosport 1 HD # Eurosport 1 HD # 20.08.2018
 3008500f1 f00850025 # 5380 # SAT # Sky Sport News # Sky Sport News # 02.12.2016
 c00850084 413000130d6 # 5381 # SAT # Eurosport 1 HD # EUROSPORT 1 HD # 02.12.2016
 80085008b b0085008b # 5382 # Unitymedia # Sky Cinema Family HD # Sky Cinema Family HD # 13.12.2016
@@ -1767,7 +1766,7 @@ f00850027 2717f001d052 # 5623 # Vodafone-KD # eoTV # eoTV # 13.04.2018
 2712f001cf0f 332c013e1c9a # 5629 # Hotbird # TV5Monde # TV5MONDE EUROPE # 27.04.2018
 3cf0013e29d0 70800c80e11 # 5630 # Hotbird # RTL 102.5 TV # RTL 102.5 TV SD # 27.04.2018
 3cf0013e29d0 3d54013e051b # 5631 # Hotbird # RTL 102.5 TV # RTL 102.5 TV HD # 27.04.2018
-42500012872 23b270fdf11 # 5636 # Unitymedia # MDR Thürignen HD # MDR Thürignen HD # 30.05.2018
+42500012872 23b270fdf11 # 5636 # Unitymedia # MDR Thüringen HD # MDR Thüringen HD # 30.05.2018
 40f0001288a 23b270fdf10 # 5637 # Unitymedia # SR Fernsehen HD # SR Fernsehen HD # 30.05.2018
 4250001286f 245270fe2fa # 5638 # Unitymedia # rbb Berlin HD # rbb Berlin HD # 30.05.2018
 40f00012887 23b270fdf0f # 5639 # Unitymedia # tagesschau24 HD # tagesschau24 HD # 30.05.2018
@@ -1786,3 +1785,5 @@ e00850065 900850065 # 5652 # SAT # Universal TV HD # Universal TV HD # 18.07.201
 3f200012ba2 1af270fa85e # 5653 # Unitymedia # ZDFinfo HD # ZDFinfo HD # 18.07.2018
 10085001b 10f270f69ec # 5654 # Unitymedia # RTL Crime # RTL Crime # 23.07.2018
 10085001d 10f270f69ed # 5655 # Unitymedia # RTL Passion # RTL Passion # 23.07.2018
+105270f6606 1cd270f6606 # 5659 # Unitymedia # TNT Comedy # TNT Comedy # 20.08.2018
+c9270f660b 1e1270f660b # 5660 # Unitymedia # Universal TV # UNIVERSAL TV # 20.08.2018
