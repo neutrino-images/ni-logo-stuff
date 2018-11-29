@@ -153,7 +153,7 @@ b00850084 190013e3318 # 2678 # Hotbird # Eurosport HD # Eurosport HD # 09.01.201
 3ef00011332 191270f71b5 # 2679 # Unitymedia # ServusTV HD Deutschland # ServusTV HD # 26.10.2016
 41d0001526f 191270fac45 # 2681 # Unitymedia # QVC HD # QVC HD # 26.10.2016
 41f00011581 19b270f4e96 # 2682 # Unitymedia # Sport 1 HD # Sport1 HD # 26.10.2016
-271df001c352 19b270f5274 # 2683 # Unitymedia # TNT Film HD # TNT Film HD # 26.10.2016
+e0085008c 19b270f5274 # 2683 # Unitymedia # TNT Film HD # TNT Film HD # 26.10.2016
 c0085007e 19b270f69ea # 2684 # Unitymedia # Syfy HD # Syfy HD # 26.10.2016
 271ff001c355 1a5270f42da # 2685 # Unitymedia # Sport1+ HD # Sport1+ HD # 26.10.2016
 2712f001c3b8 1aa046659a # 2687  # E! Entertainment # E! Entertainment # 24.09.2014
@@ -179,9 +179,6 @@ a0085007c 1e7800710c27 # 2722 # Hotbird # Fox HD # Fox HD # 09.01.2014
 13a0464b64 1edc00712918 # 2724 # Hotbird # travel Channel # travel Channel # 09.01.2014
 45900013146 1fa046792c # 2725 # Wilhelm_tell # rhein main tv # rhein main tv # 09.01.2014
 449003507fd 1fa4013e364c # 2726 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
-100850159 200850159 # 2740 # Unitymedia # Blue Movie 1 # Blue Movie 1 # 26.10.2016
-100850163 200850163 # 2742 # Unitymedia # Blue Movie 2 # Blue Movie 2 # 26.10.2016
-10085016d 20085016d # 2743 # Unitymedia # Blue Movie 3 # Blue Movie 3 # 26.10.2016
 e00850194 20a0465618 # 2744 # Wilhelm_tell # Cartoon Network (S) # Cartoon Network (S) # 24.09.2015
 600850195 20a0465622 # 2745 # Wilhelm_tell # TNT Film (TCM) # TNT Film (TCM) # 24.09.2015
 a0085007c 20a0467d28 # 2746 # Wilhelm_tell # Fox HD # Fox HD # 09.01.2014
@@ -285,6 +282,7 @@ a0085007c 271cf001c357 # 2937 # Vodafone-KD # Fox HD # Fox HD # 27.10.2016
 c0085007e 271cf001c358 # 2938 # Vodafone-KD # Syfy HD # Syfy HD # 27.10.2016
 15f270f75a4 271cf001c368 # 2940 # Vodafone-KD # Kinowelt TV HD # Kinowelt TV HD # 27.10.2016
 b0085007b 271df001c351 # 2941 # Vodafone-KD # TNT Serie HD # TNT Serie HD # 27.10.2016
+e0085008c 271df001c352 # 2942 # Vodafone-KD # TNT Film HD # TNT Film HD # 27.10.2016
 e5a01856d8 271df001c353 # 2943 # Vodafone-KD # Planet # Planet # 27.10.2016
 444000119dd 271df001c354 # 2944 # Vodafone-KD # 13EME RUE HD # 13EME RUE HD # 27.10.2016
 4210001ef11 271df001c35d # 2945 # Vodafone-KD # VOX HD # VOX HD # 27.10.2016
@@ -1223,19 +1221,14 @@ ffff7967141f ffff1bdc7fc3 # 4850 # WebTV # Djing DJ Hits # Djing Underground # 1
 ffff7967141f ffffa7a26b62 # 4851 # WebTV # Djing DJ Hits # Djing DJ Hot Tracks # 15.10.2015
 ffff7967141f ffff017fef57 # 4852 # WebTV # Djing DJ Hits # Djing HotHotHot # 15.10.2015
 10085002a 20085002a # 4854 # SAT # 13th Street # 13th Street # 18.11.2015
-e0085006d 90085006d # 4855 # SAT # Eurosport 2 HD # Eurosport 2 HD # 18.11.2015
 900850090 800850090 # 4856 # SAT # Sky 1 HD +1 # Sky 1 HD +1 # 23.09.2017
-800850088 e00850088 # 4857 # SAT # TNT Comedy HD # TNT Comedy HD # 29.05.2016
-200850201 400850201 # 4858 # Unitymedia # Blue Movie # Blue Movie # 26.10.2016
 1100850015 300850015 # 4859 # SAT # Beate-Uhse.TV # Beate-Uhse.TV # 18.11.2015
-1100850018 300850018 # 4860 # SAT # Classica # Classica # 18.11.2015
 300850019 200850019 # 4861 # SAT # Disney Cinemagic # DISNEY CINEMAGIC # 18.11.2015
 110085001a 30085001a # 4862 # SAT # Disney Junior # Disney Junior # 18.11.2015
 110085001c 30085001c # 4863 # SAT # Disney XD # DISNEY XD # 18.11.2015
 100850010 200850010 # 4864 # SAT # Fox Serie # Fox Serie # 18.11.2015
 1100850016 200850016 # 4866 # SAT # Heimatkanal # Heimatkanal # 18.11.2015
 900850191 400850191 # 4867 # SAT # Jukebox # Jukebox # 18.11.2015
-1100850013 300850013 # 4868 # SAT # Junior # Junior # 18.11.2015
 300850203 400850203 # 4869 # SAT # MGM # MGM # 18.11.2015
 1008500a8 2008500a8 # 4870 # SAT # Motorvision TV # Motorvision TV # 18.11.2015
 40085000c 20085000c # 4871 # SAT # NatGeo Wild # NatGeo Wild # 18.11.2015
@@ -1247,8 +1240,6 @@ e0085006d 90085006d # 4855 # SAT # Eurosport 2 HD # Eurosport 2 HD # 18.11.2015
 110085014c 20085014c # 4878 # SAT # Sky Bundesliga 9 # Sky Sport Bundesliga 9 # 18.11.2015
 2008500fc 3008500fc # 4879 # SAT # Sky Bundesliga 10 # Sky Sport Bundesliga 10 # 18.11.2015
 20085000a 40085000a # 4880 # SAT # Sky Cinema # Sky Cinema # 24.09.2016
-20085000b 30085000b # 4881 # SAT # Sky Cinema +1 # Sky Cinema +1 # 24.09.2016
-20085002b 30085002b # 4883 # SAT # Sky Cinema +24 # Sky Cinema +24 # 24.09.2016
 200850008 300850008 # 4886 # SAT # Sky Cinema Comedy # Sky Cinema Comedy # 24.09.2016
 200850014 400850014 # 4888 # SAT # Sky Cinema Emotion # Sky Cinema Emotion # 24.09.2016
 300850204 400850204 # 4889 # SAT # Sky Cinema Nostalgie # Sky Cinema Nostalgie # 24.09.2016
@@ -1458,7 +1449,6 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 44100012efe 2712f001d04e # 5225 # Vodafone-KD # Toggo Plus # Toggo Plus # 27.10.2016
 44100012f30 2714f001d04f # 5226 # Vodafone-KD # RTLplus # RTLplus # 27.10.2016
 2721f001cf6f f00850023 # 5231 # SAT # Zee.One # Zee.One # 09.08.2016
-1008500a8 e008500a8 # 5233 # SAT # Motorvision TV # Motorvision TV # 25.03.2017
 900850090 1000850090 # 5236 # SAT # Sky 1 HD +1 # Sky 1 HD +1 # 23.09.2017
 44500016f47 ffffbf52629b # 5237 # WebTV # ARD-alpha # ARD-alpha # 19.09.2016
 44d00016dce ffff7f71e6d2 # 5238 # WebTV # BR Fernsehen # BR Fernsehen Nord # 07.09.2017
@@ -1777,13 +1767,57 @@ f00850027 2717f001d052 # 5623 # Vodafone-KD # eoTV # eoTV # 13.04.2018
 a00850089 1000850089 # 5645 # SAT # Spiegel Geschichte HD # Spiegel Geschichte HD # 29.06.2018
 a0085007c c0085007c # 5646 # SAT # Fox HD # FOX HD # 29.06.2018
 900850090 e00850090 # 5647 # SAT # Sky 1 HD +1 # Sky 1 HD +1 # 29.06.2018
-a00850152 900850152 # 5648 # SAT # Sky Sport HD 10 # Sky Sport HD 10 # 29.06.2018
-a00850154 900850154 # 5649 # SAT # Eurosport360HD 8 # Eurosport360HD 8 # 29.06.2018
-a00850151 900850151 # 5650 # SAT # Sky Sport Bundesliga HD 9 # Sky Sport Bundesliga HD 9 # 29.06.2018
-8d270f3718 200850031 # 5651 # Kabelpluss # Spiegel TV Wissen # Spiegel TV Wissen # 29.06.2018
 e00850065 900850065 # 5652 # SAT # Universal TV HD # Universal TV HD # 18.07.2018
 3f200012ba2 1af270fa85e # 5653 # Unitymedia # ZDFinfo HD # ZDFinfo HD # 18.07.2018
 10085001b 10f270f69ec # 5654 # Unitymedia # RTL Crime # RTL Crime # 23.07.2018
 10085001d 10f270f69ed # 5655 # Unitymedia # RTL Passion # RTL Passion # 23.07.2018
 105270f6606 1cd270f6606 # 5659 # Unitymedia # TNT Comedy # TNT Comedy # 20.08.2018
 c9270f660b 1e1270f660b # 5660 # Unitymedia # Universal TV # UNIVERSAL TV # 20.08.2018
+8400de3395 2726f001d10d # 5663 # Vodafone-KD # Melodie TV # Melodie TV # 22.11.2018
+40900012774 2727f001c394 # 5664 # Vodafone-KD # TLC HD # TLC HD # 22.11.2018
+e00850192 b00850192 # 5665 # SAT # A&E # A&E # 29.11.2018
+800850085 300850085 # 5666 # SAT # Beate-Uhse.TV HD # Beate-Uhse.TV HD # 29.11.2018
+200850201 b00850201 # 5667 # SAT # Blue Movie # Blue Movie # 29.11.2018
+100850159 b00850159 # 5668 # SAT # Blue Movie 1 # Blue Movie 1 # 29.11.2018
+100850163 b00850163 # 5669 # SAT # Blue Movie 2 # Blue Movie 2 # 29.11.2018
+10085016d b0085016d # 5670 # SAT # Blue Movie 3 # Blue Movie 3 # 29.11.2018
+e00850193 b00850193 # 5671 # SAT # Boomerang # Boomerang # 29.11.2018
+e00850194 b00850194 # 5672 # SAT # Cartoon Network (S) # Cartoon Network (S) # 29.11.2018
+80085008a 30085008a # 5673 # SAT # Disney Junior HD # Disney Junior HD # 29.11.2018
+e00850080 b00850080 # 5674 # SAT # E!Entertainment HD # E!Entertainment HD # 29.11.2018
+e0085006d b0085006d # 5675 # SAT # Eurosport 2 HD # Eurosport 2 HD # 29.11.2018
+b0085012c 90085012c # 5676 # SAT # Eurosport360HD 4 # Eurosport360HD 4 # 29.11.2018
+800850136 400850136 # 5677 # SAT # Eurosport360HD 5 # Eurosport360HD 5 # 29.11.2018
+900850140 200850140 # 5678 # SAT # Eurosport360HD 6 # Eurosport360HD 6 # 29.11.2018
+100085014a 60085014a # 5679 # SAT # Eurosport360HD 7 # Eurosport360HD 7 # 29.11.2018
+a00850154 1000850154 # 5680 # SAT # Eurosport360HD 8 # Eurosport360HD 8 # 29.11.2018
+e00850104 b00850104 # 5681 # SAT # Eurosport360HD 9 # Eurosport360HD 9 # 29.11.2018
+1100850013 400850013 # 5682 # SAT # Junior # Junior # 29.11.2018
+1008500a8 b008500a8 # 5683 # SAT # Motorvision TV # Motorvision TV # 29.11.2018
+800850093 200850093 # 5684 # SAT # Sky 1 HD # Sky 1 HD # 29.11.2018
+900850091 1000850091 # 5685 # SAT # Sky Arts HD # Sky Arts HD # 29.11.2018
+b00850129 900850129 # 5686 # SAT # Sky Sport Bundesliga HD 5 # Sky Sport Bundesliga HD 5 # 29.11.2018
+800850133 400850133 # 5687 # SAT # Sky Sport Bundesliga HD 6 # Sky Sport Bundesliga HD 6 # 29.11.2018
+90085013d 20085013d # 5688 # SAT # Sky Sport Bundesliga HD 7 # Sky Sport Bundesliga HD 7 # 29.11.2018
+1000850147 600850147 # 5689 # SAT # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga HD 8 # 29.11.2018
+a00850151 1000850151 # 5690 # SAT # Sky Sport Bundesliga HD 9 # Sky Sport Bundesliga HD 9 # 29.11.2018
+e00850101 b00850101 # 5691 # SAT # Sky Sport Bundesliga HD 10 # Sky Sport Bundesliga HD 10 # 29.11.2018
+c00850228 1000850228 # 5692 # SAT # Sky Sport Bundesliga UHD # Sky Sport Bundesliga UHD # 29.11.2018
+20085000b 60085000b # 5693 # SAT # Sky Cinema +1 # Sky Cinema +1 # 29.11.2018
+800850086 b00850086 # 5694 # SAT # Sky Cinema +1 HD # Sky Cinema +1 HD # 29.11.2018
+20085002b 60085002b # 5695 # SAT # Sky Cinema +24 # Sky Cinema +24 # 29.11.2018
+800850087 b00850087 # 5696 # SAT # Sky Cinema +24 HD # Sky Cinema +24 HD # 29.11.2018
+b00850074 900850074 # 5697 # SAT # Sky Cinema Action HD # Sky Cinema Action HD # 29.11.2018
+80085008b 20085008b # 5698 # SAT # Sky Cinema Family HD # Sky Cinema Family HD # 29.11.2018
+b0085012a 90085012a # 5699 # SAT # Sky Sport HD 6 # Sky Sport HD 6 # 29.11.2018
+800850134 400850134 # 5700 # SAT # Sky Sport HD 7 # Sky Sport HD 7 # 29.11.2018
+90085013e 20085013e # 5701 # SAT # Sky Sport HD 8 # Sky Sport HD 8 # 29.11.2018
+1000850148 600850148 # 5702 # SAT # Sky Sport HD 9 # Sky Sport HD 9 # 29.11.2018
+a00850152 1000850152 # 5703 # SAT # Sky Sport HD 10 # Sky Sport HD 10 # 29.11.2018
+e00850102 b00850102 # 5704 # SAT # Sky Sport HD 11 # Sky Sport HD 11 # 29.11.2018
+c00850229 1000850229 # 5705 # SAT # Sky Sport UHD # Sky Sport UHD # 29.11.2018
+8d270f3718 d00850031 # 5706 # SAT # Spiegel TV Wissen # Spiegel TV Wissen # 29.11.2018
+800850088 b00850088 # 5707 # SAT # TNT Comedy HD # TNT Comedy HD # 29.11.2018
+e0085008c 40085008c # 5708 # SAT # TNT Film HD # TNT Film HD # 29.11.2018
+b0085007b 90085007b # 5709 # SAT # TNT Serie HD # TNT Serie HD # 29.11.2018
+1100850018 400850018 # 5710 # SAT # Stingray Classica # Stingray Classica # 29.11.2018
