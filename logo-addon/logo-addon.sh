@@ -20,6 +20,8 @@
 ###############################################################################
 
 archive="ni_zusatzlogos.zip"
+#url="https://www.neutrino-images.de/channellogos/"
+url="http://fredfeuerstein.bplaced.net/"
 workdir=${archive%%.*}
 echo $archive >> /tmp/logo.txt
 
@@ -31,10 +33,8 @@ cleanup() {
 cleanup
 
 # wget OR curl download:
-# cd /tmp && wget -q http://www.neutrino-images.de/channellogos/$archive
-# cd /tmp && curl -ks https://www.neutrino-images.de/channellogos/$archive --output $archive
-# temp workspace:
-cd /tmp && curl -ks http://fredfeuerstein.bplaced.net/$archive --output $archive
+# cd /tmp && wget -q $url$archive
+cd /tmp && curl -ks $url$archive --output $archive
 
 
 
