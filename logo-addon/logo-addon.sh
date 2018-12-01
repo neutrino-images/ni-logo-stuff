@@ -19,9 +19,23 @@
 #
 ###############################################################################
 
-archive="ni_zusatzlogos.zip"
-#url="https://www.neutrino-images.de/channellogos/"
+# Parameter
+#############
+
+# Update-URL für Download-Archiv
+# url="https://www.neutrino-images.de/channellogos/"
 url="http://fredfeuerstein.bplaced.net/"
+
+# Aufrufvariante für Download, WGET oder CURL bitte auswählen
+command="WGET"  # oder "CURL"
+
+# Archiv-Name
+archive="ni_zusatzlogos.zip"
+
+
+# ab hier keine Änderungen mehr nötig
+#####################################
+
 workdir=${archive%%.*}
 echo $archive >> /tmp/logo.txt
 
@@ -32,10 +46,11 @@ cleanup() {
 
 cleanup
 
-# wget OR curl download:
-# cd /tmp && wget -q $url$archive
-cd /tmp && curl -ks $url$archive --output $archive
-
+if [ $command = "WGET" ]; then
+  cd /tmp && wget -q $url$archive
+ else
+  cd /tmp && curl -ks $url$archive --output $archive
+fi 
 
 
 if [ -e $archive ]; then
@@ -50,7 +65,7 @@ if [ -e $archive ]; then
     vinfo="0.2x"
   fi
 
-  msgbox popup="Logo-Updater wird gestartet ..." icon="/tmp/$workdir/logo.png" title="NI Logo-Updater $vinfo" timeout=02
+  msgbox popup="Logo-Updater wird gestartet ..." icon="/tmp/$workdir/logo.png" title="NI Logo-Updater $vinfo ($command)" timeout=02
 
 
   if [ -e /tmp/$workdir/changelog.txt ]; then
