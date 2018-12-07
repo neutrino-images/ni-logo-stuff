@@ -242,7 +242,7 @@ f0085003a 2713f001d035 # 2830 # Vodafone-KD # History # History # 27.10.2016
 45900013148 2715f001d173 # 2881 # Vodafone-KD # Juwelo TV # Juwelo TV # 27.10.2016
 443000179f4 2715f001d179 # 2882 # Vodafone-KD # EuroNews # EuroNews # 27.10.2016
 500850308 2716a606025f # 2883 # KMS # SIXX # SIXX # 09.01.2014
-500850293 2716a6060262 # 2884 # KMS # collection # sparhandy TV # 09.01.2014
+500850293 2716a6060262 # 2884 # KMS # sparhandy TV # sparhandy TV # 09.01.2014
 4b100016ea5 2716a606026e # 2885 # KMS # WDR HD Köln # WDR HD Köln # 07.09.2017
 3f90001ef77 2716f001c363 # 2886 # Vodafone-KD # SIXX HD # SIXX HD # 27.10.2016
 3ef00011332 2716f001c365 # 2887 # Vodafone-KD # ServusTV HD Oesterreich # ServusTV HD Oesterreich # 27.10.2016
@@ -317,7 +317,7 @@ e00850065 2720f001c373 # 2964 # Vodafone-KD # Universal TV HD # Universal TV HD 
 45900013148 29a0462b02 # 2982 # Wilhelm_tell # Juwelo TV # Juwelo TV # 09.01.2014
 45400012f44 29a0462b0c # 2983 # Wilhelm_tell # QVC Deutschland # QVC Deutschland # 09.01.2014
 7d90002183a 29a0463354 # 2984 # Wilhelm_tell # AnimalPlanet # AnimalPlanet # 09.01.2014
-500850293 2a0444ef0 # 2985 # Primacom # collection # sparhandy TV # 09.01.2014
+500850293 2a0444ef0 # 2985 # Primacom # sparhandy TV # sparhandy TV # 09.01.2014
 500850308 2a0444ef1 # 2986 # Primacom # SIXX # SIXX # 09.01.2014
 500850701 2a0444ef2 # 2987 # Primacom # Disney Channel # Disney Channel # 09.01.2014
 443000179e0 2aa046a492 # 2989 # Wilhelm_tell # Eurosport Deutschland # Eurosport Deutschland # 09.01.2014
@@ -1823,3 +1823,21 @@ b0085007b 90085007b # 5709 # SAT # TNT Serie HD # TNT Serie HD # 29.11.2018
 1100850018 400850018 # 5710 # SAT # Stingray Classica # Stingray Classica # 29.11.2018
 b00850084 900850084 # 5711 # SAT # DAZN 1 Bar HD # DAZN 1 Bar HD # 29.11.2018
 b0085007a 100085007a # 5712 # SAT # DAZN 2 Bar HD # DAZN 2 Bar HD # 29.11.2018
+44500016f3d 44d00016f3d # 5757 # Vodafone-KD # WDR 3 # WDR 3 # 07.12.2018
+b00850084 300850144 # 5758 # Vodafone-KD # DAZN 1 Bar HD # DAZN 1 Bar HD # 07.12.2018
+100850159 200850159 # 5759 # Vodafone-KD # Blue Movie 1 # Blue Movie 1 # 07.12.2018
+100850163 200850163 # 5760 # Vodafone-KD # Blue Movie 2 # Blue Movie 2 # 07.12.2018
+10085016d 20085016d # 5761 # Vodafone-KD # Blue Movie 3 # Blue Movie 3 # 07.12.2018
+b0085007a 10085014f # 5762 # Vodafone-KD # DAZN 2 Bar HD # DAZN 2 Bar HD # 07.12.2018
+7008500a9 2714f001c4e4 # 5763 # Vodafone-KD # Sunshine Live # sunshine live # 07.12.2018
+45700011efb 2714f001c4e6 # 5764 # Vodafone-KD # RTL Radio # RTL Radio # 07.12.2018
+4590001316f 2714f001c4e7 # 5765 # Vodafone-KD # Radio Paloma # Radio Paloma # 07.12.2018
+5008500b1 2714f001c4e8 # 5766 # Vodafone-KD # Jam FM # JAM FM # 07.12.2018
+40f00012887 2722f001c38e # 5767 # Vodafone-KD # tagesschau24 HD # tagesschau24 HD # 07.12.2018
+44500016f03 44d00016f03 # 5768 # Vodafone-KD # HR 1 # hr 1 # 07.12.2018
+44500016f05 44d00016f05 # 5769 # Vodafone-KD # HR 3 # hr 3 # 07.12.2018
+44500016f06 44d00016f06 # 5770 # Vodafone-KD # HR 4 # hr 4 # 07.12.2018
+44500016f07 44d00016f07 # 5771 # Vodafone-KD # YouFM # YOUFM # 07.12.2018
+44500016f3b 44d00016f3b # 5772 # Vodafone-KD # 1Live # 1LIVE # 07.12.2018
+44500016f41 44d00016f41 # 5773 # Vodafone-KD # 1Live Diggi # 1LIVE diggi # 07.12.2018
+500850293 2726f001c766 # 5774 # Vodafone-KD # sparhandy TV # sparhandy TV SD # 07.12.2018
