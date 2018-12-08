@@ -37,14 +37,16 @@ archive="ni_zusatzlogos.zip"
 #####################################
 
 workdir=${archive%%.*}
-echo $archive >> /tmp/logo.txt
-
 
 cleanup() {
 	rm -rf /tmp/$workdir /tmp/$archive /tmp/logo.txt
 }
 
 cleanup
+
+echo $archive >> /tmp/logo.txt
+echo $command >> /tmp/logo.txt
+echo $url >> /tmp/logo.txt
 
 if [ $command = "WGET" ]; then
   cd /tmp && wget -q $url$archive
