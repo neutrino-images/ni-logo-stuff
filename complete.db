@@ -149,7 +149,7 @@ a0085007d 14a0464ea2 # 2651 # Wilhelm_tell # AXN HD # AXN HD # 12.10.2015
 1100850024 18a0465e38 # 2675 # Wilhelm_tell # Syfy # Syfy # 09.01.2014
 90085003c 18a0465e42 # 2676 # Wilhelm_tell # Kinowelt TV # Kinowelt TV # 09.01.2014
 d00850070 190013e32df # 2677 # Hotbird # NatGeo HD # NatGeo HD # 09.01.2014
-b00850084 190013e3318 # 2678 # Hotbird # Eurosport HD # Eurosport HD # 09.01.2014
+c00850084 190013e3318 # 2678 # Hotbird # Eurosport HD # Eurosport HD # 09.01.2014
 3ef00011332 191270f71b5 # 2679 # Unitymedia # ServusTV HD Deutschland # ServusTV HD # 26.10.2016
 41d0001526f 191270fac45 # 2681 # Unitymedia # QVC HD # QVC HD # 26.10.2016
 41f00011581 19b270f4e96 # 2682 # Unitymedia # Sport 1 HD # Sport1 HD # 26.10.2016
@@ -786,7 +786,6 @@ c82000317b2 c85000313a9 # 4008 # SAT # HBO HD # HBO HD # 24.09.2014
 18a0465e1a 1c84013e0168 # 4058 # SAT # Motors TV # Motors TV # 24.09.2014
 42600017531 41c000174a4 # 4059 # SAT # M.Formula1HD # M.Formula1 # 08.03.2018
 18a0465e1a 45600012525 # 4060 # SAT # Motors TV # MOTORS TV # 24.09.2014
-1aa04665a4 43000012014 # 4063 # SAT # MEZZO # MEZZO # 24.09.2014
 1aa04665a4 43000012028 # 4064 # SAT # MEZZO # MEZZO # 24.09.2014
 1aa04665e0 43200012070 # 4065 # SAT # mcm TOP # MCM TOP # 24.09.2014
 1aa04665e0 3264013e2afd # 4066 # SAT # mcm TOP # MCM TOP # 24.09.2014
@@ -866,13 +865,12 @@ b00850071 1e7800710c2f # 4182 # SAT # History HD # History HD # 24.09.2014
 b00850071 7ec00020f2e # 4183 # SAT # History HD # History HD # 24.09.2014
 b00850071 c95000313b3 # 4184 # SAT # History HD # History HD # 24.09.2014
 b00850074 7ec00020ee6 # 4185 # SAT # Sky Cinema Action HD # Sky Cinema Action HD # 24.09.2016
-b00850084 44200012335 # 4186 # SAT # Eurosport HD # EUROSPORT HD # 24.09.2014
-b00850084 c95000313b7 # 4187 # SAT # Eurosport HD # Eurosport HD # 24.09.2014
-b00850084 7d800020edc # 4188 # SAT # Eurosport HD # Eurosport HD # 24.09.2014
-b00850084 2ee0013e3e25 # 4189 # SAT # Eurosport HD # Eurosport HD # 24.09.2014
-b00850084 1f40013e447b # 4190 # SAT # Eurosport HD # EUROSPORT HD # 24.09.2014
-b00850084 190013e331a # 4191 # SAT # Eurosport HD # EUROSPORT HD # 24.09.2014
-b00850084 190013e3319 # 4192 # SAT # Eurosport HD # EUROSPORT HD # 24.09.2014
+c00850084 c95000313b7 # 4187 # SAT # Eurosport HD # Eurosport HD # 24.09.2014
+c00850084 7d800020edc # 4188 # SAT # Eurosport HD # Eurosport HD # 24.09.2014
+c00850084 2ee0013e3e25 # 4189 # SAT # Eurosport HD # Eurosport HD # 24.09.2014
+c00850084 1f40013e447b # 4190 # SAT # Eurosport HD # EUROSPORT HD # 24.09.2014
+c00850084 190013e331a # 4191 # SAT # Eurosport HD # EUROSPORT HD # 24.09.2014
+c00850084 190013e3319 # 4192 # SAT # Eurosport HD # EUROSPORT HD # 24.09.2014
 c0085007e 3f8000174cd # 4194 # SAT # Syfy HD # SYFY HD # 24.09.2014
 c0085007e 3f8000174d1 # 4195 # SAT # Syfy HD # SYFY HD # 24.09.2014
 c0085007e 40800017628 # 4196 # SAT # Syfy HD # SYFY HD # 24.09.2014
@@ -950,7 +948,7 @@ d8a0183b05 1e03e800fc # 4493 # NiederlandeCable # Penthouse # Penthouse # 29.09.
 443000179f4 703e81b59 # 4497 # NiederlandeCable # EuroNews # Euronews # 29.09.2014
 f00850037 503e8138a # 4498 # NiederlandeCable # Eurosport 2 # Eurosport 2 # 12.11.2015
 e0085006d 303e80cab # 4499 # NiederlandeCable # Eurosport 2 HD # Eurosport 2 HD # 29.09.2014
-b00850084 303e800a7 # 4500 # NiederlandeCable # Eurosport HD # Eurosport HD # 29.09.2014
+c00850084 303e800a7 # 4500 # NiederlandeCable # Eurosport HD # Eurosport HD # 29.09.2014
 a0085007c 1f03e80100 # 4501 # NiederlandeCable # Fox HD # FOX HD # 29.09.2014
 c9900035235 1003e80103 # 4502 # NiederlandeCable # FOX Sports 2 HD # FOX Sports 2 HD # 29.09.2014
 c990003523f 2003e87d04 # 4503 # NiederlandeCable # FOXlife # FOXlife # 29.09.2014
@@ -1841,3 +1839,5 @@ b0085007a 10085014f # 5762 # Vodafone-KD # DAZN 2 Bar HD # DAZN 2 Bar HD # 07.12
 44500016f3b 44d00016f3b # 5772 # Vodafone-KD # 1Live # 1LIVE # 07.12.2018
 44500016f41 44d00016f41 # 5773 # Vodafone-KD # 1Live Diggi # 1LIVE diggi # 07.12.2018
 500850293 2726f001c766 # 5774 # Vodafone-KD # sparhandy TV # sparhandy TV SD # 07.12.2018
+41b00017034 43200012081 # 5776 # SAT # arte # ARTE # 08.12.2018
+44c0001221a 44000012460 # 5777 # SAT # TF1 # TF1 # 08.12.2018
