@@ -14,6 +14,3 @@ Welche Logos hinzugekommen sind, könnt ihr im NI-Forum
 www.neutrino-images.de sehen.
 
 Dort ist auch zusätzlich bei Bedarf ein Radio-Senderlogo-Paket zu finden.
-
-Dieses Paket ist auch hier im Repo als separater Ordner enthalten zur
-manuellen Nutzung.
