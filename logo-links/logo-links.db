@@ -1475,7 +1475,6 @@ e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
 800850093 c00850093 # 5277 # Unitymedia # Sky 1 HD # SKY 1 HD # 26.10.2016
 3fb0001283f 21d270fd35a # 5278 # Unitymedia # SWR BW HD # SWR BW HD # 26.10.2016
 4b100016ea5 21d270fd358 # 5280 # Unitymedia # WDR HD Köln # WDR HD Köln # 07.09.2017
-42500012873 213270fcf71 # 5281 # Unitymedia # hr-fernsehen HD # hr-fernsehen HD # 26.10.2016
 3fb0001283f 213270fcf72 # 5282 # Unitymedia # SWR BW HD # SWR BW HD # 26.10.2016
 42500012873 227270fd741 # 5283 # Unitymedia # hr-fernsehen HD # hr-fernsehen HD # 26.10.2016
 4b100016ea5 227270fd740 # 5284 # Unitymedia # WDR HD Köln # WDR HD Köln # 07.09.2017
@@ -1841,3 +1840,4 @@ b0085007a 10085014f # 5762 # Vodafone-KD # DAZN 2 Bar HD # DAZN 2 Bar HD # 07.12
 500850293 2726f001c766 # 5774 # Vodafone-KD # sparhandy TV # sparhandy TV SD # 07.12.2018
 41b00017034 43200012081 # 5776 # SAT # arte # ARTE # 08.12.2018
 44c0001221a 44000012460 # 5777 # SAT # TF1 # TF1 # 08.12.2018
+3ea00011392 82b00025726 # 5781 # SAT # Insight HD # Insight HD # 11.12.2018
