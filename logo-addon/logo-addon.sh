@@ -24,7 +24,8 @@
 
 # Update-URL für Download-Archiv
 # url="https://www.neutrino-images.de/channellogos/"
-url="http://fredfeuerstein.bplaced.net/"
+# url="http://fredfeuerstein.bplaced.net/"
+url="http://logoupdater.showpalast.com/"
 
 # Aufrufvariante für Download, WGET oder CURL bitte auswählen
 command="WGET"  # oder "CURL"
