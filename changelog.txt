@@ -1,6 +1,6 @@
 Changelog Logo-Updater
 
-0.29 = Event-Logos (Image ab 18.12.18 nötig) können optional auf die Box kopiert werden.
+0.29 = Event-Logos (Image ab 18.12.18 nötig!) können optional auf die Box kopiert werden.
 0.28 = Änderungen beim Update-Skript, variabele Update URL Anpassung 
 0.27 = Gesamt-Laufzeit wird am Ende angezeigt, Shellwindow Ausgabe angepasst, ..
 0.25 = Erster Versuch zur Integration der AX HD51 als Neutrino-Box !
