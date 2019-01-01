@@ -38,6 +38,9 @@ archive="ni_zusatzlogos.zip"
 #####################################
 
 workdir=${archive%%.*}
+camurl="http://127.0.0.1/tmp/$workdir/intro.jpg"
+repeat=""
+string="PICTURE=intro,|JPG$repeat|$camurl"
 
 cleanup() {
 	rm -rf /tmp/$workdir /tmp/$archive /tmp/logo.txt
@@ -70,6 +73,12 @@ if [ -e $archive ]; then
 
   msgbox popup="Logo-Updater wird gestartet ..." icon="/tmp/$workdir/logo.png" title="NI Logo-Updater $vinfo ($command)" timeout=02
 
+
+  if [ -e /bin/tuxwetter ]; then
+      /bin/tuxwetter "$string" >/dev/null &
+      sleep 5
+      killall tuxwetter >/dev/null
+  fi
 
   if [ -e /tmp/$workdir/changelog.txt ]; then
     CHANGEDATETEMP=$(cat /tmp/$workdir/changelog.txt)
