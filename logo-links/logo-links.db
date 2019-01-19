@@ -308,7 +308,7 @@ e00850065 2720f001c373 # 2964 # Vodafone-KD # Universal TV HD # Universal TV HD 
 3fe00011afa 2725f001c759 # 2969 # Vodafone-KD # France 24 (in English) # France 24 (in English) # 27.10.2016
 5008502fc 2726f001cf77 # 2971 # Vodafone-KD # ANIXE SD # ANIXE SD # 27.10.2016
 700850041 2726f001d04b # 2974 # Vodafone-KD # DELUXE MUSIC # DELUXE MUSIC # 27.10.2016
-45300014460 2726f001d04c # 2975 # Vodafone-KD # SAT.1 Gold # SAT.1 Gold # 27.10.2016
+45300014460 2726f001d04c # 2975 # Vodafone-KD # SAT.1 Gold # SAT.1 Gold # 19.01.2019
 2100850295 2726f001d16c # 2976 # Vodafone-KD # AstroTV # AstroTV # 27.10.2016
 42a00016ff0 2774fbff2d08 # 2978 # SAT # VH1 # VH1 # 09.01.2014
 43600017002 2774fbff2d13 # 2979 # SAT # MTV PULSE # MTV PULSE # 09.01.2014
@@ -490,7 +490,7 @@ e00850078 b00850078 # 3400 # SAT # Sky Select HD # Sky Select HD # 09.01.2014
 210085003f b5270f5e2c # 3411 # Unitymedia # DMAX alt # DMAX # 26.10.2016
 42c00016f6a b5270f5e2d # 3412 # Unitymedia # CNN Int. # CNN # 26.10.2016
 2100850020 b5270f5e30 # 3413 # Unitymedia # Sonnenklar TV # sonnenklar.TV # 26.10.2016
-45300014460 b5270f71b6 # 3414 # Unitymedia # SAT.1 Gold # SAT.1 Gold # 26.10.2016
+45300014460 b5270f71b6 # 3414 # Unitymedia # SAT.1 Gold # SAT.1 Gold # 19.01.2019
 44100012f1d b5270f75a2 # 3415 # Unitymedia # RTLNITRO # NITRO # 11.07.2017
 500850701 bf270f2b5e # 3416 # Unitymedia # Disney Channel # Disney SD # 26.10.2016
 43600017008 bf270f2b60 # 3418 # Unitymedia # nick # Nickelodeon/Nicknight # 16.09.2017
@@ -721,7 +721,7 @@ e00850194 d8a0183b07 # 3891 # KabelBW # Cartoon Network (S) # Cartoon Network (S
 b00850071 b00850459 # 3924 # Unitymedia # History HD # History HD # 26.10.2016
 a0085007d 191270f9ca5 # 3925 # Unitymedia # AXN HD # AXN HD # 26.10.2016
 45300014461 407000114bf # 3926 # SAT # ProSieben MAXX # ProSieben MAXX Austria # 23.06.2014
-45300014460 407000114be # 3927 # SAT # SAT.1 Gold # SAT.1 Gold Österreich # 23.06.2014
+45300014460 407000114be # 3927 # SAT # SAT.1 Gold # SAT.1 Gold Österreich # 19.01.2019
 4210001ef14 271bf001c38b # 3928 # Vodafone-KD # n-tv HD # ntv HD # 10.08.2017
 3f300012b7a 2719f0012b7a # 3929 # Vodafone-KD # zdf_neo HD # zdf_neo HD # 27.10.2016
 3f200012b98 2719f0012b98 # 3930 # Vodafone-KD # KiKA HD # KiKA HD # 27.10.2016
@@ -1128,7 +1128,7 @@ a0085007c 3e00de183e # 4673 # Kabelplus # Fox HD # Fox HD # 19.04.2015
 41b00017032 8100de3267 # 4722 # Kabelplus # Einsfestival # One # 04.09.2016
 41b00017035 8100de3269 # 4724 # Kabelplus # PHOENIX # PHOENIX # 19.04.2015
 44100012f1d 8100de326a # 4725 # Kabelplus # RTLNITRO # NITRO # 11.07.2017
-45300014460 8100de326b # 4726 # Kabelplus # SAT.1 Gold # SAT.1 Gold # 19.04.2015
+45300014460 8100de326b # 4726 # Kabelplus # SAT.1 Gold # SAT.1 Gold # 19.01.2019
 41b00017034 8200de32c9 # 4727 # Kabelplus # arte # arte # 19.04.2015
 43700016d6b 8200de32ca # 4728 # Kabelplus # ZDFinfo # ZDFinfo # 19.04.2015
 3eb000133a9 8200de32cc # 4730 # Kabelplus # Schau TV HD # Schau TV # 19.04.2015
@@ -1419,9 +1419,9 @@ f0085003a 206c009c0269 # 5118 # WTCkabel # History # History # 21.04.2016
 43600017004 271ba6060070 # 5182 # WTCkabel # ComedyCentral # ComedyCentral # 18.01.2019
 3ef00011332 271ba6060073 # 5183 # WTCkabel # ServusTV HD Deutschland # ServusTV HD Deutschland # 21.04.2016
 640013e3dc6 ffff4940c883 # 5184 # WebTV  # VOX MUSIC TV # 25.04.2016
-e7270f5a4b f00850021 # 5193 # SAT # Family TV # Family TV # 27.04.2016
+e7270f5a4b f00850021 # 5193 # SAT # tm 3 # tm 3 # 19.01.2019
 41f0001157e 2727f001c39e # 5194 # Vodafone-KD # 1-2-3.tv HD # 1-2-3.tv HD # 27.10.2016
-413000130d4 141270f7d6a # 5196 # Unitymedia # SAT.1 Gold HD # Sat.1 Gold HD # 26.10.2016
+413000130d4 141270f7d6a # 5196 # Unitymedia # SAT.1 Gold HD # Sat.1 Gold HD # 19.01.2019
 90085008c 14b270f94d7 # 5197 # Unitymedia # RTL Crime HD # RTL Crime HD # 26.10.2016
 2721f001cf13 1e1270f4e85 # 5199 # Unitymedia # SONLife # SonLife # 26.10.2016
 2714f001cf6d 1f5270f3716 # 5200 # Unitymedia # BBC Entertainment # BBC Entertainment # 30.05.2016
@@ -1568,7 +1568,7 @@ c00850084 231270fdb28 # 5378 # Unitymedia # Eurosport 1 HD # Eurosport 1 HD # 20
 c00850084 413000130d6 # 5381 # SAT # Eurosport 1 HD # EUROSPORT 1 HD # 02.12.2016
 80085008b b0085008b # 5382 # Unitymedia # Sky Cinema Family HD # Sky Cinema Family HD # 13.12.2016
 3fb0001283f 227270fd73d # 5383 # Unitymedia # SWR BW HD # SWR BW HD # 13.12.2016
-413000130d4 2724f001c39a # 5384 # Vodafone-KD # SAT.1 Gold HD # Sat.1 Gold HD # 13.12.2016
+413000130d4 2724f001c39a # 5384 # Vodafone-KD # SAT.1 Gold HD # Sat.1 Gold HD # 19.01.2019
 3f90001ef78 2724f001c37e # 5385 # Vodafone-KD # ProSieben MAXX HD # ProSieben MAXX HD # 13.12.2016
 c00850084 271bf001c3a2 # 5386 # Vodafone-KD # Eurosport 1 HD # EUROSPORT 1 HD # 13.12.2016
 3fd000111fc 2710f001cb23 # 5390 # Vodafone-KD # münchen.tv # münchen.tv # 20.12.2016
@@ -1626,7 +1626,7 @@ ffffb325f86d 22032114410c # 5430 # WebTV # DAF # DAF # 21.01.2017
 187270fb415 271af001c3a0 # 5451 # Vodafone-KD # RTL Living HD # RTL Living HD # 18.05.2017
 40900012774 4090001277e # 5453 # SAT # TLC HD # TLC HD austria # 05.06.2017
 3f90001ef77 3f90001ef8b # 5454 # SAT # SIXX HD # sixx HD austria # 05.06.2017
-413000130d4 413000130e8 # 5455 # SAT # SAT.1 Gold HD # Sat.1 Gold HD austria # 05.06.2017
+413000130d4 413000130e8 # 5455 # SAT # SAT.1 Gold HD # Sat.1 Gold HD austria # 19.01.2019
 3f90001ef78 3f90001ef8c # 5456 # SAT # ProSieben MAXX HD # ProSieben MAXX HD austria # 05.06.2017
 40900012777 40900012781 # 5457 # SAT # MTV HD # MTV HD austria # 05.06.2017
 3f90001ef76 3f90001ef8a # 5458 # SAT # kabel eins HD # Kabel eins HD austria # 05.06.2017
@@ -1653,7 +1653,7 @@ b00850071 245270fe2f6 # 5474 # Unitymedia # History HD # History HD # 31.08.2017
 3f90001ef75 403421144221 # 5482 # DVBT2 # ProSieben HD # ProSieben HD # 31.08.2017
 3f90001ef76 403421144222 # 5483 # DVBT2 # kabel eins HD # kabel eins HD # 31.08.2017
 3f90001ef77 403421144223 # 5484 # DVBT2 # SIXX HD # SIXX HD # 31.08.2017
-413000130d4 403421144225 # 5485 # DVBT2 # SAT.1 Gold HD # SAT.1 Gold HD # 31.08.2017
+413000130d4 403421144225 # 5485 # DVBT2 # SAT.1 Gold HD # SAT.1 Gold HD # 19.01.2019
 41f00011581 403421144226 # 5486 # DVBT2 # SPORT1 HD # Sport1 HD # 31.08.2017
 43100016e47 4700211400e2 # 5487 # DVBT2 # SWR Fernsehen RP # SWR Fernsehen RP # 31.08.2017
 15f270f891d 470021140103 # 5488 # DVBT2 # WDR # WDR Dortmund # 07.09.2017
