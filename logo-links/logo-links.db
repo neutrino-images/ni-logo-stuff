@@ -47,7 +47,6 @@
 44d00016dce 44da4016dce # 2449 # Unitymedia # BR Fernsehen # BR Fernsehen Nord # 07.09.2017
 15f270f891d 44da4016dcf # 2450 # Unitymedia # WDR # WDR Köln # 07.09.2017
 f0085003a 44e00013391 # 2452 # SAT # History # HISTORY # 23.09.2014
-40085000d 44e00013392 # 2453 # SAT # National Geographic # National Geographic # 09.01.2014
 90085003c 44e00013396 # 2454 # SAT # Kinowelt TV # Kinowelt TV # 09.01.2014
 100850010 44e00013399 # 2455 # SAT # Fox Serie # Fox Serie # 09.01.2014
 600850082 452000123f5 # 2456 # SAT # Discovery HD # Discovery HD # 09.01.2014
@@ -264,7 +263,6 @@ f0085003a 2713f001d035 # 2830 # Vodafone-KD # History # History # 27.10.2016
 83270f3337 2718f001c3bf # 2915 # Vodafone-KD # GuteTV # GuteTV # 27.10.2016
 100850032 2718f001c47f # 2916 # Vodafone-KD # TNT Serie # TNT Serie # 27.10.2016
 500850308 2718f001c60c # 2917 # Vodafone-KD # SIXX # SIXX # 27.10.2016
-40085000d 2718f001c614 # 2918 # Vodafone-KD # National Geographic # National Geographic # 27.10.2016
 e00850194 2718f001c617 # 2919 # Vodafone-KD # Cartoon Network (S) # Cartoon Network (S) # 27.10.2016
 e00850192 2718f001c619 # 2920 # Vodafone-KD # A&E # A&E # 25.03.2017
 2100850033 2718f001cf0a # 2921 # Vodafone-KD # TELE 5 # TELE 5 # 27.10.2016
@@ -360,7 +358,6 @@ ffff281c24dc 3c8c013e025f # 3054  # Deutsche Welle TV # Deutsche Welle TV # 03.0
 c9270f660b 40085001b # 3118 # Unitymedia # RTL Crime # RTL Crime # 18.07.2018
 105270f6606 40085001d # 3119 # Unitymedia # RTL Passion # TNT Comedy # 18.07.2018
 10085002a 40085002a # 3120 # Unitymedia # 13th Street # 13th Street (S) # 26.10.2016
-40085000d 4008503f5 # 3127 # Unitymedia # National Geographic # National Geographic # 26.10.2016
 40085000e 4008503f6 # 3128 # Unitymedia # Discovery Channel # Discovery Channel # 26.10.2016
 10085001b 400850403 # 3129 # Unitymedia # RTL Crime # RTL Crime # 26.10.2016
 10085001d 400850405 # 3130 # Unitymedia # RTL Passion # RTL Passion # 26.10.2016
@@ -812,10 +809,6 @@ ffff281c24dc c8e0003025f # 4097 # SAT # Deutsche Welle TV # Deutsche Welle TV # 
 3f4000118ed 9080002cf9c # 4102 # SAT # RT HD # RT HD # 24.09.2014
 3fe00011af8 258013e44dd # 4105 # SAT # Russia Today # Russia Today # 24.09.2014
 3fe00011b02 8230002d3c8 # 4106 # SAT # CCTV NEWS # CCTV News # 24.09.2014
-40085000c 189cfbff1fbe # 4107 # SAT # NatGeo Wild # NatGeo Wild # 24.09.2014
-40085000d 1bbc013e3c8f # 4108 # SAT # National Geographic # National Geographic  # 24.09.2014
-40085000d 1c84013e0172 # 4109 # SAT # National Geographic # National Geographic # 24.09.2014
-40085000d 3264013e2aff # 4110 # SAT # National Geographic # NATIONAL GEOGRAPHIC # 24.09.2014
 40085000e c8b00035161 # 4111 # SAT # Discovery Channel # Discovery Channel # 24.09.2014
 40085000e 1c84013e015f # 4112 # SAT # Discovery Channel # Discovery Channel # 24.09.2014
 400850012 7d7000210d2 # 4113 # SAT # Sky Select # Sky Select # 24.09.2014
@@ -936,8 +929,6 @@ c9900035226 1b03e800f2 # 4480 # NiederlandeCable # Canvas HD # Canvas HD # 29.09
 110085001a 1b03e800dc # 4484 # NiederlandeCable # Disney Junior # Disney Junior # 29.09.2014
 43600016fff 1e03e800de # 4485 # NiederlandeCable # MTV Music 24 # MTV Music 24 # 29.09.2014
 600850076 1e03e800e0 # 4486 # NiederlandeCable # Nat Geo Wild HD # Nat Geo Wild HD # 29.09.2014
-40085000d 403e80fa9 # 4487 # NiederlandeCable # National Geographic # National Geographic Channel # 29.09.2014
-40085000d f03e83a99 # 4488 # NiederlandeCable # National Geographic # National Geographic Channel HD # 29.09.2014
 c990003521c 2003e87d03 # 4489 # NiederlandeCable # Net 5 HD # Net 5 HD # 29.09.2014
 1da04671f2 1903e861a9 # 4490 # NiederlandeCable # nick jr. # Nick Jr. # 29.09.2014
 43600017008 603e80010 # 4491 # NiederlandeCable # nick # nick # 16.09.2017
@@ -1230,7 +1221,6 @@ ffff7967141f ffff017fef57 # 4852 # WebTV # Djing DJ Hits # Djing HotHotHot # 15.
 900850191 400850191 # 4867 # SAT # Jukebox # Jukebox # 18.11.2015
 300850203 400850203 # 4869 # SAT # MGM # MGM # 18.11.2015
 1008500a8 2008500a8 # 4870 # SAT # Motorvision TV # Motorvision TV # 18.11.2015
-40085000c 20085000c # 4871 # SAT # NatGeo Wild # NatGeo Wild # 18.11.2015
 200850009 300850009 # 4872 # SAT # Sky Cinema Action # Sky Cinema Action # 24.09.2016
 1100850022 400850022 # 4873 # SAT # Sky Atlantic # Sky Atlantic # 18.11.2015
 200850106 300850106 # 4874 # SAT # Sky Bundesliga 2 # Sky Sport Bundesliga 2 # 18.11.2015
@@ -1357,7 +1347,6 @@ c82000317b3 ffff3d8569e3 # 5104 # WebTV # HBO 2 # HBO 2 # 21.04.2016
 110085001a ffff30ecb9f4 # 5106 # WebTV # Disney Junior # Disney Junior # 21.04.2016
 f0085003a ffff3a023828 # 5107 # WebTV # History # History # 21.04.2016
 c820003179d ffff212c3ded # 5108 # WebTV # Investigation Discovery # Investigation Discovery # 21.04.2016
-40085000d ffff9d93d7fb # 5109 # WebTV # National Geographic # National Geographic # 21.04.2016
 d0085007f 206c009c026c # 5111 # WTCkabel # 13th Street HD # 13th Street HD # 21.04.2016
 3c00de1771 2134009c01fc # 5115 # WTCkabel # Blue Hustler # Blue Hustler # 21.04.2016
 e00850193 1bbc009c0fb4 # 5116 # WTCkabel # Boomerang # Boomerang # 21.04.2016
@@ -1644,7 +1633,6 @@ e0085006d 2716f001c3a5 # 5462 # Vodafone-KD # Eurosport 2 HD # Eurosport 2 HD # 
 1008500a8 8d270f372d # 5472 # Unitymedia # Motorvision TV # Motorvision # 31.08.2017
 600850082 245270fe2f5 # 5473 # Unitymedia # Discovery HD # Discovery HD # 31.08.2017
 b00850071 245270fe2f6 # 5474 # Unitymedia # History HD # History HD # 31.08.2017
-40085000c d3270f5275 # 5475 # Unitymedia # NatGeo Wild # NatGeo Wild # 31.08.2017
 40085000e dd270f566f # 5476 # Unitymedia # Discovery Channel # Discovery Channel # 31.08.2017
 3f300012b66 203211407d1 # 5477 # DVBT2 # ZDF HD # ZDF HD # 31.08.2017
 3f200012ba2 203211407d2 # 5478 # DVBT2 # ZDFinfo HD # ZDFinfo HD # 31.08.2017
@@ -1845,3 +1833,15 @@ b0085007a 10085014f # 5762 # Vodafone-KD # DAZN 2 Bar HD # DAZN 2 Bar HD # 07.12
 3ea00011392 82b00025726 # 5781 # SAT # Insight HD # Insight HD # 11.12.2018
 40f0001288b 187270fe2fb # 5785 # Vodafone-KD # Radio Bremen HD # Radio Bremen HD # 29.01.2019
 40f00012889 19b270fa091 # 5786 # Vodafone-KD # ARD-alpha HD # ARD-alpha HD # 29.01.2019
+40085000c 189cfbff1fbe # 5787 # SAT # NatGeo Wild # NatGeo Wild # 24.09.2014
+40085000c 20085000c # 5788 # SAT # NatGeo Wild # NatGeo Wild # 18.11.2015
+40085000c d3270f5275 # 5790 # Unitymedia # NatGeo Wild # NatGeo Wild # 31.08.2017
+40085000d 1bbc013e3c8f # 5791 # SAT # National Geographic # National Geographic  # 24.09.2014
+40085000d 1c84013e0172 # 5792 # SAT # National Geographic # National Geographic # 24.09.2014
+40085000d 2718f001c614 # 5793 # Vodafone-KD # National Geographic # National Geographic # 27.10.2016
+40085000d 3264013e2aff # 5794 # SAT # National Geographic # NATIONAL GEOGRAPHIC # 24.09.2014
+40085000d 4008503f5 # 5795 # Unitymedia # National Geographic # National Geographic # 26.10.2016
+40085000d 44e00013392 # 5796 # SAT # National Geographic # National Geographic # 09.01.2014
+40085000d ffff9d93d7fb # 5797 # WebTV # National Geographic # National Geographic # 21.04.2016
+40085000d 403e80fa9 # 5799 # NiederlandeCable # National Geographic # National Geographic Channel # 29.09.2014
+40085000d f03e83a99 # 5800 # NiederlandeCable # National Geographic # National Geographic Channel HD # 29.09.2014
