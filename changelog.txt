@@ -1,5 +1,6 @@
 Changelog Logo-Updater
 
+0.31 = Der Logo-Updater merkt sich die Einstellungen (in der Datei /var/tuxbox/config/logo-addon.conf ) für die nächste Ausführung
 0.30 = PopUp-Logos (Sky Themen Kanäle) können optional auf die Box kopiert werden.
 0.29 = Event-Logos (Image ab 18.12.18 nötig!) können optional auf die Box kopiert werden.
 0.28 = Änderungen beim Update-Skript, variabele Update URL Anpassung 
