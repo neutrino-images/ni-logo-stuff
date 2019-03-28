@@ -4,7 +4,7 @@
 #
 # NI Senderlogo-Updater von fred_feuerstein [NI-Team]
 #
-# => dies ist das Startskript, sowie das Logo-Basispaket. 
+# => Das hier ist nur das Startskript. 
 #    Die eigentlichen Updates, Symlinks, Änderungen werden online 
 #    nachgeladen und installiert.
 #
@@ -14,8 +14,11 @@
 # Dazu ist eine Internetverbindung erforderlich.
 # Welche Logos hinzugekommen sind, könnt ihr im NI-Forum 
 # www.neutrino-images.de sehen.
-# Dort ist auch zusätzlich bei Bedarf ein Radio-Senderlogo-Paket zu finden.
-#
+# 
+# ACHTUNG: Durch die Nutzung des NI Logo-Updaters bist Du
+# damit einverstanden, dass deine Image-Version und der Boxtyp
+# zur statistischen Auswertung getrackt wird.
+# Wenn Du das nicht möchtest, solltest Du den Updater nicht nutzen.
 #
 ###############################################################################
 
@@ -23,9 +26,8 @@
 #############
 
 # Update-URL für Download-Archiv
-# url="https://www.neutrino-images.de/channellogos/"
-# url="http://fredfeuerstein.bplaced.net/"
-url="http://logoupdater.showpalast.com/"
+url="https://www.neutrino-images.de/channellogos/"
+# url="http://logoupdater.showpalast.com/"
 
 # Aufrufvariante für Download, WGET oder CURL bitte auswählen
 command="WGET"  # oder "CURL"
@@ -68,7 +70,7 @@ if [ -e $archive ]; then
   if [ -e /tmp/$workdir/version.txt ]; then
     vinfo=$(cat /tmp/$workdir/version.txt)
   else
-    vinfo="0.2x"
+    vinfo="0.3x"
   fi
 
   msgbox popup="Logo-Updater wird gestartet ..." icon="/tmp/$workdir/logo.png" title="NI Logo-Updater $vinfo ($command)" timeout=02
