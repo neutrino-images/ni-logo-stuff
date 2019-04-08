@@ -118,7 +118,7 @@ c00850073 514013e3ab7 # 2563 # Hotbird # MGM HD # MGM HD # 09.01.2014
 100850032 10085041a # 2599 # Unitymedia # TNT Serie # TNT Serie # 26.10.2016
 2712f001d03e 10a0463e94 # 2601 # Wilhelm_tell # Animax # Animax # 09.01.2014
 e00850192 10a0463e9e # 2602 # Wilhelm_tell # A&E # A&E # 25.03.2017
-45b00013355 10a0463f0c # 2603 # Wilhelm_tell # BTV # BTV # 09.01.2014
+2715a60601ff 10a0463f0c # 2603 # Wilhelm_tell # BTV # BTV # 08.04.2019
 3fe00011af8 10f270f4e93 # 2604 # Unitymedia # Russia Today # Russia Today # 26.10.2016
 3fe00011b02 10f270f4e97 # 2605 # Unitymedia # CCTV NEWS # CCTV NEWS # 26.10.2016
 e0085006d 12c013e3b63 # 2628 # Hotbird # Eurosport 2 HD # Eurosport 2 HD # 09.01.2014
@@ -171,7 +171,7 @@ e00850193 1ba04669dc # 2705 # Wilhelm_tell # Boomerang # Boomerang # 24.09.2015
 110085001c 1ce800711cb5 # 2712 # Hotbird # Disney XD # Disney XD # 09.01.2014
 700850041 1da0467170 # 2714 # Wilhelm_tell # DELUXE MUSIC # DELUXE MUSIC # 09.01.2014
 2100850020 1da046717a # 2715 # Wilhelm_tell # Sonnenklar TV # Sonnenklar TV # 09.01.2014
-4590001313c 1da04671de # 2716 # Wilhelm_tell # Deutsches Musik Fernsehen # Deutsches Musik Fernsehen # 09.01.2014
+4590001313c 1da04671de # 2716 # Wilhelm_tell # Deutsches Musik Fernsehen # Deutsches Musik Fernsehen # 04.04.2019
 4550001151a 1e1270f7980 # 2718 # KabelBW # DMAX HD # DMAX HD # 09.01.2014
 a0085007d 1e7800710c25 # 2721 # Hotbird # AXN HD # AXN HD # 12.10.2015
 a0085007c 1e7800710c27 # 2722 # Hotbird # Fox HD # Fox HD # 09.01.2014
@@ -218,7 +218,7 @@ e00850193 2712f001d09c # 2818 # Vodafone-KD # Boomerang # Boomerang # 27.10.2016
 600850195 2713f001c618 # 2827 # Vodafone-KD # TNT Film (TCM) # TNT Film (TCM) # 27.10.2016
 f00850037 2713f001cf12 # 2829 # Vodafone-KD # Eurosport 2 Deutschland # Eurosport 2 Deutschland # 27.10.2016
 f0085003a 2713f001d035 # 2830 # Vodafone-KD # History # History # 27.10.2016
-3f70001125d 2713f001d0a3 # 2833 # Vodafone-KD # SAT.1 emotions # SAT.1 emotions # 27.10.2016
+3f70001125d 2713f001d0a3 # 2833 # Vodafone-KD # SAT.1 emotions # SAT.1 emotions # 04.04.2019
 45300014462 2713f001d0a4 # 2834 # Vodafone-KD # kabel eins classics # kabel eins classics # 27.10.2016
 44100012f08 2713f001d162 # 2835 # Vodafone-KD # SUPER RTL # SUPER RTL # 27.10.2016
 44100012ef4 2713f001d163 # 2836 # Vodafone-KD # RTL2 # RTL2 # 27.10.2016
@@ -302,7 +302,7 @@ b00850071 2720f001c371 # 2963 # Vodafone-KD # History HD # History HD # 27.10.20
 e00850065 2720f001c373 # 2964 # Vodafone-KD # Universal TV HD # Universal TV HD # 27.10.2016
 41100012ec3 2721f001cf0b # 2965 # Vodafone-KD # RTL Living # RTL Living # 27.10.2016
 45300014461 2721f001cf11 # 2967 # Vodafone-KD # ProSieben MAXX # ProSieben MAXX # 27.10.2016
-4590001313c 2721f001cf14 # 2968 # Vodafone-KD # Deutsches Musik Fernsehen # Deutsches Musik Fernsehen # 27.10.2016
+4590001313c 2721f001cf14 # 2968 # Vodafone-KD # Deutsches Musik Fernsehen # Deutsches Musik Fernsehen # 04.04.2019
 3fe00011afa 2725f001c759 # 2969 # Vodafone-KD # France 24 (in English) # France 24 (in English) # 27.10.2016
 5008502fc 2726f001cf77 # 2971 # Vodafone-KD # ANIXE SD # ANIXE SD # 27.10.2016
 700850041 2726f001d04b # 2974 # Vodafone-KD # DELUXE MUSIC # DELUXE MUSIC # 27.10.2016
@@ -380,6 +380,7 @@ c9270f660b 40085001b # 3118 # Unitymedia # RTL Crime # RTL Crime # 18.07.2018
 41b00017034 41ba4017034 # 3172 # Unitymedia # arte # arte # 26.10.2016
 41b00017035 41ba4017035 # 3173 # Unitymedia # PHOENIX # PHOENIX # 26.10.2016
 271af001c382 41d00015273 # 3177 # SAT # COMEDY CENTRAL HD # Comedy Central HD # 01.03.2019
+271af001c382 41d0001527d # 3179 # SAT # COMEDY CENTRAL HD # Comedy Central HD AT # 08.04.2019
 41d00015274 41d0001527e # 3180 # SAT # Welt HD # Welt HD # 19.01.2018
 41f0001157f 41f00011589 # 3187 # SAT # Deluxe Music HD # Deluxe Music HD # 09.01.2014
 41d0001527d 42a00016feb # 3200 # SAT # nick HD # Nickelodeon HD # 24.01.2018
@@ -413,7 +414,7 @@ a0085007c 600850464 # 3253 # Unitymedia # Fox HD # Fox HD # 26.10.2016
 443000179f4 6a044296f # 3256 # Primacom # EuroNews # EuroNews # 09.01.2014
 443000179e0 6a0442970 # 3257 # Primacom # Eurosport Deutschland # Eurosport Deutschland # 09.01.2014
 200850201 300850201 # 3271 # Unitymedia # Blue Movie # Blue Movie # 26.10.2016
-4530001445f 700850035 # 3275 # SAT # Welt # Welt # 19.01.2018
+500850030 700850035 # 3275 # SAT # N24 Doku # N24 DOKU Austria # 08.04.2019
 43600017004 70085003c # 3276 # SAT # ComedyCentral # ComedyCentral # 18.01.2019
 43600017008 70085003d # 3277 # SAT # nick # nick # 16.09.2017
 42a00016ff0 70800c80e29 # 3285 # Hotbird # VH1 # VH1 # 09.03.2019
@@ -429,7 +430,7 @@ f0085003a 83270f332e # 3314 # Unitymedia # History # History # 26.10.2016
 90085003c 83270f3333 # 3317 # Unitymedia # Kinowelt TV # Kinowelt TV # 26.10.2016
 90085003e 83270f3335 # 3319 # Unitymedia # AXND # AXN Action # 26.10.2016
 45300014462 83270f3338 # 3322 # Unitymedia # kabel eins classics # kabel eins classics # 26.10.2016
-3f70001125d 83270f3339 # 3323 # Unitymedia # SAT.1 emotions # SAT.1 emotions # 26.10.2016
+3f70001125d 83270f3339 # 3323 # Unitymedia # SAT.1 emotions # SAT.1 emotions # 04.04.2019
 e00850192 83270f6210 # 3324 # Unitymedia # A&E # A&E # 25.03.2017
 900850045 83270f6217 # 3325 # Unitymedia # Sportdigital # Sportdigital # 26.10.2016
 42a00016ff0 8a0442a31 # 3326 # Primacom # VH1. # VH1. # 09.01.2014
@@ -569,7 +570,7 @@ e00850193 2134009c4e91 # 3546 # TeleColumbus # Boomerang # Boomerang # 24.09.201
 4550001151a 1644009c00e7 # 3547 # TeleColumbus # DMAX HD # DMAX HD # 09.01.2014
 41f0001157f 1964009c01a2 # 3548 # TeleColumbus # Deluxe Music HD # Deluxe Music HD # 09.01.2014
 700850041 14b4009c00f6 # 3549 # TeleColumbus # DELUXE MUSIC # Deluxe Music # 09.01.2014
-4590001313c 14b4009c00f3 # 3550 # TeleColumbus # Deutsches Musik Fernsehen # Deutsches Musik Fernsehen # 09.01.2014
+4590001313c 14b4009c00f3 # 3550 # TeleColumbus # Deutsches Musik Fernsehen # Deutsches Musik Fernsehen # 04.04.2019
 a0085007c 21fc009c4ef6 # 3551 # TeleColumbus # Fox HD # FOX HD # 09.01.2014
 f0085003a 2134009c4e96 # 3552 # TeleColumbus # History # History # 09.01.2014
 3f90001ef76 1644009c00e6 # 3553 # TeleColumbus # kabel eins HD # Kabel eins HD # 09.01.2014
@@ -610,7 +611,7 @@ f00850037 21fc009c4ef1 # 3573 # TeleColumbus # Eurosport 2 Deutschland # Eurospo
 443000179f4 1bbc009c0ab4 # 3588 # TeleColumbus # EuroNews # EuroNews # 13.01.2014
 449003507fa 206c009c0267 # 3590 # TeleColumbus # Hustler TV # Hustler TV # 13.01.2014
 1aa04665a4 16a8009c0db3 # 3591 # TeleColumbus # MEZZO # MEZZO # 13.01.2014
-41d0001527d 1644009c00e9 # 3592 # TeleColumbus # nick HD # nick HD # 16.09.2017
+3200013e000e 1644009c00e9 # 3592 # TeleColumbus # nick HD # nick HD # 08.04.2019
 d00850070 2134009c4e9a # 3593 # TeleColumbus # NatGeo HD # NatGeo HD # 13.01.2014
 1da04671f2 21fc009c4ef7 # 3594 # TeleColumbus # nick jr. # nick jr. # 13.01.2014
 1da04671f2 21fc009c4ef4 # 3595 # TeleColumbus # nick jr. # nick jr. # 13.01.2014
@@ -641,7 +642,7 @@ d0085007f 19b270f6219 # 3609 # Unitymedia # 13th Street HD # 13TH STREET HD # 26
 41d00015270 191270fac46 # 3654 # Unitymedia # HSE24 HD # HSE24 HD # 26.10.2016
 15f270f75a4 1a5270f75a4 # 3664 # Unitymedia # Kinowelt TV HD # Kinowelt TV HD # 26.10.2016
 1da04671f2 d3270f5272 # 3680 # Unitymedia # nick jr. # Nick Jr. # 26.10.2016
-d8a0183b05 97270f3b05 # 3682 # Unitymedia # Penthouse # PENTHOUSE # 26.10.2016
+d8a0183b05 97270f3b05 # 3682 # Unitymedia # Penthouse TV # Penthouse TV # 04.04.2019
 45300014461 a1270f2f51 # 3688 # Unitymedia # ProSieben MAXX # ProSieben MAXX # 26.10.2016
 3f90001ef78 141270f7d69 # 3689 # Unitymedia # ProSieben MAXX HD # ProSieben MAXX HD # 26.10.2016
 41f00011580 1c3270fb418 # 3694 # Unitymedia # QVC PLUS HD # QVC Plus HD # 26.10.2016
@@ -682,7 +683,7 @@ e0085006a 187270f94d5 # 3782 # Unitymedia # Pro Sieben Fun HD # ProSieben Fun HD
 1aa04665f4 2725f001c75c # 3834 # Vodafone-KD # fashion tv # Fashion TV # 27.10.2016
 2710f001cb71 4e21271101f4 # 3847 # TeleColumbus # Alex Berlin # Alex Berlin # 21.01.2014
 2712f001d03e 45100350fda # 3850 # SAT # Animax # Animax # 29.01.2014
-41d0001527d 191270fac4a # 3851 # KabelBW # nick HD # nick HD # 16.09.2017
+3200013e000e 191270fac4a # 3851 # KabelBW # nick HD # nick HD # 08.04.2019
 41b00017034 22c4013e07d8 # 3852 # Hotbird # arte # arte # 24.02.2014
 3f300012b70 3e1c013f0133 # 3854 # Hotbird # arte HD # arte HD # 24.02.2014
 271af001c382 1c3270fb02d # 3855 # Unitymedia # COMEDY CENTRAL HD # COMEDY CENTRAL HD # 18.01.2019
@@ -817,7 +818,7 @@ ffff281c24dc c8e0003025f # 4097 # SAT # Deutsche Welle TV # Deutsche Welle TV # 
 4008500de 1838fbff2ab0 # 4116 # SAT # Sky Sport 2 # Sky Sport 2 # 24.09.2014
 403000113f9 3138013e06b0 # 4117 # SAT # TRT Turk # TRT TURK # 24.09.2014
 41b00017034 44c00012208 # 4121 # SAT # arte # ARTE # 24.09.2014
-41d0001527d 578013e001f # 4123 # SAT # nick HD # nick HD # 16.09.2017
+3200013e000e 578013e001f # 4123 # SAT # nick HD # nick HD # 08.04.2019
 42a00016fee 1a2cfbff2dbd # 4125 # SAT # MTV Hits # MTV Hits # 24.09.2014
 42a00016fee 7da00021b5e # 4126 # SAT # MTV Hits # MTV HITS # 24.09.2014
 42a00016fef 7da00021b66 # 4127 # SAT # MTV Dance # MTV DANCE # 24.09.2014
@@ -872,7 +873,7 @@ c0085007e 444000119cb # 4197 # SAT # Syfy HD # SYFY HD # 24.09.2014
 c0085007e 7f300020f2c # 4198 # SAT # Syfy HD # Syfy HD # 24.09.2014
 d0085006e 7f100020f0d # 4199 # SAT # Sky Atlantic HD # Sky Atlantic HD # 24.09.2014
 d0085006e 14b4fbff3792 # 4200 # SAT # Sky Atlantic HD # Sky Atlantic HD # 24.09.2014
-d8a0183b05 c96000351b5 # 4201 # SAT # Penthouse # Penthouse # 24.09.2014
+d8a0183b05 c96000351b5 # 4201 # SAT # Penthouse TV # Penthouse TV # 04.04.2019
 e00850065 2ee0013e3e20 # 4202 # SAT # Universal TV HD # Universal TV HD # 24.09.2014
 e00850065 7f300020f28 # 4203 # SAT # Universal TV HD # Universal TV HD # 24.09.2014
 e0085006d 1d4cfbff1036 # 4204 # SAT # Eurosport 2 HD # Eurosport 2 HD # 24.09.2014
@@ -933,7 +934,7 @@ c990003521c 2003e87d03 # 4489 # NiederlandeCable # Net 5 HD # Net 5 HD # 29.09.2
 1da04671f2 1903e861a9 # 4490 # NiederlandeCable # nick jr. # Nick Jr. # 29.09.2014
 43600017008 603e80010 # 4491 # NiederlandeCable # nick # nick # 16.09.2017
 c96000351dc 1903e8003a # 4492 # NiederlandeCable # NostalgieNet # NostalgieNet # 29.09.2014
-d8a0183b05 1e03e800fc # 4493 # NiederlandeCable # Penthouse # Penthouse # 29.09.2014
+d8a0183b05 1e03e800fc # 4493 # NiederlandeCable # Penthouse TV # Penthouse TV # 04.04.2019
 10085001b d03e833a2 # 4494 # NiederlandeCable # RTL Crime # RTL Crime # 29.09.2014
 44100012ee3 103e803ee # 4495 # NiederlandeCable # RTL Television # RTL Television # 29.09.2014
 2712f001c3b8 1603e8002b # 4496 # NiederlandeCable # E! Entertainment # E! Entertainment # 29.09.2014
@@ -1015,7 +1016,7 @@ e00850193 2712f001d09f # 4580 # Vodafone-KD # Boomerang # Boomerang (eng) # 27.1
 300850204 200850204 # 4587 # Unitymedia # Sky Cinema Nostalgie # Sky Cinema Nostalgie # 26.10.2016
 80085008a 271af001c384 # 4591 # Vodafone-KD # Disney Junior HD # Disney Junior HD # 27.10.2016
 40900012777 2721f001c378 # 4592 # Vodafone-KD # MTV HD # MTV HD # 27.10.2016
-41d0001527d 271af001c385 # 4593 # Vodafone-KD # nick HD # nick HD # 16.09.2017
+3200013e000e 271af001c385 # 4593 # Vodafone-KD # nick HD # nick HD # 08.04.2019
 2719f001c37d 1af270fa85d # 4594 # Unitymedia # CNN HD # CNN International HD # 26.10.2016
 ffff310ae0ed ffffcd2fd861 # 4604 # WebTV # VEVO Hits # VEVO Flow # 21.01.2015
 ffff310ae0ed ffffcbc6fb86 # 4605 # WebTV # VEVO Hits # VEVO Nashville # 21.01.2015
@@ -1192,7 +1193,7 @@ fa0463b56 ffff484b35d3 # 4802 # WebTV # Hamburg1 # Hamburg1 # 30.07.2015
 42a00016ff5 42e00011f41 # 4816 # SAT # MTV Base France # MTV Base HD # 19.09.2015
 5dc013e13f1 45a000122cb # 4821  # TRACE Urban # TRACE Urban # 19.09.2015
 271bf001c387 79270fc79f # 4822 # Unitymedia # Bibel TV HD # Bibel TV HD # 26.10.2016
-4590001313c e7270f5a4d # 4823 # Unitymedia # Deutsches Musik Fernsehen # Deutsches Musik Fernsehen # 26.10.2016
+4590001313c e7270f5a4d # 4823 # Unitymedia # Deutsches Musik Fernsehen # Deutsches Musik Fernsehen # 04.04.2019
 44c000121ff 1d7270f622a # 4824 # Unitymedia # France 4 # France 4 # 26.10.2016
 40900012777 6f270f9ca7 # 4825 # Unitymedia # MTV HD # MTV HD # 26.10.2016
 41d00015274 79270fc79d # 4826 # Unitymedia # Welt HD # Welt HD # 19.01.2018
@@ -1319,7 +1320,7 @@ a0085007d 21fc009c4eeb # 5068 # WTCkabel # AXN HD # AXN HD # 21.04.2016
 41f0001157c 1964009c01a4 # 5075 # WTCkabel # Disney Channel HD # Disney Channel HD # 21.04.2016
 40900012777 14b4009c00ca # 5076 # WTCkabel # MTV HD # MTV HD # 21.04.2016
 40900012774 1644009c00eb # 5078 # WTCkabel # TLC HD # TLC HD # 21.04.2016
-4590001313c 2713a606013a # 5079 # WTCkabel # Deutsches Musik Fernsehen # Deutsches Musik Fernsehen # 21.04.2016
+4590001313c 2713a606013a # 5079 # WTCkabel # Deutsches Musik Fernsehen # Deutsches Musik Fernsehen # 04.04.2019
 43700016d67 ffff44d9ced0 # 5080 # WebTV # 3sat # 3sat # 21.04.2016
 41b00017034 ffffc2a00386 # 5081 # WebTV # arte # ARTE # 21.04.2016
 44d00016dca fffffdfa05de # 5082 # WebTV # Das Erste # Das Erste # 21.04.2016
@@ -1372,7 +1373,6 @@ f0085003a 206c009c0269 # 5118 # WTCkabel # History # History # 21.04.2016
 3fd000111ff 2715a60601f8 # 5145 # WTCkabel # TV Oberfranken # TV Oberfranken # 21.04.2016
 45900013139 2715a60601f9 # 5146 # WTCkabel # K-TV # K-TV # 21.04.2016
 3fd000111fb 2715a60601fa # 5147 # WTCkabel # Ulm-Allgäu # Ulm-Allgäu # 21.04.2016
-45b00013355 2715a60601ff # 5148 # WTCkabel # BTV # BTV # 21.04.2016
 45b00013339 2715a6060207 # 5150 # WTCkabel # L-TV/TVM # L-TV/TVM # 21.04.2016
 45900013146 2715a6060208 # 5151 # WTCkabel # rhein main tv # rhein main tv # 21.04.2016
 500850296 2716a6060259 # 5152 # WTCkabel # 1-2-3.tv # 1-2-3.tv # 21.04.2016
@@ -1530,7 +1530,6 @@ c82000317b2 1edc0071290f # 5325 # SAT # HBO HD # HBO HD # 09.11.2016
 4008500de 1838fbff2aa9 # 5347 # SAT # Sky Sport 2 # Sky Sport 2 # 09.11.2016
 41d00015270 2f44013e06c3 # 5348 # SAT # HSE24 HD # HSE24 HD # 09.11.2016
 41d00015270 ffff712eb56f # 5349 # SAT # HSE24 HD # HSE24 HD # 09.11.2016
-41d0001527d 3200013e000e # 5350 # SAT # nick HD # nick HD # 16.09.2017
 41f0001157c 1ce800711cb6 # 5351 # SAT # Disney Channel HD # Disney Channel HD # 09.11.2016
 41f0001157c 1ce800711cc5 # 5352 # SAT # Disney Channel HD # Disney Channel HD # 09.11.2016
 42300011bbe 2af8013e113a # 5353 # SAT # TVP INFO # TVP INFO # 09.11.2016
@@ -1541,7 +1540,7 @@ a0085007c 17d4013e1bd1 # 5359 # SAT # Fox HD # FOX HD # 09.11.2016
 a0085007c 1e7800710c2d # 5360 # SAT # Fox HD # FOX HD # 09.11.2016
 a0085007d 1e7800710c2a # 5361 # SAT # AXN HD # AXN HD # 09.11.2016
 a0085007d 2198fbff2d04 # 5362 # SAT # AXN HD # AXN HD # 09.11.2016
-d8a0183b05 43e000126b3 # 5363 # SAT # Penthouse # PENTHOUSE # 09.11.2016
+d8a0183b05 43e000126b3 # 5363 # SAT # Penthouse TV # Penthouse TV # 04.04.2019
 e0085006d 1edc0071290c # 5364 # SAT # Eurosport 2 HD # Eurosport 2 HD # 09.11.2016
 e0085006d 1edc00712910 # 5365 # SAT # Eurosport 2 HD # Eurosport 2 HD # 09.11.2016
 e00850193 1ce800711cb8 # 5366 # SAT # Boomerang # Boomerang # 09.11.2016
@@ -1611,7 +1610,7 @@ ffffb325f86d 22032114410c # 5430 # WebTV # DAF # DAF # 21.01.2017
 42500012873 231270fdb29 # 5441 # Unitymedia # hr-fernsehen HD # hr-fernsehen HD # 23.02.2017
 4b100016ea5 6f270f2b93 # 5442 # Unitymedia # WDR HD Köln # WDR Köln HD # 29.11.2017
 3fb0001283f 231270fdb2a # 5443 # Unitymedia # SWR BW HD # SWR BW HD # 23.02.2017
-3f70001125d 407000114c1 # 5445  # SAT.1 emotions # SAT.1 emotions # 25.03.2017
+3f70001125d 407000114c1 # 5445  # SAT.1 emotions # SAT.1 emotions # 04.04.2019
 210085003f 700850049 # 5448 # SAT # DMAX # DMAX austria # 03.04.2017
 44100012f3a 45d000132dd # 5450 # SAT # n-tv # n-tv Austria # 04.01.2018
 187270fb415 271af001c3a0 # 5451 # Vodafone-KD # RTL Living HD # RTL Living HD # 18.05.2017
@@ -1670,7 +1669,7 @@ c00850084 406121144243 # 5499 # DVBT2 # Eurosport 1 HD # Eurosport 1 HD # 02.09.
 40100012855 6b0021140622 # 5509 # DVBT2 # BR Fernsehen Süd HD # BR Fernsehen Süd HD (Internet) # 07.09.2017
 42500012873 6b0021140641 # 5510 # DVBT2 # hr-fernsehen HD # hr-fernsehen HD (Internet) # 02.09.2017
 42500012871 6f0021140362 # 5511 # DVBT2 # MDR S-Anhalt HD # MDR S-Anhalt HD # 07.09.2017
-41d0001527d 406121144244 # 5512 # DVBT2 # nick HD # NICK HD # 02.09.2017
+3200013e000e 406121144244 # 5512 # DVBT2 # nick HD # NICK HD # 08.04.2019
 4250001286f 6b00211406b1 # 5513 # DVBT2 # rbb Berlin HD # rbb Berlin HD (Internet) # 07.09.2017
 45700016f83 6b002114040b # 5514 # DVBT2 # WDR HD Duisburg # WDR HD Duisburg # 07.09.2017
 4b100016ea8 6b0021140404 # 5515 # DVBT2 # WDR HD Düsseldorf # WDR HD Düsseldorf # 07.09.2017
@@ -1752,7 +1751,6 @@ f00850027 2717f001d052 # 5623 # Vodafone-KD # eoTV # eoTV # 13.04.2018
 44500016f46 1e1270fbbe7 # 5640 # Unitymedia # SR Fernsehen # SR Fernsehen # 30.05.2018
 4b100016ee1 1e1270fbbe8 # 5641 # Unitymedia # Radio Bremen TV # Radio Bremen TV # 30.05.2018
 41f0001157d 245270fe2f9 # 5642 # Unitymedia # HSE24 EXTRA HD # HSE24 EXTRA HD # 30.05.2018
-3c00de1771 3db8013e4220 # 5643 # Hotbird # Blue Hustler # Blue Hustler # 31.05.2018
 a00850089 1000850089 # 5645 # SAT # Spiegel Geschichte HD # Spiegel Geschichte HD # 29.06.2018
 a0085007c c0085007c # 5646 # SAT # Fox HD # FOX HD # 29.06.2018
 900850090 e00850090 # 5647 # SAT # Sky 1 HD +1 # Sky 1 HD +1 # 29.06.2018
@@ -1868,3 +1866,10 @@ ffffe22e7909 ffff7274d180 # 5818 # WebTV # Q-music TV # Q-music TV # 23.03.2019
 3070013e213f 2714f001d101 # 5851 # Vodafone-KD # Rai 1 # Rai 1 # 24.03.2019
 3070013e2140 2714f001d102 # 5853 # Vodafone-KD # Rai 2 # Rai 2 # 24.03.2019
 3070013e2141 2714f001d103 # 5856 # Vodafone-KD # Rai 3 # Rai 3 # 24.03.2019
+2f44013e421f c8e00033729 # 5886 # SAT # Penthouse Quickies # Penthouse Quickies # 04.04.2019
+2f44013e421f c8e0003372a # 5887 # SAT # Penthouse Quickies # Penthouse Quickies CZ # 04.04.2019
+384013e0211 2134009c01fb # 5889 # Hotbird # Penthouse Passion # Penthouse Passion # 04.04.2019
+384013e0211 2134009c0201 # 5890 # Hotbird # Penthouse Passion # Penthouse Passion (20-06) # 04.04.2019
+500aa0425 c8e00033727 # 5891 # Astra23.5 # Penthouse Gold # Penthouse Gold # 04.04.2019
+500aa0425 c8e00033728 # 5892 # Astra23.5 # Penthouse Gold # Penthouse Gold CZ # 04.04.2019
+3070013e2144 3ee00011078 # 5896 # SAT # Rai News 24 # Rai News 24 # 08.04.2019
