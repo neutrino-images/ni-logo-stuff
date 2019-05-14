@@ -332,7 +332,7 @@ e00850194 2fa8013e1d21 # 3003 # Hotbird # Cartoon Network (S) # Cartoon Network 
 3008500f1 300850011 # 3006 # Unitymedia # Sky Sport News # Sky Sport News # 26.10.2016
 4008500dd 3008500dd # 3009 # Unitymedia # Sky Sport 1 # Sky Sport 1 # 26.10.2016
 4008500de 3008500de # 3010 # Unitymedia # Sky Sport 2 # Sky Sport 2 # 26.10.2016
-3f700011260 319c013e1f43 # 3031 # SAT # 3+ # 3+ # 09.01.2014
+3f700011260 319c013e1f43 # 3031 # SAT # 3+ HD # 3+ HD # 09.05.2019
 43600017001 3200013e0002 # 3035 # SAT # MTV Germany # MTV Germany # 09.01.2014
 43600017004 3200013e0005 # 3036 # Wilhelm_tell # ComedyCentral # ComedyCentral # 18.01.2019
 42a00016ff0 3200013e0007 # 3037 # SAT # VH1 # VH1 # 09.01.2014
@@ -1744,6 +1744,7 @@ f00850027 2717f001d052 # 5623 # Vodafone-KD # eoTV # eoTV # 13.04.2018
 2712f001cf0f 332c013e1c9a # 5629 # Hotbird # TV5Monde # TV5MONDE EUROPE # 27.04.2018
 3cf0013e29d0 70800c80e11 # 5630 # Hotbird # RTL 102.5 TV # RTL 102.5 TV SD # 27.04.2018
 3cf0013e29d0 3d54013e051b # 5631 # Hotbird # RTL 102.5 TV # RTL 102.5 TV HD # 27.04.2018
+1388013e35c3 2f44013e05e6 # 5635 # Hotbird # SCT # SCT # 14.05.2019
 42500012872 23b270fdf11 # 5636 # Unitymedia # MDR Thüringen HD # MDR Thüringen HD # 30.05.2018
 40f0001288a 23b270fdf10 # 5637 # Unitymedia # SR Fernsehen HD # SR Fernsehen HD # 30.05.2018
 4250001286f 245270fe2fa # 5638 # Unitymedia # rbb Berlin HD # rbb Berlin HD # 30.05.2018
@@ -1758,6 +1759,7 @@ e00850065 900850065 # 5652 # SAT # Universal TV HD # Universal TV HD # 18.07.201
 3f200012ba2 1af270fa85e # 5653 # Unitymedia # ZDFinfo HD # ZDFinfo HD # 18.07.2018
 10085001b 10f270f69ec # 5654 # Unitymedia # RTL Crime # RTL Crime # 23.07.2018
 10085001d 10f270f69ed # 5655 # Unitymedia # RTL Passion # RTL Passion # 23.07.2018
+fb270f621a c91000317d7 # 5658 # Astra23.5 # Auto Motor Sport Channel HD # AutoMotorSport HD # 14.05.2019
 105270f6606 1cd270f6606 # 5659 # Unitymedia # TNT Comedy # TNT Comedy # 20.08.2018
 c9270f660b 1e1270f660b # 5660 # Unitymedia # Universal TV # UNIVERSAL TV # 20.08.2018
 8400de3395 2726f001d10d # 5663 # Vodafone-KD # Melodie TV # Melodie TV # 22.11.2018
@@ -1876,3 +1878,12 @@ ffffe22e7909 ffff7274d180 # 5818 # WebTV # Q-music TV # Q-music TV # 23.03.2019
 3070013e2144 3ee00011078 # 5896 # SAT # Rai News 24 # Rai News 24 # 08.04.2019
 3c00de1771 2f44013e4221 # 5898 # Hotbird # Blue Hustler # Blue Hustler # 09.04.2019
 1000107d0 449000107d0 # 5903 # SAT # Insight TV UHD # Insight TV UHD # 01.05.2019
+271af001c386 40600011194 # 5905 # SAT # sportdigital HD # sportdigital HD # 09.05.2019
+40900012776 210085002e # 5910 # SAT # sparhandy TV 2 SD # sparhandy TV 2 SD # 09.05.2019
+f00850026 2717f001c487 # 5911 # Vodafone-KD # HGTV # HGTV # 09.05.2019
+384013e020d 3d54013e052c # 5912 # Hotbird # Prive TV # Prive TV # 14.05.2019
+1388013e35c7 3d54013e052f # 5913 # Hotbird # PASSIONXXX # PASSION TV # 14.05.2019
+1388013e35d8 3d54013e052e # 5914 # Hotbird # PINK O TV # PINK O TV # 14.05.2019
+1388013e35c0 3d54013e052d # 5915 # Hotbird # SESTO SENSO TV # SESTO SENSO TV # 14.05.2019
+c8800031b80 c8800031b81 # 5917 # Hotbird # Reality Kings # Reality Kings CZ # 14.05.2019
+1ba0466a18 2134009c01f8 # 5918 # SAT # Auto Motor Sport Channel # Auto Motor Sport Channel # 14.05.2019
