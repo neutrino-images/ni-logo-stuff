@@ -1246,7 +1246,7 @@ ffff7967141f ffff017fef57 # 4852 # WebTV # Djing DJ Hits # Djing HotHotHot # 15.
 1100850143 200850143 # 4906 # SAT # Sky Sport 9 # Sky Sport 9 # 18.11.2015
 110085014d 20085014d # 4907 # SAT # Sky Sport 10 # Sky Sport 10 # 18.11.2015
 2008500fd 3008500fd # 4908 # SAT # Sky Sport 11 # Sky Sport 11 # 18.11.2015
-10085001e 20085001e # 4909 # SAT # Sky Sport Austria # Sky Sport Austria # 18.11.2015
+10085001e 20085001e # 4909 # SAT # Sky Sport Austria 1 # Sky Sport Austria 1 # 28.07.2019
 3008500f1 4008500f1 # 4910 # SAT # Sky Sport News # Sky Sport News # 18.11.2015
 3008500f1 400850011 # 4911 # SAT # Sky Sport News # Sky Sport News # 18.11.2015
 400850034 200850034 # 4912 # SAT # Spiegel Geschichte # Spiegel Geschichte # 18.11.2015
@@ -1888,3 +1888,6 @@ f00850026 2717f001c487 # 5911 # Vodafone-KD # HGTV # HGTV # 09.05.2019
 c8800031b80 c8800031b81 # 5917 # Hotbird # Reality Kings # Reality Kings CZ # 14.05.2019
 1ba0466a18 2134009c01f8 # 5918 # SAT # Auto Motor Sport Channel # Auto Motor Sport Channel # 14.05.2019
 f00850026 f1270f5e3d # 5922 # Unitymedia # HGTV # HGTV # 21.06.2019
+b0085017d 30085017d # 5925 # SAT # Sky Sport HD 12 # Sky Sport HD 12 # 28.07.2019
+b00850182 300850182 # 5926 # SAT # Sky Sport HD 13 # Sky Sport HD 13 # 28.07.2019
+d00850187 300850187 # 5927 # SAT # Sky Sport HD 14 # Sky Sport HD 14 # 28.07.2019
