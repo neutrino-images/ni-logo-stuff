@@ -159,7 +159,7 @@ c0085007e 19b270f69ea # 2684 # Unitymedia # Syfy HD # Syfy HD # 26.10.2016
 42a00016fef 1aa04665cc # 2690 # Wilhelm_tell # MTV Dance # MTV Dance # 09.01.2014
 43600017001 1aa04665ea # 2693 # Wilhelm_tell # MTV Germany # MTV Germany # 09.01.2014
 449003507fa 1aa0466612 # 2695 # Wilhelm_tell # Hustler TV # Hustler TV # 09.01.2014
-900850045 1aa046661c # 2696 # Wilhelm_tell # sportdigital.tv # sportdigital.tv # 09.01.2014
+900850045 1aa046661c # 2696 # Wilhelm_tell # sportdigital Fussball # sportdigital Fussball # 09.01.2014
 e5a01856d8 1af270fac48 # 2697 # Unitymedia # Planet HD # Planet HD # 26.10.2016
 2714f001cf6d 1ba0466982 # 2699 # Wilhelm_tell # BBCEntertainment # BBCEntertainment # 09.01.2014
 42a00016fee 1ba0466996 # 2701 # Wilhelm_tell # MTV Hits # MTV Hits # 09.01.2014
@@ -208,7 +208,7 @@ d00850070 20a0467d32 # 2747 # Wilhelm_tell # NatGeo HD # NatGeo HD # 09.01.2014
 44100012f1d 2712f001cf76 # 2811 # Vodafone-KD # RTLNITRO # NITRO # 11.07.2017
 14a0464eb6 2712f001d036 # 2815 # Vodafone-KD # BonGusto # BonGusto # 27.10.2016
 e00850193 2712f001d09c # 2818 # Vodafone-KD # Boomerang # Boomerang # 27.10.2016
-900850045 2712f001d16b # 2820 # Vodafone-KD # sportdigital # sportdigital # 27.10.2016
+900850045 2712f001d16b # 2820 # Vodafone-KD # sportdigital Fussball # sportdigital Fussball # 27.10.2016
 42c00016f6a 2712f001d16d # 2821 # Vodafone-KD # CNN Int. # CNN Int. # 27.10.2016
 45b00013336 2712f001d174 # 2822 # Vodafone-KD # ServusTV Deutschland # ServusTV Deutschland # 27.10.2016
 41d0001526c 2713a6060137 # 2823 # KMS # ANIXE HD # ANIXE HD # 09.01.2014
@@ -273,7 +273,7 @@ e00850192 2718f001c619 # 2920 # Vodafone-KD # C&I # C&I # 28.06.2019
 4530001445f 2718f001d17b # 2928 # Vodafone-KD # Welt # Welt # 19.01.2018
 45300010028 2718f001d17e # 2929  # HSE24 # HSE24 # 09.01.2014
 5008502fc 271a000103e9 # 2931 # KMS # ANIXE SD # ANIXE+ # 12.07.2019
-d0085006f 271b0085007e # 2934 # SAT # Disney Cinemagic HD # Disney Cinemagic HD # 09.01.2014
+d0085006f 271b0085007e # 2934 # SAT # Sky Cinema Special HD # Sky Cinema Special HD # 09.01.2014
 b00850071 271b00850080 # 2935 # SAT # History HD # History HD # 09.01.2014
 d00850070 271cf001c356 # 2936 # Vodafone-KD # NatGeo HD # NatGeo HD # 27.10.2016
 a0085007c 271cf001c357 # 2937 # Vodafone-KD # Fox HD # Fox HD # 27.10.2016
@@ -424,7 +424,7 @@ a0085007c 600850464 # 3253 # Unitymedia # Fox HD # Fox HD # 26.10.2016
 44100012f1c 7a04429cf # 3306 # Primacom # VOX # VOX # 09.01.2014
 44100012f08 7a04429d0 # 3307 # Primacom # SUPER RTL # SUPER RTL # 09.01.2014
 44100012f3a 7a04429d1 # 3308 # Primacom # n-tv # ntv # 10.08.2017
-d0085006f 80085007e # 3311 # SAT # Disney Cinemagic HD # Disney Cinemagic HD # 09.01.2014
+d0085006f 80085007e # 3311 # SAT # Sky Cinema Special HD # Sky Cinema Special HD # 09.01.2014
 b00850071 800850080 # 3312 # SAT # History HD # History HD # 09.01.2014
 f0085003a 83270f332e # 3314 # Unitymedia # History # History # 26.10.2016
 90085003c 83270f3333 # 3317 # Unitymedia # Kinowelt TV # Kinowelt TV # 26.10.2016
@@ -432,7 +432,7 @@ f0085003a 83270f332e # 3314 # Unitymedia # History # History # 26.10.2016
 45300014462 83270f3338 # 3322 # Unitymedia # kabel eins classics # kabel eins classics # 26.10.2016
 3f70001125d 83270f3339 # 3323 # Unitymedia # SAT.1 emotions # SAT.1 emotions # 04.04.2019
 e00850192 83270f6210 # 3324 # Unitymedia # C&I # C&I # 28.06.2019
-900850045 83270f6217 # 3325 # Unitymedia # Sportdigital # Sportdigital # 26.10.2016
+900850045 83270f6217 # 3325 # Unitymedia # sportdigital Fussball # sportdigital Fussball # 26.10.2016
 42a00016ff0 8a0442a31 # 3326 # Primacom # VH1. # VH1. # 09.01.2014
 42a00016ff1 8a0442a32 # 3327 # Primacom # VH1 Classic. # VH1 Classic. # 09.01.2014
 42a00016fef 8a0442a33 # 3328 # Primacom # MTV Dance # MTV Dance # 09.01.2014
@@ -525,7 +525,7 @@ d00850070 d00850458 # 3453 # Unitymedia # NatGeo HD # NatGeo HD # 26.10.2016
 2100850033 da044533d # 3470 # Primacom # TELE 5 # TELE 5 # 09.01.2014
 43600017001 da044533e # 3471 # Primacom # MTV Germany # MTV Germany # 09.01.2014
 43600017008 da044533f # 3472 # Primacom # nick # nick # 16.09.2017
-900850045 dba018562d # 3473 # KabelBW # sportdigital.tv # sportdigital.tv # 09.01.2014
+900850045 dba018562d # 3473 # KabelBW # sportdigital Fussball # sportdigital Fussball # 09.01.2014
 3ff000116ae dba0185630 # 3474 # KabelBW # BB-MV Lokal-TV # BB-MV Lokal-TV # 09.01.2019
 43600016fff dba0185633 # 3475 # KabelBW # MTV Music 24 # MTV Music 24 # 09.01.2014
 443000179f4 dd270f5661 # 3476 # Unitymedia # EuroNews # EuroNews # 26.10.2016
@@ -586,7 +586,7 @@ c0085007e 2134009c4e86 # 3561 # TeleColumbus # Syfy HD # SyFy HD # 09.01.2014
 42a00016ff1 21fc009c4ef5 # 3563 # TeleColumbus # VH1 Classic # VH1 Classic # 09.01.2014
 4210001ef11 1edc009c012e # 3564 # TeleColumbus # VOX HD # VOX HD # 09.01.2014
 3f90001ef77 1964009c01a0 # 3565 # TeleColumbus # SIXX HD # sixx HD # 09.01.2014
-900850045 21fc009c4eef # 3566 # TeleColumbus # Sportdigital # sportdigital # 09.01.2014
+900850045 21fc009c4eef # 3566 # TeleColumbus # sportdigital Fussball # sportdigital Fussball # 09.01.2014
 1da0467166 170c009e000c # 3567 # TeleColumbus # Animal Planet HD # Animal Planet HD # 09.01.2014
 90085003c 1bbc009c0b86 # 3568 # TeleColumbus # Kinowelt TV # Kinowelt TV # 09.01.2014
 600850082 21fc009c4ef3 # 3569 # TeleColumbus # Discovery HD # Discovery HD # 09.01.2014
@@ -803,7 +803,7 @@ c82000317b2 c85000313a9 # 4008 # SAT # HBO HD # HBO HD # 24.09.2014
 2710f001d10e 43000012010 # 4083 # SAT # france 3 # FRANCE 3 # 24.09.2014
 2712f001cf0f 43400011fae # 4086 # SAT # TV5Monde # TV5MONDE # 24.09.2014
 2725f001c762 43000012011 # 4089 # SAT # france 2 # FRANCE 2 # 24.09.2014
-300850019 45a000122cc # 4092 # SAT # Disney Cinemagic # DISNEY CINEMAGIC # 24.09.2014
+300850019 45a000122cc # 4092 # SAT # Sky Cinema Special HD # Sky Cinema Special # 24.09.2014
 300850203 c8a000313d0 # 4096 # SAT # MGM # MGM # 24.09.2014
 ffff281c24dc c8e0003025f # 4097 # SAT # Deutsche Welle TV # Deutsche Welle TV # 03.04.2017
 3f4000118ed 22c4013e07d1 # 4101 # SAT # RT HD # RT HD # 24.09.2014
@@ -1057,7 +1057,7 @@ d00850070 3a00de16ac # 4656 # Kabelplus # NatGeo HD # NatGeo HD # 19.04.2015
 8d270f3718 3a00de16b0 # 4659 # Kabelplus # Spiegel TV Wissen # Spiegel TV Wissen # 19.04.2015
 271bf001c38c 3a00de16b1 # 4660 # Kabelplus # C&I HD # C&I HD # 28.06.2019
 1ba0466a18 3b00de170f # 4661 # Kabelplus # Auto Motor Sport Channel # Auto Motor Sport Channel # 19.04.2015
-900850045 3b00de1710 # 4662 # Kabelplus # Sportdigital # Sportdigital # 19.04.2015
+900850045 3b00de1710 # 4662 # Kabelplus # sportdigital Fussball # sportdigital Fussball # 19.04.2015
 f00850037 3b00de1711 # 4663 # Kabelplus # Eurosport 2 Deutschland # Eurosport 2 Deutschland # 19.04.2015
 fa0463b24 3b00de1712 # 4664 # Kabelplus # FUEL TV HD # FUEL TV HD # 19.04.2015
 1da0467166 3b00de1714 # 4665 # Kabelplus # Animal Planet HD # Animal Planet HD # 19.04.2015
@@ -1457,7 +1457,7 @@ e0085006a 1bbc009c0b54 # 5185  # Pro Sieben Fun HD # Pro Sieben Fun HD # 09.03.2
 2721f001cf6f d3270f4e9d # 5261 # Unitymedia # Zee.One # Zee.One # 26.10.2016
 41f0001157c 79270f69e7 # 5264 # Unitymedia # Disney Channel HD # Disney HD # 26.10.2016
 45300014462 45f00353268 # 5267 # SAT # kabel eins classics # kabel eins classics # 12.10.2016
-271af001c386 45100351018 # 5268 # SAT # sportdigital HD # sportdigital HD # 10.01.2017
+271af001c386 45100351018 # 5268 # SAT # sportdigital HD # sportdigital Fussball HD # 10.01.2017
 4210001ef10 213270fcf6e # 5272 # Unitymedia # RTL HD # RTL HD # 26.10.2016
 44100012f30 e7270f4e9c # 5273 # Unitymedia # RTLplus # RTLplus # 26.10.2016
 3f90001ef74 213270fcf6f # 5274 # Unitymedia # SAT.1 HD # Sat.1 HD # 26.10.2016
@@ -1693,7 +1693,7 @@ f00850027 bf270f4aad # 5537 # Unitymedia # eoTV # eoTV # 29.11.2017
 4550001151b 1c3270fb02f # 5538 # Unitymedia # Juwelo HD # Juwelo HD # 29.11.2017
 43600017001 b5270f46c6 # 5539 # Unitymedia # MTV Germany # MTV Germany # 29.11.2017
 600850076 1a5270fa475 # 5540 # Unitymedia # Nat Geo Wild HD # Nat Geo Wild HD # 29.11.2017
-271af001c386 191270f9ca8 # 5541 # Unitymedia # sportdigital HD # sportdigital HD # 29.11.2017
+271af001c386 191270f9ca8 # 5541 # Unitymedia # sportdigital HD # sportdigital Fussball HD # 29.11.2017
 15f270f891d 15f270f8968 # 5542 # Unitymedia # WDR Düsseldorf # WDR Düsseldorf # 29.11.2017
 15f270f891d 15f270f8967 # 5543 # Unitymedia # WDR Düsseldorf # WDR Duisburg # 29.11.2017
 43600017001 43600017006 # 5544 # SAT # MTV Germany # MTV # 23.12.2017
@@ -1878,7 +1878,7 @@ ffffe22e7909 ffff7274d180 # 5818 # WebTV # Q-music TV # Q-music TV # 23.03.2019
 3070013e2144 3ee00011078 # 5896 # SAT # Rai News 24 # Rai News 24 # 08.04.2019
 3c00de1771 2f44013e4221 # 5898 # Hotbird # Blue Hustler # Blue Hustler # 09.04.2019
 1000107d0 449000107d0 # 5903 # SAT # Insight TV UHD # Insight TV UHD # 01.05.2019
-271af001c386 40600011194 # 5905 # SAT # sportdigital HD # sportdigital HD # 09.05.2019
+271af001c386 40600011194 # 5905 # SAT # sportdigital HD # sportdigital Fussball HD # 09.05.2019
 40900012776 210085002e # 5910 # SAT # sparhandy TV 2 SD # sparhandy TV 2 SD # 09.05.2019
 f00850026 2717f001c487 # 5911 # Vodafone-KD # HGTV # HGTV # 09.05.2019
 384013e020d 3d54013e052c # 5912 # Hotbird # Prive TV # Prive TV # 14.05.2019
