@@ -1216,7 +1216,7 @@ ffff7967141f ffff017fef57 # 4852 # WebTV # Djing DJ Hits # Djing HotHotHot # 15.
 1100850015 300850015 # 4859 # SAT # Beate-Uhse.TV # Beate-Uhse.TV # 18.11.2015
 300850019 200850019 # 4861 # SAT # Disney Cinemagic # DISNEY CINEMAGIC # 18.11.2015
 110085001a 30085001a # 4862 # SAT # Disney Junior # Disney Junior # 18.11.2015
-110085001c 30085001c # 4863 # SAT # Disney XD # DISNEY XD # 18.11.2015
+e00850193 30085001c # 4863 # SAT # Boomerang # Boomerang # 01.10.2019
 100850010 200850010 # 4864 # SAT # Fox Serie # Fox Serie # 18.11.2015
 1100850016 200850016 # 4866 # SAT # Heimatkanal # Heimatkanal # 18.11.2015
 900850191 400850191 # 4867 # SAT # Jukebox # Jukebox # 18.11.2015
@@ -1770,7 +1770,6 @@ e00850192 b00850192 # 5665 # SAT # C&I # C&I # 28.06.2019
 100850159 b00850159 # 5668 # SAT # Blue Movie 1 # Blue Movie 1 # 29.11.2018
 100850163 b00850163 # 5669 # SAT # Blue Movie 2 # Blue Movie 2 # 29.11.2018
 10085016d b0085016d # 5670 # SAT # Blue Movie 3 # Blue Movie 3 # 29.11.2018
-e00850193 b00850193 # 5671 # SAT # Boomerang # Boomerang # 29.11.2018
 e00850194 b00850194 # 5672 # SAT # Cartoon Network (S) # Cartoon Network (S) # 29.11.2018
 80085008a 30085008a # 5673 # SAT # Disney Junior HD # Disney Junior HD # 29.11.2018
 e00850080 b00850080 # 5674 # SAT # E!Entertainment HD # E!Entertainment HD # 29.11.2018
