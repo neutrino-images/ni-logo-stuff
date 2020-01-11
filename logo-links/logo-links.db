@@ -249,7 +249,6 @@ f0085003a 2713f001d035 # 2830 # Vodafone-KD # History # History # 27.10.2016
 40500012e9a 2716f001c36c # 2890 # Vodafone-KD # SUPER RTL HD # SUPER RTL HD # 27.10.2016
 10085002a 2717f001c3bb # 2892 # Vodafone-KD # 13th Street # 13th Street # 27.10.2016
 97270f3b0c 2717f001c47d # 2893 # Vodafone-KD # SPORT1+ # SPORT1+ # 01.12.2019
-90085003e 2717f001c480 # 2894 # Vodafone-KD # AXN Action # AXN Action # 27.10.2016
 2715f001c481 2717f001c481 # 2895 # Vodafone-KD # Silverline # Silverline # 27.10.2016
 110085001c 2717f001c483 # 2897 # Vodafone-KD # Disney XD # Disney XD # 27.10.2016
 43600017008 2717f001cf0e # 2900 # Vodafone-KD # nick # nick # 16.09.2017
@@ -290,7 +289,6 @@ e5a01856d8 271df001c353 # 2943 # Vodafone-KD # Planet # Planet # 27.10.2016
 4210001ef15 271ff001c35b # 2953 # Vodafone-KD # RTL zwei HD # RTL zwei HD # 08.10.2019
 4210001ef10 271ff001c35c # 2954 # Vodafone-KD # RTL HD # RTL HD # 27.10.2016
 3f90001ef74 271ff001c362 # 2955 # Vodafone-KD # SAT.1 HD # SAT.1 HD # 27.10.2016
-a0085007d 271ff001c367 # 2956 # Vodafone-KD # AXN HD # AXN HD # 27.10.2016
 3ef00011332 2720a6060643 # 2957  # ServusTV HD Oesterreich # ServusTV HD Oesterreich # 09.01.2014
 42a00016fee 2720a6066fee # 2958 # KMS # MTV Hits # MTV Hits # 09.01.2014
 42a00016fef 2720a6066fef # 2959 # KMS # MTV Dance # MTV Dance # 09.01.2014
@@ -1001,7 +999,6 @@ c96000351c7 1803e800b0 # 4557 # NiederlandeCable # FOX Sports 3 # FOX Sports 3 #
 2712f001cf0f 1303e84a3d # 4559 # NiederlandeCable # TV5Monde # TV5Monde # 29.09.2014
 2db4013e0ce5 2db4013e0e11 # 4562 # Hotbird # 4fun.tv # 4fun.TV # 05.12.2015
 42300011bc0 2726f001cfd4 # 4574 # Vodafone-KD # TVP Polonia # TV Polonia # 27.10.2016
-90085003e 2717f001d09a # 4575 # Vodafone-KD # AXN Action # AXN (eng) # 27.10.2016
 110085001a 2715f001d109 # 4576 # Vodafone-KD # Disney Junior # Disney Junior (eng) # 27.10.2016
 110085001c 2715f001cf74 # 4577 # Vodafone-KD # Disney XD # Disney XD (eng) # 27.10.2016
 e00850194 2718f001c612 # 4578 # Vodafone-KD # Cartoon Network (S) # Cartoon Network (eng)		2 # 27.10.2016
@@ -1187,7 +1184,7 @@ f0085003a ea044539b # 4783 # Kabelplus # History # History # 19.04.2015
 3200013e0001 1a5270f6dd0 # 4798 # Unitymedia # MTV Live HD # MTV Live HD # 26.10.2016
 5008502fc ffff63022841 # 4800 # WebTV # ANIXE SD # ANIXE+ # 12.07.2019
 fa0463b56 ffff484b35d3 # 4802 # WebTV # Hamburg1 # Hamburg1 # 30.07.2015
-700850047 3eb000133ab # 4810  # Hope Channel deutsch # HOPE Channel HD # 10.09.2015
+d3270f5276 3eb000133ab # 4810  # Hope Channel deutsch # HOPE Channel HD # 11.01.2020
 1ca0466d88 50085003e # 4811  # EWTN # EWTN katholisches TV # 10.09.2015
 42a00016ff5 42e00011f41 # 4816 # SAT # MTV Base France # MTV Base HD # 19.09.2015
 5dc013e13f1 45a000122cb # 4821  # TRACE Urban # TRACE Urban # 19.09.2015
@@ -1569,7 +1566,6 @@ ffff4a08cd84 ffff2e5c6a5d # 5395 # WebTV # 18+ XXX # 18+ XXX3 # 01.01.2017
 1da04671f2 42a00016ff7 # 5397 # Vodafone-KD # nick jr. # Nick Jr. # 01.01.2017
 449003507fa 4510035100b # 5398 # SAT # Hustler TV # Hustler TV # 07.01.2017
 45300014462 4510035101c # 5399 # SAT # kabel eins classics # kabel eins classics # 15.01.2017
-90085003e 4510035101d # 5400 # SAT # AXN # AXN # 15.01.2017
 449003507fc 45100351013 # 5401 # SAT # Planet # Planet # 15.01.2017
 f00850037 45f00353262 # 5403 # SAT # Eurosport 2 # Eurosport 2 # 15.01.2017
 f00850037 4510035100a # 5405 # SAT # Eurosport 2 # Eurosport 2 # 16.01.2017
@@ -1923,7 +1919,6 @@ e00850065 100850065 # 5963 # Unitymedia # Universal TV HD # Universal TV HD # 10
 b0085012c 10085012c # 5967 # Unitymedia # Eurosport360HD 4 # Eurosport360HD 4 # 10.10.2019
 100850010 e7270f5a50 # 5968 # Unitymedia # Fox Serie (S) # Fox Serie (S) # 10.10.2019
 45900013138 f1270f5e3c # 5969 # Unitymedia # health.tv # health.tv # 10.10.2019
-700850047 d3270f5276 # 5970 # Unitymedia # HOPE Channel deutsch # HOPE Channel deutsch # 10.10.2019
 40085000d 1d7270f372e # 5971 # Unitymedia # National Geographic (S) # National Geographic (S) # 10.10.2019
 3fc00011b66 1cd270fb420 # 5972 # Unitymedia # NHK World TV # NHK World TV # 10.10.2019
 3070013e2140 dd270f565b # 5973 # Unitymedia # Rai 2 # Rai 2 # 10.10.2019
@@ -1935,3 +1930,19 @@ b00850129 100850129 # 5977 # Unitymedia # Sky Sport Bundesliga HD 5 # Sky Sport 
 100850032 f1270f5e3e # 5979 # Unitymedia # TNT Serie (S) # TNT Serie (S) # 10.10.2019
 403000113f9 1e1270f5a48 # 5980 # Unitymedia # TRT Turk # TRT Turk # 10.10.2019
 97270f3b0c 40600011195 # 5981 # SAT # SPORT1+ # SPORT1+ # 01.12.2019
+1da04671f2 43600016ff7 # 5985 # SAT # nick jr. # Nick Jr. # 11.01.2020
+90085003e 4510035101d # 5986 # SAT # AXN # AXN # 11.01.2020
+3f50001307a 3e900013462 # 5987 # SAT # RTL UHD # RTL UHD Austria # 11.01.2020
+500850304 700850047 # 5988 # SAT # TLC # TLC Austria # 11.01.2020
+90085003e 2717f001c480 # 5989 # Vodafone-KD # AXN # AXN # 11.01.2020
+90085003e 2717f001d09a # 5990 # Vodafone-KD # AXN # AXN (engl.) # 11.01.2020
+a0085007d 271ff001c367 # 5991 # Vodafone-KD # AXN HD # AXN HD # 11.01.2020
+44300017094 2717f001d17c # 5992 # Vodafone-KD # VOXup # VOXup # 11.01.2020
+3db8013e4222 2f44013e4222 # 5993 # Hotbird # Private HD # Private HD # 11.01.2020
+1388013e35c7 3db8013e420a # 5994 # Hotbird # PASSIONXXX # PASSION # 11.01.2020
+1388013e35d8 3db8013e4209 # 5995 # Hotbird # PINK O TV # PINK O TV # 11.01.2020
+384013e020d 3db8013e4206 # 5996 # Hotbird # Prive TV # Prive TV # 11.01.2020
+1388013e35c3 3db8013e421e # 5997 # Hotbird # SCT # SCT # 11.01.2020
+1388013e35c0 3db8013e4208 # 5998 # Hotbird # SESTO SENSO TV # SESTO SENSO TV # 11.01.2020
+2f44013e421e 3db8013e4221 # 5999 # Hotbird # Penthouse Black # Just 89 TV # 11.01.2020
+500aa0425 3db8013e4220 # 6000 # Hotbird # Penthouse Gold # Diabolo XTV # 11.01.2020
