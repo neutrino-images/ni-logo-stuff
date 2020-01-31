@@ -1,4 +1,30 @@
 #Logo Symlink File-ID Provid LogoName SymlinkName TimeStamp
+15f270f891d 4b100016e94 # 2540 # SAT # WDR # WDR Düsseldorf # 07.09.2017
+15f270f891d 4b100016e95 # 2541 # SAT # WDR # WDR Essen # 07.09.2017
+15f270f891d 4b100016e96 # 2542 # SAT # WDR # WDR Münster # 07.09.2017
+15f270f891d 4b100016e97 # 2543 # SAT # WDR # WDR Siegen # 07.09.2017
+40f00012888 4b100016eec # 2552 # SAT # One HD # One HD # 04.09.2016
+c00850073 514013e3ab7 # 2563 # Hotbird # MGM HD # MGM HD # 09.01.2014
+600850082 514013e3ab8 # 2564 # SAT # Discovery HD # Discovery HD # 09.01.2014
+1100850013 100850013 # 2566 # Unitymedia # Junior # Junior # 26.10.2016
+1100850015 100850015 # 2567 # Unitymedia # Beate-Uhse.TV # Beate-Uhse.TV # 26.10.2016
+1100850016 100850016 # 2568 # Unitymedia # Heimatkanal # Heimatkanal # 26.10.2016
+1100850018 100850018 # 2570 # Unitymedia # Classica # Classica # 26.10.2016
+110085001a 10085001a # 2571 # Unitymedia # Disney Junior # Disney Junior (S) # 26.10.2016
+110085001c 10085001c # 2573 # Unitymedia # Disney XD # Disney XD (S) # 26.10.2016
+1100850022 100850022 # 2576 # Unitymedia # Sky Atlantic # Sky Atlantic # 26.10.2016
+1100850024 100850024 # 2577 # Unitymedia # Syfy # SYFY (S) # 26.10.2016
+1100850137 100850137 # 2581 # Unitymedia # Sky Select 7 # Sky Select 7 # 26.10.2016
+1100850138 100850138 # 2582 # Unitymedia # Sky Bundesliga 7 # Sky Sport Bundesliga 7 # 26.10.2016
+1100850139 100850139 # 2583 # Unitymedia # Sky Sport 8 # Sky Sport 8 # 26.10.2016
+1100850141 100850141 # 2584 # Unitymedia # Sky Select 8 # Sky Select 8 # 26.10.2016
+1100850142 100850142 # 2585 # Unitymedia # Sky Bundesliga 8 # Sky Sport Bundesliga 8 # 26.10.2016
+1100850143 100850143 # 2586 # Unitymedia # Sky Sport 9 # Sky Sport 9 # 26.10.2016
+110085014b 10085014b # 2587 # Unitymedia # Sky Select 9 # Sky Select 9 # 26.10.2016
+110085014c 10085014c # 2588 # Unitymedia # Sky Bundesliga 9 # Sky Sport Bundesliga 9 # 26.10.2016
+110085014d 10085014d # 2589 # Unitymedia # Sky Sport 10 # Sky Sport 10 # 26.10.2016
+110085014e 10085014e # 2590 # Unitymedia # Sky Select Event B # Sky Select Event B # 26.10.2016
+200850206 100850206 # 2594 # Unitymedia # Romance TV # Romance TV # 29.11.2017
 43100016e44 431a4016e46 # 2361 # Unitymedia # mdr # MDR Thüringen # 07.09.2017
 43100016e47 431a4016e47 # 2362 # Unitymedia # SWR Fernsehen RP # SWR Fernsehen RP # 26.10.2016
 43600017001 43600017009 # 2370 # SAT # MTV Germany # MTV Germany # 09.01.2014
@@ -86,32 +112,6 @@ f0085003a 44e00013391 # 2452 # SAT # History # HISTORY # 23.09.2014
 45d000132ca 4a04428af # 2537 # Primacom # ORF2 # ORF2 # 09.01.2014
 15f270f891d 4b100016e92 # 2538 # SAT # WDR # WDR Bielefeld # 07.09.2017
 15f270f891d 4b100016e93 # 2539 # SAT # WDR # WDR Dortmund # 07.09.2017
-15f270f891d 4b100016e94 # 2540 # SAT # WDR # WDR Düsseldorf # 07.09.2017
-15f270f891d 4b100016e95 # 2541 # SAT # WDR # WDR Essen # 07.09.2017
-15f270f891d 4b100016e96 # 2542 # SAT # WDR # WDR Münster # 07.09.2017
-15f270f891d 4b100016e97 # 2543 # SAT # WDR # WDR Siegen # 07.09.2017
-40f00012888 4b100016eec # 2552 # SAT # One HD # One HD # 04.09.2016
-c00850073 514013e3ab7 # 2563 # Hotbird # MGM HD # MGM HD # 09.01.2014
-600850082 514013e3ab8 # 2564 # SAT # Discovery HD # Discovery HD # 09.01.2014
-1100850013 100850013 # 2566 # Unitymedia # Junior # Junior # 26.10.2016
-1100850015 100850015 # 2567 # Unitymedia # Beate-Uhse.TV # Beate-Uhse.TV # 26.10.2016
-1100850016 100850016 # 2568 # Unitymedia # Heimatkanal # Heimatkanal # 26.10.2016
-1100850018 100850018 # 2570 # Unitymedia # Classica # Classica # 26.10.2016
-110085001a 10085001a # 2571 # Unitymedia # Disney Junior # Disney Junior (S) # 26.10.2016
-110085001c 10085001c # 2573 # Unitymedia # Disney XD # Disney XD (S) # 26.10.2016
-1100850022 100850022 # 2576 # Unitymedia # Sky Atlantic # Sky Atlantic # 26.10.2016
-1100850024 100850024 # 2577 # Unitymedia # Syfy # SYFY (S) # 26.10.2016
-1100850137 100850137 # 2581 # Unitymedia # Sky Select 7 # Sky Select 7 # 26.10.2016
-1100850138 100850138 # 2582 # Unitymedia # Sky Bundesliga 7 # Sky Sport Bundesliga 7 # 26.10.2016
-1100850139 100850139 # 2583 # Unitymedia # Sky Sport 8 # Sky Sport 8 # 26.10.2016
-1100850141 100850141 # 2584 # Unitymedia # Sky Select 8 # Sky Select 8 # 26.10.2016
-1100850142 100850142 # 2585 # Unitymedia # Sky Bundesliga 8 # Sky Sport Bundesliga 8 # 26.10.2016
-1100850143 100850143 # 2586 # Unitymedia # Sky Sport 9 # Sky Sport 9 # 26.10.2016
-110085014b 10085014b # 2587 # Unitymedia # Sky Select 9 # Sky Select 9 # 26.10.2016
-110085014c 10085014c # 2588 # Unitymedia # Sky Bundesliga 9 # Sky Sport Bundesliga 9 # 26.10.2016
-110085014d 10085014d # 2589 # Unitymedia # Sky Sport 10 # Sky Sport 10 # 26.10.2016
-110085014e 10085014e # 2590 # Unitymedia # Sky Select Event B # Sky Select Event B # 26.10.2016
-200850206 100850206 # 2594 # Unitymedia # Romance TV # Romance TV # 29.11.2017
 100850010 1008503f8 # 2595 # Unitymedia # Fox Serie # Fox Serie # 26.10.2016
 1100850024 10085040c # 2598 # Unitymedia # Syfy # Syfy # 26.10.2016
 100850032 10085041a # 2599 # Unitymedia # TNT Serie # TNT Serie # 26.10.2016
@@ -799,7 +799,6 @@ c82000317b2 c85000313a9 # 4008 # SAT # HBO HD # HBO HD # 24.09.2014
 2710f001d10e 3e1c013f012f # 4082 # SAT # france 3 # France 3 # 24.09.2014
 2710f001d10e 43000012010 # 4083 # SAT # france 3 # FRANCE 3 # 24.09.2014
 2712f001cf0f 43400011fae # 4086 # SAT # TV5Monde # TV5MONDE # 24.09.2014
-2725f001c762 43000012011 # 4089 # SAT # france 2 # FRANCE 2 # 24.09.2014
 300850019 45a000122cc # 4092 # SAT # Sky Cinema Special HD # Sky Cinema Special # 24.09.2014
 300850203 c8a000313d0 # 4096 # SAT # MGM # MGM # 24.09.2014
 ffff281c24dc c8e0003025f # 4097 # SAT # Deutsche Welle TV # Deutsche Welle TV # 03.04.2017
@@ -1623,7 +1622,6 @@ e0085006d 2716f001c3a5 # 5462 # Vodafone-KD # Eurosport 2 HD # Eurosport 2 HD # 
 40100012857 43100012857 # 5467 # Vodafone-KD # NDR FS NDS HD # NDR FS NDS HD # 21.08.2017
 40100012857 23b270fcf73 # 5468 # Unitymedia # NDR FS NDS HD # NDR Niedersachsen HD # 31.08.2017
 40100012855 23b270fd743 # 5469 # Unitymedia # BR Fernsehen Süd HD # BR Fernsehen Süd HD # 07.09.2017
-45b0001332f dd270f566e # 5470 # Unitymedia # Welt der Wunder # Welt der Wunder # 31.08.2017
 40900012779 23b270fdf0e # 5471 # Unitymedia # QVC Beauty & Style HD # QVC Beauty & Style HD # 31.08.2017
 1008500a8 8d270f372d # 5472 # Unitymedia # Motorvision TV # Motorvision # 31.08.2017
 600850082 245270fe2f5 # 5473 # Unitymedia # Discovery HD # Discovery HD # 31.08.2017
@@ -1945,6 +1943,16 @@ a0085007d 271ff001c367 # 5991 # Vodafone-KD # Sony AXN HD # Sony AXN HD # 13.01.
 1388013e35c3 3db8013e421e # 5997 # Hotbird # SCT # SCT # 11.01.2020
 1388013e35c0 3db8013e4208 # 5998 # Hotbird # SESTO SENSO TV # SESTO SENSO TV # 11.01.2020
 2f44013e421e 3db8013e4221 # 5999 # Hotbird # Penthouse Black # Just 89 TV # 11.01.2020
-500aa0425 3db8013e4220 # 6000 # Hotbird # Penthouse Gold # Diabolo XTV # 11.01.2020
+2f44013e421f 3db8013e4220 # 6000 # Hotbird # Penthouse Quickies # Diabolo XTV # 21.01.2020
 3db8013e4222 2f44013e4225 # 6001 # Hotbird # Private HD # Private HD POL # 17.01.2020
 4240001778b 2134009c01f6 # 6003 # SAT # Playboy TV # Playboy TV # 17.01.2020
+43000012016 45400012f71 # 6007 # SAT # NRJ 12 # NRJ 12 # 21.01.2020
+43000012016 45400012f72 # 6008 # SAT # NRJ 12 # NRJ 12 # 21.01.2020
+45400012f6c 45400012f6d # 6010 # SAT # Cherie 25 # Cherie 25 # 21.01.2020
+384013e0211 3db8013e421f # 6011 # Hotbird # Penthouse Passion # Platinum TV # 21.01.2020
+300c013e4333 300c013e4335 # 6012 # Hotbird # RTS Un HD # Test17205 # 21.01.2020
+2134013e03c1 6a4013e36e6 # 6013 # Hotbird # SRF info HD # Test14054 # 21.01.2020
+4020001275f 43000012011 # 6014 # SAT # RMC Decouverte # RMC Decouverte # 21.01.2020
+44300017094 dd270f566e # 6018 # Unitymedia # VOXup # VOXup # 29.01.2020
+119270f6dcf 1b9270fac4c # 6019 # Unitymedia # BonGusto HD # Bon Gusto HD # 29.01.2020
+30d4013e452f 1450013e0d4f # 6020 # Hotbird # Rai 5 HD # Rai 5 HD # 31.01.2020
