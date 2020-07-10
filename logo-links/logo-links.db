@@ -587,11 +587,11 @@ c0085007e 2134009c4e86 # 3561 # TeleColumbus # Syfy HD # SyFy HD # 09.01.2014
 900850045 21fc009c4eef # 3566 # TeleColumbus # sportdigital Fussball # sportdigital Fussball # 09.01.2014
 1da0467166 170c009e000c # 3567 # TeleColumbus # Animal Planet HD # Animal Planet HD # 09.01.2014
 90085003c 1bbc009c0b86 # 3568 # TeleColumbus # Kinowelt TV # Kinowelt TV # 09.01.2014
-600850082 21fc009c4ef3 # 3569 # TeleColumbus # Discovery HD # Discovery HD # 09.01.2014
+271cf001c39f 21fc009c4ef3 # 3569 # TeleColumbus # GEO TV HD # GEO TV HD # 10.07.2020
 e00850194 2134009c4e98 # 3570 # TeleColumbus # Cartoon Network (S) # Cartoon Network (S) # 24.09.2015
 3f90001ef75 1edc009c0130 # 3571 # TeleColumbus # ProSieben HD # ProSieben HD # 09.01.2014
 4210001ef10 1964009c01a1 # 3572 # TeleColumbus # RTL HD # RTL HD # 09.01.2014
-f00850037 21fc009c4ef1 # 3573 # TeleColumbus # Eurosport 2 Deutschland # Eurosport 2 Deutschland # 09.01.2014
+41100012ec3 21fc009c4ef1 # 3573 # TeleColumbus # RTL Living # RTL Living # 10.07.2020
 41f00011581 1644009c00ea # 3574 # TeleColumbus # SPORT1 HD # SPORT1 HD # 09.01.2014
 443000179e0 14b4009c00dc # 3575 # TeleColumbus # Eurosport Deutschland # Eurosport Deutschland # 09.01.2014
 43100016e44 44500016f0e # 3576 # TeleColumbus # mdr # MDR Thüringen # 07.09.2017
@@ -890,7 +890,7 @@ f0085003a 189cfbff1fcf # 4220 # SAT # History # History # 24.09.2014
 42300011bbe 2af8013e1139 # 4221 # Hotbird # TVP INFO # TVP INFO HD # 27.04.2018
 500850304 7d90002183d # 4223 # SAT # TLC # TLC # 24.09.2014
 500850304 7d900021859 # 4224 # SAT # TLC # TLC # 24.09.2014
-80085008a 444000119ca # 4225 # SAT # Disney Junior HD # DISNEY JUNIOR HD # 24.09.2014
+1da04671f2 444000119ca # 4225 # SAT # Nick Jr. # Nick Jr. # 02.04.2020
 c990003523f 17d4013e1bd0 # 4226 # SAT # FOXlife # FOXlife # 24.09.2014
 c9900035235 2774fbff2d0b # 4228 # SAT # FOX Sports 2 HD # Fox Sports 2 HD # 24.09.2014
 97270f3afe 9070002cb70 # 4231 # SAT # Extreme Sports # Extreme Sports # 24.09.2014
@@ -1009,7 +1009,7 @@ e00850193 2712f001d09f # 4580 # Vodafone-KD # Boomerang # Boomerang (eng) # 27.1
 600850195 2713f001d0a0 # 4583 # Vodafone-KD # TNT Film (TCM) # TNT Film (eng) # 27.10.2016
 100850032 2718f001d048 # 4584 # Vodafone-KD # TNT Serie # TNT Serie (eng) # 27.10.2016
 42c00016f6a 40400011146 # 4586 # SAT # CNN Int. # CNN Int. # 04.11.2014
-80085008a 271af001c384 # 4591 # Vodafone-KD # Disney Junior HD # Disney Junior HD # 27.10.2016
+1da04671f2 271af001c384 # 4591 # Vodafone-KD # Nick Jr. # Nick Jr. # 02.04.2020
 40900012777 2721f001c378 # 4592 # Vodafone-KD # MTV HD # MTV HD # 27.10.2016
 3200013e000e 271af001c385 # 4593 # Vodafone-KD # nick HD # nick HD # 08.04.2019
 2719f001c37d 1af270fa85d # 4594 # Unitymedia # CNN HD # CNN International HD # 26.10.2016
@@ -1206,7 +1206,6 @@ ffff7967141f ffff1bdc7fc3 # 4850 # WebTV # Djing DJ Hits # Djing Underground # 1
 ffff7967141f ffffa7a26b62 # 4851 # WebTV # Djing DJ Hits # Djing DJ Hot Tracks # 15.10.2015
 ffff7967141f ffff017fef57 # 4852 # WebTV # Djing DJ Hits # Djing HotHotHot # 15.10.2015
 10085002a 20085002a # 4854 # SAT # 13th Street # 13th Street # 18.11.2015
-900850090 800850090 # 4856 # SAT # Sky 1 HD +1 # Sky 1 HD +1 # 23.09.2017
 1100850015 300850015 # 4859 # SAT # Beate-Uhse.TV # Beate-Uhse.TV # 18.11.2015
 300850019 200850019 # 4861 # SAT # Disney Cinemagic # DISNEY CINEMAGIC # 18.11.2015
 110085001a 30085001a # 4862 # SAT # Disney Junior # Disney Junior # 18.11.2015
@@ -1306,7 +1305,7 @@ ffff4a08cd84 ffffe0f328f4 # 5026 # WebTV # 18+ XXX # 18+ XXX2 # 01.01.2017
 3f90001ef77 2718a60601a0 # 5055 # WTCkabel # SIXX HD # sixx HD # 21.04.2016
 271bf001c38c 2134009c4e87 # 5062 # WTCkabel # C&I HD # C&I HD # 28.06.2019
 271bf001c38c 206c009c026a # 5066 # WTCkabel # C&I HD # C&I HD # 28.06.2019
-1da0467166 1fa4009c0672 # 5067 # WTCkabel # Animal Planet HD # Animal Planet HD # 21.04.2016
+90085008c 1fa4009c0672 # 5067 # WTCkabel # RTL crime HD # RTL Crime HD # 10.07.2020
 a0085007d 21fc009c4eeb # 5068 # WTCkabel # Sony AXN HD # Sony AXN HD # 13.01.2020
 3f90001ef78 14b4009c00c9 # 5072 # WTCkabel # ProSieben MAXX HD # ProSieben MAXX HD # 21.04.2016
 41f0001157c 1964009c01a4 # 5075 # WTCkabel # Disney Channel HD # Disney Channel HD # 21.04.2016
@@ -1430,7 +1429,6 @@ e0085006a 1bbc009c0b54 # 5185  # Pro Sieben Fun HD # Pro Sieben Fun HD # 09.03.2
 44100012efe 2712f001d04e # 5225 # Vodafone-KD # Toggo Plus # Toggo Plus # 27.10.2016
 44100012f30 2714f001d04f # 5226 # Vodafone-KD # RTLplus # RTLplus # 27.10.2016
 2721f001cf6f f00850023 # 5231 # SAT # Zee.One # Zee.One # 09.08.2016
-900850090 1000850090 # 5236 # SAT # Sky 1 HD +1 # Sky 1 HD +1 # 23.09.2017
 44500016f47 ffffbf52629b # 5237 # WebTV # ARD-alpha # ARD-alpha # 19.09.2016
 44d00016dce ffff7f71e6d2 # 5238 # WebTV # BR Fernsehen # BR Fernsehen Nord # 07.09.2017
 44d00016dce ffffdc28566b # 5239 # WebTV # BR Fernsehen # BR Fernsehen Süd # 07.09.2017
@@ -1454,8 +1452,8 @@ e0085006a 1bbc009c0b54 # 5185  # Pro Sieben Fun HD # Pro Sieben Fun HD # 09.03.2
 44100012f30 e7270f4e9c # 5273 # Unitymedia # RTLplus # RTLplus # 26.10.2016
 3f90001ef74 213270fcf6f # 5274 # Unitymedia # SAT.1 HD # Sat.1 HD # 26.10.2016
 3f90001ef74 21d270fd357 # 5275 # Unitymedia # SAT.1 HD # Sat.1 HD # 26.10.2016
-600850198 400850198 # 5276 # Unitymedia # Sky 1 # Sky 1 # 26.10.2016
-800850093 c00850093 # 5277 # Unitymedia # Sky 1 HD # SKY 1 HD # 26.10.2016
+600850198 400850198 # 5276 # Unitymedia # Sky One # Sky One # 02.04.2020
+800850093 c00850093 # 5277 # Unitymedia # Sky One HD # Sky One HD # 02.04.2020
 3fb0001283f 21d270fd35a # 5278 # Unitymedia # SWR BW HD # SWR BW HD # 26.10.2016
 4b100016ea5 21d270fd358 # 5280 # Unitymedia # WDR HD Köln # WDR HD Köln # 07.09.2017
 3fb0001283f 213270fcf72 # 5282 # Unitymedia # SWR BW HD # SWR BW HD # 26.10.2016
@@ -1491,7 +1489,6 @@ d3270f5271 2db4013e0579 # 5311 # SAT # Baby TV # Baby TV # 09.11.2016
 271af001c383 1af4fbff2d03 # 5315 # SAT # Disney XD HD # Disney XD HD # 09.11.2016
 5dc013e13f1 434000122cb # 5317 # SAT # TRACE Urban # TRACE URBAN # 09.11.2016
 3200013e0001 3200013e0015 # 5318 # SAT # MTV Live HD # MTV Live HD # 09.11.2016
-900850090 206cfbff2d00 # 5319 # SAT # Sky 1 HD +1 # Sky 1 HD +1 # 23.09.2017
 4150001000d 42e00011f4c # 5320 # SAT # TRACE Africa # TRACE AFRICA # 09.11.2016
 2c88013e3d63 64fbff3bcd # 5321 # SAT # eska rock tv # eska rock tv # 27.01.2018
 2721f001cf13 2bc013e0009 # 5322 # SAT # SONLife # Sonlife # 09.11.2016
@@ -1702,7 +1699,7 @@ f1270f5e38 ffff03032292 # 5563 # WebTV # XITE # Xite # 14.03.2019
 1100850143 300850143 # 5578 # SAT # Sky Sport 9 # Sky Sport 9 # 30.01.2018
 60085010e 6008504f6 # 5579 # Unitymedia # Eurosport360 HD 1 # Eurosport360 HD 1 # 30.01.2018
 c00850122 c0085050a # 5580 # Unitymedia # Eurosport360 HD 3 # Eurosport360 HD 3 # 30.01.2018
-800850093 d00850093 # 5581 # Unitymedia # Sky 1 HD # Sky 1 HD # 30.01.2018
+800850093 d00850093 # 5581 # Vodafone-KD # Sky One HD # Sky One HD # 02.04.2020
 d00850118 d00850500 # 5582 # Unitymedia # Eurosport360 HD 2 # Eurosport360 HD 2 # 30.01.2018
 c0085006b d0085006b # 5584 # Unitymedia # Sky Cinema Best Of HD # Sky Cinema Best Of HD # 12.03.2020
 300850110 200850110 # 5587 # SAT # Sky Sport Bundesliga 3 # Sky Sport Bundesliga 3 # 30.01.2018
@@ -1742,7 +1739,6 @@ f00850027 2717f001d052 # 5623 # Vodafone-KD # eoTV # eoTV # 13.04.2018
 41f0001157d 245270fe2f9 # 5642 # Unitymedia # HSE24 EXTRA HD # HSE24 EXTRA HD # 30.05.2018
 a00850089 1000850089 # 5645 # SAT # Spiegel Geschichte HD # Spiegel Geschichte HD # 29.06.2018
 a0085007c c0085007c # 5646 # SAT # Fox HD # FOX HD # 29.06.2018
-900850090 e00850090 # 5647 # SAT # Sky 1 HD +1 # Sky 1 HD +1 # 29.06.2018
 e00850065 900850065 # 5652 # SAT # Universal TV HD # Universal TV HD # 18.07.2018
 3f200012ba2 1af270fa85e # 5653 # Unitymedia # ZDFinfo HD # ZDFinfo HD # 18.07.2018
 10085001b 10f270f69ec # 5654 # Unitymedia # RTL Crime # RTL Crime # 23.07.2018
@@ -1759,7 +1755,7 @@ e00850192 b00850192 # 5665 # SAT # C&I # C&I # 28.06.2019
 100850163 b00850163 # 5669 # SAT # Blue Movie 2 # Blue Movie 2 # 29.11.2018
 10085016d b0085016d # 5670 # SAT # Blue Movie 3 # Blue Movie 3 # 29.11.2018
 e00850194 b00850194 # 5672 # SAT # Cartoon Network (S) # Cartoon Network (S) # 29.11.2018
-80085008a 30085008a # 5673 # SAT # Disney Junior HD # Disney Junior HD # 29.11.2018
+1da04671f2 30085008a # 5673 # SAT # Nick Jr. # Nick Jr. # 02.04.2020
 e00850080 b00850080 # 5674 # SAT # E!Entertainment HD # E!Entertainment HD # 29.11.2018
 e0085006d b0085006d # 5675 # SAT # Eurosport 2 HD # Eurosport 2 HD # 29.11.2018
 b0085012c 90085012c # 5676 # SAT # Eurosport360HD 4 # Eurosport360HD 4 # 29.11.2018
@@ -1770,7 +1766,7 @@ a00850154 1000850154 # 5680 # SAT # Eurosport360HD 8 # Eurosport360HD 8 # 29.11.
 e00850104 b00850104 # 5681 # SAT # Eurosport360HD 9 # Eurosport360HD 9 # 29.11.2018
 1100850013 400850013 # 5682 # SAT # Junior # Junior # 29.11.2018
 1008500a8 b008500a8 # 5683 # SAT # Motorvision TV # Motorvision TV # 29.11.2018
-800850093 200850093 # 5684 # SAT # Sky 1 HD # Sky 1 HD # 29.11.2018
+800850093 200850093 # 5684 # SAT # Sky One HD # Sky One HD # 02.04.2020
 900850091 1000850091 # 5685 # SAT # Sky Arts HD # Sky Arts HD # 29.11.2018
 b00850129 900850129 # 5686 # SAT # Sky Sport Bundesliga HD 5 # Sky Sport Bundesliga HD 5 # 29.11.2018
 800850133 400850133 # 5687 # SAT # Sky Sport Bundesliga HD 6 # Sky Sport Bundesliga HD 6 # 29.11.2018
@@ -1889,7 +1885,7 @@ e00850193 40085001c # 5945 # Unitymedia # Boomerang # Boomerang # 10.10.2019
 b00850084 100850144 # 5946 # Unitymedia # DAZN 1 Bar HD # DAZN 1 Bar HD # 10.10.2019
 b0085007a 40085014f # 5947 # Unitymedia # DAZN 2 Bar HD # DAZN 2 Bar HD # 10.10.2019
 110085001a 1cd270fb421 # 5948 # Unitymedia # Disney Junior # Disney Junior # 10.10.2019
-80085008a 10085008a # 5949 # Unitymedia # Disney Junior HD # Disney Junior HD # 10.10.2019
+80085008a 10085008a # 5949 # Unitymedia # Nick Jr. # Nick Jr. # 02.04.2020
 110085001c 1cd270fb422 # 5950 # Unitymedia # Disney XD # Disney XD # 10.10.2019
 1100850016 300850016 # 5951 # Unitymedia # Heimatkanal # Heimatkanal # 10.10.2019
 3070013e2144 1d7270f6229 # 5952 # Unitymedia # Rai News 24 # Rai News 24 # 10.10.2019
@@ -1949,3 +1945,10 @@ a0085007d 271ff001c367 # 5991 # Vodafone-KD # Sony AXN HD # Sony AXN HD # 13.01.
 30d4013e452f 1450013e0d4f # 6020 # Hotbird # Rai 5 HD # Rai 5 HD # 31.01.2020
 3f90001ef79 271df001c3a6 # 6025 # Vodafone-KD # Kabel Eins Doku HD # Kabel Eins Doku HD # 12.03.2020
 3a00de16a9 2713f001c3cb # 6026 # Vodafone-KD # Fix & Foxi TV # Fix & Foxi TV # 12.03.2020
+600850204 200850204 # 6027 # Vodafone-KD # Sky Cinema Classics # Sky Cinema Classics # 13.03.2020
+40085000b 20085000b # 6028 # Vodafone-KD # Sky Cinema Thriller HD # Sky Cinema Thriller HD # 13.03.2020
+1da04671f2 80085008a # 6029 # SAT # nick jr. # Nick Jr. # 02.04.2020
+d3270f526f d0085001b # 6030 # SAT # Nicktoons # Nicktoons # 02.04.2020
+1da04671f2 43600016ffb # 6033 # SAT # nick jr. # nick jr. # 30.06.2020
+d00850070 141270f7d6c # 6034 # Vodafone-KD # NatGeo HD # NatGeo HD # 10.07.2020
+b0085007b 231270fdb2b # 6035 # Vodafone-KD # TNT Serie HD # TNT Serie HD # 10.07.2020
