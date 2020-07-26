@@ -1,4 +1,32 @@
 #Logo Symlink File-ID Provid LogoName SymlinkName TimeStamp
+43600017004 44300016fe1 # 2414 # Wilhelm_tell # ComedyCentral # ComedyCentral # 18.01.2019
+44100012ee3 44300017080 # 2415 # SAT # RTL Television # RTL Television # 09.01.2014
+44100012f1c 44300017085 # 2416 # SAT # VOX # VOX # 09.01.2014
+44100012ef4 4430001708a # 2417 # SAT # RTL zwei # RTL zwei # 08.10.2019
+44100012f08 4430001708f # 2418 # SAT # SUPER RTL # SUPER RTL # 09.01.2014
+44100012ee3 44300017099 # 2420 # SAT # RTL Television # RTL Television # 09.01.2014
+210085003f 44400012775 # 2425 # SAT # DMAX # DMAX # 09.01.2014
+3fd000111fb 44400012779 # 2428 # SAT # Ulm-Allgäu # Ulm-Allgäu # 09.01.2014
+449003507fd 44600014285 # 2432 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
+2712f001d03e 449003507ff # 2437 # SAT # Animax # Animax # 09.01.2014
+44d00016dce 44d00016dcb # 2440 # SAT # BR Fernsehen # BR Fernsehen Süd # 07.09.2017
+15f270f891d 44d00016dcf # 2443 # SAT # WDR # WDR Köln # 07.09.2017
+44d00016dca 44da4016dca # 2446 # Unitymedia # Das Erste # Das Erste # 26.10.2016
+44d00016dce 44da4016dcb # 2447 # Unitymedia # BR Fernsehen # BR Fernsehen Süd # 07.09.2017
+44d00016dcc 44da4016dcc # 2448 # Unitymedia # hr-fernsehen # hr-fernsehen # 26.10.2016
+44d00016dce 44da4016dce # 2449 # Unitymedia # BR Fernsehen # BR Fernsehen Nord # 07.09.2017
+15f270f891d 44da4016dcf # 2450 # Unitymedia # WDR # WDR Köln # 07.09.2017
+f0085003a 44e00013391 # 2452 # SAT # History # HISTORY # 23.09.2014
+90085003c 44e00013396 # 2454 # SAT # Kinowelt TV # Kinowelt TV # 09.01.2014
+100850010 44e00013399 # 2455 # SAT # Fox Serie # Fox Serie # 09.01.2014
+600850082 452000123f5 # 2456 # SAT # Discovery HD # Discovery HD # 09.01.2014
+600850082 45200012409 # 2457 # SAT # Discovery HD # Discovery HD # 09.01.2014
+2100850033 45300010033 # 2459 # Wilhelm_tell # TELE 5 # TELE 5 # 09.01.2014
+2100850384 45300010384 # 2460 # Wilhelm_tell # SPORT1 # SPORT1 # 09.01.2014
+4530001445c 45300014463 # 2468 # SAT # SAT.1 # SAT.1 # 09.01.2014
+4530001445c 45300014464 # 2469 # SAT # SAT.1 # SAT.1 # 09.01.2014
+4530001445c 453a018445c # 2470 # KabelBW # SAT.1 # SAT.1 # 09.01.2014
+4530001445d 453a018445d # 2471 # KabelBW # ProSieben # ProSieben # 09.01.2014
 43100016e44 431a4016e46 # 2361 # Unitymedia # mdr # MDR Thüringen # 07.09.2017
 43100016e47 431a4016e47 # 2362 # Unitymedia # SWR Fernsehen RP # SWR Fernsehen RP # 26.10.2016
 43600017001 43600017009 # 2370 # SAT # MTV Germany # MTV Germany # 09.01.2014
@@ -28,34 +56,6 @@
 44100012f1c 441a0182f1c # 2411 # KabelBW # VOX # VOX # 09.01.2014
 44100012f3a 441a0182f3a # 2412 # KabelBW # n-tv # ntv # 10.08.2017
 43600017008 44300016fe0 # 2413 # SAT # nick # nick # 16.09.2017
-43600017004 44300016fe1 # 2414 # Wilhelm_tell # ComedyCentral # ComedyCentral # 18.01.2019
-44100012ee3 44300017080 # 2415 # SAT # RTL Television # RTL Television # 09.01.2014
-44100012f1c 44300017085 # 2416 # SAT # VOX # VOX # 09.01.2014
-44100012ef4 4430001708a # 2417 # SAT # RTL zwei # RTL zwei # 08.10.2019
-44100012f08 4430001708f # 2418 # SAT # SUPER RTL # SUPER RTL # 09.01.2014
-44100012ee3 44300017099 # 2420 # SAT # RTL Television # RTL Television # 09.01.2014
-210085003f 44400012775 # 2425 # SAT # DMAX # DMAX # 09.01.2014
-3fd000111fb 44400012779 # 2428 # SAT # Ulm-Allgäu # Ulm-Allgäu # 09.01.2014
-449003507fd 44600014285 # 2432 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
-2712f001d03e 449003507ff # 2437 # SAT # Animax # Animax # 09.01.2014
-44d00016dce 44d00016dcb # 2440 # SAT # BR Fernsehen # BR Fernsehen Süd # 07.09.2017
-15f270f891d 44d00016dcf # 2443 # SAT # WDR # WDR Köln # 07.09.2017
-44d00016dca 44da4016dca # 2446 # Unitymedia # Das Erste # Das Erste # 26.10.2016
-44d00016dce 44da4016dcb # 2447 # Unitymedia # BR Fernsehen # BR Fernsehen Süd # 07.09.2017
-44d00016dcc 44da4016dcc # 2448 # Unitymedia # hr-fernsehen # hr-fernsehen # 26.10.2016
-44d00016dce 44da4016dce # 2449 # Unitymedia # BR Fernsehen # BR Fernsehen Nord # 07.09.2017
-15f270f891d 44da4016dcf # 2450 # Unitymedia # WDR # WDR Köln # 07.09.2017
-f0085003a 44e00013391 # 2452 # SAT # History # HISTORY # 23.09.2014
-90085003c 44e00013396 # 2454 # SAT # Kinowelt TV # Kinowelt TV # 09.01.2014
-100850010 44e00013399 # 2455 # SAT # Fox Serie # Fox Serie # 09.01.2014
-600850082 452000123f5 # 2456 # SAT # Discovery HD # Discovery HD # 09.01.2014
-600850082 45200012409 # 2457 # SAT # Discovery HD # Discovery HD # 09.01.2014
-2100850033 45300010033 # 2459 # Wilhelm_tell # TELE 5 # TELE 5 # 09.01.2014
-2100850384 45300010384 # 2460 # Wilhelm_tell # SPORT1 # SPORT1 # 09.01.2014
-4530001445c 45300014463 # 2468 # SAT # SAT.1 # SAT.1 # 09.01.2014
-4530001445c 45300014464 # 2469 # SAT # SAT.1 # SAT.1 # 09.01.2014
-4530001445c 453a018445c # 2470 # KabelBW # SAT.1 # SAT.1 # 09.01.2014
-4530001445d 453a018445d # 2471 # KabelBW # ProSieben # ProSieben # 09.01.2014
 4530001445e 453a018445e # 2472 # KabelBW # kabel eins # kabel eins # 09.01.2014
 44100012f3a 453a018445f # 2473 # KabelBW # n-tv # ntv # 10.08.2017
 45500011519 4550001152d # 2484 # SAT # TELE 5 HD # TELE 5 HD # 09.01.2014
@@ -99,7 +99,7 @@ c00850073 514013e3ab7 # 2563 # Hotbird # MGM HD # MGM HD # 09.01.2014
 1100850018 100850018 # 2570 # Unitymedia # Classica # Classica # 26.10.2016
 110085001a 10085001a # 2571 # Unitymedia # Disney Junior # Disney Junior (S) # 26.10.2016
 110085001c 10085001c # 2573 # Unitymedia # Disney XD # Disney XD (S) # 26.10.2016
-1100850022 100850022 # 2576 # Unitymedia # Sky Atlantic # Sky Atlantic # 26.10.2016
+d0085006e 100850022 # 2576 # Unitymedia # Sky Atlantic HD # Sky Atlantic # 26.07.2020
 1100850024 100850024 # 2577 # Unitymedia # Syfy # SYFY (S) # 26.10.2016
 1100850137 100850137 # 2581 # Unitymedia # Sky Select 7 # Sky Select 7 # 26.10.2016
 1100850138 100850138 # 2582 # Unitymedia # Sky Bundesliga 7 # Sky Sport Bundesliga 7 # 26.10.2016
@@ -771,9 +771,9 @@ c82000317b2 c85000313a9 # 4008 # SAT # HBO HD # HBO HD # 24.09.2014
 110085001c 45a000122c8 # 4045 # SAT # Disney XD # DISNEY XD # 24.09.2014
 110085001c 64fbff3bcb # 4046 # SAT # Disney XD # Disney XD # 24.09.2014
 110085001c 7db0002238d # 4047 # SAT # Disney XD # Disney XD # 24.09.2014
-1100850022 7ee00021268 # 4048 # SAT # Sky Atlantic # Sky Atlantic # 24.09.2014
-1100850022 320fbff0584 # 4049 # SAT # Sky Atlantic # Sky Atlantic # 24.09.2014
-1100850022 7e700021325 # 4050 # SAT # Sky Atlantic # Sky Atlantic # 24.09.2014
+d0085006e 7ee00021268 # 4048 # SAT # Sky Atlantic HD # Sky Atlantic # 26.07.2020
+d0085006e 320fbff0584 # 4049 # SAT # Sky Atlantic HD # Sky Atlantic # 26.07.2020
+d0085006e 7e700021325 # 4050 # SAT # Sky Atlantic HD # Sky Atlantic # 26.07.2020
 1100850024 3fa00011901 # 4051 # SAT # Syfy # SYFY # 24.09.2014
 1100850024 42400017796 # 4052 # SAT # Syfy # SYFY # 24.09.2014
 1100850024 8ff0002cc1a # 4053 # SAT # Syfy # Syfy # 24.09.2014
@@ -1216,7 +1216,7 @@ e00850193 30085001c # 4863 # SAT # Boomerang # Boomerang # 01.10.2019
 300850203 400850203 # 4869 # SAT # MGM # MGM # 18.11.2015
 1008500a8 2008500a8 # 4870 # SAT # Motorvision TV # Motorvision TV # 18.11.2015
 200850009 300850009 # 4872 # SAT # Sky Cinema Action # Sky Cinema Action # 24.09.2016
-1100850022 400850022 # 4873 # SAT # Sky Atlantic # Sky Atlantic # 18.11.2015
+d0085006e 400850022 # 4873 # SAT # Sky Atlantic HD # Sky Atlantic # 26.07.2020
 200850106 300850106 # 4874 # SAT # Sky Bundesliga 2 # Sky Sport Bundesliga 2 # 18.11.2015
 1100850138 200850138 # 4875 # SAT # Sky Bundesliga 7 # Sky Sport Bundesliga 7 # 18.11.2015
 1100850142 200850142 # 4876 # SAT # Sky Bundesliga 8 # Sky Sport Bundesliga 8 # 18.11.2015
@@ -1428,7 +1428,7 @@ e0085006a 1bbc009c0b54 # 5185  # Pro Sieben Fun HD # Pro Sieben Fun HD # 09.03.2
 41f0001157f 2727f001c39c # 5224 # Vodafone-KD # Deluxe Music HD # Deluxe Music HD # 27.10.2016
 44100012efe 2712f001d04e # 5225 # Vodafone-KD # Toggo Plus # Toggo Plus # 27.10.2016
 44100012f30 2714f001d04f # 5226 # Vodafone-KD # RTLplus # RTLplus # 27.10.2016
-2721f001cf6f f00850023 # 5231 # SAT # Zee.One # Zee.One # 09.08.2016
+2721f001cf6f f00850023 # 5231 # SAT # Schlager Deluxe # Schlager Deluxe # 26.07.2020
 44500016f47 ffffbf52629b # 5237 # WebTV # ARD-alpha # ARD-alpha # 19.09.2016
 44d00016dce ffff7f71e6d2 # 5238 # WebTV # BR Fernsehen # BR Fernsehen Nord # 07.09.2017
 44d00016dce ffffdc28566b # 5239 # WebTV # BR Fernsehen # BR Fernsehen Süd # 07.09.2017
@@ -1444,15 +1444,16 @@ e0085006a 1bbc009c0b54 # 5185  # Pro Sieben Fun HD # Pro Sieben Fun HD # 09.03.2
 45300014465 b5270f46c5 # 5256 # Unitymedia # Kabel eins Doku # Kabel eins DOKU # 26.10.2016
 500850030 e7270f5a4f # 5257 # Unitymedia # N24 Doku # N24 Doku # 26.10.2016
 4210001ef10 21d270fd356 # 5259 # Unitymedia # RTL HD # RTL HD # 26.10.2016
-2721f001cf6f d3270f4e9d # 5261 # Unitymedia # Zee.One # Zee.One # 26.10.2016
+2721f001cf6f d3270f4e9d # 5261 # Unitymedia # Schlager Deluxe # Schlager Deluxe # 26.07.2020
 41f0001157c 79270f69e7 # 5264 # Unitymedia # Disney Channel HD # Disney HD # 26.10.2016
 45300014462 45f00353268 # 5267 # SAT # kabel eins classics # kabel eins classics # 12.10.2016
 271af001c386 45100351018 # 5268 # SAT # sportdigital HD # sportdigital Fussball HD # 10.01.2017
+800850093 600850198 # 5270 # SAT # Sky One HD # Sky One # 26.07.2020
 4210001ef10 213270fcf6e # 5272 # Unitymedia # RTL HD # RTL HD # 26.10.2016
 44100012f30 e7270f4e9c # 5273 # Unitymedia # RTLplus # RTLplus # 26.10.2016
 3f90001ef74 213270fcf6f # 5274 # Unitymedia # SAT.1 HD # Sat.1 HD # 26.10.2016
 3f90001ef74 21d270fd357 # 5275 # Unitymedia # SAT.1 HD # Sat.1 HD # 26.10.2016
-600850198 400850198 # 5276 # Unitymedia # Sky One # Sky One # 02.04.2020
+800850093 400850198 # 5276 # Unitymedia # Sky One HD # Sky One # 26.07.2020
 800850093 c00850093 # 5277 # Unitymedia # Sky One HD # Sky One HD # 02.04.2020
 3fb0001283f 21d270fd35a # 5278 # Unitymedia # SWR BW HD # SWR BW HD # 26.10.2016
 4b100016ea5 21d270fd358 # 5280 # Unitymedia # WDR HD Köln # WDR HD Köln # 07.09.2017
@@ -1503,7 +1504,7 @@ c82000317b2 1edc0071290f # 5325 # SAT # HBO HD # HBO HD # 09.11.2016
 500850701 4420001232f # 5331 # SAT # Disney Channel # DISNEY CHANNEL # 09.11.2016
 1100850018 40800017602 # 5332 # SAT # Classica # Classica # 09.11.2016
 110085001c 43c000124b9 # 5333 # SAT # Disney XD # DISNEY XD # 09.11.2016
-1100850022 1a90fbff0584 # 5334 # SAT # Sky Atlantic # Sky Atlantic # 09.11.2016
+d0085006e 1a90fbff0584 # 5334 # SAT # Sky Atlantic HD # Sky Atlantic # 26.07.2020
 18a0465e1a 434000122ce # 5335 # SAT # Motors TV # MOTORS TV # 09.11.2016
 1aa04665a4 41e00017699 # 5336 # SAT # MEZZO # MEZZO # 09.11.2016
 1aa04665a4 42e00011f4a # 5337 # SAT # MEZZO # MEZZO # 09.11.2016
