@@ -1,61 +1,4 @@
 #Logo Symlink File-ID Provid LogoName SymlinkName TimeStamp
-43600017004 44300016fe1 # 2414 # Wilhelm_tell # ComedyCentral # ComedyCentral # 18.01.2019
-44100012ee3 44300017080 # 2415 # SAT # RTL Television # RTL Television # 09.01.2014
-44100012f1c 44300017085 # 2416 # SAT # VOX # VOX # 09.01.2014
-44100012ef4 4430001708a # 2417 # SAT # RTL zwei # RTL zwei # 08.10.2019
-44100012f08 4430001708f # 2418 # SAT # SUPER RTL # SUPER RTL # 09.01.2014
-44100012ee3 44300017099 # 2420 # SAT # RTL Television # RTL Television # 09.01.2014
-210085003f 44400012775 # 2425 # SAT # DMAX # DMAX # 09.01.2014
-3fd000111fb 44400012779 # 2428 # SAT # Ulm-Allgäu # Ulm-Allgäu # 09.01.2014
-449003507fd 44600014285 # 2432 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
-2712f001d03e 449003507ff # 2437 # SAT # Animax # Animax # 09.01.2014
-44d00016dce 44d00016dcb # 2440 # SAT # BR Fernsehen # BR Fernsehen Süd # 07.09.2017
-15f270f891d 44d00016dcf # 2443 # SAT # WDR # WDR Köln # 07.09.2017
-44d00016dca 44da4016dca # 2446 # Unitymedia # Das Erste # Das Erste # 26.10.2016
-44d00016dce 44da4016dcb # 2447 # Unitymedia # BR Fernsehen # BR Fernsehen Süd # 07.09.2017
-44d00016dcc 44da4016dcc # 2448 # Unitymedia # hr-fernsehen # hr-fernsehen # 26.10.2016
-44d00016dce 44da4016dce # 2449 # Unitymedia # BR Fernsehen # BR Fernsehen Nord # 07.09.2017
-15f270f891d 44da4016dcf # 2450 # Unitymedia # WDR # WDR Köln # 07.09.2017
-f0085003a 44e00013391 # 2452 # SAT # History # HISTORY # 23.09.2014
-90085003c 44e00013396 # 2454 # SAT # Kinowelt TV # Kinowelt TV # 09.01.2014
-100850010 44e00013399 # 2455 # SAT # Fox Serie # Fox Serie # 09.01.2014
-600850082 452000123f5 # 2456 # SAT # Discovery HD # Discovery HD # 09.01.2014
-600850082 45200012409 # 2457 # SAT # Discovery HD # Discovery HD # 09.01.2014
-2100850033 45300010033 # 2459 # Wilhelm_tell # TELE 5 # TELE 5 # 09.01.2014
-2100850384 45300010384 # 2460 # Wilhelm_tell # SPORT1 # SPORT1 # 09.01.2014
-4530001445c 45300014463 # 2468 # SAT # SAT.1 # SAT.1 # 09.01.2014
-4530001445c 45300014464 # 2469 # SAT # SAT.1 # SAT.1 # 09.01.2014
-4530001445c 453a018445c # 2470 # KabelBW # SAT.1 # SAT.1 # 09.01.2014
-4530001445d 453a018445d # 2471 # KabelBW # ProSieben # ProSieben # 09.01.2014
-43100016e44 431a4016e46 # 2361 # Unitymedia # mdr # MDR Thüringen # 07.09.2017
-43100016e47 431a4016e47 # 2362 # Unitymedia # SWR Fernsehen RP # SWR Fernsehen RP # 26.10.2016
-43600017001 43600017009 # 2370 # SAT # MTV Germany # MTV Germany # 09.01.2014
-3f300012b66 43700012b66 # 2372 # Vodafone-KD # ZDF HD # ZDF HD # 27.10.2016
-3f300012b66 43700662b66 # 2379 # Unitymedia # ZDF HD # ZDF HD # 26.10.2016
-43700016d66 43700666d66 # 2380 # Unitymedia # ZDF # ZDF # 26.10.2016
-43700016d67 43700666d67 # 2381 # Unitymedia # 3sat # 3sat # 26.10.2016
-43700016d68 43700666d68 # 2382 # Unitymedia # KiKA # KiKA # 26.10.2016
-43700016d6b 43700666d6b # 2383 # Unitymedia # ZDFinfo # ZDFinfo # 26.10.2016
-43700016d6e 43700666d6e # 2384 # Unitymedia # zdf_neo # zdf_neo # 26.10.2016
-4530001445d 43a00014e21 # 2386 # SAT # ProSieben # ProSieben # 09.01.2014
-4530001445d 43a00014e22 # 2387 # SAT # ProSieben # ProSieben # 09.01.2014
-4530001445e 43a00014e23 # 2388 # SAT # kabel eins # kabel eins # 09.01.2014
-4530001445e 43a00014e24 # 2389 # SAT # kabel eins # kabel eins # 09.01.2014
-4530001445c 43a00014e25 # 2390 # SAT # SAT.1 # SAT.1 # 09.01.2014
-4530001445c 43a00014e26 # 2391 # SAT # SAT.1 # SAT.1 # 09.01.2014
-4530001445c 43a00014e28 # 2393 # SAT # SAT.1 # SAT.1 # 09.01.2014
-4530001445c 43a00014e29 # 2394 # SAT # SAT.1 # SAT.1 # 09.01.2014
-4530001445c 43a00014e2a # 2395 # SAT # SAT.1 # SAT.1 # 09.01.2014
-44100012ee3 44100012ee4 # 2397 # SAT # RTL Television # RTL Television # 09.01.2014
-44100012ee3 44100012ee5 # 2398 # SAT # RTL Television # RTL Television # 09.01.2014
-44100012ee3 44100012ee6 # 2399 # SAT # RTL Television # RTL Television # 09.01.2014
-44100012f08 44100012f09 # 2403 # SAT # SUPER RTL # SUPER RTL # 09.01.2014
-44100012ee3 441a0182ee3 # 2408 # KabelBW # RTL Television # RTL Television # 09.01.2014
-44100012ef4 441a0182ef4 # 2409 # KabelBW # RTL zwei # RTL zwei # 08.10.2019
-44100012f08 441a0182f08 # 2410 # KabelBW # SUPER RTL # SUPER RTL # 09.01.2014
-44100012f1c 441a0182f1c # 2411 # KabelBW # VOX # VOX # 09.01.2014
-44100012f3a 441a0182f3a # 2412 # KabelBW # n-tv # ntv # 10.08.2017
-43600017008 44300016fe0 # 2413 # SAT # nick # nick # 16.09.2017
 4530001445e 453a018445e # 2472 # KabelBW # kabel eins # kabel eins # 09.01.2014
 44100012f3a 453a018445f # 2473 # KabelBW # n-tv # ntv # 10.08.2017
 45500011519 4550001152d # 2484 # SAT # TELE 5 HD # TELE 5 HD # 09.01.2014
@@ -99,17 +42,75 @@ c00850073 514013e3ab7 # 2563 # Hotbird # MGM HD # MGM HD # 09.01.2014
 1100850018 100850018 # 2570 # Unitymedia # Classica # Classica # 26.10.2016
 110085001a 10085001a # 2571 # Unitymedia # Disney Junior # Disney Junior (S) # 26.10.2016
 110085001c 10085001c # 2573 # Unitymedia # Disney XD # Disney XD (S) # 26.10.2016
+90085008f 10085001e # 2575 # Unitymedia # Sky Sport Austria 1 HD # Sky Sport Austria 1 # 27.09.2020
 d0085006e 100850022 # 2576 # Unitymedia # Sky Atlantic HD # Sky Atlantic # 26.07.2020
 1100850024 100850024 # 2577 # Unitymedia # Syfy # SYFY (S) # 26.10.2016
 1100850137 100850137 # 2581 # Unitymedia # Sky Select 7 # Sky Select 7 # 26.10.2016
-1100850138 100850138 # 2582 # Unitymedia # Sky Bundesliga 7 # Sky Sport Bundesliga 7 # 26.10.2016
-1100850139 100850139 # 2583 # Unitymedia # Sky Sport 8 # Sky Sport 8 # 26.10.2016
+90085013d 100850138 # 2582 # Unitymedia # Sky Sport Bundesliga HD 7 # Sky Sport Bundesliga 7 # 27.09.2020
+90085013e 100850139 # 2583 # Unitymedia # Sky Sport 8 HD # Sky Sport 8 # 27.09.2020
 1100850141 100850141 # 2584 # Unitymedia # Sky Select 8 # Sky Select 8 # 26.10.2016
-1100850142 100850142 # 2585 # Unitymedia # Sky Bundesliga 8 # Sky Sport Bundesliga 8 # 26.10.2016
-1100850143 100850143 # 2586 # Unitymedia # Sky Sport 9 # Sky Sport 9 # 26.10.2016
+1000850147 100850142 # 2585 # Unitymedia # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga 8 # 27.09.2020
+1000850148 100850143 # 2586 # Unitymedia # Sky Sport 9 HD # Sky Sport 9 # 27.09.2020
 110085014b 10085014b # 2587 # Unitymedia # Sky Select 9 # Sky Select 9 # 26.10.2016
-110085014c 10085014c # 2588 # Unitymedia # Sky Bundesliga 9 # Sky Sport Bundesliga 9 # 26.10.2016
-110085014d 10085014d # 2589 # Unitymedia # Sky Sport 10 # Sky Sport 10 # 26.10.2016
+a00850151 10085014c # 2588 # Unitymedia # Sky Sport Bundesliga HD 9 # Sky Sport Bundesliga 9 # 27.09.2020
+a00850152 10085014d # 2589 # Unitymedia # Sky Sport 10 HD # Sky Sport 10 # 27.09.2020
+43100016e44 431a4016e46 # 2361 # Unitymedia # mdr # MDR Thüringen # 07.09.2017
+43100016e47 431a4016e47 # 2362 # Unitymedia # SWR Fernsehen RP # SWR Fernsehen RP # 26.10.2016
+43600017001 43600017009 # 2370 # SAT # MTV Germany # MTV Germany # 09.01.2014
+3f300012b66 43700012b66 # 2372 # Vodafone-KD # ZDF HD # ZDF HD # 27.10.2016
+3f300012b66 43700662b66 # 2379 # Unitymedia # ZDF HD # ZDF HD # 26.10.2016
+43700016d66 43700666d66 # 2380 # Unitymedia # ZDF # ZDF # 26.10.2016
+43700016d67 43700666d67 # 2381 # Unitymedia # 3sat # 3sat # 26.10.2016
+43700016d68 43700666d68 # 2382 # Unitymedia # KiKA # KiKA # 26.10.2016
+43700016d6b 43700666d6b # 2383 # Unitymedia # ZDFinfo # ZDFinfo # 26.10.2016
+43700016d6e 43700666d6e # 2384 # Unitymedia # zdf_neo # zdf_neo # 26.10.2016
+4530001445d 43a00014e21 # 2386 # SAT # ProSieben # ProSieben # 09.01.2014
+4530001445d 43a00014e22 # 2387 # SAT # ProSieben # ProSieben # 09.01.2014
+4530001445e 43a00014e23 # 2388 # SAT # kabel eins # kabel eins # 09.01.2014
+4530001445e 43a00014e24 # 2389 # SAT # kabel eins # kabel eins # 09.01.2014
+4530001445c 43a00014e25 # 2390 # SAT # SAT.1 # SAT.1 # 09.01.2014
+4530001445c 43a00014e26 # 2391 # SAT # SAT.1 # SAT.1 # 09.01.2014
+4530001445c 43a00014e28 # 2393 # SAT # SAT.1 # SAT.1 # 09.01.2014
+4530001445c 43a00014e29 # 2394 # SAT # SAT.1 # SAT.1 # 09.01.2014
+4530001445c 43a00014e2a # 2395 # SAT # SAT.1 # SAT.1 # 09.01.2014
+44100012ee3 44100012ee4 # 2397 # SAT # RTL Television # RTL Television # 09.01.2014
+44100012ee3 44100012ee5 # 2398 # SAT # RTL Television # RTL Television # 09.01.2014
+44100012ee3 44100012ee6 # 2399 # SAT # RTL Television # RTL Television # 09.01.2014
+44100012f08 44100012f09 # 2403 # SAT # SUPER RTL # SUPER RTL # 09.01.2014
+44100012ee3 441a0182ee3 # 2408 # KabelBW # RTL Television # RTL Television # 09.01.2014
+44100012ef4 441a0182ef4 # 2409 # KabelBW # RTL zwei # RTL zwei # 08.10.2019
+44100012f08 441a0182f08 # 2410 # KabelBW # SUPER RTL # SUPER RTL # 09.01.2014
+44100012f1c 441a0182f1c # 2411 # KabelBW # VOX # VOX # 09.01.2014
+44100012f3a 441a0182f3a # 2412 # KabelBW # n-tv # ntv # 10.08.2017
+43600017008 44300016fe0 # 2413 # SAT # nick # nick # 16.09.2017
+43600017004 44300016fe1 # 2414 # Wilhelm_tell # ComedyCentral # ComedyCentral # 18.01.2019
+44100012ee3 44300017080 # 2415 # SAT # RTL Television # RTL Television # 09.01.2014
+44100012f1c 44300017085 # 2416 # SAT # VOX # VOX # 09.01.2014
+44100012ef4 4430001708a # 2417 # SAT # RTL zwei # RTL zwei # 08.10.2019
+44100012f08 4430001708f # 2418 # SAT # SUPER RTL # SUPER RTL # 09.01.2014
+44100012ee3 44300017099 # 2420 # SAT # RTL Television # RTL Television # 09.01.2014
+210085003f 44400012775 # 2425 # SAT # DMAX # DMAX # 09.01.2014
+3fd000111fb 44400012779 # 2428 # SAT # Ulm-Allgäu # Ulm-Allgäu # 09.01.2014
+449003507fd 44600014285 # 2432 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
+2712f001d03e 449003507ff # 2437 # SAT # Animax # Animax # 09.01.2014
+44d00016dce 44d00016dcb # 2440 # SAT # BR Fernsehen # BR Fernsehen Süd # 07.09.2017
+15f270f891d 44d00016dcf # 2443 # SAT # WDR # WDR Köln # 07.09.2017
+44d00016dca 44da4016dca # 2446 # Unitymedia # Das Erste # Das Erste # 26.10.2016
+44d00016dce 44da4016dcb # 2447 # Unitymedia # BR Fernsehen # BR Fernsehen Süd # 07.09.2017
+44d00016dcc 44da4016dcc # 2448 # Unitymedia # hr-fernsehen # hr-fernsehen # 26.10.2016
+44d00016dce 44da4016dce # 2449 # Unitymedia # BR Fernsehen # BR Fernsehen Nord # 07.09.2017
+15f270f891d 44da4016dcf # 2450 # Unitymedia # WDR # WDR Köln # 07.09.2017
+f0085003a 44e00013391 # 2452 # SAT # History # HISTORY # 23.09.2014
+90085003c 44e00013396 # 2454 # SAT # Kinowelt TV # Kinowelt TV # 09.01.2014
+100850010 44e00013399 # 2455 # SAT # Fox Serie # Fox Serie # 09.01.2014
+600850082 452000123f5 # 2456 # SAT # Discovery HD # Discovery HD # 09.01.2014
+600850082 45200012409 # 2457 # SAT # Discovery HD # Discovery HD # 09.01.2014
+2100850033 45300010033 # 2459 # Wilhelm_tell # TELE 5 # TELE 5 # 09.01.2014
+2100850384 45300010384 # 2460 # Wilhelm_tell # SPORT1 # SPORT1 # 09.01.2014
+4530001445c 45300014463 # 2468 # SAT # SAT.1 # SAT.1 # 09.01.2014
+4530001445c 45300014464 # 2469 # SAT # SAT.1 # SAT.1 # 09.01.2014
+4530001445c 453a018445c # 2470 # KabelBW # SAT.1 # SAT.1 # 09.01.2014
+4530001445d 453a018445d # 2471 # KabelBW # ProSieben # ProSieben # 09.01.2014
 110085014e 10085014e # 2590 # Unitymedia # Sky Select Event B # Sky Select Event B # 26.10.2016
 200850206 100850206 # 2594 # Unitymedia # Romance TV # Romance TV # 29.11.2017
 100850010 1008503f8 # 2595 # Unitymedia # Fox Serie # Fox Serie # 26.10.2016
@@ -120,6 +121,12 @@ e00850192 10a0463e9e # 2602 # Wilhelm_tell # C&I # C&I # 28.06.2019
 2715a60601ff 10a0463f0c # 2603 # Wilhelm_tell # BTV # BTV # 08.04.2019
 3fe00011af8 10f270f4e93 # 2604 # Unitymedia # Russia Today # Russia Today # 26.10.2016
 3fe00011b02 10f270f4e97 # 2605 # Unitymedia # CCTV NEWS # CCTV NEWS # 26.10.2016
+90085013d 1100850138 # 2617  # Sky Sport Bundesliga HD 7 # Sky Sport Bundesliga 7 # 27.09.2020
+90085013e 1100850139 # 2618  # Sky Sport 8 HD # Sky Sport 8 # 27.09.2020
+1000850147 1100850142 # 2620  # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga 8 # 27.09.2020
+1000850148 1100850143 # 2621  # Sky Sport 9 HD # Sky Sport 9 # 27.09.2020
+a00850151 110085014c # 2623  # Sky Sport Bundesliga HD 9 # Sky Sport Bundesliga 9 # 27.09.2020
+a00850152 110085014d # 2624  # Sky Sport 10 HD # Sky Sport 10 # 27.09.2020
 e0085006d 12c013e3b63 # 2628 # Hotbird # Eurosport 2 HD # Eurosport 2 HD # 09.01.2014
 600850076 12c013e3b65 # 2629 # Hotbird # Nat Geo Wild HD # Nat Geo Wild HD # 09.01.2014
 1da0467166 12c013e3b66 # 2630 # Hotbird # Animal Planet HD # Animal Planet HD # 09.01.2014
@@ -177,6 +184,13 @@ a0085007c 1e7800710c27 # 2722 # Hotbird # Fox HD # Fox HD # 09.01.2014
 13a0464b64 1edc00712918 # 2724 # Hotbird # travel Channel # travel Channel # 09.01.2014
 45900013146 1fa046792c # 2725 # Wilhelm_tell # rhein main tv # rhein main tv # 09.01.2014
 449003507fd 1fa4013e364c # 2726 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
+b00850074 200850009 # 2728 # Unitymedia # Sky Cinema Action HD # Sky Cinema Action # 27.09.2020
+600850083 20085000a # 2729 # Unitymedia # Sky Cinema Premieren HD # Sky Cinema Premieren # 27.09.2020
+800850087 20085002b # 2732 # Unitymedia # Sky Cinema Premieren +24 HD # Sky Cinema Premieren +24 # 27.09.2020
+e00850101 2008500fc # 2734 # Unitymedia # Sky Sport Bundesliga HD 10 # Sky Sport Bundesliga 10 # 27.09.2020
+e00850102 2008500fd # 2735 # Unitymedia # Sky Sport 11 HD # Sky Sport 11 # 27.09.2020
+60085010b 200850106 # 2738 # Unitymedia # Sky Sport Bundesliga HD 2 # Sky Sport Bundesliga 2 # 27.09.2020
+60085010c 200850107 # 2739 # Unitymedia # Sky Sport 3 HD # Sky Sport 3 # 27.09.2020
 e00850194 20a0465618 # 2744 # Wilhelm_tell # Cartoon Network (S) # Cartoon Network (S) # 24.09.2015
 600850195 20a0465622 # 2745 # Wilhelm_tell # TNT Film (TCM) # TNT Film (TCM) # 24.09.2015
 a0085007c 20a0467d28 # 2746 # Wilhelm_tell # Fox HD # Fox HD # 09.01.2014
@@ -271,7 +285,7 @@ e00850192 2718f001c619 # 2920 # Vodafone-KD # C&I # C&I # 28.06.2019
 4530001445f 2718f001d17b # 2928 # Vodafone-KD # Welt # Welt # 19.01.2018
 45300010028 2718f001d17e # 2929  # HSE24 # HSE24 # 09.01.2014
 5008502fc 271a000103e9 # 2931 # KMS # ANIXE SD # ANIXE+ # 12.07.2019
-300850019 271b0085007e # 2934 # SAT # Sky Cinema Special HD # Sky Cinema Special HD # 12.03.2020
+300850019 271b0085007e # 2934 # SAT # Sky Cinema Special HD # Sky Cinema Special HD # 27.09.2020
 b00850071 271b00850080 # 2935 # SAT # History HD # History HD # 09.01.2014
 d00850070 271cf001c356 # 2936 # Vodafone-KD # NatGeo HD # NatGeo HD # 27.10.2016
 a0085007c 271cf001c357 # 2937 # Vodafone-KD # Fox HD # Fox HD # 27.10.2016
@@ -326,9 +340,18 @@ e00850065 2720f001c373 # 2964 # Vodafone-KD # Universal TV HD # Universal TV HD 
 e00850194 2fa8013e1d21 # 3003 # Hotbird # Cartoon Network (S) # Cartoon Network (S) # 24.09.2015
 500850701 2fa8013e1d2a # 3004 # Hotbird # Disney Channel # Disney Channel # 09.01.2014
 42c00016f6d 2fa8013e1d2c # 3005 # Hotbird # TCM # TCM # 09.01.2014
-3008500f1 300850011 # 3006 # Unitymedia # Sky Sport News # Sky Sport News # 26.10.2016
-4008500dd 3008500dd # 3009 # Unitymedia # Sky Sport 1 # Sky Sport 1 # 26.10.2016
-4008500de 3008500de # 3010 # Unitymedia # Sky Sport 2 # Sky Sport 2 # 26.10.2016
+3008500f1 300850011 # 3006 # Unitymedia # Sky Sport News # Sky Sport News # 27.09.2020
+c0085006b 300850029 # 3008 # Unitymedia # Sky Cinema Best Of HD # Sky Cinema Best Of # 27.09.2020
+600850081 3008500dd # 3009 # Unitymedia # Sky Sport 1 HD # Sky Sport 1 # 27.09.2020
+d00850072 3008500de # 3010 # Unitymedia # Sky Sport 2 HD # Sky Sport 2 # 27.09.2020
+d00850115 300850110 # 3014 # Unitymedia # Sky Sport Bundesliga HD 3 # Sky Sport Bundesliga 3 # 27.09.2020
+d00850116 300850111 # 3015 # Unitymedia # Sky Sport 4 HD # Sky Sport 4 # 27.09.2020
+c0085011f 30085011a # 3017 # Unitymedia # Sky Sport Bundesliga HD 4 # Sky Sport Bundesliga 4 # 27.09.2020
+c00850120 30085011b # 3018 # Unitymedia # Sky Sport 5 HD # Sky Sport 5 # 27.09.2020
+b00850129 300850124 # 3020 # Unitymedia # Sky Sport Bundesliga HD 5 # Sky Sport Bundesliga 5 # 27.09.2020
+b0085012a 300850125 # 3021 # Unitymedia # Sky Sport 6 HD # Sky Sport 6 # 27.09.2020
+800850133 30085012e # 3023 # Unitymedia # Sky Sport Bundesliga HD 6 # Sky Sport Bundesliga 6 # 27.09.2020
+800850134 30085012f # 3024 # Unitymedia # Sky Sport 7 HD # Sky Sport 7 # 27.09.2020
 3f700011260 319c013e1f43 # 3031 # SAT # 3+ HD # 3+ HD # 09.05.2019
 43600017001 3200013e0002 # 3035 # SAT # MTV Germany # MTV Germany # 09.01.2014
 43600017004 3200013e0005 # 3036 # Wilhelm_tell # ComedyCentral # ComedyCentral # 18.01.2019
@@ -355,6 +378,9 @@ ffff281c24dc 3c8c013e025f # 3054  # Deutsche Welle TV # Deutsche Welle TV # 03.0
 c9270f660b 40085001b # 3118 # Unitymedia # RTL Crime # RTL Crime # 18.07.2018
 105270f6606 40085001d # 3119 # Unitymedia # RTL Passion # TNT Comedy # 18.07.2018
 10085002a 40085002a # 3120 # Unitymedia # 13th Street # 13th Street (S) # 26.10.2016
+600850081 4008500dd # 3123  # Sky Sport 1 HD # Sky Sport 1 # 27.09.2020
+d00850072 4008500de # 3124  # Sky Sport 2 HD # Sky Sport 2 # 27.09.2020
+c00850069 4008500df # 3125 # Unitymedia # Sky Sport Bundesliga HD 1 # Sky Sport Bundesliga 1 # 27.09.2020
 40085000e 4008503f6 # 3128 # Unitymedia # Discovery Channel # Discovery Channel # 26.10.2016
 10085001b 400850403 # 3129 # Unitymedia # RTL Crime # RTL Crime # 26.10.2016
 10085001d 400850405 # 3130 # Unitymedia # RTL Passion # RTL Passion # 26.10.2016
@@ -421,7 +447,7 @@ a0085007c 600850464 # 3253 # Unitymedia # Fox HD # Fox HD # 26.10.2016
 44100012f1c 7a04429cf # 3306 # Primacom # VOX # VOX # 09.01.2014
 44100012f08 7a04429d0 # 3307 # Primacom # SUPER RTL # SUPER RTL # 09.01.2014
 44100012f3a 7a04429d1 # 3308 # Primacom # n-tv # ntv # 10.08.2017
-300850019 80085007e # 3311 # SAT # Sky Cinema Special HD # Sky Cinema Special HD # 12.03.2020
+300850019 80085007e # 3311 # SAT # Sky Cinema Special HD # Sky Cinema Special HD # 27.09.2020
 b00850071 800850080 # 3312 # SAT # History HD # History HD # 09.01.2014
 f0085003a 83270f332e # 3314 # Unitymedia # History # History # 26.10.2016
 90085003c 83270f3333 # 3317 # Unitymedia # Kinowelt TV # Kinowelt TV # 26.10.2016
@@ -452,7 +478,7 @@ b00850071 900850054 # 3351 # SAT # History HD # History HD # 09.01.2014
 14a0464eb6 97270f3b00 # 3353 # Unitymedia # Bon gusto # BonGusto # 26.10.2016
 42a00016ff1 97270f3b08 # 3354 # Unitymedia # VH1 Classic # VH1 Classic # 26.10.2016
 b00850074 a0085006a # 3358  # Sky Cinema Action HD # Sky Cinema Action HD # 24.09.2016
-d00850072 a0085007a # 3361 # SAT # Sky Sport HD 2 # Sky Sport HD 2 # 09.01.2014
+d00850072 a0085007a # 3361 # SAT # Sky Sport HD 2 # Sky Sport HD 2 # 27.09.2020
 b00850074 a0085007b # 3362  # Sky Cinema Action HD # Sky Cinema Action HD # 24.09.2016
 44100012ee3 a1270f2f45 # 3372 # Unitymedia # RTL Television # RTL Television # 26.10.2016
 4530001445c a1270f2f46 # 3373 # Unitymedia # SAT.1 # SAT.1 # 26.10.2016
@@ -494,14 +520,14 @@ e00850078 b00850078 # 3400 # SAT # Sky Select HD # Sky Select HD # 09.01.2014
 2100850384 bf270f2f4c # 3421 # Unitymedia # SPORT1 # SPORT1 # 26.10.2016
 2100850033 bf270f2f4f # 3422 # Unitymedia # TELE 5 # TELE 5 # 26.10.2016
 1ba0466a18 bf270f4aab # 3423 # Unitymedia # AutoMotorundSportChannel # auto motor und sport channel # 26.10.2016
-3008500f2 c0085006c # 3427 # Unitymedia # SKYSportNewsHD # Sky Sport News HD # 26.10.2016
+3008500f2 c0085006c # 3427 # Unitymedia # SKYSportNewsHD # Sky Sport News HD # 27.09.2020
 600850076 c00850076 # 3429 # Unitymedia # Nat Geo Wild HD # Nat Geo Wild HD # 26.10.2016
-3008500f2 c008500f2 # 3432 # Unitymedia # SKYSportNewsHD # Sky Sport News HD # 26.10.2016
+3008500f2 c008500f2 # 3432 # Unitymedia # SKYSportNewsHD # Sky Sport News HD # 27.09.2020
 3fe00011afa c8013e3619 # 3436 # Hotbird # France 24 (in English) # France 24 (in English) # 09.01.2014
 3fe00011afa c8013e361a # 3437 # Hotbird # France 24 (in English) # France 24 (in English) # 09.01.2014
 449003507fd c8013e364c # 3438 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
 449003507fd c8013e3656 # 3439 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
-300850019 d0085006f # 3444 # Unitymedia # Sky Cinema Special HD # Sky Cinema Special HD # 12.03.2020
+300850019 d0085006f # 3444 # Unitymedia # Sky Cinema Special HD # Sky Cinema Special HD # 27.09.2020
 b00850074 d00850074 # 3447 # Unitymedia # Sky Cinema Action HD # Sky Cinema Action HD # 26.10.2016
 e00850078 d00850078 # 3448 # SAT # Sky Select HD # Sky Select HD # 09.01.2014
 d00850070 d00850458 # 3453 # Unitymedia # NatGeo HD # NatGeo HD # 26.10.2016
@@ -789,10 +815,10 @@ d0085006e 7e700021325 # 4050 # SAT # Sky Atlantic HD # Sky Atlantic # 26.07.2020
 1aa04665f4 4160001772f # 4067 # SAT # fashion tv # FASHION TV # 24.09.2014
 1da04671f2 7ed000215bb # 4070 # SAT # nick jr. # Nick Jr. # 24.09.2014
 1da04671f2 81f0002c790 # 4071 # SAT # nick jr. # Nick Jr. # 24.09.2014
-200850008 7d7000210cf # 4072 # SAT # Sky Cinema Fun # Sky Cinema Fun # 12.03.2020
-200850009 7d7000210ce # 4073 # SAT # Sky Cinema Action # Sky Cinema Action # 24.09.2016
-200850107 1a2cfbff2dc0 # 4074 # SAT # Sky Sport 3 # Sky Sport 3 # 24.09.2014
-200850107 1a2cfbff2dda # 4075 # SAT # Sky Sport 3 # Sky Sport 3 # 24.09.2014
+200850008 7d7000210cf # 4072 # SAT # Sky Cinema Fun # Sky Cinema Fun # 27.09.2020
+b00850074 7d7000210ce # 4073 # SAT # Sky Cinema Action HD # Sky Cinema Action # 27.09.2020
+60085010c 1a2cfbff2dc0 # 4074 # SAT # Sky Sport 3 HD # Sky Sport 3 # 27.09.2020
+60085010c 1a2cfbff2dda # 4075 # SAT # Sky Sport 3 HD # Sky Sport 3 # 27.09.2020
 2100850033 3db8013e423b # 4076 # SAT # TELE 5 # Tele 5 # 24.09.2014
 210085003f 90b0002ccbf # 4077 # SAT # DMAX # DMAX # 24.09.2014
 2710f001c764 44c00012214 # 4080 # SAT # france 5 # FRANCE 5 # 24.09.2014
@@ -800,7 +826,7 @@ d0085006e 7e700021325 # 4050 # SAT # Sky Atlantic HD # Sky Atlantic # 26.07.2020
 2710f001d10e 3e1c013f012f # 4082 # SAT # france 3 # France 3 # 24.09.2014
 2710f001d10e 43000012010 # 4083 # SAT # france 3 # FRANCE 3 # 24.09.2014
 2712f001cf0f 43400011fae # 4086 # SAT # TV5Monde # TV5MONDE # 24.09.2014
-300850019 45a000122cc # 4092 # SAT # Sky Cinema Special HD # Sky Cinema Special # 12.03.2020
+300850019 45a000122cc # 4092 # SAT # Sky Cinema Special HD # Sky Cinema Special # 27.09.2020
 300850203 c8a000313d0 # 4096 # SAT # MGM # MGM # 24.09.2014
 ffff281c24dc c8e0003025f # 4097 # SAT # Deutsche Welle TV # Deutsche Welle TV # 03.04.2017
 3f4000118ed 22c4013e07d1 # 4101 # SAT # RT HD # RT HD # 24.09.2014
@@ -810,9 +836,9 @@ ffff281c24dc c8e0003025f # 4097 # SAT # Deutsche Welle TV # Deutsche Welle TV # 
 40085000e c8b00035161 # 4111 # SAT # Discovery Channel # Discovery Channel # 24.09.2014
 40085000e 1c84013e015f # 4112 # SAT # Discovery Channel # Discovery Channel # 24.09.2014
 400850012 7d7000210d2 # 4113 # SAT # Sky Select # Sky Select # 24.09.2014
-4008500dd 1838fbff2aa8 # 4114 # SAT # Sky Sport 1 # Sky Sport 1 # 24.09.2014
-4008500dd 1838fbff2ab5 # 4115 # SAT # Sky Sport 1 # Sky Sport 1 # 24.09.2014
-4008500de 1838fbff2ab0 # 4116 # SAT # Sky Sport 2 # Sky Sport 2 # 24.09.2014
+600850081 1838fbff2aa8 # 4114 # SAT # Sky Sport 1 HD # Sky Sport 1 # 27.09.2020
+600850081 1838fbff2ab5 # 4115 # SAT # Sky Sport 1 HD # Sky Sport 1 # 27.09.2020
+d00850072 1838fbff2ab0 # 4116 # SAT # Sky Sport 2 HD # Sky Sport 2 # 27.09.2020
 403000113f9 3138013e06b0 # 4117 # SAT # TRT Turk # TRT TURK # 24.09.2014
 41b00017034 44c00012208 # 4121 # SAT # arte # ARTE # 24.09.2014
 3200013e000e 578013e001f # 4123 # SAT # nick HD # nick HD # 08.04.2019
@@ -1033,7 +1059,7 @@ e00850194 0d8a0183b07 # 4631 # Kabelplus # Cartoon Network (S) # Cartoon Network
 4550001151a 1cd270f7980 # 4634 # Unitymedia # DMAX HD # DMAX HD # 26.10.2016
 41f0001157f 1cd270fb417 # 4635 # Unitymedia # Deluxe Music HD # Deluxe Music HD # 26.10.2016
 41f00011580 1cd270fb418 # 4636 # Unitymedia # QVC PLUS HD # QVC PLUS HD # 26.10.2016
-110085014c 200850156 # 4637 # Kabelplus # Sky Bundesliga 9 # Sky Sport Bundesliga 9 # 19.04.2015
+a00850151 200850156 # 4637 # Kabelplus # Sky Sport Bundesliga HD 9 # Sky Sport Bundesliga 9 # 27.09.2020
 500850304 2714f001d172 # 4638 # Kabelplus # TLC # TLC # 19.04.2015
 500850304 2aa046a488 # 4641 # Kabelplus # TLC # TLC # 19.04.2015
 c0085007e 3900de1645 # 4646 # Kabelplus # Syfy HD # Syfy HD # 19.04.2015
@@ -1215,15 +1241,15 @@ e00850193 30085001c # 4863 # SAT # Boomerang # Boomerang # 01.10.2019
 900850191 400850191 # 4867 # SAT # Jukebox # Jukebox # 18.11.2015
 300850203 400850203 # 4869 # SAT # MGM # MGM # 18.11.2015
 1008500a8 2008500a8 # 4870 # SAT # Motorvision TV # Motorvision TV # 18.11.2015
-200850009 300850009 # 4872 # SAT # Sky Cinema Action # Sky Cinema Action # 24.09.2016
+b00850074 300850009 # 4872 # SAT # Sky Cinema Action HD # Sky Cinema Action # 27.09.2020
 d0085006e 400850022 # 4873 # SAT # Sky Atlantic HD # Sky Atlantic # 26.07.2020
-200850106 300850106 # 4874 # SAT # Sky Bundesliga 2 # Sky Sport Bundesliga 2 # 18.11.2015
-1100850138 200850138 # 4875 # SAT # Sky Bundesliga 7 # Sky Sport Bundesliga 7 # 18.11.2015
-1100850142 200850142 # 4876 # SAT # Sky Bundesliga 8 # Sky Sport Bundesliga 8 # 18.11.2015
-110085014c 20085014c # 4878 # SAT # Sky Bundesliga 9 # Sky Sport Bundesliga 9 # 18.11.2015
-2008500fc 3008500fc # 4879 # SAT # Sky Bundesliga 10 # Sky Sport Bundesliga 10 # 18.11.2015
-20085000a 40085000a # 4880 # SAT # Sky Cinema Premieren # Sky Cinema Premieren # 12.03.2020
-200850008 300850008 # 4886 # SAT # Sky Cinema Fun # Sky Cinema Fun # 12.03.2020
+200850106 300850106 # 4874 # SAT # Sky Sport Bundesliga HD 2 # Sky Sport Bundesliga 2 # 27.09.2020
+90085013d 200850138 # 4875 # SAT # Sky Sport Bundesliga HD 7 # Sky Sport Bundesliga 7 # 27.09.2020
+1000850147 200850142 # 4876 # SAT # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga 8 # 27.09.2020
+a00850151 20085014c # 4878 # SAT # Sky Sport Bundesliga HD 9 # Sky Sport Bundesliga 9 # 27.09.2020
+e00850101 3008500fc # 4879 # SAT # Sky Sport Bundesliga HD 10 # Sky Sport Bundesliga 10 # 27.09.2020
+600850083 40085000a # 4880 # SAT # Sky Cinema Premieren HD # Sky Cinema Premieren # 27.09.2020
+200850008 300850008 # 4886 # SAT # Sky Cinema Fun # Sky Cinema Fun # 27.09.2020
 2008500fb 3008500fb # 4893 # SAT # Sky Select 1 # Sky Select 1 # 18.11.2015
 200850105 300850105 # 4894 # SAT # Sky Select 2 # Sky Select 2 # 18.11.2015
 1100850137 200850137 # 4895 # SAT # Sky Select 7 # Sky Select 7 # 18.11.2015
@@ -1231,19 +1257,19 @@ d0085006e 400850022 # 4873 # SAT # Sky Atlantic HD # Sky Atlantic # 26.07.2020
 110085014b 20085014b # 4898 # SAT # Sky Select 9 # Sky Select 9 # 18.11.2015
 2008500fe 3008500fe # 4900 # SAT # Sky Select Event A # Sky Select Event A # 18.11.2015
 110085014e 20085014e # 4901 # SAT # Sky Select Event B # Sky Select Event B # 18.11.2015
-4008500de 2008500de # 4902 # SAT # Sky Sport 2 # Sky Sport 2 # 18.11.2015
-200850107 300850107 # 4904 # SAT # Sky Sport 3 # Sky Sport 3 # 18.11.2015
-1100850139 200850139 # 4905 # SAT # Sky Sport 8 # Sky Sport 8 # 18.11.2015
-1100850143 200850143 # 4906 # SAT # Sky Sport 9 # Sky Sport 9 # 18.11.2015
-110085014d 20085014d # 4907 # SAT # Sky Sport 10 # Sky Sport 10 # 18.11.2015
-2008500fd 3008500fd # 4908 # SAT # Sky Sport 11 # Sky Sport 11 # 18.11.2015
-10085001e 20085001e # 4909 # SAT # Sky Sport Austria 1 # Sky Sport Austria 1 # 28.07.2019
-3008500f1 4008500f1 # 4910 # SAT # Sky Sport News # Sky Sport News # 18.11.2015
-3008500f1 400850011 # 4911 # SAT # Sky Sport News # Sky Sport News # 18.11.2015
+d00850072 2008500de # 4902 # SAT # Sky Sport 2 HD # Sky Sport 2 # 27.09.2020
+60085010c 300850107 # 4904 # SAT # Sky Sport 3 HD # Sky Sport 3 # 27.09.2020
+90085013e 200850139 # 4905 # SAT # Sky Sport 8 HD # Sky Sport 8 # 27.09.2020
+1000850148 200850143 # 4906 # SAT # Sky Sport 9 HD # Sky Sport 9 # 27.09.2020
+a00850152 20085014d # 4907 # SAT # Sky Sport 10 HD # Sky Sport 10 # 27.09.2020
+e00850102 3008500fd # 4908 # SAT # Sky Sport 11 HD # Sky Sport 11 # 27.09.2020
+90085008f 20085001e # 4909 # SAT # Sky Sport Austria 1 HD # Sky Sport Austria 1 # 27.09.2020
+3008500f1 4008500f1 # 4910 # SAT # Sky Sport News # Sky Sport News # 27.09.2020
+3008500f1 400850011 # 4911 # SAT # Sky Sport News # Sky Sport News # 27.09.2020
 400850034 200850034 # 4912 # SAT # Spiegel Geschichte # Spiegel Geschichte # 18.11.2015
 1100850024 200850024 # 4913 # SAT # Syfy # Syfy # 18.11.2015
 100850032 200850032 # 4914 # SAT # TNT Serie # TNT Serie # 18.11.2015
-300850029 200850029 # 4915 # SAT # Sky Cinema Best Of # Sky Cinema Best Of # 12.03.2020
+c0085006b 200850029 # 4915 # SAT # Sky Cinema Best Of HD # Sky Cinema Best Of # 27.09.2020
 4550001151a 2724f001c375 # 4917 # Vodafone-KD # DMAX HD # DMAX HD # 27.10.2016
 44500016f46 43100016f46 # 4919 # Vodafone-KD # SR Fernsehen # SR Fernsehen # 27.10.2016
 600850082 2724f001c398 # 4920 # SAT # Discovery HD # Discovery HD # 23.11.2015
@@ -1429,6 +1455,7 @@ e0085006a 1bbc009c0b54 # 5185  # Pro Sieben Fun HD # Pro Sieben Fun HD # 09.03.2
 44100012efe 2712f001d04e # 5225 # Vodafone-KD # Toggo Plus # Toggo Plus # 27.10.2016
 44100012f30 2714f001d04f # 5226 # Vodafone-KD # RTLplus # RTLplus # 27.10.2016
 2721f001cf6f f00850023 # 5231 # SAT # Schlager Deluxe # Schlager Deluxe # 26.07.2020
+80085008b 400850197 # 5235 # SAT # Sky Cinema Family HD # Sky Cinema Family # 27.09.2020
 44500016f47 ffffbf52629b # 5237 # WebTV # ARD-alpha # ARD-alpha # 19.09.2016
 44d00016dce ffff7f71e6d2 # 5238 # WebTV # BR Fernsehen # BR Fernsehen Nord # 07.09.2017
 44d00016dce ffffdc28566b # 5239 # WebTV # BR Fernsehen # BR Fernsehen Süd # 07.09.2017
@@ -1517,7 +1544,7 @@ d0085006e 1a90fbff0584 # 5334 # SAT # Sky Atlantic HD # Sky Atlantic # 26.07.202
 3fc00011b66 3ea0001139d # 5344 # SAT # NHK World TV # NHK World TV # 09.11.2016
 3fe00011b02 3138013e06aa # 5345 # SAT # CCTV NEWS # CCTV News # 09.11.2016
 40085000e 2af8013e1140 # 5346 # SAT # Discovery Channel # Discovery Channel # 09.11.2016
-4008500de 1838fbff2aa9 # 5347 # SAT # Sky Sport 2 # Sky Sport 2 # 09.11.2016
+d00850072 1838fbff2aa9 # 5347 # SAT # Sky Sport 2 HD # Sky Sport 2 # 27.09.2020
 41d00015270 2f44013e06c3 # 5348 # SAT # HSE24 HD # HSE24 HD # 09.11.2016
 41d00015270 ffff712eb56f # 5349 # SAT # HSE24 HD # HSE24 HD # 09.11.2016
 41f0001157c 1ce800711cb6 # 5351 # SAT # Disney Channel HD # Disney Channel HD # 09.11.2016
@@ -1543,9 +1570,9 @@ f0085003a 2bc0013e4284 # 5369 # SAT # History # History # 09.11.2016
 2710f001d10e ffff8156fecb # 5373 # SAT # france 3 # France 3 # 09.11.2016
 3fe00011afa ffff7a0ad75a # 5375 # SAT # France 24 # France 24 # 09.11.2016
 c00850084 231270fdb28 # 5378 # Unitymedia # Eurosport 1 HD # Eurosport 1 HD # 20.08.2018
-3008500f1 f00850025 # 5380 # SAT # Sky Sport News # Sky Sport News # 02.12.2016
+3008500f1 f00850025 # 5380 # SAT # Sky Sport News # Sky Sport News # 27.09.2020
 c00850084 413000130d6 # 5381 # SAT # Eurosport 1 HD # EUROSPORT 1 HD # 02.12.2016
-80085008b b0085008b # 5382 # Unitymedia # Sky Cinema Family HD # Sky Cinema Family HD # 13.12.2016
+80085008b b0085008b # 5382 # Unitymedia # Sky Cinema Family HD # Sky Cinema Family HD # 27.09.2020
 3fb0001283f 227270fd73d # 5383 # Unitymedia # SWR BW HD # SWR BW HD # 13.12.2016
 413000130d4 2724f001c39a # 5384 # Vodafone-KD # SAT.1 Gold HD # Sat.1 Gold HD # 19.01.2019
 3f90001ef78 2724f001c37e # 5385 # Vodafone-KD # ProSieben MAXX HD # ProSieben MAXX HD # 13.12.2016
@@ -1687,28 +1714,28 @@ f00850027 bf270f4aad # 5537 # Unitymedia # eoTV # eoTV # 29.11.2017
 8400de3395 3ed00013405 # 5562 # SAT # Melodie TV # Melodie TV # 27.01.2018
 f1270f5e38 ffff03032292 # 5563 # WebTV # XITE # Xite # 14.03.2019
 30085010f 10085010f # 5567 # Unitymedia # Sky Select 3 # Sky Select 3 # 30.01.2018
-300850110 100850110 # 5568 # Unitymedia # Sky Sport Bundesliga 3 # Sky Sport Bundesliga 3 # 30.01.2018
-300850111 100850111 # 5569 # Unitymedia # Sky Sport 4 # Sky Sport 4 # 30.01.2018
+d00850115 100850110 # 5568 # Unitymedia # Sky Sport Bundesliga HD 3 # Sky Sport Bundesliga 3 # 27.09.2020
+d00850116 100850111 # 5569 # Unitymedia # Sky Sport 4 HD # Sky Sport 4 # 27.09.2020
 300850119 100850119 # 5570 # Unitymedia # Sky Select 4 # Sky Select 4 # 30.01.2018
-30085011a 10085011a # 5571 # Unitymedia # Sky Sport Bundesliga 4 # Sky Sport Bundesliga 4 # 30.01.2018
-30085011b 10085011b # 5572 # Unitymedia # Sky Sport 5 # Sky Sport 5 # 30.01.2018
+c0085011f 10085011a # 5571 # Unitymedia # Sky Sport Bundesliga HD 4 # Sky Sport Bundesliga 4 # 27.09.2020
+c00850120 10085011b # 5572 # Unitymedia # Sky Sport 5 HD # Sky Sport 5 # 27.09.2020
 1100850137 300850137 # 5573 # SAT # Sky Select 7 # Sky Select 7 # 30.01.2018
-1100850138 300850138 # 5574 # SAT # Sky Sport Bundesliga 7 # Sky Sport Bundesliga 7 # 30.01.2018
-1100850139 300850139 # 5575 # SAT # Sky Sport 8 # Sky Sport 8 # 30.01.2018
+90085013d 300850138 # 5574 # SAT # Sky Sport Bundesliga HD 7 # Sky Sport Bundesliga 7 # 27.09.2020
+90085013e 300850139 # 5575 # SAT # Sky Sport 8 HD # Sky Sport 8 # 27.09.2020
 1100850141 300850141 # 5576 # SAT # Sky Select 8 # Sky Select 8 # 30.01.2018
-1100850142 300850142 # 5577 # SAT # Sky Sport Bundesliga 8 # Sky Sport Bundesliga 8 # 30.01.2018
-1100850143 300850143 # 5578 # SAT # Sky Sport 9 # Sky Sport 9 # 30.01.2018
-60085010e 6008504f6 # 5579 # Unitymedia # Eurosport360 HD 1 # Eurosport360 HD 1 # 30.01.2018
-c00850122 c0085050a # 5580 # Unitymedia # Eurosport360 HD 3 # Eurosport360 HD 3 # 30.01.2018
+1000850147 300850142 # 5577 # SAT # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga 8 # 27.09.2020
+1000850148 300850143 # 5578 # SAT # Sky Sport 9 HD # Sky Sport 9 # 27.09.2020
+60085010e 6008504f6 # 5579 # Unitymedia # Eurosport360 HD 1 # Eurosport360 HD 1 # 27.09.2020
+c00850122 c0085050a # 5580 # Unitymedia # Eurosport360 HD 3 # Eurosport360 HD 3 # 27.09.2020
 800850093 d00850093 # 5581 # Vodafone-KD # Sky One HD # Sky One HD # 02.04.2020
-d00850118 d00850500 # 5582 # Unitymedia # Eurosport360 HD 2 # Eurosport360 HD 2 # 30.01.2018
-c0085006b d0085006b # 5584 # Unitymedia # Sky Cinema Best Of HD # Sky Cinema Best Of HD # 12.03.2020
-300850110 200850110 # 5587 # SAT # Sky Sport Bundesliga 3 # Sky Sport Bundesliga 3 # 30.01.2018
-30085011a 20085011a # 5588 # SAT # Sky Sport Bundesliga 4 # Sky Sport Bundesliga 4 # 30.01.2018
+d00850118 d00850500 # 5582 # Unitymedia # Eurosport360 HD 2 # Eurosport360 HD 2 # 27.09.2020
+c0085006b d0085006b # 5584 # Unitymedia # Sky Cinema Best Of HD # Sky Cinema Best Of HD # 27.09.2020
+d00850115 200850110 # 5587 # SAT # Sky Sport Bundesliga HD 3 # Sky Sport Bundesliga 3 # 27.09.2020
+c0085011f 20085011a # 5588 # SAT # Sky Sport Bundesliga HD 4 # Sky Sport Bundesliga 4 # 27.09.2020
 30085010f 20085010f # 5589 # SAT # Sky Select 3 # Sky Select 3 # 30.01.2018
 300850119 200850119 # 5590 # SAT # Sky Select 4 # Sky Select 4 # 30.01.2018
-300850111 200850111 # 5591 # SAT # Sky Sport 4 # Sky Sport 4 # 30.01.2018
-30085011b 20085011b # 5592 # SAT # Sky Sport 5 # Sky Sport 5 # 30.01.2018
+d00850116 200850111 # 5591 # SAT # Sky Sport 4 HD # Sky Sport 4 # 27.09.2020
+c00850120 20085011b # 5592 # SAT # Sky Sport 5 HD # Sky Sport 5 # 27.09.2020
 43600017001 1c84013e017a # 5594 # Hotbird # MTV Germany # MTV # 05.02.2018
 43600016fff 320fbff0594 # 5595 # Hotbird # MTV Music 24 # MTV Music 24 # 05.02.2018
 42a00016ffd 1a2cfbff2dbc # 5596 # Hotbird # MTV ROCKS # MTV ROCKS # 05.02.2018
@@ -1759,34 +1786,34 @@ e00850194 b00850194 # 5672 # SAT # Cartoon Network (S) # Cartoon Network (S) # 2
 1da04671f2 30085008a # 5673 # SAT # Nick Jr. # Nick Jr. # 02.04.2020
 e00850080 b00850080 # 5674 # SAT # E!Entertainment HD # E!Entertainment HD # 29.11.2018
 e0085006d b0085006d # 5675 # SAT # Eurosport 2 HD # Eurosport 2 HD # 29.11.2018
-b0085012c 90085012c # 5676 # SAT # Eurosport360HD 4 # Eurosport360HD 4 # 29.11.2018
-800850136 400850136 # 5677 # SAT # Eurosport360HD 5 # Eurosport360HD 5 # 29.11.2018
-900850140 200850140 # 5678 # SAT # Eurosport360HD 6 # Eurosport360HD 6 # 29.11.2018
-100085014a 60085014a # 5679 # SAT # Eurosport360HD 7 # Eurosport360HD 7 # 29.11.2018
-a00850154 1000850154 # 5680 # SAT # Eurosport360HD 8 # Eurosport360HD 8 # 29.11.2018
-e00850104 b00850104 # 5681 # SAT # Eurosport360HD 9 # Eurosport360HD 9 # 29.11.2018
+b0085012c 90085012c # 5676 # SAT # Eurosport360HD 4 # Eurosport360HD 4 # 27.09.2020
+800850136 400850136 # 5677 # SAT # Eurosport360HD 5 # Eurosport360HD 5 # 27.09.2020
+900850140 200850140 # 5678 # SAT # Eurosport360HD 6 # Eurosport360HD 6 # 27.09.2020
+100085014a 60085014a # 5679 # SAT # Eurosport360HD 7 # Eurosport360HD 7 # 27.09.2020
+a00850154 1000850154 # 5680 # SAT # Eurosport360HD 8 # Eurosport360HD 8 # 27.09.2020
+e00850104 b00850104 # 5681 # SAT # Eurosport360HD 9 # Eurosport360HD 9 # 27.09.2020
 1100850013 400850013 # 5682 # SAT # Junior # Junior # 29.11.2018
 1008500a8 b008500a8 # 5683 # SAT # Motorvision TV # Motorvision TV # 29.11.2018
 800850093 200850093 # 5684 # SAT # Sky One HD # Sky One HD # 02.04.2020
 900850091 1000850091 # 5685 # SAT # Sky Arts HD # Sky Arts HD # 29.11.2018
-b00850129 900850129 # 5686 # SAT # Sky Sport Bundesliga HD 5 # Sky Sport Bundesliga HD 5 # 29.11.2018
-800850133 400850133 # 5687 # SAT # Sky Sport Bundesliga HD 6 # Sky Sport Bundesliga HD 6 # 29.11.2018
-90085013d 20085013d # 5688 # SAT # Sky Sport Bundesliga HD 7 # Sky Sport Bundesliga HD 7 # 29.11.2018
-1000850147 600850147 # 5689 # SAT # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga HD 8 # 29.11.2018
-a00850151 1000850151 # 5690 # SAT # Sky Sport Bundesliga HD 9 # Sky Sport Bundesliga HD 9 # 29.11.2018
-e00850101 b00850101 # 5691 # SAT # Sky Sport Bundesliga HD 10 # Sky Sport Bundesliga HD 10 # 29.11.2018
-c00850228 1000850228 # 5692 # SAT # Sky Sport Bundesliga UHD # Sky Sport Bundesliga UHD # 29.11.2018
-20085002b 60085002b # 5695 # SAT # Sky Cinema Premieren +24 # Sky Cinema Premieren +24 # 12.03.2020
-800850087 b00850087 # 5696 # SAT # Sky Cinema Premieren +24 HD # Sky Cinema Premieren +24 HD # 12.03.2020
+b00850129 900850129 # 5686 # SAT # Sky Sport Bundesliga HD 5 # Sky Sport Bundesliga HD 5 # 27.09.2020
+800850133 400850133 # 5687 # SAT # Sky Sport Bundesliga HD 6 # Sky Sport Bundesliga HD 6 # 27.09.2020
+90085013d 20085013d # 5688 # SAT # Sky Sport Bundesliga HD 7 # Sky Sport Bundesliga HD 7 # 27.09.2020
+1000850147 600850147 # 5689 # SAT # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga HD 8 # 27.09.2020
+a00850151 1000850151 # 5690 # SAT # Sky Sport Bundesliga HD 9 # Sky Sport Bundesliga HD 9 # 27.09.2020
+e00850101 b00850101 # 5691 # SAT # Sky Sport Bundesliga HD 10 # Sky Sport Bundesliga HD 10 # 27.09.2020
+c00850228 1000850228 # 5692 # SAT # Sky Sport Bundesliga UHD # Sky Sport Bundesliga UHD # 27.09.2020
+800850087 60085002b # 5695 # SAT # Sky Cinema Premieren +24 HD # Sky Cinema Premieren +24 # 27.09.2020
+800850087 b00850087 # 5696 # SAT # Sky Cinema Premieren +24 HD # Sky Cinema Premieren +24 HD # 27.09.2020
 b00850074 900850074 # 5697 # SAT # Sky Cinema Action HD # Sky Cinema Action HD # 29.11.2018
-80085008b 20085008b # 5698 # SAT # Sky Cinema Family HD # Sky Cinema Family HD # 29.11.2018
-b0085012a 90085012a # 5699 # SAT # Sky Sport HD 6 # Sky Sport HD 6 # 29.11.2018
-800850134 400850134 # 5700 # SAT # Sky Sport HD 7 # Sky Sport HD 7 # 29.11.2018
-90085013e 20085013e # 5701 # SAT # Sky Sport HD 8 # Sky Sport HD 8 # 29.11.2018
-1000850148 600850148 # 5702 # SAT # Sky Sport HD 9 # Sky Sport HD 9 # 29.11.2018
-a00850152 1000850152 # 5703 # SAT # Sky Sport HD 10 # Sky Sport HD 10 # 29.11.2018
-e00850102 b00850102 # 5704 # SAT # Sky Sport HD 11 # Sky Sport HD 11 # 29.11.2018
-c00850229 1000850229 # 5705 # SAT # Sky Sport UHD # Sky Sport UHD # 29.11.2018
+80085008b 20085008b # 5698 # SAT # Sky Cinema Family HD # Sky Cinema Family HD # 27.09.2020
+b0085012a 90085012a # 5699 # SAT # Sky Sport HD 6 # Sky Sport HD 6 # 27.09.2020
+800850134 400850134 # 5700 # SAT # Sky Sport HD 7 # Sky Sport HD 7 # 27.09.2020
+90085013e 20085013e # 5701 # SAT # Sky Sport HD 8 # Sky Sport HD 8 # 27.09.2020
+1000850148 600850148 # 5702 # SAT # Sky Sport HD 9 # Sky Sport HD 9 # 27.09.2020
+a00850152 1000850152 # 5703 # SAT # Sky Sport HD 10 # Sky Sport HD 10 # 27.09.2020
+e00850102 b00850102 # 5704 # SAT # Sky Sport HD 11 # Sky Sport HD 11 # 27.09.2020
+c00850229 1000850229 # 5705 # SAT # Sky Sport UHD # Sky Sport UHD # 27.09.2020
 8d270f3718 d00850031 # 5706 # SAT # Spiegel TV Wissen # Spiegel TV Wissen # 29.11.2018
 800850088 b00850088 # 5707 # SAT # TNT Comedy HD # TNT Comedy HD # 29.11.2018
 e0085008c 40085008c # 5708 # SAT # TNT Film HD # TNT Film HD # 29.11.2018
@@ -1870,10 +1897,12 @@ f00850026 2717f001c487 # 5911 # Vodafone-KD # HGTV # HGTV # 09.05.2019
 c8800031b80 c8800031b81 # 5917 # Hotbird # Reality Kings # Reality Kings CZ # 14.05.2019
 1ba0466a18 2134009c01f8 # 5918 # SAT # Auto Motor Sport Channel # Auto Motor Sport Channel # 14.05.2019
 f00850026 f1270f5e3d # 5922 # Unitymedia # HGTV # HGTV # 21.06.2019
-b0085017d 30085017d # 5925 # SAT # Sky Sport HD 12 # Sky Sport HD 12 # 28.07.2019
-b00850182 300850182 # 5926 # SAT # Sky Sport HD 13 # Sky Sport HD 13 # 28.07.2019
-d00850187 300850187 # 5927 # SAT # Sky Sport HD 14 # Sky Sport HD 14 # 28.07.2019
-d00850187 b00850187 # 5935 # SAT # Sky Sport HD 14 # Sky Sport HD 14 # 20.08.2019
+b0085017d 30085017d # 5925 # SAT # Sky Sport HD 12 # Sky Sport HD 12 # 27.09.2020
+b00850182 300850182 # 5926 # SAT # Sky Sport HD 13 # Sky Sport HD 13 # 27.09.2020
+d00850187 300850187 # 5927 # SAT # Sky Sport HD 14 # Sky Sport HD 14 # 27.09.2020
+600850149 300850145 # 5931 # SAT # Sky Sport Austria 2 HD # Sky Sport Austria 2 # 27.09.2020
+b00850103 3008500ff # 5933 # SAT # Sky Sport Austria 4 HD # Sky Sport Austria 4 # 27.09.2020
+d00850187 b00850187 # 5935 # SAT # Sky Sport HD 14 # Sky Sport HD 14 # 27.09.2020
 3200013e0001 1964013e0001 # 5937 # Hotbird # MTV Live HD # MTV Live HD # 01.10.2019
 42a00016ffd 1ce800711cb9 # 5938 # Hotbird # MTV ROCKS # MTV ROCKS # 01.10.2019
 1100850013 200850013 # 5939 # SAT # Junior # Junior # 08.10.2019
@@ -1894,17 +1923,17 @@ b0085007a 40085014f # 5947 # Unitymedia # DAZN 2 Bar HD # DAZN 2 Bar HD # 10.10.
 200850206 300850206 # 5954 # Unitymedia # Romance TV # Romance TV # 10.10.2019
 110085014b 40085014b # 5955 # Unitymedia # Sky Select 9 # Sky Select 9 # 10.10.2019
 110085014e 40085014e # 5956 # Unitymedia # Sky Select Event B # Sky Select Event B # 10.10.2019
-110085014d 40085014d # 5957 # Unitymedia # Sky Sport 10 # Sky Sport 10 # 10.10.2019
-200850150 400850150 # 5958 # Unitymedia # Sky Sport Austria 3 # Sky Sport Austria 3 # 10.10.2019
-3008500ff 2008500ff # 5959 # Unitymedia # Sky Sport Austria 4 # Sky Sport Austria 4 # 10.10.2019
-110085014c 40085014c # 5960 # Unitymedia # Sky Sport Bundesliga 9 # Sky Sport Bundesliga 9 # 10.10.2019
+a00850152 40085014d # 5957 # Unitymedia # Sky Sport 10 HD # Sky Sport 10 # 27.09.2020
+1000850153 400850150 # 5958 # Unitymedia # Sky Sport Austria 3 HD # Sky Sport Austria 3 # 27.09.2020
+b00850103 2008500ff # 5959 # Unitymedia # Sky Sport Austria 4 HD # Sky Sport Austria 4 # 27.09.2020
+a00850151 40085014c # 5960 # Unitymedia # Sky Sport Bundesliga HD 9 # Sky Sport Bundesliga 9 # 27.09.2020
 1100850024 dd270f5670 # 5961 # Unitymedia # Syfy # SYFY # 10.10.2019
 c0085007e 10085007e # 5962 # Unitymedia # Syfy HD # SYFY HD # 10.10.2019
 e00850065 100850065 # 5963 # Unitymedia # Universal TV HD # Universal TV HD # 10.10.2019
 800850085 100850085 # 5964 # Unitymedia # Beate-Uhse.TV HD # Beate-Uhse.TV HD # 10.10.2019
 42c00016f6a dd270f565f # 5965 # Unitymedia # CNN Int. # CNN Int. # 10.10.2019
 413000130d7 400850151 # 5966 # Unitymedia # Eurosport 2 Hdxtra # Eurosport 2 Hdxtra # 10.10.2019
-b0085012c 10085012c # 5967 # Unitymedia # Eurosport360HD 4 # Eurosport360HD 4 # 10.10.2019
+b0085012c 10085012c # 5967 # Unitymedia # Eurosport360HD 4 # Eurosport360HD 4 # 27.09.2020
 100850010 e7270f5a50 # 5968 # Unitymedia # Fox Serie (S) # Fox Serie (S) # 10.10.2019
 45900013138 f1270f5e3c # 5969 # Unitymedia # health.tv # health.tv # 10.10.2019
 40085000d 1d7270f372e # 5971 # Unitymedia # National Geographic (S) # National Geographic (S) # 10.10.2019
@@ -1912,8 +1941,8 @@ b0085012c 10085012c # 5967 # Unitymedia # Eurosport360HD 4 # Eurosport360HD 4 # 
 3070013e2140 dd270f565b # 5973 # Unitymedia # Rai 2 # Rai 2 # 10.10.2019
 3070013e2141 dd270f565c # 5974 # Unitymedia # Rai 3 # Rai 3 # 10.10.2019
 3070013e213f dd270f565a # 5975 # Unitymedia # Rai 1 # Rai 1 # 10.10.2019
-b0085012a 10085012a # 5976 # Unitymedia # Sky Sport HD 6 # Sky Sport HD 6 # 10.10.2019
-b00850129 100850129 # 5977 # Unitymedia # Sky Sport Bundesliga HD 5 # Sky Sport Bundesliga HD 5 # 10.10.2019
+b0085012a 10085012a # 5976 # Unitymedia # Sky Sport HD 6 # Sky Sport HD 6 # 27.09.2020
+b00850129 100850129 # 5977 # Unitymedia # Sky Sport Bundesliga HD 5 # Sky Sport Bundesliga HD 5 # 27.09.2020
 600850195 400850195 # 5978 # Unitymedia # TNT Film (TCM) # TNT Film (TCM) # 10.10.2019
 100850032 f1270f5e3e # 5979 # Unitymedia # TNT Serie (S) # TNT Serie (S) # 10.10.2019
 403000113f9 1e1270f5a48 # 5980 # Unitymedia # TRT Turk # TRT Turk # 10.10.2019
@@ -1947,7 +1976,7 @@ a0085007d 271ff001c367 # 5991 # Vodafone-KD # Sony AXN HD # Sony AXN HD # 13.01.
 3f90001ef79 271df001c3a6 # 6025 # Vodafone-KD # Kabel Eins Doku HD # Kabel Eins Doku HD # 12.03.2020
 3a00de16a9 2713f001c3cb # 6026 # Vodafone-KD # Fix & Foxi TV # Fix & Foxi TV # 12.03.2020
 600850204 200850204 # 6027 # Vodafone-KD # Sky Cinema Classics # Sky Cinema Classics # 13.03.2020
-40085000b 20085000b # 6028 # Vodafone-KD # Sky Cinema Thriller HD # Sky Cinema Thriller HD # 13.03.2020
+40085000b 20085000b # 6028 # Vodafone-KD # Sky Cinema Thriller HD # Sky Cinema Thriller HD # 27.09.2020
 1da04671f2 80085008a # 6029 # SAT # nick jr. # Nick Jr. # 02.04.2020
 d3270f526f d0085001b # 6030 # SAT # Nicktoons # Nicktoons # 02.04.2020
 1da04671f2 43600016ffb # 6033 # SAT # nick jr. # nick jr. # 30.06.2020
