@@ -1437,7 +1437,6 @@ e0085006a 1bbc009c0b54 # 5185  # Pro Sieben Fun HD # Pro Sieben Fun HD # 09.03.2
 4210001ef10 227270fd73e # 5203 # Unitymedia # RTL HD # RTL HD # 30.05.2016
 3f90001ef74 227270fd73f # 5204 # Unitymedia # SAT.1 HD # Sat.1 HD # 30.05.2016
 45500011518 231270fdb25 # 5205 # Unitymedia # sonnenklar.TV HD # Sonnenklar TV HD # 26.10.2016
-41f0001157e 231270fdb26 # 5206 # Unitymedia # 1-2-3.tv HD # 1-2-3.tv HD # 26.10.2016
 271bf001c38c 231270fdb27 # 5207 # Unitymedia # C&I HD # C&I HD # 28.06.2019
 500850304 f1270f69df # 5208 # Unitymedia # TLC # TLC # 26.10.2016
 45400012f8a ffff31fb0b37 # 5209 # WebTV # BFM TV # BFM TV # 30.05.2016
@@ -1725,10 +1724,10 @@ c00850120 10085011b # 5572 # Unitymedia # Sky Sport 5 HD # Sky Sport 5 # 27.09.2
 1100850141 300850141 # 5576 # SAT # Sky Select 8 # Sky Select 8 # 30.01.2018
 1000850147 300850142 # 5577 # SAT # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga 8 # 27.09.2020
 1000850148 300850143 # 5578 # SAT # Sky Sport 9 HD # Sky Sport 9 # 27.09.2020
-60085010e 6008504f6 # 5579 # Unitymedia # Eurosport360 HD 1 # Eurosport360 HD 1 # 27.09.2020
-c00850122 c0085050a # 5580 # Unitymedia # Eurosport360 HD 3 # Eurosport360 HD 3 # 27.09.2020
+60085010e 6008504f6 # 5579 # Unitymedia # Eurosport360 HD 1 # Eurosport360HD 1 # 27.09.2020
+c00850122 c0085050a # 5580 # Unitymedia # Eurosport360 HD 3 # Eurosport360HD 3 # 27.09.2020
 800850093 d00850093 # 5581 # Vodafone-KD # Sky One HD # Sky One HD # 02.04.2020
-d00850118 d00850500 # 5582 # Unitymedia # Eurosport360 HD 2 # Eurosport360 HD 2 # 27.09.2020
+d00850118 d00850500 # 5582 # Unitymedia # Eurosport360 HD 2 # Eurosport360HD 2 # 27.09.2020
 c0085006b d0085006b # 5584 # Unitymedia # Sky Cinema Best Of HD # Sky Cinema Best Of HD # 27.09.2020
 d00850115 200850110 # 5587 # SAT # Sky Sport Bundesliga HD 3 # Sky Sport Bundesliga 3 # 27.09.2020
 c0085011f 20085011a # 5588 # SAT # Sky Sport Bundesliga HD 4 # Sky Sport Bundesliga 4 # 27.09.2020
@@ -1901,6 +1900,7 @@ b0085017d 30085017d # 5925 # SAT # Sky Sport HD 12 # Sky Sport HD 12 # 27.09.202
 b00850182 300850182 # 5926 # SAT # Sky Sport HD 13 # Sky Sport HD 13 # 27.09.2020
 d00850187 300850187 # 5927 # SAT # Sky Sport HD 14 # Sky Sport HD 14 # 27.09.2020
 600850149 300850145 # 5931 # SAT # Sky Sport Austria 2 HD # Sky Sport Austria 2 # 27.09.2020
+1000850153 200850150 # 5932 # SAT # Sky Sport Austria 3 HD # Sky Sport Austria 3 # 27.09.2020
 b00850103 3008500ff # 5933 # SAT # Sky Sport Austria 4 HD # Sky Sport Austria 4 # 27.09.2020
 d00850187 b00850187 # 5935 # SAT # Sky Sport HD 14 # Sky Sport HD 14 # 27.09.2020
 3200013e0001 1964013e0001 # 5937 # Hotbird # MTV Live HD # MTV Live HD # 01.10.2019
@@ -1982,3 +1982,38 @@ d3270f526f d0085001b # 6030 # SAT # Nicktoons # Nicktoons # 02.04.2020
 1da04671f2 43600016ffb # 6033 # SAT # nick jr. # nick jr. # 30.06.2020
 d00850070 141270f7d6c # 6034 # Vodafone-KD # NatGeo HD # NatGeo HD # 10.07.2020
 b0085007b 231270fdb2b # 6035 # Vodafone-KD # TNT Serie HD # TNT Serie HD # 10.07.2020
+2b5c013e1251 2f44013e4207 # 6037 # Hotbird # Brazzers TV Europe # Brazzers TV Europe # 16.11.2020
+41f0001157e 231270fdb26 # 6039 # Vodafone-KD # 1-2-3.tv HD # 1-2-3.tv HD # 06.12.2020
+100850159 300850159 # 6040 # Vodafone-KD # Blue Movie 1 # Blue Movie 1 # 06.12.2020
+100850163 300850163 # 6041 # Vodafone-KD # Blue Movie 2 # Blue Movie 2 # 06.12.2020
+10085016d 30085016d # 6042 # Vodafone-KD # Blue Movie 3 # Blue Movie 3 # 06.12.2020
+2721f001cf16 245270fe2fc # 6043 # Vodafone-KD # eSports1 HD # eSPORTS1 HD # 06.12.2020
+e0085006d 1c3270fb030 # 6044 # Vodafone-KD # Eurosport 2 HD # Eurosport 2 HD # 06.12.2020
+a0085007c 1c3270fb033 # 6045 # Vodafone-KD # Fox HD # Fox HD # 06.12.2020
+2710f001d10e d3270f5277 # 6046 # Vodafone-KD # france 3 # France 3 # 06.12.2020
+2710f001c764 d3270f5278 # 6047 # Vodafone-KD # france 5 # France 5 # 06.12.2020
+2725f001d03b 1ff270fc7a7 # 6048 # Vodafone-KD # GINX TV # Ginx TV # 06.12.2020
+271bf001c38a 141270f7d6b # 6049 # Vodafone-KD # Sat.1 emotions HD # SAT.1 emotions HD # 06.12.2020
+600850204 300850204 # 6050 # Vodafone-KD # Sky Cinema Classics # Sky Cinema Classics # 06.12.2020
+200850008 100850008 # 6051 # Vodafone-KD # Sky Cinema Fun # Sky Cinema Fun # 06.12.2020
+40085000b c0085000b # 6052 # Vodafone-KD # Sky Cinema Thriller HD # Sky Cinema Thriller HD # 06.12.2020
+600850149 300850149 # 6053 # Vodafone-KD # Sky Sport Austria 2 HD # Sky Sport Austria 2 HD # 06.12.2020
+1000850153 400850153 # 6054 # Vodafone-KD # Sky Sport Austria 3 HD # Sky Sport Austria 3 HD # 06.12.2020
+b00850103 100850103 # 6055 # Vodafone-KD # Sky Sport Austria 4 HD # Sky Sport Austria 4 HD # 06.12.2020
+2720f001c36e 187270f98bf # 6056 # Vodafone-KD # Sony Channel HD # Sony Channel HD # 06.12.2020
+413000130d7 400850155 # 6057 # Vodafone-KD # Eurosport 2 Hdxtra # Eurosport 2 HD Xtra # 06.12.2020
+900850140 300850140 # 6058 # Vodafone-KD # Eurosport360HD 6 # Eurosport360HD 6 # 06.12.2020
+100085014a 30085014a # 6059 # Vodafone-KD # Eurosport360HD 7 # Eurosport360HD 7 # 06.12.2020
+a00850154 400850154 # 6060 # Vodafone-KD # Eurosport360HD 8 # Eurosport360HD 8 # 06.12.2020
+e00850104 100850104 # 6061 # Vodafone-KD # Eurosport360HD 9 # Eurosport360HD 9 # 06.12.2020
+800850087 30085002b # 6062 # Vodafone-KD # Sky Cinema Premieren +24 HD # Sky Cinema Premieren +24 # 06.12.2020
+a00850152 400850152 # 6063 # Vodafone-KD # Sky Sport 10 HD # Sky Sport 10 HD # 06.12.2020
+e00850102 100850102 # 6064 # Vodafone-KD # Sky Sport 11 HD # Sky Sport 11 HD # 06.12.2020
+90085013e 30085013e # 6065 # Vodafone-KD # Sky Sport 8 HD # Sky Sport 8 HD # 06.12.2020
+1000850148 300850148 # 6066 # Vodafone-KD # Sky Sport 9 HD # Sky Sport 9 HD # 06.12.2020
+90085008f 40085001e # 6067 # Vodafone-KD # Sky Sport Austria 1 HD # Sky Sport Austria 1 # 06.12.2020
+e00850101 100850101 # 6068 # Vodafone-KD # Sky Sport Bundesliga HD 10 # Sky Sport Bundesliga 10 HD # 06.12.2020
+90085013d 30085013d # 6069 # Vodafone-KD # Sky Sport Bundesliga HD 7 # Sky Sport Bundesliga 7 HD # 06.12.2020
+1000850147 300850147 # 6070 # Vodafone-KD # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga 8 HD # 06.12.2020
+3ea00011389 bf270f2b61 # 6072 # Vodafone-KD # BBC World News Europe HD # BBC World News # 06.12.2020
+44500016f41 6b0021140813 # 6073 # Vodafone-KD # 1Live Diggi # 1LIVE diGGi (Internet) # 06.12.2020
