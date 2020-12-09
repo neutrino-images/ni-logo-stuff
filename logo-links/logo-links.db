@@ -856,7 +856,6 @@ d00850072 1838fbff2ab0 # 4116 # SAT # Sky Sport 2 HD # Sky Sport 2 # 27.09.2020
 600850082 7f200020f4c # 4139 # SAT # Discovery HD # Discovery HD # 24.09.2014
 600850082 1d4cfbff1015 # 4140 # SAT # Discovery HD # Discovery HD # 24.09.2014
 600850082 43e000126ad # 4141 # SAT # Discovery HD # DISCOVERY HD # 24.09.2014
-700850306 8fe0002cb9e # 4144 # SAT # GOD Channel # GOD Channel # 24.09.2014
 7d90002183a 1c84013e017d # 4147 # SAT # Animal Planet # Animal Planet # 24.09.2014
 7d90002183a 2580fbff2c90 # 4148 # SAT # Animal Planet # Animal Planet # 24.09.2014
 7d90002183a 5dc013e1402 # 4149 # SAT # Animal Planet # ANIMAL PLANET # 24.09.2014
@@ -1192,7 +1191,6 @@ a0085007c 3e00de183e # 4673 # Kabelplus # Fox HD # Fox HD # 19.04.2015
 2b5c013e1251 c82000317b8 # 4778 # Kabelplus # Brazzers TV Europe # Brazzers TV Europe # 19.04.2015
 2b5c013e1251 c82000317b9 # 4779 # Kabelplus # Brazzers TV Europe # Brazzers TV Europe # 19.04.2015
 500850304 c9270f4e8b # 4780 # Kabelplus # TLC # TLC # 19.04.2015
-700850306 c9270f69e4 # 4781 # Kabelplus # GOD Channel # GOD Channel # 19.04.2015
 403000113f9 e7270f5a48 # 4782 # Kabelplus # TRT Turk # TRT Turk # 19.04.2015
 f0085003a ea044539b # 4783 # Kabelplus # History # History # 19.04.2015
 3c00de1771 3c00de1773 # 4784 # Kabelplus # Blue Hustler # Blue Hustler # 19.04.2015
@@ -1201,7 +1199,7 @@ f0085003a ea044539b # 4783 # Kabelplus # History # History # 19.04.2015
 3f300012b7a 191270fa08f # 4789 # Unitymedia # zdf_neo HD # zdf_neo HD # 26.10.2016
 3f200012b8e 19b270fa08d # 4790 # Unitymedia # 3sat HD # 3sat HD # 26.10.2016
 40f00012888 1a5270fa08e # 4791 # Unitymedia # One HD # One HD # 26.10.2016
-45d000132da 2717f001cf75 # 4794 # Vodafone-KD # Folx TV # Folx TV # 27.10.2016
+45d000132da 2717f001cf75 # 4794 # Vodafone-KD # Folx Music Television # Folx Music Television # 09.12.2020
 443000179f4 2715f001cfdd # 4795 # Vodafone-KD # EuroNews # EuroNews # 27.10.2016
 3fc00011b64 10f270f7595 # 4796 # Unitymedia # Al Jazeera English # Al Jazeera # 26.10.2016
 3fc00011b64 10f270f4e90 # 4797 # Unitymedia # Al Jazeera English # Al Jazeera International # 26.10.2016
@@ -1447,7 +1445,7 @@ e0085006a 1bbc009c0b54 # 5185  # Pro Sieben Fun HD # Pro Sieben Fun HD # 09.03.2
 6a4013e36b8 ffffc3655db8 # 5214 # WebTV # RTS Deux # RTS Deux # 30.05.2016
 110085001a 1f5270f621d # 5215 # Unitymedia # Disney Junior # Disney Junior # 30.05.2016
 110085001c 1f5270f6220 # 5216 # Unitymedia # Disney XD # Disney XD # 30.05.2016
-45d000132da 1ff270f6609 # 5217 # Unitymedia # Folx TV # Folx TV # 26.10.2016
+45d000132da 1ff270f6609 # 5217 # Unitymedia # Folx Music Television # Folx Music Television # 09.12.2020
 449003507fd 44c00012205 # 5221 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
 45900013146 169270f8d06 # 5222 # Unitymedia # rhein main tv # rhein main tv # 26.10.2016
 41f0001157f 2727f001c39c # 5224 # Vodafone-KD # Deluxe Music HD # Deluxe Music HD # 27.10.2016
@@ -2017,3 +2015,5 @@ e00850101 100850101 # 6068 # Vodafone-KD # Sky Sport Bundesliga HD 10 # Sky Spor
 1000850147 300850147 # 6070 # Vodafone-KD # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga 8 HD # 06.12.2020
 3ea00011389 bf270f2b61 # 6072 # Vodafone-KD # BBC World News Europe HD # BBC World News # 06.12.2020
 44500016f41 6b0021140813 # 6073 # Vodafone-KD # 1Live Diggi # 1LIVE diGGi (Internet) # 06.12.2020
+45d000132da 700850306 # 6074 # SAT # Folx Music Television # Folx Music Television # 09.12.2020
+45d000132da 3200013e0e81 # 6075 # Hotbird # Folx Music Television # Folx Music Television # 09.12.2020
