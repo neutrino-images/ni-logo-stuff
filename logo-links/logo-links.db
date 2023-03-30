@@ -66,6 +66,7 @@ f0085003a 44e00013391 # 2452 # SAT # History # HISTORY # 23.09.2014
 15f270f891d 45700016f78 # 2488 # SAT # WDR # WDR Bonn # 07.09.2017
 15f270f891d 45700016f79 # 2489 # SAT # WDR # WDR Duisburg # 07.09.2017
 44100012f1d 45b0001332e # 2501 # SAT # RTLNITRO # NITRO austria # 11.07.2017
+45900013159 45b0001332f # 2502 # SAT # Lilo.TV # Lilo.TV # 30.03.2023
 500850308 45b00013332 # 2505 # SAT # SIXX # SIXX # 09.01.2014
 45b00013331 45b00013335 # 2506 # SAT # Sport1 US # Sport1 US # 09.01.2014
 45b00013336 45b00013337 # 2508 # SAT # ServusTV Deutschland # ServusTV Deutschland # 09.01.2014
@@ -584,7 +585,7 @@ f00850037 fa0463ab6 # 3532 # Wilhelm_tell # Eurosport2 # Eurosport 2 # 12.11.201
 43600017004 fa0463b06 # 3536 # Wilhelm_tell # ComedyCentral # ComedyCentral # 18.01.2019
 43600017008 fa0463b10 # 3537 # Wilhelm_tell # nick # nick # 16.09.2017
 d0085007f 2134009c4e85 # 3541 # TeleColumbus # 13th Street HD # 13TH STREET HD # 09.01.2014
-300850010 206c009c026e # 3542 # 9GradOst # Sky Documentarius HD # Sky Documentarius HD # 23.03.2023
+141270f7d6c 206c009c026e # 3542 # 9GradOst # NatGeo HD # Nat Geo HD # 30.03.2023
 1100850016 1bbc009c0bea # 3543  # Heimatkanal # Heimatkanal # 09.03.2019
 40200012742 14b4009c00f0 # 3544 # TeleColumbus # BBC World # BBC World # 09.01.2014
 45400012f5a 14b4009c00f4 # 3545 # TeleColumbus # Bibel TV # Bibel TV # 09.01.2014
@@ -618,7 +619,7 @@ e00850194 2134009c4e98 # 3570 # TeleColumbus # Cartoon Network (S) # Cartoon Net
 41f00011581 1644009c00ea # 3574 # TeleColumbus # SPORT1 HD # SPORT1 HD # 09.01.2014
 443000179e0 14b4009c00dc # 3575 # TeleColumbus # Eurosport Deutschland # Eurosport Deutschland # 09.01.2014
 43100016e44 44500016f0e # 3576 # TeleColumbus # mdr # MDR Thüringen # 07.09.2017
-20085000f 21fc009c4ef0 # 3577 # SAT # Sky Nature HD # Sky Nature HD # 23.03.2023
+1a5270fa475 21fc009c4ef0 # 3577 # 9GradOst # NatGeo Wild HD # Nat Geo Wild HD # 30.03.2023
 43600017004 14b4009c00d8 # 3578 # TeleColumbus # ComedyCentral # ComedyCentral # 18.01.2019
 271ff001c355 206c009c026f # 3579 # 9GradOst # Sport1+ HD # Sport1+ HD # 09.03.2019
 83270f3337 21fc009c4ef2 # 3581 # TeleColumbus # gute laune TV # Gute Laune TV # 10.01.2014
@@ -696,7 +697,7 @@ e0085006a 187270f94d5 # 3782 # Unitymedia # Pro Sieben Fun HD # ProSieben Fun HD
 45500011519 2719f001c37b # 3823 # Vodafone-KD # TELE 5 HD # TELE 5 HD # 27.10.2016
 e00850193 2719f001c37f # 3824 # Vodafone-KD # Cartoonito # Cartoonito # 23.03.2023
 900850191 2717f001cf70 # 3827 # Vodafone-KD # Jukebox # Jukebox # 27.10.2016
-45b0001332f 2725f001c763 # 3828 # Vodafone-KD # Welt der Wunder # Welt der Wunder # 27.10.2016
+45900013159 2725f001c763 # 3828 # Vodafone-KD # Lilo.TV # Lilo.TV # 30.03.2023
 800850088 2713f001d0a2 # 3830 # Vodafone-KD # Warner TV Comedy # Warner TV Comedy # 26.09.2021
 800850088 271cf001c361 # 3831 # Vodafone-KD # Warner TV Comedy # Warner TV Comedy # 26.09.2021
 45b00013331 2717f001c482 # 3832 # Vodafone-KD # Sport1 US # Sport1 US # 27.10.2016
@@ -1125,7 +1126,7 @@ a0085007c 3e00de183e # 4673 # Kabelplus # Sky Replay # Sky Replay # 05.10.2021
 43600017008 7f00de319f # 4712 # Kabelplus # nick # nick # 16.09.2017
 45d000132db 7f00de31a0 # 4713 # Kabelplus # RiC # RiC # 19.04.2015
 40900012774 7f00de31a1 # 4714 # Kabelplus # TLC HD # TLC HD # 19.04.2015
-45b0001332f 8000de3202 # 4715 # Kabelplus # Welt der Wunder # Welt der Wunder # 19.04.2015
+45900013159 8000de3202 # 4715 # Kabelplus # Lilo.TV # Lilo.TV # 30.03.2023
 45300014461 8000de3203 # 4716 # Kabelplus # ProSieben MAXX # ProSieben MAXX # 19.04.2015
 210085003f 8000de3204 # 4717 # Kabelplus # DMAX # DMAX # 19.04.2015
 4530001445f 8000de3205 # 4718 # Kabelplus # Welt # Welt # 19.01.2018
@@ -1138,7 +1139,6 @@ a0085007c 3e00de183e # 4673 # Kabelplus # Sky Replay # Sky Replay # 05.10.2021
 45300014460 8100de326b # 4726 # Kabelplus # SAT.1 Gold # SAT.1 Gold # 19.01.2019
 41b00017034 8200de32c9 # 4727 # Kabelplus # arte # arte # 19.04.2015
 43700016d6b 8200de32ca # 4728 # Kabelplus # ZDFinfo # ZDFinfo # 19.04.2015
-3eb000133a9 8200de32cc # 4730 # Kabelplus # Schau TV HD # Schau TV # 19.04.2015
 42c00016f6a 8200de32ce # 4731 # Kabelplus # CNN Int. # CNN Int. # 19.04.2015
 443000179f4 8300de332d # 4732 # Kabelplus # EuroNews # EuroNews # 19.04.2015
 44100012f3a 8300de332e # 4733 # Kabelplus # n-tv # ntv # 10.08.2017
@@ -2410,3 +2410,5 @@ b0085007b ffff815c1bb4 # 6605 # icam # Warner TV Serie # Warner TV Serie # 23.03
 40200012742 1644009c00ec # 6609 # SAT # BBC World # BBC World # 28.03.2023
 90085007d b0085007d # 6610 # SAT # CNBC HD # CNBC HD # 28.03.2023
 443000179f4 3f4000118f4 # 6611 # SAT # EuroNews # EuroNews German SD # 28.03.2023
+ffff281c24dc 200550122 # 6612 # SAT # Deutsche Welle TV # Deutsche Welle TV # 30.03.2023
+ffff281c24dc 42c00011644 # 6613 # SAT # Deutsche Welle TV # Deutsche Welle English HD # 30.03.2023
