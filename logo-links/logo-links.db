@@ -188,7 +188,7 @@ a0085007c 1e7800710c27 # 2722 # Hotbird # Sky Replay # Sky Replay # 05.10.2021
 13a0464b64 1edc00712918 # 2724 # Hotbird # travel Channel # travel Channel # 09.01.2014
 45900013146 1fa046792c # 2725 # Wilhelm_tell # rhein main tv # rhein main tv # 09.01.2014
 449003507fd 1fa4013e364c # 2726 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
-b00850074 200850009 # 2728 # Unitymedia # Sky Cinema Action HD # Sky Cinema Action # 27.09.2020
+b00850074 200850009 # 2728 # Unitymedia # Sky Cinema Action # Sky Cinema Action # 22.08.2024
 600850083 20085000a # 2729 # Unitymedia # Sky Cinema Premiere # Sky Cinema Premiere # 22.08.2024
 e00850101 2008500fc # 2734 # Unitymedia # Sky Sport Bundesliga HD 10 # Sky Sport Bundesliga 10 # 27.09.2020
 b00850102 2008500fd # 2735 # Unitymedia # Sky Sport 9 HD # Sky Sport 9 # 20.11.2022
@@ -341,7 +341,7 @@ e00850065 2720f001c373 # 2964 # Vodafone-KD # Universal TV HD # Universal TV HD 
 e00850194 2fa8013e1d21 # 3003 # Hotbird # Cartoon Network (S) # Cartoon Network (S) # 24.09.2015
 500850701 2fa8013e1d2a # 3004 # Hotbird # Disney Channel # Disney Channel # 09.01.2014
 42c00016f6d 2fa8013e1d2c # 3005 # Hotbird # TCM # TCM # 09.01.2014
-c0085006b 300850029 # 3008 # Unitymedia # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
+600850204 300850029 # 3008 # Unitymedia # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
 60085010c 3008500dd # 3009 # Unitymedia # Sky Sport 1 HD # Sky Sport 1 # 20.11.2022
 200850116 3008500de # 3010 # Unitymedia # Sky Sport 2 HD # Sky Sport 2 # 20.11.2022
 90085012a 300850111 # 3015 # Unitymedia # Sky Sport 4 HD # Sky Sport 4 # 20.11.2022
@@ -474,9 +474,9 @@ f0085003a 900850044 # 3349  # History # History # 23.09.2014
 b00850071 900850054 # 3351 # SAT # History HD # History HD # 09.01.2014
 14a0464eb6 97270f3b00 # 3353 # Unitymedia # Bon gusto # BonGusto # 26.10.2016
 42a00016ff1 97270f3b08 # 3354 # Unitymedia # MTV 80s # MTV 80s # 26.04.2021
-b00850074 a0085006a # 3358  # Sky Cinema Action HD # Sky Cinema Action HD # 24.09.2016
+b00850074 a0085006a # 3358  # Sky Cinema Action # Sky Cinema Action # 22.08.2024
 200850116 a00850116 # 3361 # SAT # Sky Sport HD 2 # Sky Sport HD 2 # 20.11.2022
-b00850074 a0085007b # 3362  # Sky Cinema Action HD # Sky Cinema Action HD # 24.09.2016
+b00850074 a0085007b # 3362  # Sky Cinema Action # Sky Cinema Action # 22.08.2024
 44100012ee3 a1270f2f45 # 3372 # Unitymedia # RTL Television # RTL Television # 26.10.2016
 4530001445c a1270f2f46 # 3373 # Unitymedia # SAT.1 # SAT.1 # 26.10.2016
 4530001445d a1270f2f47 # 3374 # Unitymedia # ProSieben # ProSieben # 26.10.2016
@@ -527,7 +527,7 @@ e00850078 b00850078 # 3400 # SAT # Sky Select HD # Sky Select HD # 09.01.2014
 449003507fd c8013e3656 # 3439 # SAT # Dorcel TV # Dorcel TV # 08.06.2016
 300850019 d0085006f # 3444 # Unitymedia # Sky Cinema Highlights # Sky Cinema Highlights # 22.08.2024
 300850010 d00850070 # 3445 # Unitymedia # Sky Documentarius HD # Sky Documentarius HD # 23.03.2023
-b00850074 d00850074 # 3447 # Unitymedia # Sky Cinema Action HD # Sky Cinema Action HD # 26.10.2016
+b00850074 d00850074 # 3447 # Unitymedia # Sky Cinema Action # Sky Cinema Action # 22.08.2024
 e00850078 d00850078 # 3448 # SAT # Sky Select HD # Sky Select HD # 09.01.2014
 300850010 d00850458 # 3453 # Unitymedia # Sky Documentarius HD # Sky Documentarius HD # 23.03.2023
 42a00016ff1 d8a0183b08 # 3455 # KabelBW # MTV 80s # MTV 80s # 26.04.2021
@@ -811,8 +811,7 @@ d0085006e 7e700021325 # 4050 # SAT # Sky Atlantic HD # Sky Atlantic # 26.07.2020
 1aa04665f4 4160001772f # 4067 # SAT # fashion tv # FASHION TV # 24.09.2014
 1da04671f2 7ed000215bb # 4070 # SAT # nick jr. # Nick Jr. # 24.09.2014
 1da04671f2 81f0002c790 # 4071 # SAT # nick jr. # Nick Jr. # 24.09.2014
-200850008 7d7000210cf # 4072 # SAT # Sky Cinema Fun # Sky Cinema Fun # 27.09.2020
-b00850074 7d7000210ce # 4073 # SAT # Sky Cinema Action HD # Sky Cinema Action # 27.09.2020
+b00850074 7d7000210ce # 4073 # SAT # Sky Cinema Action # Sky Cinema Action # 22.08.2024
 c00850120 1a2cfbff2dc0 # 4074 # SAT # Sky Sport 3 HD # Sky Sport 3 # 20.11.2022
 c00850120 1a2cfbff2dda # 4075 # SAT # Sky Sport 3 HD # Sky Sport 3 # 20.11.2022
 2100850033 3db8013e423b # 4076 # SAT # TELE 5 # Tele 5 # 24.09.2014
@@ -877,7 +876,7 @@ b00850071 1af4fbff0db9 # 4181 # SAT # History HD # History HD # 24.09.2014
 b00850071 1e7800710c2f # 4182 # SAT # History HD # History HD # 24.09.2014
 b00850071 7ec00020f2e # 4183 # SAT # History HD # History HD # 24.09.2014
 b00850071 c95000313b3 # 4184 # SAT # History HD # History HD # 24.09.2014
-b00850074 7ec00020ee6 # 4185 # SAT # Sky Cinema Action HD # Sky Cinema Action HD # 24.09.2016
+b00850074 7ec00020ee6 # 4185 # SAT # Sky Cinema Action # Sky Cinema Action # 22.08.2024
 c00850084 c95000313b7 # 4187 # SAT # Eurosport HD # Eurosport HD # 24.09.2014
 c00850084 7d800020edc # 4188 # SAT # Eurosport HD # Eurosport HD # 24.09.2014
 c00850084 2ee0013e3e25 # 4189 # SAT # Eurosport HD # Eurosport HD # 24.09.2014
@@ -1235,14 +1234,13 @@ e00850193 30085001c # 4863 # SAT # Cartoonito # Cartoonito # 23.03.2023
 900850191 400850191 # 4867 # SAT # Jukebox # Jukebox # 18.11.2015
 300850203 400850203 # 4869 # SAT # MGM # MGM # 18.11.2015
 1008500a8 2008500a8 # 4870 # SAT # Motorvision TV # Motorvision TV # 18.11.2015
-b00850074 300850009 # 4872 # SAT # Sky Cinema Action HD # Sky Cinema Action # 27.09.2020
+b00850074 300850009 # 4872 # SAT # Sky Cinema Action # Sky Cinema Action # 22.08.2024
 d0085006e 400850022 # 4873 # SAT # Sky Atlantic HD # Sky Atlantic # 26.07.2020
 90085013d 200850138 # 4875 # SAT # Sky Sport Bundesliga HD 6 # Sky Sport Bundesliga 6 # 20.11.2022
 1000850147 200850142 # 4876 # SAT # Sky Sport Bundesliga HD 7 # Sky Sport Bundesliga 7 # 20.11.2022
 a00850151 20085014c # 4878 # SAT # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga 8 # 20.11.2022
 e00850101 3008500fc # 4879 # SAT # Sky Sport Bundesliga HD 10 # Sky Sport Bundesliga 10 # 27.09.2020
 600850083 40085000a # 4880 # SAT # Sky Cinema Premiere # Sky Cinema Premiere # 22.08.2024
-200850008 300850008 # 4886 # SAT # Sky Cinema Fun # Sky Cinema Fun # 27.09.2020
 2008500fb 3008500fb # 4893 # SAT # Sky Select 1 # Sky Select 1 # 18.11.2015
 200850105 300850105 # 4894 # SAT # Sky Select 2 # Sky Select 2 # 18.11.2015
 1100850137 200850137 # 4895 # SAT # Sky Select 7 # Sky Select 7 # 18.11.2015
@@ -1261,7 +1259,7 @@ b00850102 3008500fd # 4908 # SAT # Sky Sport 9 HD # Sky Sport 9 # 20.11.2022
 400850034 200850034 # 4912 # SAT # Spiegel Geschichte # Spiegel Geschichte # 18.11.2015
 1100850024 200850024 # 4913 # SAT # Syfy # Syfy # 18.11.2015
 b0085007b 200850032 # 4914 # SAT # Warner TV Serie # Warner TV Serie # 26.09.2021
-c0085006b 200850029 # 4915 # SAT # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
+600850204 200850029 # 4915 # SAT # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
 4550001151a 2724f001c375 # 4917 # Vodafone-KD # DMAX HD # DMAX HD # 27.10.2016
 44500016f46 43100016f46 # 4919 # Vodafone-KD # SR Fernsehen # SR Fernsehen # 27.10.2016
 600850082 2724f001c398 # 4920 # SAT # Discovery HD # Discovery HD # 23.11.2015
@@ -1444,7 +1442,7 @@ e0085006a 1bbc009c0b54 # 5185  # Pro Sieben Fun HD # Pro Sieben Fun HD # 09.03.2
 44100012efe 2712f001d04e # 5225 # Vodafone-KD # Toggo Plus # Toggo Plus # 27.10.2016
 44100012f30 2714f001d04f # 5226 # Vodafone-KD # RTLup # RTLup # 26.09.2021
 2721f001cf6f f00850023 # 5231 # SAT # Schlager Deluxe # Schlager Deluxe # 26.07.2020
-80085008b 400850197 # 5235 # SAT # Sky Cinema Family HD # Sky Cinema Family # 27.09.2020
+80085008b 400850197 # 5235 # SAT # Sky Cinema Family # Sky Cinema Family # 22.08.2024
 44500016f47 ffffbf52629b # 5237 # WebTV # ARD-alpha # ARD-alpha # 19.09.2016
 44d00016dce ffff7f71e6d2 # 5238 # WebTV # BR Fernsehen # BR Fernsehen Nord # 07.09.2017
 44d00016dce ffffdc28566b # 5239 # WebTV # BR Fernsehen # BR Fernsehen Süd # 07.09.2017
@@ -1561,7 +1559,7 @@ f0085003a 2bc0013e4284 # 5369 # SAT # History # History # 09.11.2016
 c00850084 231270fdb28 # 5378 # Unitymedia # Eurosport 1 HD # Eurosport 1 HD # 20.08.2018
 3008500f1 f00850025 # 5380 # SAT # Sky Sport News # Sky Sport News # 27.09.2020
 c00850084 413000130d6 # 5381 # SAT # Eurosport 1 HD # EUROSPORT 1 HD # 02.12.2016
-80085008b b0085008b # 5382 # Unitymedia # Sky Cinema Family HD # Sky Cinema Family HD # 27.09.2020
+80085008b b0085008b # 5382 # Unitymedia # Sky Cinema Family # Sky Cinema Family # 22.08.2024
 3fb0001283f 227270fd73d # 5383 # Unitymedia # SWR BW HD # SWR BW HD # 13.12.2016
 413000130d4 2724f001c39a # 5384 # Vodafone-KD # SAT.1 Gold HD # Sat.1 Gold HD # 19.01.2019
 3f90001ef78 2724f001c37e # 5385 # Vodafone-KD # ProSieben MAXX HD # ProSieben MAXX HD # 13.12.2016
@@ -1711,7 +1709,7 @@ c0085011f 80085011a # 5568 # SAT # Sky Sport Bundesliga HD 3 # Sky Sport Bundesl
 1000850147 300850142 # 5577 # SAT # Sky Sport Bundesliga HD 7 # Sky Sport Bundesliga 7 # 20.11.2022
 300850148 300850143 # 5578 # SAT # Sky Sport 7 HD # Sky Sport 7 # 20.11.2022
 800850093 d00850093 # 5581 # Vodafone-KD # Sky One HD # Sky One HD # 02.04.2020
-c0085006b d0085006b # 5584 # Unitymedia # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
+600850204 d0085006b # 5584 # Unitymedia # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
 30085010f 20085010f # 5589 # SAT # Sky Select 3 # Sky Select 3 # 30.01.2018
 300850119 200850119 # 5590 # SAT # Sky Select 4 # Sky Select 4 # 30.01.2018
 90085012a 200850111 # 5591 # SAT # Sky Sport 4 HD # Sky Sport 4 # 20.11.2022
@@ -1771,7 +1769,7 @@ e0085006d b0085006d # 5675 # SAT # Eurosport 2 HD # Eurosport 2 HD # 29.11.2018
 a00850151 1000850151 # 5690 # SAT # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga HD 8 # 20.11.2022
 e00850101 b00850101 # 5691 # SAT # Sky Sport Bundesliga HD 9 # Sky Sport Bundesliga HD 9 # 20.11.2022
 c00850228 1000850228 # 5692 # SAT # Sky Sport Bundesliga UHD # Sky Sport Bundesliga UHD # 27.09.2020
-80085008b 20085008b # 5698 # SAT # Sky Cinema Family HD # Sky Cinema Family HD # 27.09.2020
+80085008b 20085008b # 5698 # SAT # Sky Cinema Family # Sky Cinema Family # 22.08.2024
 300850148 400850148 # 5700 # SAT # Sky Sport HD 7 # Sky Sport HD 7 # 20.11.2022
 1000850152 200850152 # 5701 # SAT # Sky Sport HD 8 # Sky Sport HD 8 # 20.11.2022
 b00850102 600850102 # 5702 # SAT # Sky Sport HD 9 # Sky Sport HD 9 # 20.11.2022
@@ -1927,8 +1925,7 @@ a0085007d 271ff001c367 # 5991 # Vodafone-KD # Sony AXN HD # Sony AXN HD # 13.01.
 119270f6dcf 1b9270fac4c # 6019 # Unitymedia # BonGusto HD # Bon Gusto HD # 29.01.2020
 3f90001ef79 271df001c3a6 # 6025 # Vodafone-KD # Kabel Eins Doku HD # Kabel Eins Doku HD # 12.03.2020
 3a00de16a9 2713f001c3cb # 6026 # Vodafone-KD # Fix & Foxi TV # Fix & Foxi TV # 12.03.2020
-600850204 200850204 # 6027 # Vodafone-KD # Sky Cinema Classics # Sky Cinema Classics # 13.03.2020
-40085000b 20085000b # 6028 # Vodafone-KD # Sky Cinema Thriller HD # Sky Cinema Thriller HD # 27.09.2020
+600850204 200850204 # 6027 # Vodafone-KD # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
 1da04671f2 80085008a # 6029 # SAT # nick jr. # Nick Jr. # 02.04.2020
 d3270f526f d0085001b # 6030 # SAT # Nicktoons # Nicktoons # 02.04.2020
 1da04671f2 43600016ffb # 6033 # SAT # nick jr. # nick jr. # 30.06.2020
@@ -1942,9 +1939,7 @@ a0085007c 1c3270fb033 # 6045 # Vodafone-KD # Sky Replay # Sky Replay # 05.10.202
 2710f001c764 d3270f5278 # 6047 # Vodafone-KD # france 5 # France 5 # 06.12.2020
 2725f001d03b 1ff270fc7a7 # 6048 # Vodafone-KD # GINX TV # Ginx TV # 06.12.2020
 271bf001c38a 141270f7d6b # 6049 # Vodafone-KD # Sat.1 emotions HD # SAT.1 emotions HD # 06.12.2020
-600850204 300850204 # 6050 # Vodafone-KD # Sky Cinema Classics # Sky Cinema Classics # 06.12.2020
-200850008 100850008 # 6051 # Vodafone-KD # Sky Cinema Fun # Sky Cinema Fun # 06.12.2020
-40085000b c0085000b # 6052 # Vodafone-KD # Sky Cinema Thriller HD # Sky Cinema Thriller HD # 06.12.2020
+600850204 300850204 # 6050 # Vodafone-KD # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
 600850149 300850149 # 6053 # Vodafone-KD # Sky Sport Austria 2 HD # Sky Sport Austria 2 HD # 06.12.2020
 1000850153 400850153 # 6054 # Vodafone-KD # Sky Sport Austria 3 HD # Sky Sport Austria 3 HD # 06.12.2020
 b00850103 100850103 # 6055 # Vodafone-KD # Sky Sport Austria 4 HD # Sky Sport Austria 4 HD # 06.12.2020
@@ -2021,7 +2016,7 @@ d00850115 200850115 # 6183 # SAT # Sky Sport Bundesliga HD 2 # Sky Sport Bundesl
 41f0001157e 2722f001c3ab # 6194 # Vodafone-KD # 1-2-3.tv HD # 1-2-3.tv HD2 # 22.08.2024
 44500016f46 4b100016ee2 # 6195 # SAT # SR Fernsehen # SR Fernsehen # 19.08.2021
 90085003c b00850196 # 6199 # SAT # Kinowelt TV # Kinowelt TV # 07.09.2021
-c0085006b 400850029 # 6200 # SAT # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
+600850204 400850029 # 6200 # SAT # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
 800850088 30085001d # 6202 # Vodafone-KD # Warner TV Comedy # Warner TV Comedy # 26.09.2021
 400850034 600850034 # 6203 # SAT # Spiegel Geschichte # Spiegel Geschichte # 07.09.2021
 a00850151 400850141 # 6204 # SAT # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga HD 8 # 20.11.2022
@@ -2082,7 +2077,6 @@ e00850193 2713f001d09c # 6257 # Vodafone-KD # Cartoonito # Cartoonito # 23.03.20
 45300014460 2721f001d04c # 6276 # Vodafone-KD # SAT.1 Gold # SAT.1 Gold # 20.11.2022
 3f90001ef74 2723f001c362 # 6277 # Vodafone-KD # SAT.1 HD # SAT.1 HD # 20.11.2022
 2715f001c481 2713f001c481 # 6278 # Vodafone-KD # Silverline # Silverline # 20.11.2022
-200850008 100850201 # 6279 # Vodafone-KD # Sky Cinema Fun # Sky Cinema Fun # 20.11.2022
 800850093 271cf001c350 # 6280 # Vodafone-KD # Sky One HD # Sky One HD # 20.11.2022
 b0085008e 60085008e # 6281 # Vodafone-KD # Sky Showcase HD # Sky Showcase HD # 20.11.2022
 d00850090 300850090 # 6282 # Vodafone-KD # Sky Sport Golf HD # Sky Sport Golf HD # 20.11.2022
@@ -2134,14 +2128,12 @@ d3270f5276 2712f001d117 # 6328 # Vodafone-KD # HOPE Channel deutsch # Hope TV # 
 45300010028 2713f001d17e # 6329 # Vodafone-KD # HSE24 # HSE # 20.11.2022
 41f0001157d 2724f001c3a7 # 6330 # Vodafone-KD # HSE24 EXTRA HD # HSE Extra HD # 20.11.2022
 600850083 ffff1aa9b1fc # 6331 # icam # Sky Cinema Premiere # Sky Cinema Premiere # 22.08.2024
-80085008b ffff5b8558f1 # 6333 # icam # Sky Cinema Family HD # Sky Cinema Family HD # 21.11.2022
-b00850074 ffff81905292 # 6334 # icam # Sky Cinema Action HD # Sky Cinema Action HD # 21.11.2022
+80085008b ffff5b8558f1 # 6333 # icam # Sky Cinema Family # Sky Cinema Family # 22.08.2024
+b00850074 ffff81905292 # 6334 # icam # Sky Cinema Action # Sky Cinema Action # 22.08.2024
 20085000e ffff16ba3afd # 6335 # icam # Sky Comedy HD # Sky Comedy HD # 21.11.2022
-40085000b ffff04931ebe # 6336 # icam # Sky Cinema Thriller HD # Sky Cinema Thriller HD # 21.11.2022
-c0085006b ffffa2eea94b # 6337 # icam # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
+600850204 ffffa2eea94b # 6337 # icam # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
 300850019 ffff31af2542 # 6338 # icam # Sky Cinema Highlights # Sky Cinema Highlights # 22.08.2024
-200850008 ffff513ea954 # 6339 # icam # Sky Cinema Fun # Sky Cinema Fun # 21.11.2022
-600850204 ffff11e9ef04 # 6340 # icam # Sky Cinema Classics # Sky Cinema Classics # 21.11.2022
+600850204 ffff11e9ef04 # 6340 # icam # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
 e00850065 ffffb1229f6e # 6341 # icam # Universal TV HD # Universal TV HD # 21.11.2022
 d0085006e ffffdf4e750f # 6342 # icam # Sky Atlantic HD # Sky Atlantic HD # 21.11.2022
 60085000d ffff0187464d # 6343 # icam # Sky Crime HD # Sky Crime HD # 21.11.2022
@@ -2235,7 +2227,7 @@ e00850194 ffff8217b59c # 6411 # icam # Cartoon Network (S) # Cartoon Network # 2
 600850083 fffff68089b9 # 6431 # vavoo # Sky Cinema Premiere # Sky Cinema Premiere # 22.08.2024
 600850083 ffff935ba72c # 6432 # vavoo # Sky Cinema Premiere # Sky Cinema Premiere # 22.08.2024
 600850083 ffff83298b8c # 6433 # vavoo # Sky Cinema Premiere # Sky Cinema Premiere # 22.08.2024
-600850083 ffff34b84d14 # 6434 # vavoo # Sky Cinema Premieren HD # SKY CINEMA FHD (3) # 21.11.2022
+600850083 ffff34b84d14 # 6434 # vavoo # Sky Cinema Premiere # Sky Cinema Premiere # 22.08.2024
 60085000d ffffab3aa5f3 # 6435 # vavoo # Sky Crime HD # SKY CRIME HEVC (1) # 21.11.2022
 60085000d ffff01569d9e # 6436 # vavoo # Sky Crime HD # SKY CRIME (6) # 21.11.2022
 90085003e ffff74d03c89 # 6437 # vavoo # Sony AXN # SONY AXN (6) # 21.11.2022
@@ -2243,13 +2235,13 @@ e00850194 ffff8217b59c # 6411 # icam # Cartoon Network (S) # Cartoon Network # 2
 a0085007c ffffa4aeb4ea # 6439 # vavoo # Sky Replay # SKY REPLAY RAW (FOX) (1) # 21.11.2022
 b00850074 ffff690c6f70 # 6440 # vavoo # Sky Cinema Action HD # SKY ACTION HD (1) # 21.11.2022
 b00850074 ffffa9f5dceb # 6441 # vavoo # Sky Cinema Action HD # SKY ACTION FHD (3) # 21.11.2022
-b00850074 ffffab625b09 # 6442 # vavoo # Sky Cinema Action HD # SKY CINEMA ACTION RAW (1) # 21.11.2022
-b00850074 ffffc51182ce # 6443 # vavoo # Sky Cinema Action HD # SKY CINEMA ACTION (6) # 21.11.2022
+b00850074 ffffab625b09 # 6442 # vavoo # Sky Cinema Action # Sky Cinema Action # 22.08.2024
+b00850074 ffffc51182ce # 6443 # vavoo # Sky Cinema Action # Sky Cinema Action # 22.08.2024
 b00850074 ffff8b0240a3 # 6444 # vavoo # Sky Cinema Action HD # SKY ACTION HD (3) # 21.11.2022
-c0085006b ffff4d36f000 # 6445 # vavoo # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
-c0085006b fffffd4d9760 # 6446 # vavoo # Sky Cinema Best Of HD # SKY BEST OF HD+ (1) # 21.11.2022
-c0085006b ffffcd92ff82 # 6447 # vavoo # Sky Cinema Best Of HD # SKY BEST OF (1) # 21.11.2022
-c0085006b ffffe15e2082 # 6448 # vavoo # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
+600850204 ffff4d36f000 # 6445 # vavoo # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
+600850204 fffffd4d9760 # 6446 # vavoo # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
+600850204 ffffcd92ff82 # 6447 # vavoo # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
+600850204 ffffe15e2082 # 6448 # vavoo # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
 d0085006e ffffea41669b # 6449 # vavoo # Sky Atlantic HD # SKY ATLANTIC (6) # 21.11.2022
 d0085006e ffff3110dbf1 # 6450 # vavoo # Sky Atlantic HD # SKY ATLANTIC HD (BACKUP) (3) # 21.11.2022
 d0085006e ffff1b0c5f5d # 6451 # vavoo # Sky Atlantic HD # SKY ATLANTIC (3) # 21.11.2022
@@ -2259,75 +2251,16 @@ d0085006e ffff954f9dd9 # 6454 # vavoo # Sky Atlantic HD # SKY ATLANTIC HD (3) # 
 e00850065 ffff5ae3b22f # 6455 # vavoo # Universal TV HD # UNIVERSAL TV HD (1) # 21.11.2022
 e00850065 ffff57809ca7 # 6456 # vavoo # Universal TV HD # UNIVERSAL TV HD+ (1) # 21.11.2022
 e00850065 ffff301bfb7b # 6457 # vavoo # Universal TV HD # UNIVERSAL TV RAW (1) # 21.11.2022
-40085000b ffff1a092fde # 6458 # vavoo # Sky Cinema Thriller HD # SKY CINEMA THRILLER (6) # 21.11.2022
-800850087 ffff8103c37a # 6463 # vavoo # Sky Cinema Premieren +24 HD # SKY CINEMA 24 (3) # 21.11.2022
-800850087 ffff1710a242 # 6464 # vavoo # Sky Cinema Premieren +24 HD # SKY CINEMA 24 FHD (3) # 21.11.2022
-800850087 ffff833b2496 # 6465 # vavoo # Sky Cinema Premieren +24 HD # SKY CINEMA 24 (6) # 21.11.2022
-800850087 ffff4e108260 # 6466 # vavoo # Sky Cinema Premieren +24 HD # SKY CINEMA +24 (6) # 21.11.2022
 200850206 ffff85288bb3 # 6467 # vavoo # Romance TV # ROMANCE TV (6) # 21.11.2022
 200850206 ffffb328f842 # 6468 # vavoo # Romance TV # ROMANCE TV (3) # 21.11.2022
-80085008b ffff347ed981 # 6469 # vavoo # Sky Cinema Family HD # SKY CINEMA FAMILY (6) # 21.11.2022
-80085008b ffff36dee7f6 # 6470 # vavoo # Sky Cinema Family HD # SKY CINEMA FAMILY FHD (3) # 21.11.2022
-80085008b ffffa7b22f3e # 6471 # vavoo # Sky Cinema Family HD # SKY CINEMA FAMILY HEVC (1) # 21.11.2022
-80085008b ffffd0d7561d # 6472 # vavoo # Sky Cinema Family HD # SKY CINEMA FAMILY RAW (1) # 21.11.2022
-80085008b ffffba39c486 # 6473 # vavoo # Sky Cinema Family HD # SKY CINEMA FAMILY (3) # 21.11.2022
+80085008b ffff347ed981 # 6469 # vavoo # Sky Cinema Family # Sky Cinema Family # 22.08.2024
+80085008b ffff36dee7f6 # 6470 # vavoo # Sky Cinema Family # Sky Cinema Family # 22.08.2024
+80085008b ffffa7b22f3e # 6471 # vavoo # Sky Cinema Family # Sky Cinema Family # 22.08.2024
+80085008b ffffd0d7561d # 6472 # vavoo # Sky Cinema Family # Sky Cinema Family # 22.08.2024
+80085008b ffffba39c486 # 6473 # vavoo # Sky Cinema Family # Sky Cinema Family # 22.08.2024
 800850093 ffff2f46beff # 6474 # vavoo # Sky One HD # SKY 1 HD+ (1) # 21.11.2022
 800850093 ffff735185d3 # 6475 # vavoo # Sky One HD # SKY 1 HD (1) # 21.11.2022
 800850093 ffff89b9293d # 6476 # vavoo # Sky One HD # SKY 1 FHD (3) # 21.11.2022
-100850017 ffff83fb2d05 # 6477 # ipcam-wz # Sky Krimi HD # DE: SKY KRIMI HD # 21.11.2022
-100850017 ffffabbd8b52 # 6478 # ipcam-wz # Sky Krimi HD # DE: SKY KRIMI FHD # 21.11.2022
-100850017 ffffc4b4b1d8 # 6479 # ipcam-wz # Sky Krimi HD # DE: SKY KRIMI HD # 21.11.2022
-10085002a ffffd69190d1 # 6480 # ipcam-wz # 13th Street # DE: 13TH STREET HD # 21.11.2022
-10085002a ffff1abbd461 # 6481 # ipcam-wz # 13th Street # DE: 13TH STREET FHD HEVC # 21.11.2022
-10085002a ffff821223b9 # 6482 # ipcam-wz # 13th Street # DE: 13TH STREET FHD # 21.11.2022
-1100850024 ffff4f66deb1 # 6483 # ipcam-wz # Syfy # DE: SYFY HD # 21.11.2022
-1100850024 ffff4b14f324 # 6484 # ipcam-wz # Syfy # DE: SYFY FHD # 21.11.2022
-300850019 ffff9dacf6b8 # 6485 # ipcam-wz # Sky Cinema Special HD # DE: SKY CINEMA SPECIAL FHD # 21.11.2022
-300850019 ffff4c4023f9 # 6486 # ipcam-wz # Sky Cinema Special HD # DE: SKY CINEMA SPECIAL HD # 21.11.2022
-300850019 ffff8d2dd2c6 # 6487 # ipcam-wz # Sky Cinema Special HD # DE: SKY CINEMA SPECIAL FHD HEVC # 21.11.2022
-300850019 ffffed91150e # 6488 # ipcam-wz # Sky Cinema Special HD # DE: SKY CINEMA SPECIAL HD # 21.11.2022
-20085000e ffff5e129fee # 6489 # ipcam-wz # Sky Comedy HD # DE: SKY COMEDY HD # 21.11.2022
-20085000e ffff9a3d9516 # 6490 # ipcam-wz # Sky Comedy HD # DE: SKY COMEDY HD # 21.11.2022
-600850083 ffffbb979082 # 6491 # ipcam-wz # Sky Cinema Premieren HD # DE: SKY CINEMA PREMIEREN HD # 21.11.2022
-600850083 ffffbdeda3a6 # 6492 # ipcam-wz # Sky Cinema Premieren HD # DE: SKY CINEMA PREMIEREN FHD # 21.11.2022
-600850083 ffff54c5541e # 6493 # ipcam-wz # Sky Cinema Premieren HD # DE: SKY CINEMA PREMIERE HD # 21.11.2022
-60085000d ffff528b7d06 # 6494 # ipcam-wz # Sky Crime HD # DE: SKY CRIME HD # 21.11.2022
-60085000d ffffa1be2850 # 6495 # ipcam-wz # Sky Crime HD # DE: SKY CRIME HD # 21.11.2022
-90085003e ffffba3d616a # 6496 # ipcam-wz # Sony AXN # DE: SONY AXN HD # 21.11.2022
-90085003e ffffb6cd923a # 6497 # ipcam-wz # Sony AXN # DE: SONY AXN FHD # 21.11.2022
-a0085007c ffff59e5eaa2 # 6498 # ipcam-wz # Sky Replay # DE: SKY REPLAY HD # 21.11.2022
-a0085007c ffff26c44e25 # 6499 # ipcam-wz # Sky Replay # DE: SKY REPLAY HD # 21.11.2022
-b00850074 ffff4a019911 # 6500 # ipcam-wz # Sky Cinema Action HD # DE: SKY CINEMA ACTION HD # 21.11.2022
-b00850074 ffff967a195e # 6501 # ipcam-wz # Sky Cinema Action HD # DE: SKY CINEMA ACTION HD # 21.11.2022
-b00850074 ffff17bf98c4 # 6502 # ipcam-wz # Sky Cinema Action HD # DE: SKY CINEMA ACTION FHD # 21.11.2022
-b00850074 ffffc9116f6c # 6503 # ipcam-wz # Sky Cinema Action HD # DE: SKY CINEMA ACTION FHD HEVC # 21.11.2022
-c0085006b ffffe50351e6 # 6504 # ipcam-wz # Sky Cinema Best Of HD # DE: SKY CINEMA BEST OF FHD HEVC # 21.11.2022
-c0085006b ffffe9b75529 # 6505 # ipcam-wz # Sky Cinema Best Of HD # DE: SKY CINEMA BEST OF FHD # 21.11.2022
-c0085006b ffffaa3d51c0 # 6506 # ipcam-wz # Sky Cinema Best Of HD # DE: SKY CINEMA BEST OF HD # 21.11.2022
-c0085006b ffffe88c7608 # 6507 # ipcam-wz # Sky Cinema Best Of HD # DE: SKY CINEMA BEST OF HD # 21.11.2022
-d0085006e fffffa0aaf5c # 6508 # ipcam-wz # Sky Atlantic HD # DE: SKY ATLANTIC HD # 21.11.2022
-d0085006e ffff76c4ff16 # 6509 # ipcam-wz # Sky Atlantic HD # DE: SKY ATLANTIC HD # 21.11.2022
-d0085006e ffff3371f750 # 6510 # ipcam-wz # Sky Atlantic HD # DE: SKY ATLANTIC FHD # 21.11.2022
-d0085006e ffff6b645b07 # 6511 # ipcam-wz # Sky Atlantic HD # DE: SKY ATLANTIC FHD HEVC # 21.11.2022
-e00850065 ffffc1bb7f66 # 6512 # ipcam-wz # Universal TV HD # DE: UNIVERSAL TV HD # 21.11.2022
-e00850065 ffffa6248384 # 6513 # ipcam-wz # Universal TV HD # DE: UNIVERSAL TV FHD # 21.11.2022
-40085000b ffffa485808d # 6514 # ipcam-wz # Sky Cinema Thriller HD # DE: SKY CINEMA THRILLER HD # 21.11.2022
-40085000b ffff0d9c2a0e # 6515 # ipcam-wz # Sky Cinema Thriller HD # DE: SKY CINEMA THRILLER FHD # 21.11.2022
-40085000b ffff39b67306 # 6516 # ipcam-wz # Sky Cinema Thriller HD # DE: SKY CINEMA THRILLER HD # 21.11.2022
-800850087 ffff1ac7d909 # 6517 # ipcam-wz # Sky Cinema Premieren +24 HD # DE: SKY CINEMA 24 HD # 21.11.2022
-800850087 ffff774b59be # 6518 # ipcam-wz # Sky Cinema Premieren +24 HD # DE: SKY CINEMA PREMIEREN 24 HD # 21.11.2022
-800850087 ffff9471d667 # 6519 # ipcam-wz # Sky Cinema Premieren +24 HD # DE: SKY CINEMA PREMIEREN +24 HD # 21.11.2022
-800850087 ffffc3ac40fe # 6520 # ipcam-wz # Sky Cinema Premieren +24 HD # DE: SKY CINEMA PREMIEREN +24 HD # 21.11.2022
-800850087 ffff00766fe3 # 6521 # ipcam-wz # Sky Cinema Premieren +24 HD # DE: SKY CINEMA +24 HD # 21.11.2022
-800850087 fffff0a9fc73 # 6522 # ipcam-wz # Sky Cinema Premieren +24 HD # DE: SKY CINEMA PREMIEREN +24 FHD # 21.11.2022
-800850087 ffff82eee3b3 # 6523 # ipcam-wz # Sky Cinema Premieren +24 HD # DE: SKY CINEMA PREMIEREN 24 HD # 21.11.2022
-200850206 ffff8b479ace # 6524 # ipcam-wz # Romance TV # DE: ROMANCE TV HD # 21.11.2022
-80085008b ffffcc4b5566 # 6525 # ipcam-wz # Sky Cinema Family HD # DE: SKY CINEMA FAMILY FHD # 21.11.2022
-80085008b ffff2e7ec4b4 # 6526 # ipcam-wz # Sky Cinema Family HD # DE: SKY CINEMA FAMILY HD # 21.11.2022
-80085008b ffff0490623b # 6527 # ipcam-wz # Sky Cinema Family HD # DE: SKY CINEMA FAMILY HD # 21.11.2022
-800850093 ffffff59a7ce # 6528 # ipcam-wz # Sky One HD # DE: SKY ONE FHD HEVC # 21.11.2022
-800850093 ffff9785152b # 6529 # ipcam-wz # Sky One HD # DE: SKY ONE FHD # 21.11.2022
-800850093 ffff6b445cf7 # 6530 # ipcam-wz # Sky One HD # DE: SKY ONE HD # 21.11.2022
 2715f001c481 245270fe2fd # 6531 # Vodafone-KD # Silverline # Silverline # 21.11.2022
 271cf001c39f 19b270fa092 # 6532 # Vodafone-KD # GEO TV HD # GEO TV HD # 21.11.2022
 40200012753 45700011c20 # 6534 # Vodafone-KD # Bloomberg Europe TV # Bloomberg Europe TV # 21.11.2022
@@ -2355,7 +2288,7 @@ b0085007b 80085007b # 6561 # SAT # Warner TV Serie # Warner TV Serie HD # 23.03.
 90085008d 20085008d # 6564 # SAT # Sky Sport Mix HD # Sky Sport Mix HD # 23.03.2023
 900850091 400850091 # 6565 # SAT # Sky Sport Premier League HD # Sky Sport Premier League HD # 23.03.2023
 900850129 800850129 # 6566 # SAT # Sky Sport Bundesliga HD 4 # Sky Sport Bundesliga 4 HD # 23.03.2023
-b00850074 300850074 # 6567 # SAT # Sky Cinema Action HD # Sky Cinema Action HD # 23.03.2023
+b00850074 300850074 # 6567 # SAT # Sky Cinema Action # Sky Cinema Action # 22.08.2024
 1da04671f2 206c009c0267 # 6569 # TeleColumbus # nick jr. # Nick Jr. # 23.03.2023
 3200013e0001 1fa4009c06a4 # 6570 # TeleColumbus # MTV Live HD # MTV Live HD # 23.03.2023
 2721f001cf16 1bbc009c0802 # 6571 # TeleColumbus # eSports1 HD # eSports1 HD # 23.03.2023
@@ -2378,7 +2311,7 @@ d00850090 ffff82c9e958 # 6588 # icam # Sky Sport Golf HD # Sky Sport Golf HD # 2
 600850149 ffff309a28f1 # 6590 # icam # Sky Sport Austria 2 HD # Sky Sport Austria 2 HD # 23.03.2023
 1000850153 ffff7366606a # 6591 # icam # Sky Sport Austria 3 HD # Sky Sport Austria 3 HD # 23.03.2023
 400850155 ffffb9c19762 # 6592 # icam # Prime Video Sportsbar # Prime Video Sportsbar # 23.03.2023
-b00850074 ffff03d4d4d1 # 6593 # icam # Sky Cinema Action HD # Sky Cinema Action HD # 23.03.2023
+b00850074 ffff03d4d4d1 # 6593 # icam # Sky Cinema Action # Sky Cinema Action # 22.08.2024
 300850010 ffff5a674253 # 6594 # icam # Sky Documentaries HD # Sky Documentaries HD # 23.03.2023
 20085000f ffff2f2e13b2 # 6595 # icam # Sky Nature HD # Sky Nature HD # 23.03.2023
 e00850065 ffff65fa6ffb # 6596 # icam # Universal TV HD # Universal TV HD # 23.03.2023
@@ -2391,8 +2324,7 @@ c00850120 ffff0ab29abf # 6602 # icam # Sky Sport HD 3 # Sky Sport HD 3 # 23.03.2
 90085012a ffffd8332448 # 6603 # icam # Sky Sport HD 4 # Sky Sport HD 4 # 23.03.2023
 b00850084 ffff3ede724c # 6604 # icam # DAZN 1 Bar HD # DAZN 1 Bar HD # 23.03.2023
 b0085007b ffff815c1bb4 # 6605 # icam # Warner TV Serie # Warner TV Serie # 23.03.2023
-200850008 ffffc612a0a9 # 6606 # icam # Sky Cinema Fun # Sky Cinema Fun # 23.03.2023
-600850204 ffffc92dc58a # 6607 # icam # Sky Cinema Classics # Sky Cinema Classics # 23.03.2023
+600850204 ffffc92dc58a # 6607 # icam # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
 1da04671f2 ffffeb2e5b1d # 6608 # icam # nick jr. # nick jr. # 23.03.2023
 40200012742 1644009c00ec # 6609 # SAT # BBC World # BBC World # 28.03.2023
 90085007d b0085007d # 6610 # SAT # CNBC HD # CNBC HD # 28.03.2023
@@ -2404,14 +2336,13 @@ ffff281c24dc 200550122 # 6612 # SAT # Deutsche Welle TV # Deutsche Welle TV # 30
 b0085007a ffffc13abc22 # 6639 # icam # DAZN 2 Bar HD # DAZN 2 HD # 01.11.2023
 b0085007a 80085007a # 6641 # SAT # DAZN 2 Bar HD # DAZN 2 Bar HD # 03.11.2023
 b0085007a ffff951d23ec # 6642 # icam # DAZN 2 Bar HD # DAZN 2 Bar HD # 03.11.2023
-b00850074 900850074 # 6643 # SAT # Sky Cinema Action HD # Sky Cinema Action HD # 08.12.2023
+b00850074 900850074 # 6643 # SAT # Sky Cinema Action # Sky Cinema Action # 22.08.2024
 e00850065 1000850065 # 6644 # SAT # Universal TV HD # Universal TV HD # 08.12.2023
 300850011 900850011 # 6645 # SAT # Sky Sport F1 HD # Sky Sport F1 HD # 08.12.2023
 90085008f 40085008f # 6646 # SAT # Sky Sport Austria 1 HD # Sky Sport Austria 1 HD # 08.12.2023
 600850149 d00850149 # 6647 # SAT # Sky Sport Austria 2 HD # Sky Sport Austria 2 HD # 08.12.2023
 300850146 900850146 # 6648 # SAT # Sky Sport Austria 5 HD # Sky Sport Austria 5 HD # 08.12.2023
 400850155 900850155 # 6649 # SAT # Prime Video Sportsbar # Prime Video Sportsbar # 08.12.2023
-200850008 900850008 # 6650 # SAT # Sky Cinema Fun # Sky Cinema Fun # 08.12.2023
 800850085 900850085 # 6651 # SAT # Beate-Uhse.TV HD # Beate-Uhse.TV HD # 08.12.2023
 b0085007b 100085007b # 6652 # SAT # Warner TV Serie # Warner TV Serie # 08.12.2023
 90085012a 40085012a # 6653 # SAT # Sky Sport HD 4 # Sky Sport HD 4 # 08.12.2023
@@ -2434,7 +2365,6 @@ e00850193 ffff42384af9 # 6668 # icam # Cartoonito # Cartoonito # 08.12.2023
 90085008f ffff89ed6011 # 6670 # icam # Sky Sport Austria 1 HD # Sky Sport Austria 1 HD # 08.12.2023
 600850149 ffff17dc5cb6 # 6671 # icam # Sky Sport Austria 2 HD # Sky Sport Austria 2 HD # 08.12.2023
 300850146 ffff9abb220f # 6672 # icam # Sky Sport Austria 5 HD # Sky Sport Austria 5 HD # 08.12.2023
-200850008 ffff0412b7bd # 6673 # icam # Sky Cinema Fun # Sky Cinema Fun # 08.12.2023
 b0085007b ffffd5472e1b # 6674 # icam # Warner TV Serie # Warner TV Serie # 08.12.2023
 b0085007a ffffae646c23 # 6675 # icam # DAZN 2 Bar HD # DAZN 2 Bar HD # 08.12.2023
 800850085 ffffc1073266 # 6676 # icam # Beate-Uhse.TV HD # Beate-Uhse.TV HD # 08.12.2023
@@ -2463,3 +2393,31 @@ b00850105 900850105 # 6731 # SAT # Sky Sport Austria 7 # Sky Sport Austria 7 # 2
 45b0001332p 45900013159 # 6741 # SAT # DOKUSAT # DOKUSAT # 22.08.2024
 45b00013336 2100850381 # 6742 # SAT # Genius TV # Genius Trend # 22.08.2024
 45d000132db 3ef00011342 # 6743 # SAT # RiC # RiC # 22.08.2024
+1100850016 ffff52448dc3 # 6745 # WebTV # Heimatkanal # Heimatkanal # 22.08.2024
+200850206 ffff940d1a1f # 6746 # WebTV # Romance TV # Romance TV # 22.08.2024
+c9270f660b ffff680419bd # 6747 # WebTV # Universal TV # Universal TV # 22.08.2024
+10085002a fffff4fd5d9b # 6748 # WebTV # 13th Street # 13th Street # 22.08.2024
+1100850024 ffffcfc5ded4 # 6749 # WebTV # Syfy # SYFY # 22.08.2024
+600850083 ffff8b62c46d # 6750 # WebTV # Sky Cinema Premiere # Sky Cinema Premiere # 22.08.2024
+600850204 ffffc67cff4c # 6751 # WebTV # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
+300850019 fffff977e93a # 6752 # WebTV # Sky Cinema Highlights # Sky Cinema Highlights # 22.08.2024
+a0085007c ffff0612cf1b # 6753 # WebTV # Sky Replay # Sky Replay # 22.08.2024
+407000114c2 ffff78f30ce6 # 6754 # WebTV # kabel eins classics # kabel eins classics # 22.08.2024
+3f70001125d ffff5788498a # 6755 # WebTV # SAT.1 emotions # SAT.1 emotions # 22.08.2024
+10085001d ffffd970d528 # 6756 # WebTV # RTL Passion # RTL Passion # 22.08.2024
+3ef0001132f ffff55b53e32 # 6757 # WebTV # ORF1 HD # ORF1 HD # 22.08.2024
+3ed000133fc ffffb963b7bb # 6758 # WebTV # ORF III HD # ORF III HD # 22.08.2024
+3eb000133ac ffffa67a14d5 # 6759 # WebTV # ATV HD # ATV HD # 22.08.2024
+43a00014e27 ffff7bd69043 # 6760 # WebTV # PULS 4 Austria # PULS 4 Austria # 22.08.2024
+300c013e4331 ffffe13c660a # 6761 # WebTV # SRF 1 HD # SRF 1 HD # 22.08.2024
+300c013e4332 ffff05bb7eed # 6762 # WebTV # SRF zwei HD # SRF zwei HD # 22.08.2024
+100850017 ffff2d56c523 # 6763 # WebTV # Sky Krimi HD # Sky Krimi HD # 22.08.2024
+15f270f75a4 ffff8d94b6df # 6764 # WebTV # Kinowelt TV HD # Kinowelt TV HD # 22.08.2024
+b00850074 ffff364add83 # 6765 # WebTV # Sky Cinema Action # Sky Cinema Action # 22.08.2024
+80085008b ffff333b72bd # 6766 # WebTV # Sky Cinema Family # Sky Cinema Family # 22.08.2024
+d0085006e ffff3307aefa # 6767 # WebTV # Sky Atlantic HD # Sky Atlantic HD # 22.08.2024
+12d270f75a3 ffff8150f2c6 # 6768 # WebTV # Pro Sieben Fun # Pro Sieben Fun # 22.08.2024
+187270fb415 ffff1e818d08 # 6769 # WebTV # RTL Living HD # RTL Living HD # 22.08.2024
+3ef00011330 ffff01aa9a5f # 6770 # WebTV # ORF2 HD # ORF2 HD # 22.08.2024
+3eb000133a7 ffffec1db133 # 6771 # WebTV # ATV2 # ATV2 # 22.08.2024
+3f700011260 ffffcfdb4b92 # 6772 # WebTV # 3+ HD # 3+ HD # 22.08.2024
