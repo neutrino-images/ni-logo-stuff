@@ -1,4 +1,30 @@
 #Logo Symlink File-ID Provid LogoName SymlinkName TimeStamp
+15f270f891d 4b100016e92 # 2538 # SAT # WDR # WDR Bielefeld # 07.09.2017
+15f270f891d 4b100016e93 # 2539 # SAT # WDR # WDR Dortmund # 07.09.2017
+15f270f891d 4b100016e94 # 2540 # SAT # WDR # WDR Düsseldorf # 07.09.2017
+15f270f891d 4b100016e95 # 2541 # SAT # WDR # WDR Essen # 07.09.2017
+15f270f891d 4b100016e96 # 2542 # SAT # WDR # WDR Münster # 07.09.2017
+15f270f891d 4b100016e97 # 2543 # SAT # WDR # WDR Siegen # 07.09.2017
+40f00012888 4b100016eec # 2552 # SAT # One HD # One HD # 04.09.2016
+c00850073 514013e3ab7 # 2563 # Hotbird # MGM HD # MGM HD # 09.01.2014
+40085000d 514013e3ab8 # 2564 # SAT # National Geographic # National Geographic # 03.07.2025
+1100850013 100850013 # 2566 # Unitymedia # Junior # Junior # 26.10.2016
+1100850015 100850015 # 2567 # Unitymedia # Beate-Uhse.TV # Beate-Uhse.TV # 26.10.2016
+1100850016 100850016 # 2568 # Unitymedia # Heimatkanal # Heimatkanal # 26.10.2016
+1a5270f759c 100850018 # 2570 # Unitymedia # Classica # Classica # 26.10.2016
+110085001a 10085001a # 2571 # Unitymedia # Disney Junior # Disney Junior (S) # 26.10.2016
+90085008c 10085001b # 2572  # RTL Crime HD # RTL Crime # 26.09.2021
+110085001c 10085001c # 2573 # Unitymedia # Disney XD # Disney XD (S) # 26.10.2016
+90085008f 10085001e # 2575 # Unitymedia # Sky Sport Austria 1 HD # Sky Sport Austria 1 # 27.09.2020
+d0085006e 100850022 # 2576 # Unitymedia # Sky Atlantic HD # Sky Atlantic # 26.07.2020
+1100850024 100850024 # 2577 # Unitymedia # Syfy # SYFY (S) # 26.10.2016
+b0085007b 100850032 # 2579 # Unitymedia # Warner TV Serie # Warner TV Serie # 26.09.2021
+1100850137 100850137 # 2581 # Unitymedia # Sky Select 7 # Sky Select 7 # 26.10.2016
+90085013d 100850138 # 2582 # Unitymedia # Sky Sport Bundesliga HD 6 # Sky Sport Bundesliga 6 # 20.11.2022
+30085013e 100850139 # 2583 # Unitymedia # Sky Sport 6 HD # Sky Sport 6 # 20.11.2022
+1100850141 100850141 # 2584 # Unitymedia # Sky Select 8 # Sky Select 8 # 26.10.2016
+1000850147 100850142 # 2585 # Unitymedia # Sky Sport Bundesliga HD 7 # Sky Sport Bundesliga 7 # 20.11.2022
+300850148 100850143 # 2586 # Unitymedia # Sky Sport 7 HD # Sky Sport 7 # 28.03.2023
 43100016e44 431a4016e46 # 2361 # Unitymedia # mdr # MDR Thüringen # 07.09.2017
 43100016e47 431a4016e47 # 2362 # Unitymedia # SWR Fernsehen RP # SWR Fernsehen RP # 26.10.2016
 43600017001 43600016fff # 2363  # MTV # MTV # 26.09.2021
@@ -50,11 +76,36 @@
 f0085003a 44e00013391 # 2452 # SAT # History # HISTORY # 23.09.2014
 90085003c 44e00013396 # 2454 # SAT # Kinowelt TV # Kinowelt TV # 09.01.2014
 100850010 44e00013399 # 2455 # SAT # Fox Serie # Fox Serie # 09.01.2014
-600850082 452000123f5 # 2456 # SAT # Discovery HD # Discovery HD # 09.01.2014
-600850082 45200012409 # 2457 # SAT # Discovery HD # Discovery HD # 09.01.2014
+40085000d 452000123f5 # 2456 # SAT # National Geographic # National Geographic # 03.07.2025
+40085000d 45200012409 # 2457 # SAT # National Geographic # National Geographic # 03.07.2025
 2100850033 45300010033 # 2459 # Wilhelm_tell # TELE 5 # TELE 5 # 09.01.2014
 2100850384 45300010384 # 2460 # Wilhelm_tell # SPORT1 # SPORT1 # 09.01.2014
 4530001445c 45300014463 # 2468 # SAT # SAT.1 # SAT.1 # 09.01.2014
+110085014b 10085014b # 2587 # Unitymedia # Sky Select 9 # Sky Select 9 # 26.10.2016
+a00850151 10085014c # 2588 # Unitymedia # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga 8 # 20.11.2022
+1000850152 10085014d # 2589 # Unitymedia # Sky Sport 8 HD # Sky Sport 8 # 20.11.2022
+110085014e 10085014e # 2590 # Unitymedia # Sky Select Event B # Sky Select Event B # 26.10.2016
+200850206 100850206 # 2594 # Unitymedia # Romance TV # Romance TV # 29.11.2017
+100850010 1008503f8 # 2595 # Unitymedia # Fox Serie # Fox Serie # 26.10.2016
+1100850024 10085040c # 2598 # Unitymedia # Syfy # Syfy # 26.10.2016
+b0085007b 10085041a # 2599 # Unitymedia # Warner TV Serie # Warner TV Serie # 26.09.2021
+2712f001d03e 10a0463e94 # 2601 # Wilhelm_tell # Animax # Animax # 09.01.2014
+e00850192 10a0463e9e # 2602 # Wilhelm_tell # C&I # C&I # 28.06.2019
+2715a60601ff 10a0463f0c # 2603 # Wilhelm_tell # BTV # BTV # 08.04.2019
+3fe00011af8 10f270f4e93 # 2604 # Unitymedia # Russia Today # Russia Today # 26.10.2016
+3fe00011b02 10f270f4e97 # 2605 # Unitymedia # CCTV NEWS # CCTV NEWS # 26.10.2016
+90085013d 1100850138 # 2617  # Sky Sport Bundesliga HD 6 # Sky Sport Bundesliga 6 # 20.11.2022
+30085013e 1100850139 # 2618  # Sky Sport 6 HD # Sky Sport 6 # 20.11.2022
+1000850147 1100850142 # 2620  # Sky Sport Bundesliga HD 7 # Sky Sport Bundesliga 7 # 20.11.2022
+300850148 1100850143 # 2621  # Sky Sport 7 HD # Sky Sport 7 # 20.11.2022
+a00850151 110085014c # 2623  # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga 8 # 20.11.2022
+1000850152 110085014d # 2624  # Sky Sport 8 HD # Sky Sport 8 # 20.11.2022
+e0085006d 12c013e3b63 # 2628 # Hotbird # Eurosport 2 HD # Eurosport 2 HD # 09.01.2014
+20085000f 12c013e3b65 # 2629 # Hotbird # Sky Nature HD # Sky Nature HD # 23.03.2023
+1da0467166 12c013e3b66 # 2630 # Hotbird # Animal Planet HD # Animal Planet HD # 09.01.2014
+3f700011269 13a0464ab0 # 2641 # Wilhelm_tell # Die Neue Zeit TV # Die Neue Zeit TV # 09.01.2014
+443000179f4 13a0464ad8 # 2642 # Wilhelm_tell # EuroNews # EuroNews # 09.01.2014
+40085000d 13a0464b46 # 2643 # Wilhelm_tell # National Geographic # National Geographic # 03.07.2025
 4530001445c 45300014464 # 2469 # SAT # SAT.1 # SAT.1 # 09.01.2014
 4530001445c 453a018445c # 2470 # KabelBW # SAT.1 # SAT.1 # 09.01.2014
 4530001445d 453a018445d # 2471 # KabelBW # ProSieben # ProSieben # 09.01.2014
@@ -86,57 +137,6 @@ f0085003a 44e00013391 # 2452 # SAT # History # HISTORY # 23.09.2014
 90085003e 4a04428a2 # 2535 # Primacom # Sony AXN # Sony AXN # 13.01.2020
 40085000d 4a04428a3 # 2536 # Primacom # NationalGeographic # NationalGeographic # 09.01.2014
 45d000132ca 4a04428af # 2537 # Primacom # ORF2 # ORF2 # 09.01.2014
-15f270f891d 4b100016e92 # 2538 # SAT # WDR # WDR Bielefeld # 07.09.2017
-15f270f891d 4b100016e93 # 2539 # SAT # WDR # WDR Dortmund # 07.09.2017
-15f270f891d 4b100016e94 # 2540 # SAT # WDR # WDR Düsseldorf # 07.09.2017
-15f270f891d 4b100016e95 # 2541 # SAT # WDR # WDR Essen # 07.09.2017
-15f270f891d 4b100016e96 # 2542 # SAT # WDR # WDR Münster # 07.09.2017
-15f270f891d 4b100016e97 # 2543 # SAT # WDR # WDR Siegen # 07.09.2017
-40f00012888 4b100016eec # 2552 # SAT # One HD # One HD # 04.09.2016
-c00850073 514013e3ab7 # 2563 # Hotbird # MGM HD # MGM HD # 09.01.2014
-600850082 514013e3ab8 # 2564 # SAT # Discovery HD # Discovery HD # 09.01.2014
-1100850013 100850013 # 2566 # Unitymedia # Junior # Junior # 26.10.2016
-1100850015 100850015 # 2567 # Unitymedia # Beate-Uhse.TV # Beate-Uhse.TV # 26.10.2016
-1100850016 100850016 # 2568 # Unitymedia # Heimatkanal # Heimatkanal # 26.10.2016
-1a5270f759c 100850018 # 2570 # Unitymedia # Classica # Classica # 26.10.2016
-110085001a 10085001a # 2571 # Unitymedia # Disney Junior # Disney Junior (S) # 26.10.2016
-90085008c 10085001b # 2572  # RTL Crime HD # RTL Crime # 26.09.2021
-110085001c 10085001c # 2573 # Unitymedia # Disney XD # Disney XD (S) # 26.10.2016
-90085008f 10085001e # 2575 # Unitymedia # Sky Sport Austria 1 HD # Sky Sport Austria 1 # 27.09.2020
-d0085006e 100850022 # 2576 # Unitymedia # Sky Atlantic HD # Sky Atlantic # 26.07.2020
-1100850024 100850024 # 2577 # Unitymedia # Syfy # SYFY (S) # 26.10.2016
-b0085007b 100850032 # 2579 # Unitymedia # Warner TV Serie # Warner TV Serie # 26.09.2021
-1100850137 100850137 # 2581 # Unitymedia # Sky Select 7 # Sky Select 7 # 26.10.2016
-90085013d 100850138 # 2582 # Unitymedia # Sky Sport Bundesliga HD 6 # Sky Sport Bundesliga 6 # 20.11.2022
-30085013e 100850139 # 2583 # Unitymedia # Sky Sport 6 HD # Sky Sport 6 # 20.11.2022
-1100850141 100850141 # 2584 # Unitymedia # Sky Select 8 # Sky Select 8 # 26.10.2016
-1000850147 100850142 # 2585 # Unitymedia # Sky Sport Bundesliga HD 7 # Sky Sport Bundesliga 7 # 20.11.2022
-300850148 100850143 # 2586 # Unitymedia # Sky Sport 7 HD # Sky Sport 7 # 28.03.2023
-110085014b 10085014b # 2587 # Unitymedia # Sky Select 9 # Sky Select 9 # 26.10.2016
-a00850151 10085014c # 2588 # Unitymedia # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga 8 # 20.11.2022
-1000850152 10085014d # 2589 # Unitymedia # Sky Sport 8 HD # Sky Sport 8 # 20.11.2022
-110085014e 10085014e # 2590 # Unitymedia # Sky Select Event B # Sky Select Event B # 26.10.2016
-200850206 100850206 # 2594 # Unitymedia # Romance TV # Romance TV # 29.11.2017
-100850010 1008503f8 # 2595 # Unitymedia # Fox Serie # Fox Serie # 26.10.2016
-1100850024 10085040c # 2598 # Unitymedia # Syfy # Syfy # 26.10.2016
-b0085007b 10085041a # 2599 # Unitymedia # Warner TV Serie # Warner TV Serie # 26.09.2021
-2712f001d03e 10a0463e94 # 2601 # Wilhelm_tell # Animax # Animax # 09.01.2014
-e00850192 10a0463e9e # 2602 # Wilhelm_tell # C&I # C&I # 28.06.2019
-2715a60601ff 10a0463f0c # 2603 # Wilhelm_tell # BTV # BTV # 08.04.2019
-3fe00011af8 10f270f4e93 # 2604 # Unitymedia # Russia Today # Russia Today # 26.10.2016
-3fe00011b02 10f270f4e97 # 2605 # Unitymedia # CCTV NEWS # CCTV NEWS # 26.10.2016
-90085013d 1100850138 # 2617  # Sky Sport Bundesliga HD 6 # Sky Sport Bundesliga 6 # 20.11.2022
-30085013e 1100850139 # 2618  # Sky Sport 6 HD # Sky Sport 6 # 20.11.2022
-1000850147 1100850142 # 2620  # Sky Sport Bundesliga HD 7 # Sky Sport Bundesliga 7 # 20.11.2022
-300850148 1100850143 # 2621  # Sky Sport 7 HD # Sky Sport 7 # 20.11.2022
-a00850151 110085014c # 2623  # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga 8 # 20.11.2022
-1000850152 110085014d # 2624  # Sky Sport 8 HD # Sky Sport 8 # 20.11.2022
-e0085006d 12c013e3b63 # 2628 # Hotbird # Eurosport 2 HD # Eurosport 2 HD # 09.01.2014
-20085000f 12c013e3b65 # 2629 # Hotbird # Sky Nature HD # Sky Nature HD # 23.03.2023
-1da0467166 12c013e3b66 # 2630 # Hotbird # Animal Planet HD # Animal Planet HD # 09.01.2014
-3f700011269 13a0464ab0 # 2641 # Wilhelm_tell # Die Neue Zeit TV # Die Neue Zeit TV # 09.01.2014
-443000179f4 13a0464ad8 # 2642 # Wilhelm_tell # EuroNews # EuroNews # 09.01.2014
-600850082 13a0464b46 # 2643 # Wilhelm_tell # Discovery HD # Discovery HD # 09.01.2014
 3f90001ef74 141270f7d65 # 2646 # Unitymedia # SAT.1 HD # SAT.1 HD # 26.10.2016
 3f90001ef75 141270f7d66 # 2647 # Unitymedia # ProSieben HD # ProSieben HD # 26.10.2016
 3f90001ef76 141270f7d67 # 2648 # Unitymedia # kabel eins HD # kabel eins HD # 26.10.2016
@@ -420,17 +420,18 @@ c00850069 4008500df # 3125 # SAT # Sky Sport Bundesliga HD # Sky Sport Bundeslig
 43100016e44 431a4016e44 # 3235 # Unitymedia # mdr # MDR Sachsen # 07.09.2017
 43100016e44 431a4016e45 # 3236 # Unitymedia # mdr # MDR S-Anhalt # 07.09.2017
 1af270f797f 514013e3abe # 3237 # Hotbird # Romance TV HD # Romance TV HD Polska # 09.01.2014
-600850082 51cfbff2c26 # 3238 # SAT # Discovery HD # Discovery HD # 09.01.2014
+40085000d 51cfbff2c26 # 3238 # SAT # National Geographic # National Geographic # 03.07.2025
 1da04671f2 578013e001e # 3239 # Hotbird # nick jr. # Nick Jr. # 09.01.2014
 40200012742 5a0442908 # 3240 # Primacom # BBC World # BBC World # 09.01.2014
 42300011bbe 5dc013e13f6 # 3242 # Hotbird # TVP INFO # TVP INFO # 09.01.2014
 20085000f 600850076 # 3243 # Vodafone-KD # Sky Nature HD # Sky Nature HD # 23.03.2023
 b0085007b 60085007b # 3244 # Unitymedia # Warner TV Serie # Warner TV Serie # 26.09.2021
 a0085007c 60085007c # 3245 # Unitymedia # Sky Replay # Sky Replay # 26.10.2016
+40085000d 600850082 # 3247 # Unitymedia # National Geographic # National Geographic # 03.07.2025
 b0085007b 600850463 # 3252 # Unitymedia # Warner TV Serie # Warner TV Serie # 26.09.2021
 a0085007c 600850464 # 3253 # Unitymedia # Sky Replay # Sky Replay # 05.10.2021
-600850082 60085046a # 3254 # Unitymedia # Discovery HD # Discovery HD # 26.10.2016
-600850082 640013e3dba # 3255 # SAT # Discovery HD # Discovery HD # 09.01.2014
+40085000d 60085046a # 3254 # Unitymedia # National Geographic # National Geographic # 03.07.2025
+40085000d 640013e3dba # 3255 # SAT # National Geographic # National Geographic # 03.07.2025
 443000179f4 6a044296f # 3256 # Primacom # EuroNews # EuroNews # 09.01.2014
 443000179e0 6a0442970 # 3257 # Primacom # Eurosport Deutschland # Eurosport Deutschland # 09.01.2014
 500850030 700850035 # 3275 # SAT # N24 Doku # N24 DOKU Austria # 08.04.2019
@@ -465,7 +466,7 @@ e0085008c 8d270f371f # 3338 # Unitymedia # Warner TV Film # Warner TV Film # 26.
 45b00013331 8d270f3720 # 3339 # KabelBW # Sport1 US # Sport1 US # 09.01.2014
 200850206 8d270f372b # 3340 # Unitymedia # Romance TV # Romance TV # 29.11.2017
 15a0460264 8d270f3b04 # 3341 # Unitymedia # Lust pur # Lust pur # 26.10.2016
-600850082 8fbff1069 # 3342 # SAT # Discovery HD # Discovery HD # 09.01.2014
+40085000d 8fbff1069 # 3342 # SAT # National Geographic # National Geographic # 03.07.2025
 443000179f4 9000002d7f0 # 3344 # SAT # EuroNews # EuroNews # 09.01.2014
 e0085008c 90085003d # 3346  # Warner TV Film # Warner TV Film # 26.09.2021
 f00850037 900850041 # 3348  # Eurosport 2 # Eurosport 2 # 12.11.2015
@@ -751,7 +752,7 @@ a0085007d 191270f9ca5 # 3925 # Unitymedia # Sony AXN HD # Sony AXN HD # 13.01.20
 443000179ea 2721f001c756 # 3943 # Vodafone-KD # HSE24 EXTRA # HSE24 Extra # 27.10.2016
 45400010d42 2726f001c61a # 3944 # Vodafone-KD # QVC PLUS # QVC PLUS # 27.10.2016
 f0085003a 2af8013e116b # 3945 # Niederlande # History # History # 23.09.2014
-600850082 c8800031b62 # 3946 # Niederlande # Discovery HD # Discovery HD # 23.09.2014
+40085000d c8800031b62 # 3946 # Niederlande # National Geographic # National Geographic # 03.07.2025
 500850701 c82000317b1 # 3947 # Niederlande # Disney Channel # Disney Channel # 23.09.2014
 e00850194 c96000351cc # 3948 # Niederlande # Cartoon Network (S) # Cartoon Network (S) # 24.09.2015
 43600017001 c96000351d3 # 3949 # Niederlande # MTV Germany # MTV Germany # 23.09.2014
@@ -847,9 +848,9 @@ ffff281c24dc c8e0003025f # 4097 # SAT # Deutsche Welle TV # Deutsche Welle TV # 
 20085000f 44e00011973 # 4135 # SAT # Sky Nature HD # Sky Nature HD # 23.03.2023
 20085000f 1bbc013e3c8e # 4137 # SAT # Sky Nature HD # Sky Nature HD # 23.03.2023
 20085000f c9a000302f9 # 4138 # SAT # Sky Nature HD # Sky Nature HD # 23.03.2023
-600850082 7f200020f4c # 4139 # SAT # Discovery HD # Discovery HD # 24.09.2014
-600850082 1d4cfbff1015 # 4140 # SAT # Discovery HD # Discovery HD # 24.09.2014
-600850082 43e000126ad # 4141 # SAT # Discovery HD # DISCOVERY HD # 24.09.2014
+40085000d 7f200020f4c # 4139 # SAT # National Geographic # National Geographic # 03.07.2025
+40085000d 1d4cfbff1015 # 4140 # SAT # National Geographic # National Geographic # 03.07.2025
+40085000d 43e000126ad # 4141 # SAT # National Geographic # National Geographic # 03.07.2025
 7d90002183a 1c84013e017d # 4147 # SAT # Animal Planet # Animal Planet # 24.09.2014
 7d90002183a 2580fbff2c90 # 4148 # SAT # Animal Planet # Animal Planet # 24.09.2014
 7d90002183a 5dc013e1402 # 4149 # SAT # Animal Planet # ANIMAL PLANET # 24.09.2014
@@ -980,7 +981,7 @@ f1270f5e38 1703e800ee # 4518 # NiederlandeCable # XITE # Xite # 29.09.2014
 44d00016dca 103e803e9 # 4520 # NiederlandeCable # Das Erste # ARD # 29.09.2014
 e00850194 1203e84651 # 4521 # NiederlandeCable # Cartoon Network (S) # Cartoon Network # 24.09.2015
 42c00016f6a 403e80fb5 # 4522 # NiederlandeCable # CNN Int. # CNN International # 29.09.2014
-600850082 1303e800ef # 4523 # NiederlandeCable # Discovery HD # Discovery Channel HD # 29.09.2014
+40085000d 1303e800ef # 4523 # NiederlandeCable # National Geographic # National Geographic # 03.07.2025
 110085001c 1e03e800d6 # 4524 # NiederlandeCable # Disney XD # Disney XD 24 # 29.09.2014
 40085000c 403e80fa1 # 4525 # NiederlandeCable # NatGeo Wild # Nat Geo Wild # 29.09.2014
 43100016e41 103e803ed # 4526 # NiederlandeCable # NDR FS HH # NDR # 29.09.2014
@@ -1074,7 +1075,7 @@ f0085003a 3900de164c # 4653 # Kabelplus # History # History # 19.04.2015
 f00850037 3b00de1711 # 4663 # Kabelplus # Eurosport 2 Deutschland # Eurosport 2 Deutschland # 19.04.2015
 fa0463b24 3b00de1712 # 4664 # Kabelplus # FUEL TV HD # FUEL TV HD # 19.04.2015
 1da0467166 3b00de1714 # 4665 # Kabelplus # Animal Planet HD # Animal Planet HD # 19.04.2015
-600850082 3b00de1715 # 4666 # Kabelplus # Discovery HD # Discovery HD # 19.04.2015
+40085000d 3b00de1715 # 4666 # Kabelplus # National Geographic # National Geographic # 03.07.2025
 15a0460264 3c00de1772 # 4667 # Kabelplus # Lust pur # Lust pur # 19.04.2015
 449003507fa 3c00de1774 # 4668 # Kabelplus # Hustler TV # Hustler TV # 19.04.2015
 33f4013e1360 3c00de1775 # 4669 # Kabelplus # Private TV # Private TV # 19.04.2015
@@ -1259,7 +1260,7 @@ b0085007b 200850032 # 4914 # SAT # Warner TV Serie # Warner TV Serie # 26.09.202
 600850204 200850029 # 4915 # SAT # Sky Cinema Classics # Sky Cinema Classics # 22.08.2024
 4550001151a 2724f001c375 # 4917 # Vodafone-KD # DMAX HD # DMAX HD # 27.10.2016
 44500016f46 43100016f46 # 4919 # Vodafone-KD # SR Fernsehen # SR Fernsehen # 27.10.2016
-600850082 2724f001c398 # 4920 # SAT # Discovery HD # Discovery HD # 23.11.2015
+40085000d 2724f001c398 # 4920 # SAT # National Geographic # National Geographic # 03.07.2025
 44c0001221a 44200012329 # 4921 # SAT # TF1 # TF1 # 02.12.2015
 2725f001c762 4400001245a # 4922 # SAT # france 2 # FRANCE 2 # 02.12.2015
 2710f001d10e 4400001245d # 4923 # SAT # france 3 # FRANCE 3 # 02.12.2015
@@ -1628,7 +1629,7 @@ e0085006d 2716f001c3a5 # 5462 # Vodafone-KD # Eurosport 2 HD # Eurosport 2 HD # 
 40100012855 23b270fd743 # 5469 # Unitymedia # BR Fernsehen Süd HD # BR Fernsehen Süd HD # 07.09.2017
 40900012779 23b270fdf0e # 5471 # Unitymedia # QVC Beauty & Style HD # QVC Beauty & Style HD # 31.08.2017
 1008500a8 8d270f372d # 5472 # Unitymedia # Motorvision TV # Motorvision # 31.08.2017
-600850082 245270fe2f5 # 5473 # Unitymedia # Discovery HD # Discovery HD # 31.08.2017
+40085000d 245270fe2f5 # 5473 # Unitymedia # National Geographic # National Geographic # 03.07.2025
 b00850071 245270fe2f6 # 5474 # Unitymedia # History HD # History HD # 31.08.2017
 40085000e dd270f566f # 5476 # Unitymedia # Discovery Channel # Discovery Channel # 31.08.2017
 3f300012b66 203211407d1 # 5477 # DVBT2 # ZDF HD # ZDF HD # 31.08.2017
@@ -1802,13 +1803,13 @@ b0085007a 10085014f # 5762 # Vodafone-KD # DAZN 2 Bar HD # DAZN 2 Bar HD # 07.12
 40085000c 189cfbff1fbe # 5787 # SAT # NatGeo Wild # NatGeo Wild # 24.09.2014
 40085000c 20085000c # 5788 # SAT # NatGeo Wild # NatGeo Wild # 18.11.2015
 40085000c d3270f5275 # 5790 # Unitymedia # NatGeo Wild # NatGeo Wild # 31.08.2017
-40085000d 1bbc013e3c8f # 5791 # SAT # National Geographic # National Geographic  # 24.09.2014
-40085000d 1c84013e0172 # 5792 # SAT # National Geographic # National Geographic # 24.09.2014
-40085000d 2718f001c614 # 5793 # Vodafone-KD # National Geographic # National Geographic # 27.10.2016
-40085000d 3264013e2aff # 5794 # SAT # National Geographic # NATIONAL GEOGRAPHIC # 24.09.2014
-40085000d 4008503f5 # 5795 # Unitymedia # National Geographic # National Geographic # 26.10.2016
-40085000d 44e00013392 # 5796 # SAT # National Geographic # National Geographic # 09.01.2014
-40085000d ffff9d93d7fb # 5797 # WebTV # National Geographic # National Geographic # 21.04.2016
+40085000d 1bbc013e3c8f # 5791 # SAT # National Geographic # National Geographic  # 03.07.2025
+40085000d 1c84013e0172 # 5792 # SAT # National Geographic # National Geographic # 03.07.2025
+40085000d 2718f001c614 # 5793 # Vodafone-KD # National Geographic # National Geographic # 03.07.2025
+40085000d 3264013e2aff # 5794 # SAT # National Geographic # NATIONAL GEOGRAPHIC # 03.07.2025
+40085000d 4008503f5 # 5795 # Unitymedia # National Geographic # National Geographic # 03.07.2025
+40085000d 44e00013392 # 5796 # SAT # National Geographic # National Geographic # 03.07.2025
+40085000d ffff9d93d7fb # 5797 # WebTV # National Geographic # National Geographic # 03.07.2025
 40085000d 403e80fa9 # 5799 # NiederlandeCable # National Geographic # National Geographic Channel # 29.09.2014
 40085000d f03e83a99 # 5800 # NiederlandeCable # National Geographic # National Geographic Channel HD # 29.09.2014
 319c013e1f45 3db8013e4267 # 5801 # Hotbird # Vivid RED HD # Vivid Red HD # 03.02.2019
@@ -1884,7 +1885,7 @@ e00850065 100850065 # 5963 # Unitymedia # Universal TV HD # Universal TV HD # 10
 a00850151 400850151 # 5966 # Unitymedia # Sky Sport Bundesliga HD 8 # Sky Sport Bundesliga HD 8 # 20.11.2022
 100850010 e7270f5a50 # 5968 # Unitymedia # Fox Serie (S) # Fox Serie (S) # 10.10.2019
 45900013138 f1270f5e3c # 5969 # Unitymedia # health.tv # health.tv # 10.10.2019
-40085000d 1d7270f372e # 5971 # Unitymedia # National Geographic (S) # National Geographic (S) # 10.10.2019
+40085000d 1d7270f372e # 5971 # Unitymedia # National Geographic (S) # National Geographic (S) # 03.07.2025
 3fc00011b66 1cd270fb420 # 5972 # Unitymedia # NHK World TV # NHK World TV # 10.10.2019
 3070013e2140 dd270f565b # 5973 # Unitymedia # Rai 2 # Rai 2 # 10.10.2019
 3070013e2141 dd270f565c # 5974 # Unitymedia # Rai 3 # Rai 3 # 10.10.2019
@@ -2198,7 +2199,7 @@ a00850151 ffff1a2b9aad # 6404 # icam # Sky Sport Bundesliga HD 8 # Sky Sport Bun
 e00850101 ffff6c3145c7 # 6405 # icam # Sky Sport Bundesliga HD 9 # Sky Sport Bundesliga 9 HD # 21.11.2022
 b0085010f fffff2cd7918 # 6406 # icam # Sky Sport Bundesliga HD 10 # Sky Sport Bundesliga 10 HD # 21.11.2022
 300850010 ffffa0fcef4b # 6407 # icam # Sky Documentarius HD # Sky Documentarius HD # 23.03.2023
-600850082 ffff068464c6 # 6408 # icam # Discovery HD (S) # Discovery HD # 21.11.2022
+40085000d ffff068464c6 # 6408 # icam # National Geographic # National Geographic # 03.07.2025
 b00850071 ffff304cd744 # 6409 # icam # History HD # HISTORY Channel HD # 21.11.2022
 8d270f3718 ffff7c8e0e2c # 6410 # icam # Curiosoty Channel powered by Spiegel # Curiosity Channel powered by Spiegel # 21.11.2022
 e00850194 ffff8217b59c # 6411 # icam # Cartoon Network (S) # Cartoon Network # 21.11.2022
@@ -2484,7 +2485,7 @@ d00850090 ffffcb55db23 # 6845 # icam # Sky Sport Golf HD # Sky Sport Golf HD # 3
 1000850153 ffffdc1759e9 # 6847 # icam # Sky Sport Austria 3 HD # Sky Sport Austria 3 HD # 30.08.2024
 20085000f ffffe93cd4d7 # 6848 # icam # Sky Nature HD # Sky Nature HD # 30.08.2024
 1000850156 ffffec6a981d # 6849 # icam # Sky Sport Austria 6 HD # Sky Sport Austria 6 HD # 30.08.2024
-40085000e fffff0059520 # 6850 # icam # Discovery Channel (S) # Discovery Channel (S) # 30.08.2024
+40085000e fffff0059520 # 6850 # icam # Discovery Channel (S) # Discovery Channel # 03.07.2025
 b00850084 fffff3285f09 # 6851 # icam # DAZN 1 # DAZN 1 # 30.08.2024
 d00850072 fffff44e98f5 # 6852 # icam # Sky Sport Tennis HD # Sky Sport Tennis HD # 30.08.2024
 1000850156 fffff4edd715 # 6853 # icam # Sky Sport Austria 6 HD # Sky Sport Austria 6 HD # 30.08.2024
@@ -2551,3 +2552,19 @@ b00850105 c00850105 # 6873 # SAT # Sky Sport Austria 7 HD # Sky Sport Austria 7 
 500850701 fffffb1f1335 # 6916 # WebTV # Disney Channel # Disney Channel # 03.07.2025
 210085003f ffff7e1b4882 # 6917 # WebTV # DMAX # DMAX # 03.07.2025
 3ef00011330 3ed000133fe # 6923 # SAT # ORF2 HD # ORF2  Europe HD # 03.07.2025
+b00850084 ffff189ce8fb # 6924 # icam # DAZN 1 # DAZN 1 # 03.07.2025
+b00850074 ffff1d20da0e # 6925 # icam # Sky Cinema Action # Sky Cinema Action # 03.07.2025
+1000850147 ffff306286a5 # 6926 # icam # Sky Sport Bundesliga HD 7 # Sky Sport Bundesliga HD 7 # 03.07.2025
+300850148 ffff3f801415 # 6927 # icam # Sky Sport HD 7 # Sky Sport HD 7 # 03.07.2025
+e00850193 ffff49d7d20c # 6928 # icam # Cartoonito # CARTOONITO # 03.07.2025
+b00850105 ffff6cd54991 # 6929 # icam # Sky Sport Austria 7 HD # Sky Sport Austria 7 HD # 03.07.2025
+b0085007a ffff70e78c79 # 6930 # icam # DAZN 2 # DAZN 2 # 03.07.2025
+1100850015 ffff8c07e04es # 6931 # icam # Beate Uhse # Beate Uhse # 03.07.2025
+300850146 ffff8ea6e9bf # 6932 # icam # Sky Sport Austria 5 HD # Sky Sport Austria 5 HD # 03.07.2025
+90085013d ffffb8a1286c # 6933 # icam # Sky Sport Bundesliga HD 6 # Sky Sport Bundesliga HD 6 # 03.07.2025
+40085000d ffffba16e90d # 6934 # icam # National Geographic (S) # National Geographic (S) # 03.07.2025
+600850083 ffffd1502478 # 6935 # icam # Sky Cinema Premiere # Sky Cinema Premiere # 03.07.2025
+300850011 ffffd703f3a5 # 6936 # icam # Sky Sport F1 HD # Sky Sport F1 HD # 03.07.2025
+300850019 ffffe06a1a3f # 6937 # icam # Sky Cinema Highlights # Sky Cinema Highlights # 03.07.2025
+900850106 ffffe24248e4 # 6938 # icam # Sky Sport Austria 8 # Sky Sport Austria 8 # 03.07.2025
+30085013e fffff51eb082 # 6939 # icam # Sky Sport HD 6 # Sky Sport HD 6 # 03.07.2025
